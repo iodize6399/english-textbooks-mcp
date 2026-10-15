@@ -1,16 +1,18 @@
 # Deployment
 
-The MCP is hosted in the **Hardik Nagar** Cloudflare account, deployed through the
+The MCP is hosted in the verified Cloudflare account, deployed through the
 local Wrangler CLI. The connected Cloudflare plugin was not used.
 
 | Item | Value |
 | --- | --- |
-| MCP endpoint | `https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp` |
-| Setup page | `https://english-textbooks-mcp.hardik-nagar.workers.dev/` |
+| MCP endpoint | `https://lingo.555420.xyz/mcp` |
+| Setup page | `https://lingo.555420.xyz/` |
 | Transport / authentication | Streamable HTTP / None |
 | Worker name | `english-textbooks-mcp` |
 | GitHub repository | `iodize6399/english-textbooks-mcp` |
 | Production branch | `main` |
+| Custom domain | `lingo.555420.xyz` (Cloudflare-managed DNS and HTTPS) |
+| `workers.dev` / preview URLs | Disabled for this Worker |
 | Initial deployment date | 2026-10-15 |
 | Initial deployed source commit | `1c29972f29b527333c9ad05577ecbb3fd32caba4` |
 | Initial Worker version | `77ae1977-0df9-4a30-bcff-b91480739aa0` |
@@ -28,12 +30,17 @@ From the repository directory, using Node.js 24+ and Python 3.11+:
 npm ci
 npx wrangler login
 npm run deploy
-npm run smoke -- https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp
+npm run smoke -- https://lingo.555420.xyz/mcp
 ```
 
 `wrangler.jsonc` pins the verified Cloudflare account ID. Change it before deploying
 a fork to another account. The serving Worker has no Mistral key or other runtime
 secrets. The original scan remains local; the OCR corpus is committed to GitHub.
+
+The public hostname is configured as a Worker custom domain in `wrangler.jsonc`.
+The MCP HTTP handler allows that hostname and localhost for development; browser
+Origins are checked against the same allowlist. A fork must update both the
+Wrangler route and the handler's hostname before deploying to a different domain.
 
 ## Enable automatic deployments from GitHub
 

@@ -1,11 +1,16 @@
 import { createMcpHandler } from "agents/mcp/server";
+import { localhostAllowedHostnames } from "@modelcontextprotocol/server";
 import { corpus } from "./corpus.ts";
 import { landingPage, llmsText, serverCard } from "./landing.ts";
 import { createTextbookServer } from "./server.ts";
 
 // The factory creates a fresh SDK server for each request. Only the immutable
 // textbook corpus/search index is shared; no learner or session state is held.
-const mcp = createMcpHandler(createTextbookServer, { route: "/mcp", responseMode: "json" });
+const allowedHostnames = ["lingo.555420.xyz", ...localhostAllowedHostnames()];
+const mcp = createMcpHandler(createTextbookServer, {
+  route: "/mcp", responseMode: "json", allowedHostnames,
+  allowedOriginHostnames: allowedHostnames,
+});
 
 function response(body: string | null, type: string, status = 200, extra: Record<string, string> = {}): Response {
   return new Response(body, { status, headers: {

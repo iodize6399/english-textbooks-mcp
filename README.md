@@ -15,12 +15,12 @@ quizzes using the returned textbook material. Student progress stays in the conv
 **Live MCP URL:**
 
 ```text
-https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp
+https://lingo.555420.xyz/mcp
 ```
 
 Add it as a remote **Streamable HTTP** MCP server with authentication **None**.
 No installation is needed to use the hosted server. See the
-[setup page](https://english-textbooks-mcp.hardik-nagar.workers.dev/).
+[setup page](https://lingo.555420.xyz/).
 
 The source is published at [iodize6399/english-textbooks-mcp](https://github.com/iodize6399/english-textbooks-mcp).
 Public MCP tools, resources, prompts, and protocol compatibility have been tested.
@@ -79,15 +79,18 @@ npx wrangler login
 npm run deploy
 ```
 
-Use the `workers.dev` URL printed by Wrangler, followed by `/mcp`. That is the URL
-to share with users; they do not need this repository or your Mistral key. The
-deployment has no server-side model calls. Normal Cloudflare plan limits apply.
-The public endpoint uses no authentication.
+The custom domain is configured as `lingo.555420.xyz`; share its `/mcp` endpoint.
+Cloudflare manages its DNS and HTTPS certificate. Users do not need this repository
+or your Mistral key. The deployment has no server-side model calls. Normal Cloudflare
+plan limits apply. The public endpoint uses no authentication.
+
+The Worker's `workers.dev` and preview URLs are disabled. For a fork, update the
+domain in `wrangler.jsonc` and the allowed hostnames in `src/index.ts` before deploying.
 
 Test it before sharing:
 
 ```sh
-npm run smoke -- https://YOUR-WORKER.YOUR-ACCOUNT.workers.dev/mcp
+npm run smoke -- https://lingo.555420.xyz/mcp
 ```
 
 The deployed root page contains connection instructions, `/llms.txt` gives agents

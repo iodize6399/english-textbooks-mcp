@@ -70,6 +70,14 @@ try {
       : JSON.parse(body);
     assert(data.result.serverInfo.name === "english-textbooks");
   }
+  const browserRequest = await fetch(endpoint, { method: "POST",
+    headers: { Origin: origin, "Content-Type": "application/json", Accept: "application/json, text/event-stream", "MCP-Protocol-Version": "2025-11-25" },
+    body: JSON.stringify({ jsonrpc: "2.0", id: 2, method: "initialize", params: {
+      protocolVersion: "2025-11-25", capabilities: {}, clientInfo: { name: "browser-smoke", version: "1.0.0" },
+    } }),
+  });
+  assert(browserRequest.ok, `Same-origin MCP request rejected (${browserRequest.status})`);
+  await browserRequest.text();
   const denied = await fetch(endpoint, { method: "POST", headers: { Origin: "https://untrusted.invalid", "Content-Type": "application/json" }, body: "{}" });
   assert.equal(denied.status, 403);
   for (const route of ["/", "/llms.txt", "/health", "/.well-known/mcp/server-card.json"]) {
@@ -78,7 +86,9 @@ try {
   }
   assert.equal((await fetch(`${origin}/missing`)).status, 404);
   assert.equal((await fetch(`${origin}/health`, { method: "POST" })).status, 405);
-  console.log("HTTP: 2025 protocol compatibility, Origin validation, setup/metadata routes, HEAD and error responses passed.");
+  const card = await fetch(`${origin}/.well-known/mcp/server-card.json`).then((r) => r.json());
+  assert.equal(card.endpoint, endpoint.href);
+  console.log("HTTP: 2025 protocol compatibility, same/foreign Origin validation, setup/metadata routes, endpoint URL, HEAD and error responses passed.");
 } finally {
   await client.close();
 }

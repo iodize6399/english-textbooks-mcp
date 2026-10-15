@@ -47,7 +47,7 @@ W. Stannard Allen's *Living English Structure*, with a catalog that supports mor
 - Official Mistral docs currently identify OCR 4.1 as the latest OCR service;
   use `mistral-ocr-latest` and record the returned model and request settings.
 - The user subsequently authorized publishing and signed into Wrangler/GitHub directly.
-  Use the verified Hardik Nagar Cloudflare account; do not use the connected plugin.
+  Use the verified Cloudflare account; do not use the connected plugin.
 
 ## Completed
 
@@ -62,10 +62,13 @@ W. Stannard Allen's *Living English Structure*, with a catalog that supports mor
 - Temporary credential removed; credential scan found no key in project files.
 - Source committed and pushed to `iodize6399/english-textbooks-mcp` on `main`;
   GitHub CI passes. The PDF and credentials are excluded.
-- Published through Wrangler to the verified Hardik Nagar Cloudflare account at
-  `https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp`.
+- Published through Wrangler to the verified Cloudflare account at
+  `https://lingo.555420.xyz/mcp`.
 - All seven tools, resources, prompts, and HTTP/protocol checks pass against the
   public deployment. No client configurations changed.
+- The public hostname is `lingo.555420.xyz`; custom-domain routing and explicit MCP
+  hostname/Origin checks are configured. The personal-name `workers.dev` endpoint
+  and preview URLs are disabled for this Worker.
 - Automatic GitHub deployment needs the Cloudflare Builds dashboard connection;
   the CLI's OAuth credential receives HTTP 403 from the Builds API. The required
   one-time dashboard setup is documented in `docs/deployment.md`.
