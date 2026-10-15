@@ -10,6 +10,10 @@
   "routes": [
     { "pattern": "lingo.555420.xyz", "custom_domain": true }
   ],
+  "dev": {
+    "host": "127.0.0.1:8787",
+    "upstream_protocol": "http"
+  },
   "observability": {
     "enabled": true,
     "head_sampling_rate": 1
