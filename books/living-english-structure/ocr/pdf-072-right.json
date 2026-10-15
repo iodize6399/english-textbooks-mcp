@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-072-right",
+    "pdf_page": 72,
+    "side": "right",
+    "reading_order": 144
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "It is a FUTURE PERFECT idea; 'by the time he comes, the play *will have begun*.' See Exercise 28.20.\n\nIn the same way as a FUTURE SIMPLE idea is expressed by the PRESENT SIMPLE in time clauses (Exercises 28.17–19), so a FUTURE PERFECT idea is expressed by the PRESENT PERFECT.\n\n\\* \\* \\*\n\n- ● Put the verb in brackets into a suitable tense:\n- 1 I'll wait until he (write) his next novel.\n- 2 Don't come until I (finish) lunch.\n- 3 I shall probably want to see the book before he (finish) it.\n- 4 We (not find) our seats until the concert has begun.\n- 5 When I (be) in this country for ten years, I shall write a book.\n- 6 They (not plant) the cotton until the corn has been cut.\n- 7 The river will not begin to rise until some rain (fall).\n- 8 As soon as Cyril (spend) that money he will try to borrow some more.\n- 9 You mustn't get up until your temperature (go down).\n- 10 You'd better stay in until you (get rid of) that cough.\n- 11 We can't leave until we (eat) our lunch.\n- 12 The country (look) quite different when the leaves have fallen.\n- 13 Until the snow (go), the train will not be able to move.\n- 14 When I (learn) a thousand English words, shall I be able to read a newspaper?\n- 15 Don't ask for another book until you (finish) this one.\n- 16 When Maisie and I (be) married for twenty-five years, we are going for a world tour.\n- 17 They won't come home until they (see) everything.\n- 18 Sit down, and when you (rest) I'll show you the garden.\n- 19 As soon as he (save) £10,000, he will retire from business.\n- 20 Come again when the machine (be cleaned).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n133",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9804723256570604,
+      "minimum_page_confidence_score": 0.33275169606860666
+    },
+    "blocks": [
+      {
+        "top_left_x": 152,
+        "top_left_y": 18,
+        "bottom_right_x": 438,
+        "bottom_right_y": 38,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995317353425079,
+          "minimum_content_confidence_score": 0.9972317767629402,
+          "block_type_confidence_score": 0.9997088051471013
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 631,
+        "top_left_y": 16,
+        "bottom_right_x": 663,
+        "bottom_right_y": 35,
+        "content": "133",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999915368565632,
+          "minimum_content_confidence_score": 0.999915368565632,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 244,
+        "top_left_y": 73,
+        "bottom_right_x": 663,
+        "bottom_right_y": 115,
+        "content": "It is a FUTURE PERFECT idea; 'by the time he comes, the play *will have begun*.' See Exercise 28.20.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9846066910361465,
+          "minimum_content_confidence_score": 0.8897889734984398,
+          "block_type_confidence_score": 0.9995196981614873
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 123,
+        "bottom_right_x": 665,
+        "bottom_right_y": 204,
+        "content": "In the same way as a FUTURE SIMPLE idea is expressed by the PRESENT SIMPLE in time clauses (Exercises 28.17–19), so a FUTURE PERFECT idea is expressed by the PRESENT PERFECT.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996974215529586,
+          "minimum_content_confidence_score": 0.9918320196141287,
+          "block_type_confidence_score": 0.9999926090786457
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 368,
+        "top_left_y": 216,
+        "bottom_right_x": 460,
+        "bottom_right_y": 231,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944971525384801,
+          "minimum_content_confidence_score": 0.9840444274705934,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 243,
+        "bottom_right_x": 663,
+        "bottom_right_y": 989,
+        "content": "- ● Put the verb in brackets into a suitable tense:\n- 1 I'll wait until he (write) his next novel.\n- 2 Don't come until I (finish) lunch.\n- 3 I shall probably want to see the book before he (finish) it.\n- 4 We (not find) our seats until the concert has begun.\n- 5 When I (be) in this country for ten years, I shall write a book.\n- 6 They (not plant) the cotton until the corn has been cut.\n- 7 The river will not begin to rise until some rain (fall).\n- 8 As soon as Cyril (spend) that money he will try to borrow some more.\n- 9 You mustn't get up until your temperature (go down).\n- 10 You'd better stay in until you (get rid of) that cough.\n- 11 We can't leave until we (eat) our lunch.\n- 12 The country (look) quite different when the leaves have fallen.\n- 13 Until the snow (go), the train will not be able to move.\n- 14 When I (learn) a thousand English words, shall I be able to read a newspaper?\n- 15 Don't ask for another book until you (finish) this one.\n- 16 When Maisie and I (be) married for twenty-five years, we are going for a world tour.\n- 17 They won't come home until they (see) everything.\n- 18 Sit down, and when you (rest) I'll show you the garden.\n- 19 As soon as he (save) £10,000, he will retire from business.\n- 20 Come again when the machine (be cleaned).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994974539181175,
+          "minimum_content_confidence_score": 0.903038286500118,
+          "block_type_confidence_score": 0.9996181992749325
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

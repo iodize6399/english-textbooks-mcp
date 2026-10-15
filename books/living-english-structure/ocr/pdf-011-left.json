@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-011-left",
+    "pdf_page": 11,
+    "side": "left",
+    "reading_order": 21
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "# 3.3\nIntermediate\n\nThe type He's a friend of mine (=one of my friends).\n\n* * *\n\n● Add the possessives:\n1 I saw a cousin of — in the street this morning.\n2 You said you would introduce me to a friend of — who had a car to sell.\n3 He wants you to return a book of — you borrowed last week.\n4 They told me to call on a friend of — in Paris.\n5 An uncle of — has just crashed his car on the motorway.\n6 They suggested my friend Maisie should try massage; I think it was a good idea of —.\n7 Let's collect some friends of — and some of —, and have a big party.\n8 My friend Cyril met a friend of — at the party.\n9 She wants to know if you've seen a book of — lying about somewhere.\n10 A great friend of — has just told us that she's going to marry a millionaire.\n\n# 4 —self\n\n# 4.1\nIntermediate\n\nUses of self as reflexive or emphatic. The idiomatic (all) by —self meaning 'quite alone' or 'without any help'.\n\n* * *\n\n● Fill in the blank spaces with possessives or self-forms:\n1 That's not —, it's —; I bought it —.\n2 It was given to me by the queen —.\n3 She makes all — own clothes —.\n4 I cut — with a knife the other day.\n5 It's —; they bought it — (and all other persons).\n6 We enjoyed — very much at the air show.\n7 She has made — very unpopular.\n8 I don't think he'll be able to manage by —.\n9 Why is Maisie sitting here all by — in the dark?\n10 You must all look after — on — trip to England.\n(Reflexive)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "10\n4 —self",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1010,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9677976388779338,
+      "minimum_page_confidence_score": 0.3001108099310005
+    },
+    "blocks": [
+      {
+        "top_left_x": 12,
+        "top_left_y": 15,
+        "bottom_right_x": 35,
+        "bottom_right_y": 33,
+        "content": "10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999513649749275,
+          "minimum_content_confidence_score": 0.9999513649749275,
+          "block_type_confidence_score": 0.9997443720588046
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 15,
+        "bottom_right_x": 189,
+        "bottom_right_y": 33,
+        "content": "4 —self",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9503834929410574,
+          "minimum_content_confidence_score": 0.9008367184549033,
+          "block_type_confidence_score": 0.9943704531242986
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 12,
+        "top_left_y": 68,
+        "bottom_right_x": 113,
+        "bottom_right_y": 109,
+        "content": "# 3.3\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8657888006112188,
+          "minimum_content_confidence_score": 0.6513404759104585,
+          "block_type_confidence_score": 0.7734038476085282
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 66,
+        "bottom_right_x": 567,
+        "bottom_right_y": 91,
+        "content": "The type He's a friend of mine (=one of my friends).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9746518314222736,
+          "minimum_content_confidence_score": 0.8240301720114787,
+          "block_type_confidence_score": 0.9872641792241629
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 315,
+        "top_left_y": 102,
+        "bottom_right_x": 418,
+        "bottom_right_y": 115,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9915123341847186,
+          "minimum_content_confidence_score": 0.9774973989567795,
+          "block_type_confidence_score": 0.9999668609159512
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 102,
+        "top_left_y": 129,
+        "bottom_right_x": 598,
+        "bottom_right_y": 524,
+        "content": "● Add the possessives:\n1 I saw a cousin of — in the street this morning.\n2 You said you would introduce me to a friend of — who had a car to sell.\n3 He wants you to return a book of — you borrowed last week.\n4 They told me to call on a friend of — in Paris.\n5 An uncle of — has just crashed his car on the motorway.\n6 They suggested my friend Maisie should try massage; I think it was a good idea of —.\n7 Let's collect some friends of — and some of —, and have a big party.\n8 My friend Cyril met a friend of — at the party.\n9 She wants to know if you've seen a book of — lying about somewhere.\n10 A great friend of — has just told us that she's going to marry a millionaire.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982838121851504,
+          "minimum_content_confidence_score": 0.7763271837612488,
+          "block_type_confidence_score": 0.996823064840696
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 571,
+        "bottom_right_x": 216,
+        "bottom_right_y": 603,
+        "content": "# 4 —self",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9911641111887418,
+          "minimum_content_confidence_score": 0.9740426242523998,
+          "block_type_confidence_score": 0.9720614025479933
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 14,
+        "top_left_y": 642,
+        "bottom_right_x": 116,
+        "bottom_right_y": 682,
+        "content": "# 4.1\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997659898320898,
+          "minimum_content_confidence_score": 0.9907041416893908,
+          "block_type_confidence_score": 0.9999019003761905
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 640,
+        "bottom_right_x": 604,
+        "bottom_right_y": 682,
+        "content": "Uses of self as reflexive or emphatic. The idiomatic (all) by —self meaning 'quite alone' or 'without any help'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993573436488747,
+          "minimum_content_confidence_score": 0.993122403741467,
+          "block_type_confidence_score": 0.9999780659713836
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 320,
+        "top_left_y": 696,
+        "bottom_right_x": 423,
+        "bottom_right_y": 709,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999675765264748,
+          "minimum_content_confidence_score": 0.9999506497906105,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 721,
+        "bottom_right_x": 591,
+        "bottom_right_y": 987,
+        "content": "● Fill in the blank spaces with possessives or self-forms:\n1 That's not —, it's —; I bought it —.\n2 It was given to me by the queen —.\n3 She makes all — own clothes —.\n4 I cut — with a knife the other day.\n5 It's —; they bought it — (and all other persons).\n6 We enjoyed — very much at the air show.\n7 She has made — very unpopular.\n8 I don't think he'll be able to manage by —.\n9 Why is Maisie sitting here all by — in the dark?\n10 You must all look after — on — trip to England.\n(Reflexive)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983287751414998,
+          "minimum_content_confidence_score": 0.919116608207108,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

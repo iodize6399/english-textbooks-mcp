@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-123-right",
+    "pdf_page": 123,
+    "side": "right",
+    "reading_order": 246
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:27.117367+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "4 It is difficult to explain exactly — your project is bound to fail.\n5 Repeat — I have just told you.\n6 Smear the ointment gently — the pain is greatest.\n7 The burglar tried in vain to discover — the safe opened.\n8 She wondered — she had met him.\n9 I don't really know — to recommend you to apply to.\n10 Can you tell me — inches there are in a foot?\n11 She was unable to tell us — house she had gone into by mistake.\n12 The recipe doesn't say — the pudding should take to cook.\n13 Do you know — tins of salmon I need for a hundred sandwiches?\n14 Few people realize — tiring it is to teach young children.\n15 I am trying to find out — her birthday is.\n16 Could you tell me — owns that house?\n17 I haven't heard — the result was.\n18 Nobody seemed to know — the engine wouldn't work.\n19 I'm surprised — prettier Maisie is than her sister.\n20 It wasn't mentioned in the news — people were killed.\n21 You would be surprised — cheaper it is to live in the country.\n22 Let us decide — we shall go for our picnic.\n23 The dog always knows — the postman is coming.\n24 It was difficult to understand — the lecturer was saying.\n25 Please tell me — the width of this material is, and — it is per metre.\n26 Do you know — is the shortest route to Manchester from here?\n27 She is going to learn — to make her own clothes.\n28 It is uncertain — often he can come.\n29 I've often wondered — longer Cyril was going to wear that tie.\n30 Would you mind repeating — you've just said?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "47 Relative and Interrogative Links\n235",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9855483305882587,
+      "minimum_page_confidence_score": 0.23854188325850437
+    },
+    "blocks": [
+      {
+        "top_left_x": 143,
+        "top_left_y": 19,
+        "bottom_right_x": 441,
+        "bottom_right_y": 40,
+        "content": "47 Relative and Interrogative Links",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941128218982568,
+          "minimum_content_confidence_score": 0.9706872090985352,
+          "block_type_confidence_score": 0.9992027820096894
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 618,
+        "top_left_y": 17,
+        "bottom_right_x": 651,
+        "bottom_right_y": 35,
+        "content": "235",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998343265353449,
+          "minimum_content_confidence_score": 0.9998343265353449,
+          "block_type_confidence_score": 0.9999966438178071
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 73,
+        "bottom_right_x": 644,
+        "bottom_right_y": 988,
+        "content": "4 It is difficult to explain exactly — your project is bound to fail.\n5 Repeat — I have just told you.\n6 Smear the ointment gently — the pain is greatest.\n7 The burglar tried in vain to discover — the safe opened.\n8 She wondered — she had met him.\n9 I don't really know — to recommend you to apply to.\n10 Can you tell me — inches there are in a foot?\n11 She was unable to tell us — house she had gone into by mistake.\n12 The recipe doesn't say — the pudding should take to cook.\n13 Do you know — tins of salmon I need for a hundred sandwiches?\n14 Few people realize — tiring it is to teach young children.\n15 I am trying to find out — her birthday is.\n16 Could you tell me — owns that house?\n17 I haven't heard — the result was.\n18 Nobody seemed to know — the engine wouldn't work.\n19 I'm surprised — prettier Maisie is than her sister.\n20 It wasn't mentioned in the news — people were killed.\n21 You would be surprised — cheaper it is to live in the country.\n22 Let us decide — we shall go for our picnic.\n23 The dog always knows — the postman is coming.\n24 It was difficult to understand — the lecturer was saying.\n25 Please tell me — the width of this material is, and — it is per metre.\n26 Do you know — is the shortest route to Manchester from here?\n27 She is going to learn — to make her own clothes.\n28 It is uncertain — often he can come.\n29 I've often wondered — longer Cyril was going to wear that tie.\n30 Would you mind repeating — you've just said?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997923104837483,
+          "minimum_content_confidence_score": 0.9775797595420538,
+          "block_type_confidence_score": 0.9524506354815506
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

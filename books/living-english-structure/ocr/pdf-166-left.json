@@ -1,0 +1,330 @@
+{
+  "source": {
+    "id": "pdf-166-left",
+    "pdf_page": 166,
+    "side": "left",
+    "reading_order": 331
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "Shoes repaired while you wait.\n\nI met him as he was coming out of school.\n\nNow you (come to) mention it, I suppose we *must* have met somewhere before.\n\nYou'll find the way all right once you get to the station.\n\nShe hasn't written since she went away. (Main verb always PERFECT TENSE)\n\n$^{1}$He had no sooner arrived than he demanded a meal.\n\n$^{1}$He had scarcely left the house before we missed the jewels.\n\nThey hadn't gone very far when they met an old man.\n\nFor FUTURE TIME sentences see Exercises 28.17 and 28.21.\n\n\\* \\* \\*\n\n## 58.2\n\n- Join each of the clauses in (A) to the appropriate clause of time or place in (B):\n\n### A\n\n|  1. Come again | as long as is necessary  |\n| --- | --- |\n|  2. Wait | by the time they got back  |\n|  3. He went out again | just as he was ringing the  |\n|  4. They must go home | bell  |\n|  5. There was nothing | as soon as you can  |\n|  left | after he had finished his  |\n|  6. He repaired our shoes | dinner  |\n|  for us | every time I meet her  |\n|  7. I opened the door | since you went to live in  |\n|  8. I haven't heard from | London  |\n|  you | the moment he spoke  |\n|  9. She asks after you | before they get too tired  |\n|  10. I knew who it was | while we waited.  |\n\n### B\n\n## C CONTRAST\n\nCertain conjunctions of place and time are now used to introduce a contrasting clause, very like the clauses of concession (see section J below).\n\nI wanted to go on, whereas my friend wanted to turn back.\n\nNow there is nothing but desert, where there used to be a fertile plain.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "320\n58 Appendix on Clauses",
+    "footer": "$^{1}$ Also with inversion: *No sooner had he . . . , etc.*",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 675
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9728140243636134,
+      "minimum_page_confidence_score": 0.1886596504658619
+    },
+    "blocks": [
+      {
+        "top_left_x": 15,
+        "top_left_y": 20,
+        "bottom_right_x": 48,
+        "bottom_right_y": 39,
+        "content": "320",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996813359301091,
+          "minimum_content_confidence_score": 0.9996813359301091,
+          "block_type_confidence_score": 0.9999981843560369
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 105,
+        "top_left_y": 20,
+        "bottom_right_x": 309,
+        "bottom_right_y": 40,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998502505540431,
+          "minimum_content_confidence_score": 0.9996729966795573,
+          "block_type_confidence_score": 0.9997975375066963
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 74,
+        "bottom_right_x": 425,
+        "bottom_right_y": 95,
+        "content": "Shoes repaired while you wait.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999051867803906,
+          "minimum_content_confidence_score": 0.9997121380023611,
+          "block_type_confidence_score": 0.9999564905017542
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 94,
+        "bottom_right_x": 523,
+        "bottom_right_y": 114,
+        "content": "I met him as he was coming out of school.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999930264008574,
+          "minimum_content_confidence_score": 0.9999647152949072,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 113,
+        "bottom_right_x": 601,
+        "bottom_right_y": 153,
+        "content": "Now you (come to) mention it, I suppose we *must* have met somewhere before.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997723448367772,
+          "minimum_content_confidence_score": 0.9693361635949311,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 152,
+        "bottom_right_x": 600,
+        "bottom_right_y": 192,
+        "content": "You'll find the way all right once you get to the station.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9935594345458353,
+          "minimum_content_confidence_score": 0.9228538910716484,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 192,
+        "bottom_right_x": 601,
+        "bottom_right_y": 233,
+        "content": "She hasn't written since she went away. (Main verb always PERFECT TENSE)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989317623628273,
+          "minimum_content_confidence_score": 0.9889850923007094,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 232,
+        "bottom_right_x": 601,
+        "bottom_right_y": 252,
+        "content": "$^{1}$He had no sooner arrived than he demanded a meal.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9963828037500063,
+          "minimum_content_confidence_score": 0.9640725417295507,
+          "block_type_confidence_score": 0.9955978724256975
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 251,
+        "bottom_right_x": 601,
+        "bottom_right_y": 291,
+        "content": "$^{1}$He had scarcely left the house before we missed the jewels.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998282868271421,
+          "minimum_content_confidence_score": 0.998500332064197,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 291,
+        "bottom_right_x": 601,
+        "bottom_right_y": 311,
+        "content": "They hadn't gone very far when they met an old man.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999875190263061,
+          "minimum_content_confidence_score": 0.9999637964826636,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 330,
+        "bottom_right_x": 600,
+        "bottom_right_y": 351,
+        "content": "For FUTURE TIME sentences see Exercises 28.17 and 28.21.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9842133999674856,
+          "minimum_content_confidence_score": 0.8649987215298716,
+          "block_type_confidence_score": 0.9994070471937035
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 320,
+        "top_left_y": 366,
+        "bottom_right_x": 421,
+        "bottom_right_y": 379,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9874711178000641,
+          "minimum_content_confidence_score": 0.9638230376702158,
+          "block_type_confidence_score": 0.9999885560391694
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 15,
+        "top_left_y": 390,
+        "bottom_right_x": 57,
+        "bottom_right_y": 409,
+        "content": "## 58.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9657534482054256,
+          "minimum_content_confidence_score": 0.9317475535941084,
+          "block_type_confidence_score": 0.5280670667942086
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 390,
+        "bottom_right_x": 602,
+        "bottom_right_y": 431,
+        "content": "- Join each of the clauses in (A) to the appropriate clause of time or place in (B):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.986328051998772,
+          "minimum_content_confidence_score": 0.8342893879905592,
+          "block_type_confidence_score": 0.7965449085540499
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 450,
+        "bottom_right_x": 239,
+        "bottom_right_y": 470,
+        "content": "### A",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.982859725244918,
+          "minimum_content_confidence_score": 0.9728462436979729,
+          "block_type_confidence_score": 0.9770134301861
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 475,
+        "bottom_right_x": 601,
+        "bottom_right_y": 757,
+        "content": "<table>\n<tr>\n<td>1. Come again</td>\n<td>as long as is necessary</td>\n</tr>\n<tr>\n<td>2. Wait</td>\n<td>by the time they got back</td>\n</tr>\n<tr>\n<td>3. He went out again</td>\n<td>just as he was ringing the</td>\n</tr>\n<tr>\n<td>4. They must go home</td>\n<td>bell</td>\n</tr>\n<tr>\n<td>5. There was nothing</td>\n<td>as soon as you can</td>\n</tr>\n<tr>\n<td>    left</td>\n<td>after he had finished his</td>\n</tr>\n<tr>\n<td>6. He repaired our shoes</td>\n<td>dinner</td>\n</tr>\n<tr>\n<td>    for us</td>\n<td>every time I meet her</td>\n</tr>\n<tr>\n<td>7. I opened the door</td>\n<td>since you went to live in</td>\n</tr>\n<tr>\n<td>8. I haven't heard from</td>\n<td>London</td>\n</tr>\n<tr>\n<td>    you</td>\n<td>the moment he spoke</td>\n</tr>\n<tr>\n<td>9. She asks after you</td>\n<td>before they get too tired</td>\n</tr>\n<tr>\n<td>10. I knew who it was</td>\n<td>while we waited.</td>\n</tr>\n</table>",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9888357795472615,
+          "minimum_content_confidence_score": 0.38910835518079184,
+          "block_type_confidence_score": 0.8148295960712162
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 472,
+        "top_left_y": 450,
+        "bottom_right_x": 492,
+        "bottom_right_y": 470,
+        "content": "### B",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997291988731087,
+          "minimum_content_confidence_score": 0.9995600729277269,
+          "block_type_confidence_score": 0.9999892712787918
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 779,
+        "bottom_right_x": 225,
+        "bottom_right_y": 797,
+        "content": "## C CONTRAST",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9117824301551751,
+          "minimum_content_confidence_score": 0.7403039264845308,
+          "block_type_confidence_score": 0.9996859821669499
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 800,
+        "bottom_right_x": 602,
+        "bottom_right_y": 861,
+        "content": "Certain conjunctions of place and time are now used to introduce a contrasting clause, very like the clauses of concession (see section J below).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999100948827276,
+          "minimum_content_confidence_score": 0.9988549691559679,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 864,
+        "bottom_right_x": 602,
+        "bottom_right_y": 904,
+        "content": "I wanted to go on, whereas my friend wanted to turn back.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999899759942316,
+          "minimum_content_confidence_score": 0.9999415908602124,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 904,
+        "bottom_right_x": 602,
+        "bottom_right_y": 944,
+        "content": "Now there is nothing but desert, where there used to be a fertile plain.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999088007469118,
+          "minimum_content_confidence_score": 0.9989295747052531,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 966,
+        "bottom_right_x": 501,
+        "bottom_right_y": 987,
+        "content": "$^{1}$ Also with inversion: *No sooner had he . . . , etc.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9831018805744688,
+          "minimum_content_confidence_score": 0.9008574479535904,
+          "block_type_confidence_score": 0.9982995295119154
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

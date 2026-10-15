@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-090-right",
+    "pdf_page": 90,
+    "side": "right",
+    "reading_order": 180
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:14.317939+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "19 I'm afraid half a spoonful won't — at all; he'll have to — without it altogether.\n\n20 There's nothing — here; let's — our way out.\n\n## 36 Infinitive Implied by its Particle\n\n### 36.1 Intermediate\n\nA very odd but important idiom, particularly in spoken English, is the habit of finishing a phrase (usually a response) with the infinitive particle *to*, leaving the verb to be implied.\n\nWill you show me how to do it properly? — I shall be glad to.\n\n\\* \\* \\*\n\n- ● Respond to the following questions or statements, using the expression given in brackets:\n- 1 Why can't you come to the pictures with me? (not be allowed)\n- 2 Say 'Sir' when you speak to me! (refuse)\n- 3 Read the letter if you want to. (not wish)\n- 4 'I'm afraid I can't come after all.' 'But . . .' (promise)\n- 5 Why do you put sugar in your soup instead of salt? (prefer)\n- 6 'You didn't bring any cabbage from the market?' 'I (mean), but I forgot.'\n- 7 'You must take more care of it.' 'Yes, . . .' (ought)\n- 8 Why haven't you proposed to Maisie yet? (not have chance)\n- 9 Can't we stop for another coffee? (not be time)\n- 10 'He says you are to see him tomorrow.' 'I suppose . . .' (have)\n- 11 'He has painted his dining-room bright red.' 'Well, he (have the right).'\n- 12 Why didn't you visit him while you were there? (not have occasion).$^{1}$",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "36 Infinitive Implied by its Particle\n169",
+    "footer": "$^{1}$ See Exercise 40.1 for a note on the difference between *occasion to* and *the (an) opportunity of —ing*.",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1023,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9708286002380971,
+      "minimum_page_confidence_score": 0.26626895117138466
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 18,
+        "bottom_right_x": 441,
+        "bottom_right_y": 39,
+        "content": "36 Infinitive Implied by its Particle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999848144431799,
+          "minimum_content_confidence_score": 0.9992642591183972,
+          "block_type_confidence_score": 0.9997151816160396
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 18,
+        "bottom_right_x": 656,
+        "bottom_right_y": 37,
+        "content": "169",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999136999237214,
+          "minimum_content_confidence_score": 0.9999136999237214,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 73,
+        "bottom_right_x": 617,
+        "bottom_right_y": 119,
+        "content": "19 I'm afraid half a spoonful won't — at all; he'll have to — without it altogether.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9937158640089132,
+          "minimum_content_confidence_score": 0.9226997172253545,
+          "block_type_confidence_score": 0.974000212383581
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 118,
+        "bottom_right_x": 605,
+        "bottom_right_y": 140,
+        "content": "20 There's nothing — here; let's — our way out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999714992252166,
+          "minimum_content_confidence_score": 0.9998623465846173,
+          "block_type_confidence_score": 0.9999777083605178
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 198,
+        "bottom_right_x": 544,
+        "bottom_right_y": 228,
+        "content": "## 36 Infinitive Implied by its Particle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952493413003314,
+          "minimum_content_confidence_score": 0.9669071554983745,
+          "block_type_confidence_score": 0.9993583507665695
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 278,
+        "bottom_right_x": 159,
+        "bottom_right_y": 318,
+        "content": "### 36.1 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9882253794373851,
+          "minimum_content_confidence_score": 0.9661240716523368,
+          "block_type_confidence_score": 0.5538595443916902
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 279,
+        "bottom_right_x": 656,
+        "bottom_right_y": 360,
+        "content": "A very odd but important idiom, particularly in spoken English, is the habit of finishing a phrase (usually a response) with the infinitive particle *to*, leaving the verb to be implied.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964472767516587,
+          "minimum_content_confidence_score": 0.9239922737626052,
+          "block_type_confidence_score": 0.9999800924450729
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 363,
+        "bottom_right_x": 656,
+        "bottom_right_y": 404,
+        "content": "Will you show me how to do it properly? — I shall be glad to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964353880192464,
+          "minimum_content_confidence_score": 0.9470916934915582,
+          "block_type_confidence_score": 0.9997370934485875
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 363,
+        "top_left_y": 417,
+        "bottom_right_x": 468,
+        "bottom_right_y": 432,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.993245362721504,
+          "minimum_content_confidence_score": 0.9809384707863101,
+          "block_type_confidence_score": 0.9999945164027223
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 443,
+        "bottom_right_x": 656,
+        "bottom_right_y": 924,
+        "content": "- ● Respond to the following questions or statements, using the expression given in brackets:\n- 1 Why can't you come to the pictures with me? (not be allowed)\n- 2 Say 'Sir' when you speak to me! (refuse)\n- 3 Read the letter if you want to. (not wish)\n- 4 'I'm afraid I can't come after all.' 'But . . .' (promise)\n- 5 Why do you put sugar in your soup instead of salt? (prefer)\n- 6 'You didn't bring any cabbage from the market?' 'I (mean), but I forgot.'\n- 7 'You must take more care of it.' 'Yes, . . .' (ought)\n- 8 Why haven't you proposed to Maisie yet? (not have chance)\n- 9 Can't we stop for another coffee? (not be time)\n- 10 'He says you are to see him tomorrow.' 'I suppose . . .' (have)\n- 11 'He has painted his dining-room bright red.' 'Well, he (have the right).'\n- 12 Why didn't you visit him while you were there? (not have occasion).$^{1}$",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976043225289325,
+          "minimum_content_confidence_score": 0.7792676310683242,
+          "block_type_confidence_score": 0.9988281171455993
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 950,
+        "bottom_right_x": 654,
+        "bottom_right_y": 990,
+        "content": "$^{1}$ See Exercise 40.1 for a note on the difference between *occasion to* and *the (an) opportunity of —ing*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9841704801453001,
+          "minimum_content_confidence_score": 0.8998753108007399,
+          "block_type_confidence_score": 0.9998261306954687
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

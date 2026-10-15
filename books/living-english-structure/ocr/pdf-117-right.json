@@ -1,0 +1,96 @@
+{
+  "source": {
+    "id": "pdf-117-right",
+    "pdf_page": 117,
+    "side": "right",
+    "reading_order": 234
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 9,
+    "markdown": "rock-bottom prices to enable the Ruritanians (who aren't, on the whole, very rich) to buy the commodity at a reasonable price.\n\n7 The Rusticarians, many of whom had hoped for better selling-prices, were terribly upset by the revolution, which to them meant a return to pinching and scraping.\n8 The Ruritanians, most of whom had been looking forward to bigger and better tea-parties, at which of course their own national delicacy, pickled peach-stones, would be consumed in large quantities, were also terribly upset by the revolution, which to them meant a return to pinching and scraping too.\n9 The revolutionaries, who had only used the Prime Minister's attempt to reduce the mint import tax as an excuse to get control, were terribly upset by the result, through which they were now compelled to buy their tea at the old high price, which prevented them from celebrating as much as they would have liked.\n10 The Rusticarians, in whose minds their neighbours' revolution figured as a blow against their own national prestige as the Land of Mint and Honey, at once broke off all diplomatic relations with the Ruritanians.\n11 The impending state of war, which would probably bring about the ruin of both countries, was only less tragic than the cutting off of the supplies of luscious green mint, without which the Ruritanians could scarcely live.\n12 The situation was aggravated by the action of the Urticarians (from whose country the Ruritanians import their national delicacy, pickled peach-stones), who suddenly announced a rise in the price of that commodity, which according to them was due to the scarcity of fruit because of drought.\n13 The despair of the Ruritanians, for whom life was now scarcely worth living, was so great that the Revolutionary Government, in which nobody now had much confidence, recalled my friend the ex-Prime Minister, who had spent a",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n223",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1023,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9836323363502176,
+      "minimum_page_confidence_score": 0.34278641707151064
+    },
+    "blocks": [
+      {
+        "top_left_x": 148,
+        "top_left_y": 18,
+        "bottom_right_x": 262,
+        "bottom_right_y": 38,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9889452999204602,
+          "minimum_content_confidence_score": 0.9779976383277307,
+          "block_type_confidence_score": 0.9999727664374237
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 16,
+        "bottom_right_x": 656,
+        "bottom_right_y": 34,
+        "content": "223",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998954643815368,
+          "minimum_content_confidence_score": 0.9998954643815368,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 71,
+        "bottom_right_x": 648,
+        "bottom_right_y": 139,
+        "content": "rock-bottom prices to enable the Ruritanians (who aren't, on the whole, very rich) to buy the commodity at a reasonable price.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985262114223558,
+          "minimum_content_confidence_score": 0.9707719475042952,
+          "block_type_confidence_score": 0.9999390877636344
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 137,
+        "bottom_right_x": 660,
+        "bottom_right_y": 986,
+        "content": "7 The Rusticarians, many of whom had hoped for better selling-prices, were terribly upset by the revolution, which to them meant a return to pinching and scraping.\n8 The Ruritanians, most of whom had been looking forward to bigger and better tea-parties, at which of course their own national delicacy, pickled peach-stones, would be consumed in large quantities, were also terribly upset by the revolution, which to them meant a return to pinching and scraping too.\n9 The revolutionaries, who had only used the Prime Minister's attempt to reduce the mint import tax as an excuse to get control, were terribly upset by the result, through which they were now compelled to buy their tea at the old high price, which prevented them from celebrating as much as they would have liked.\n10 The Rusticarians, in whose minds their neighbours' revolution figured as a blow against their own national prestige as the Land of Mint and Honey, at once broke off all diplomatic relations with the Ruritanians.\n11 The impending state of war, which would probably bring about the ruin of both countries, was only less tragic than the cutting off of the supplies of luscious green mint, without which the Ruritanians could scarcely live.\n12 The situation was aggravated by the action of the Urticarians (from whose country the Ruritanians import their national delicacy, pickled peach-stones), who suddenly announced a rise in the price of that commodity, which according to them was due to the scarcity of fruit because of drought.\n13 The despair of the Ruritanians, for whom life was now scarcely worth living, was so great that the Revolutionary Government, in which nobody now had much confidence, recalled my friend the ex-Prime Minister, who had spent a",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988994039177291,
+          "minimum_content_confidence_score": 0.773411684386705,
+          "block_type_confidence_score": 0.9940769726829265
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

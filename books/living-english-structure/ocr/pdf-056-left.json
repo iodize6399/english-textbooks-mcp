@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-056-left",
+    "pdf_page": 56,
+    "side": "left",
+    "reading_order": 111
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "12 The ship (sink), so all the passengers (jump) into the boats.\n13 He (think) of something else all the time you (talk) to him.\n14 He (eat) three sandwiches while you (talk) to him.\n15 When I (see) him, he (sing) and (smoke) a cigar at the same time.\n16 Maisie (peel) potatoes when Cyril (ask) her to marry him.\n17 The dog (bite) her on the ankle while she (catch) it.\n18 While he (get) off the tram, he (fall) and (cut) his face.\n19 He (lean) against the door and (listen) to the radio when I first (try) to speak to him.\n20 While he (write) a letter the telephone (ring); as he (go) to answer it, he (hear) a knock at the door; the telephone still (ring) while he (walk) to the door; but just as he (open) it, it (stop).\n\n26.6\n\nIntermediate\n\nSee Exercises 26.3–5.\n\nThe relationship between simple and continuous tenses is often clearer in continuous narration.\n\n* * *\n\n● Supply suitable past tenses:\n\nWe (enter) Port Said harbour when I (come) on deck. As soon as our ship (come) near enough, a large number of boats (set out) from the shore. We could see that they (bring) money-changers, guides, and men selling all the wonderful things of the East. While I (leave) the ship I (notice) that the rest of the passengers (argue) about the prices in loud voices. I (walk) about for an hour and (watch) the gay street life; men (sell) strange fruits and vegetables, and tradesmen (mend) shoes or (make) carpets in their little shops. I (return) to my ship as the sun (set); the 'market' on the ship still (continue). An old man who (sit) on the deck (offer) me a beautiful Persian rug for only £20. I (talk) hard for ten minutes, and just as the ship (go) I (buy) it for £2. As I (go) to my cabin I (see)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "100\n26 Past Tense (Continued)",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1020,
+      "width": 698
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9777818115452734,
+      "minimum_page_confidence_score": 0.1424945509413757
+    },
+    "blocks": [
+      {
+        "top_left_x": 19,
+        "top_left_y": 17,
+        "bottom_right_x": 51,
+        "bottom_right_y": 36,
+        "content": "100",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999446899472569,
+          "minimum_content_confidence_score": 0.9999446899472569,
+          "block_type_confidence_score": 0.9999147310220334
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 16,
+        "bottom_right_x": 344,
+        "bottom_right_y": 38,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999500131831921,
+          "minimum_content_confidence_score": 0.9998713568421015,
+          "block_type_confidence_score": 0.9884539475139762
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 71,
+        "bottom_right_x": 620,
+        "bottom_right_y": 479,
+        "content": "12 The ship (sink), so all the passengers (jump) into the boats.\n13 He (think) of something else all the time you (talk) to him.\n14 He (eat) three sandwiches while you (talk) to him.\n15 When I (see) him, he (sing) and (smoke) a cigar at the same time.\n16 Maisie (peel) potatoes when Cyril (ask) her to marry him.\n17 The dog (bite) her on the ankle while she (catch) it.\n18 While he (get) off the tram, he (fall) and (cut) his face.\n19 He (lean) against the door and (listen) to the radio when I first (try) to speak to him.\n20 While he (write) a letter the telephone (ring); as he (go) to answer it, he (hear) a knock at the door; the telephone still (ring) while he (walk) to the door; but just as he (open) it, it (stop).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997451054155483,
+          "minimum_content_confidence_score": 0.9625869068110509,
+          "block_type_confidence_score": 0.999792023058635
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 497,
+        "bottom_right_x": 61,
+        "bottom_right_y": 517,
+        "content": "26.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999915958242851,
+          "minimum_content_confidence_score": 0.9999915958242851,
+          "block_type_confidence_score": 0.6170381749157556
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 519,
+        "bottom_right_x": 122,
+        "bottom_right_y": 538,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999983152098564,
+          "minimum_content_confidence_score": 0.999983152098564,
+          "block_type_confidence_score": 0.9916281582823657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 497,
+        "bottom_right_x": 321,
+        "bottom_right_y": 517,
+        "content": "See Exercises 26.3–5.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9896529107061062,
+          "minimum_content_confidence_score": 0.9689782821415611,
+          "block_type_confidence_score": 0.999735901989869
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 518,
+        "bottom_right_x": 620,
+        "bottom_right_y": 557,
+        "content": "The relationship between simple and continuous tenses is often clearer in continuous narration.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999880290122103,
+          "minimum_content_confidence_score": 0.9999172659598247,
+          "block_type_confidence_score": 0.9999790196052284
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 572,
+        "bottom_right_x": 437,
+        "bottom_right_y": 587,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8618180599761488,
+          "minimum_content_confidence_score": 0.5861920549375929,
+          "block_type_confidence_score": 0.9857621286443434
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 599,
+        "bottom_right_x": 378,
+        "bottom_right_y": 622,
+        "content": "● Supply suitable past tenses:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9624192358618568,
+          "minimum_content_confidence_score": 0.8121884434953753,
+          "block_type_confidence_score": 0.9118593340053688
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 635,
+        "bottom_right_x": 623,
+        "bottom_right_y": 1000,
+        "content": "We (enter) Port Said harbour when I (come) on deck. As soon as our ship (come) near enough, a large number of boats (set out) from the shore. We could see that they (bring) money-changers, guides, and men selling all the wonderful things of the East. While I (leave) the ship I (notice) that the rest of the passengers (argue) about the prices in loud voices. I (walk) about for an hour and (watch) the gay street life; men (sell) strange fruits and vegetables, and tradesmen (mend) shoes or (make) carpets in their little shops. I (return) to my ship as the sun (set); the 'market' on the ship still (continue). An old man who (sit) on the deck (offer) me a beautiful Persian rug for only £20. I (talk) hard for ten minutes, and just as the ship (go) I (buy) it for £2. As I (go) to my cabin I (see)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997444000837975,
+          "minimum_content_confidence_score": 0.9750968764014172,
+          "block_type_confidence_score": 0.9999274068115732
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

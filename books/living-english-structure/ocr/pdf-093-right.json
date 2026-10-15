@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-093-right",
+    "pdf_page": 93,
+    "side": "right",
+    "reading_order": 186
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:17.286698+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "*Enough* = sufficiency; is a kind of positive (but see next exercise).\n\nIt was cold *enough* to freeze our fingers.\n\n= It was so cold (that) our fingers froze. (It was very cold and . . .)\n\n*N.B.*—*Too* comes BEFORE and *enough* comes AFTER the adjective.\n\n\\* \\* \\*\n\n- ● Reword the following sentences using *too* or *enough*:\n- 1 This coffee is so hot that I can't drink it.\n- 2 He's very tall and can touch the ceiling.\n- 3 His car is so big that Maisie can't drive it.\n- 4 I've got so fat that I can't wear this dress now.\n- 5 The weather was so hot that we couldn't go out.\n- 6 Grandfather Giles is so old that he can't learn French.\n- 7 The student was very clever, and could solve any mathematical problem.\n- 8 This battery is strong, and should last forty-eight hours.\n- 9 This novel is so short that it can be read in a few hours.\n- 10 The fields are still wet, and cannot be ploughed.\n- 11 Your nails are so long that they might scratch anybody's eyes out.\n- 12 I'm so excited that I can't think.\n- 13 This problem is so difficult that I can't explain it.\n- 14 The turkey was so big that mother couldn't put it in the oven.\n- 15 You're quite old and you can ask her yourself.\n- 16 That question is so personal Cyril can't answer it.\n- 17 The accident was so terrible we can't talk about it.\n- 18 She is quite old and she ought to know better.\n- 19 You're so old you could be my grandfather.\n- 20 Maisie is so tall I can't kiss her without standing on a chair.\n- 21 That orange you gave me was so sour I couldn't eat it.\n- 22 They were so empty-headed they couldn't learn a single thing.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "38 Infinitive\n175",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1016,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9799533113395,
+      "minimum_page_confidence_score": 0.26387700567913763
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 18,
+        "bottom_right_x": 258,
+        "bottom_right_y": 37,
+        "content": "38 Infinitive",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998325871934439,
+          "minimum_content_confidence_score": 0.9997307352005294,
+          "block_type_confidence_score": 0.9999977442014452
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 623,
+        "top_left_y": 18,
+        "bottom_right_x": 657,
+        "bottom_right_y": 37,
+        "content": "175",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999755626925522,
+          "minimum_content_confidence_score": 0.9999755626925522,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 73,
+        "bottom_right_x": 657,
+        "bottom_right_y": 113,
+        "content": "*Enough* = sufficiency; is a kind of positive (but see next exercise).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979480871837986,
+          "minimum_content_confidence_score": 0.9767766831890914,
+          "block_type_confidence_score": 0.9998830693632708
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 117,
+        "bottom_right_x": 549,
+        "bottom_right_y": 137,
+        "content": "It was cold *enough* to freeze our fingers.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998423137051742,
+          "minimum_content_confidence_score": 0.9995071933851026,
+          "block_type_confidence_score": 0.9999532721416701
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 239,
+        "top_left_y": 137,
+        "bottom_right_x": 657,
+        "bottom_right_y": 178,
+        "content": "= It was so cold (that) our fingers froze. (It was very cold and . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9951301661394024,
+          "minimum_content_confidence_score": 0.9680256208091919,
+          "block_type_confidence_score": 0.9991390970605178
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 187,
+        "bottom_right_x": 657,
+        "bottom_right_y": 227,
+        "content": "*N.B.*—*Too* comes BEFORE and *enough* comes AFTER the adjective.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955916879211514,
+          "minimum_content_confidence_score": 0.9638713851116207,
+          "block_type_confidence_score": 0.9998841419983222
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 364,
+        "top_left_y": 241,
+        "bottom_right_x": 468,
+        "bottom_right_y": 255,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.97606637782131,
+          "minimum_content_confidence_score": 0.929191301652659,
+          "block_type_confidence_score": 0.9999929667012066
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 267,
+        "bottom_right_x": 648,
+        "bottom_right_y": 968,
+        "content": "- ● Reword the following sentences using *too* or *enough*:\n- 1 This coffee is so hot that I can't drink it.\n- 2 He's very tall and can touch the ceiling.\n- 3 His car is so big that Maisie can't drive it.\n- 4 I've got so fat that I can't wear this dress now.\n- 5 The weather was so hot that we couldn't go out.\n- 6 Grandfather Giles is so old that he can't learn French.\n- 7 The student was very clever, and could solve any mathematical problem.\n- 8 This battery is strong, and should last forty-eight hours.\n- 9 This novel is so short that it can be read in a few hours.\n- 10 The fields are still wet, and cannot be ploughed.\n- 11 Your nails are so long that they might scratch anybody's eyes out.\n- 12 I'm so excited that I can't think.\n- 13 This problem is so difficult that I can't explain it.\n- 14 The turkey was so big that mother couldn't put it in the oven.\n- 15 You're quite old and you can ask her yourself.\n- 16 That question is so personal Cyril can't answer it.\n- 17 The accident was so terrible we can't talk about it.\n- 18 She is quite old and she ought to know better.\n- 19 You're so old you could be my grandfather.\n- 20 Maisie is so tall I can't kiss her without standing on a chair.\n- 21 That orange you gave me was so sour I couldn't eat it.\n- 22 They were so empty-headed they couldn't learn a single thing.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994025337684673,
+          "minimum_content_confidence_score": 0.9092002616656041,
+          "block_type_confidence_score": 0.9988260952901897
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

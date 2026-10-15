@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-044-left",
+    "pdf_page": 44,
+    "side": "left",
+    "reading_order": 87
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "suggests either that the photographer is exceptionally slow or that I am a very quick eater.\n\n### ASPECT OF FACT\n\nHere we are not interested in the action but in the completed fact and its relationship to a given general time aspect. The PERFECT tenses express this idea. When we say, for example, *I've bought a new hat*, we are calling attention to the present possession of the article and not the previous act of buying. But if I add *yesterday*, I must say *I bought*, because the mention of a past time automatically throws our mind back into the time when the action took place.\n\nThe same idea is similarly expressed in the other general time aspects. In the past, *I had bought* + a past moment to bring it into proper perspective; and in the future *I shall have bought* . . . by some stipulated point in the future. The form *I have bought* is naturally considered in relation to NOW. This relation to NOW may be real, e.g. *I've read three books since I last saw you* (where the past moment is actually connected to NOW by *since*); or the present interest in a past action may be emphasized by *already*, *just*, *not yet*, or *ever*; or we may use this tense when we do not imply any definite time in the past and are merely interested in the completed fact as we know it now. This is probably the commonest form; e.g.\n\nI've read that book. (= I know what it's all about)\nI read it years ago. (interest in the past action)\n\nHave you done your homework? (= Is it here now?)\n\nDid you do your homework last night? (= interest in last night's activities)\n\nShe has eaten all the cream cakes. (= and now there aren't any left for me)\n\nShe ate all the cream cakes. (Extract from someone's description of a party. He is relating a sequence of events during this well-defined past period of the party; he is interested in the young lady's gluttonous act as it took place and not in the lack of cakes caused by it.)\n\nI've never seen one. (So I don't know what it looks like)\n\nI saw a pink one in a shop window. (The definite place implies a definite past time)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "76\n22 Notes on English Tenses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 667
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9770629201262976,
+      "minimum_page_confidence_score": 0.3104462157570246
+    },
+    "blocks": [
+      {
+        "top_left_x": 11,
+        "top_left_y": 15,
+        "bottom_right_x": 35,
+        "bottom_right_y": 34,
+        "content": "76",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997835627846736,
+          "minimum_content_confidence_score": 0.9997835627846736,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 99,
+        "top_left_y": 15,
+        "bottom_right_x": 332,
+        "bottom_right_y": 34,
+        "content": "22 Notes on English Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997670017727144,
+          "minimum_content_confidence_score": 0.9989663328973748,
+          "block_type_confidence_score": 0.9999921873034042
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 68,
+        "bottom_right_x": 596,
+        "bottom_right_y": 109,
+        "content": "suggests either that the photographer is exceptionally slow or that I am a very quick eater.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981036785357787,
+          "minimum_content_confidence_score": 0.9700801469266667,
+          "block_type_confidence_score": 0.999994397195003
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 137,
+        "bottom_right_x": 302,
+        "bottom_right_y": 157,
+        "content": "### ASPECT OF FACT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9068713537064257,
+          "minimum_content_confidence_score": 0.7767041862982842,
+          "block_type_confidence_score": 0.9669018029265588
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 174,
+        "bottom_right_x": 599,
+        "bottom_right_y": 355,
+        "content": "Here we are not interested in the action but in the completed fact and its relationship to a given general time aspect. The PERFECT tenses express this idea. When we say, for example, *I've bought a new hat*, we are calling attention to the present possession of the article and not the previous act of buying. But if I add *yesterday*, I must say *I bought*, because the mention of a past time automatically throws our mind back into the time when the action took place.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986905689469089,
+          "minimum_content_confidence_score": 0.9123924242898988,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 354,
+        "bottom_right_x": 601,
+        "bottom_right_y": 614,
+        "content": "The same idea is similarly expressed in the other general time aspects. In the past, *I had bought* + a past moment to bring it into proper perspective; and in the future *I shall have bought* . . . by some stipulated point in the future. The form *I have bought* is naturally considered in relation to NOW. This relation to NOW may be real, e.g. *I've read three books since I last saw you* (where the past moment is actually connected to NOW by *since*); or the present interest in a past action may be emphasized by *already*, *just*, *not yet*, or *ever*; or we may use this tense when we do not imply any definite time in the past and are merely interested in the completed fact as we know it now. This is probably the commonest form; e.g.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971519194826726,
+          "minimum_content_confidence_score": 0.9013666096957994,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 614,
+        "bottom_right_x": 601,
+        "bottom_right_y": 656,
+        "content": "I've read that book. (= I know what it's all about)\nI read it years ago. (interest in the past action)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.964986064673644,
+          "minimum_content_confidence_score": 0.4916478710589479,
+          "block_type_confidence_score": 0.9706314993813472
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 657,
+        "bottom_right_x": 601,
+        "bottom_right_y": 700,
+        "content": "Have you done your homework? (= Is it here now?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997228707666468,
+          "minimum_content_confidence_score": 0.9978723170844156,
+          "block_type_confidence_score": 0.9999471930724098
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 699,
+        "bottom_right_x": 601,
+        "bottom_right_y": 741,
+        "content": "Did you do your homework last night? (= interest in last night's activities)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999388930012719,
+          "minimum_content_confidence_score": 0.9995547132403925,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 742,
+        "bottom_right_x": 601,
+        "bottom_right_y": 783,
+        "content": "She has eaten all the cream cakes. (= and now there aren't any left for me)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999963557589778,
+          "minimum_content_confidence_score": 0.9997013507411288,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 782,
+        "bottom_right_x": 602,
+        "bottom_right_y": 904,
+        "content": "She ate all the cream cakes. (Extract from someone's description of a party. He is relating a sequence of events during this well-defined past period of the party; he is interested in the young lady's gluttonous act as it took place and not in the lack of cakes caused by it.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999593386265913,
+          "minimum_content_confidence_score": 0.9990187862297141,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 905,
+        "bottom_right_x": 601,
+        "bottom_right_y": 946,
+        "content": "I've never seen one. (So I don't know what it looks like)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999939533303873,
+          "minimum_content_confidence_score": 0.9999613783735329,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 945,
+        "bottom_right_x": 601,
+        "bottom_right_y": 987,
+        "content": "I saw a pink one in a shop window. (The definite place implies a definite past time)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999831041997167,
+          "minimum_content_confidence_score": 0.999902734679677,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

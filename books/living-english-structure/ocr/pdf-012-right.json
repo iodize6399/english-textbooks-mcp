@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-012-right",
+    "pdf_page": 12,
+    "side": "right",
+    "reading_order": 24
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "● Replace the expressions in bold type by pronouns, using the word-order pattern without to or for:\n1 John gave the book to Henry.\n2 Jane bought some sweets for her mother.\n3 Tell the answer to the student.\n4 My sister and I told a story to my little brother.\n5 Alec and Mary gave some chocolates to my sister and me.\n6 You and I must give a present to John.\n7 John will find her coat for Mary.\n8 Henry and Alec gave a cake to me and my wife.\n9 Give this one to the baby.\n10 My friend and I told John about our journey last week.\n\n6.2\n\nElementary\n\n● Choose the correct word:\n1 We/Us all went with themselves/them.\n2 They knew all about my friend and I/me.\n3 Mr Jones and he/him/himself came last night.\n4 I came here with John and her/she.\n5 Basil gave Harry and I/me an ice-cream, and then we went to the pictures with he/him and his friend.\n6 He told Mary and me/I to go with he/him and his mother.\n7 An old man asked my friend and I/me what the time was.\n8 Go and see he/him and his friend.\n9 There are some letters for you and me/I.\n10 Go with John and her/she to visit they/them.\n\n6.3\n\nIntermediate CASE\n\n1 When a pronoun is not felt to be the active subject of a sentence, it is normally found in the objective form. This is sometimes called the DISJUNCTIVE or SEPARATED pronoun. (Compare the French C'est moi, etc.)\n\nWho's there? It's only me!\n\nThat's him over there!\n\nIf I were her, I wouldn't listen to him.\n\n(Showing a photo) ... and this is me (standing) in front of the Louvre.\n\n2 Between and let require the objective case after them.\n\nLet him have something to eat.\n\nThere was an argument between him and me.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "6 Pronouns\n13",
+    "footer": "* * *",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1014,
+      "width": 692
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9653610512686058,
+      "minimum_page_confidence_score": 0.11693458823858156
+    },
+    "blocks": [
+      {
+        "top_left_x": 161,
+        "top_left_y": 15,
+        "bottom_right_x": 269,
+        "bottom_right_y": 36,
+        "content": "6 Pronouns",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987073863665302,
+          "minimum_content_confidence_score": 0.9979045285832588,
+          "block_type_confidence_score": 0.9692942645848505
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 642,
+        "top_left_y": 17,
+        "bottom_right_x": 666,
+        "bottom_right_y": 36,
+        "content": "13",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999723442092404,
+          "minimum_content_confidence_score": 0.9999723442092404,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 59,
+        "bottom_right_x": 667,
+        "bottom_right_y": 363,
+        "content": "● Replace the expressions in bold type by pronouns, using the word-order pattern without to or for:\n1 John gave the book to Henry.\n2 Jane bought some sweets for her mother.\n3 Tell the answer to the student.\n4 My sister and I told a story to my little brother.\n5 Alec and Mary gave some chocolates to my sister and me.\n6 You and I must give a present to John.\n7 John will find her coat for Mary.\n8 Henry and Alec gave a cake to me and my wife.\n9 Give this one to the baby.\n10 My friend and I told John about our journey last week.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957881926214592,
+          "minimum_content_confidence_score": 0.5616327579473562,
+          "block_type_confidence_score": 0.9913732665569739
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 382,
+        "bottom_right_x": 89,
+        "bottom_right_y": 402,
+        "content": "6.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994428754632346,
+          "minimum_content_confidence_score": 0.9994428754632346,
+          "block_type_confidence_score": 0.553279420862685
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 403,
+        "bottom_right_x": 150,
+        "bottom_right_y": 423,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999827387964626,
+          "minimum_content_confidence_score": 0.9999827387964626,
+          "block_type_confidence_score": 0.9967349433359023
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 384,
+        "bottom_right_x": 655,
+        "bottom_right_y": 694,
+        "content": "● Choose the correct word:\n1 We/Us all went with themselves/them.\n2 They knew all about my friend and I/me.\n3 Mr Jones and he/him/himself came last night.\n4 I came here with John and her/she.\n5 Basil gave Harry and I/me an ice-cream, and then we went to the pictures with he/him and his friend.\n6 He told Mary and me/I to go with he/him and his mother.\n7 An old man asked my friend and I/me what the time was.\n8 Go and see he/him and his friend.\n9 There are some letters for you and me/I.\n10 Go with John and her/she to visit they/them.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999245970452008,
+          "minimum_content_confidence_score": 0.9972282912347373,
+          "block_type_confidence_score": 0.9997308978729377
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 709,
+        "bottom_right_x": 85,
+        "bottom_right_y": 730,
+        "content": "6.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999974568752855,
+          "minimum_content_confidence_score": 0.9999974568752855,
+          "block_type_confidence_score": 0.9998814008261862
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 731,
+        "bottom_right_x": 157,
+        "bottom_right_y": 769,
+        "content": "Intermediate CASE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7867563193776309,
+          "minimum_content_confidence_score": 0.5735632599288314,
+          "block_type_confidence_score": 0.9999399221272516
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 712,
+        "bottom_right_x": 659,
+        "bottom_right_y": 794,
+        "content": "1 When a pronoun is not felt to be the active subject of a sentence, it is normally found in the objective form. This is sometimes called the DISJUNCTIVE or SEPARATED pronoun. (Compare the French C'est moi, etc.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967472683910951,
+          "minimum_content_confidence_score": 0.8860644660799504,
+          "block_type_confidence_score": 0.8517487747462683
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 795,
+        "bottom_right_x": 443,
+        "bottom_right_y": 817,
+        "content": "Who's there? It's only me!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999772962079356,
+          "minimum_content_confidence_score": 0.9999465679089575,
+          "block_type_confidence_score": 0.9998536324154215
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 816,
+        "bottom_right_x": 407,
+        "bottom_right_y": 836,
+        "content": "That's him over there!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999804035822097,
+          "minimum_content_confidence_score": 0.9999514841747886,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 836,
+        "bottom_right_x": 537,
+        "bottom_right_y": 858,
+        "content": "If I were her, I wouldn't listen to him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991242621247832,
+          "minimum_content_confidence_score": 0.9922027111009536,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 857,
+        "bottom_right_x": 657,
+        "bottom_right_y": 895,
+        "content": "(Showing a photo) ... and this is me (standing) in front of the Louvre.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9686850293995414,
+          "minimum_content_confidence_score": 0.5619852695496205,
+          "block_type_confidence_score": 0.9999917746265009
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 904,
+        "bottom_right_x": 638,
+        "bottom_right_y": 928,
+        "content": "2 Between and let require the objective case after them.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999388693186854,
+          "minimum_content_confidence_score": 0.999778796504017,
+          "block_type_confidence_score": 0.9914088848896766
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 928,
+        "bottom_right_x": 478,
+        "bottom_right_y": 950,
+        "content": "Let him have something to eat.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999920448553278,
+          "minimum_content_confidence_score": 0.9999840262101118,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 949,
+        "bottom_right_x": 598,
+        "bottom_right_y": 971,
+        "content": "There was an argument between him and me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999883336397506,
+          "minimum_content_confidence_score": 0.9990776584070612,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 362,
+        "top_left_y": 979,
+        "bottom_right_x": 467,
+        "bottom_right_y": 994,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976310048412528,
+          "minimum_content_confidence_score": 0.9963193015913968,
+          "block_type_confidence_score": 0.8513815168518752
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

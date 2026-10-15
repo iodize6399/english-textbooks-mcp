@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-012-left",
+    "pdf_page": 12,
+    "side": "left",
+    "reading_order": 23
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "He was born *at six o'clock* on Christmas morning in the year 1822.\n\n\\* \\* \\*\n\n(5.1) ● Use the adverbials in their correct place:1. 1 She went (to school, at 10 o'clock).\n2. 2 He was born (in the year 1923, at 10 a.m., on June 14th).\n3. 3 She drinks coffee (every morning, at home).\n4. 4 Our teacher spoke to us (in class, very rudely, this morning).\n5. 5 I saw my friend off (at 7 o'clock, at the station, this morning).\n6. 6 He loved her (all his life, passionately).\n7. 7 Cyril was working (at his office, very hard, all day yesterday).\n8. 8 Maisie speaks English (very well); but she writes French (badly).\n9. 9 They stayed (all day, quietly, there).\n10. 10 I like coffee (in the morning, very much).\n11. 11 The train arrived (this morning, late).\n12. 12 He played (at the Town Hall, last night, beautifully, in the concert).\n13. 13 I shall meet you (outside your office, tomorrow, at 2 o'clock).\n14. 14 We are going (for a week, to Switzerland, on Saturday).\n15. 15 Let's go (tonight, to the pictures).\n\n## 6 Pronouns\n\n### 6.1 Elementary\n\nA number of verbs have a DIRECT OBJECT (naming a thing) and an INDIRECT OBJECT (*to* or *for* a person). The usual pattern is VERB + PERSON + THING, without a preposition:\n\nShow Mary the book.\n\nIf we wish to give more emphasis to the person, we can put it after the direct object, WITH the preposition:\n\nShow the book to Mary. (That is, not to anyone else.)\n\nThe verbs *explain* and *say* always have this second pattern.\n\n\\* \\* \\*",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "12\n6 Pronouns",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1014,
+      "width": 692
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9713518277377855,
+      "minimum_page_confidence_score": 0.17098958678710555
+    },
+    "blocks": [
+      {
+        "top_left_x": 36,
+        "top_left_y": 5,
+        "bottom_right_x": 60,
+        "bottom_right_y": 24,
+        "content": "12",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999800924450729,
+          "minimum_content_confidence_score": 0.9999800924450729,
+          "block_type_confidence_score": 0.9998446076675382
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 5,
+        "bottom_right_x": 240,
+        "bottom_right_y": 25,
+        "content": "6 Pronouns",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996518956813507,
+          "minimum_content_confidence_score": 0.9995794464399855,
+          "block_type_confidence_score": 0.9938771953158781
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 61,
+        "bottom_right_x": 626,
+        "bottom_right_y": 103,
+        "content": "He was born *at six o'clock* on Christmas morning in the year 1822.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9171932782577146,
+          "minimum_content_confidence_score": 0.47056589020257694,
+          "block_type_confidence_score": 0.9985945930520101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 341,
+        "top_left_y": 110,
+        "bottom_right_x": 445,
+        "bottom_right_y": 125,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9222414259709405,
+          "minimum_content_confidence_score": 0.7674966173373932,
+          "block_type_confidence_score": 0.9999945164027223
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 134,
+        "bottom_right_x": 626,
+        "bottom_right_y": 662,
+        "content": "(5.1) ● Use the adverbials in their correct place:1. 1 She went (to school, at 10 o'clock).\n2. 2 He was born (in the year 1923, at 10 a.m., on June 14th).\n3. 3 She drinks coffee (every morning, at home).\n4. 4 Our teacher spoke to us (in class, very rudely, this morning).\n5. 5 I saw my friend off (at 7 o'clock, at the station, this morning).\n6. 6 He loved her (all his life, passionately).\n7. 7 Cyril was working (at his office, very hard, all day yesterday).\n8. 8 Maisie speaks English (very well); but she writes French (badly).\n9. 9 They stayed (all day, quietly, there).\n10. 10 I like coffee (in the morning, very much).\n11. 11 The train arrived (this morning, late).\n12. 12 He played (at the Town Hall, last night, beautifully, in the concert).\n13. 13 I shall meet you (outside your office, tomorrow, at 2 o'clock).\n14. 14 We are going (for a week, to Switzerland, on Saturday).\n15. 15 Let's go (tonight, to the pictures).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995744087391276,
+          "minimum_content_confidence_score": 0.9662606200782052,
+          "block_type_confidence_score": 0.9984668194391264
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 703,
+        "bottom_right_x": 269,
+        "bottom_right_y": 731,
+        "content": "## 6 Pronouns",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998017161078468,
+          "minimum_content_confidence_score": 0.9996626323496425,
+          "block_type_confidence_score": 0.9999941587791524
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 769,
+        "bottom_right_x": 129,
+        "bottom_right_y": 811,
+        "content": "### 6.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9974012389430493,
+          "minimum_content_confidence_score": 0.9952228494742784,
+          "block_type_confidence_score": 0.9984009841358209
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 769,
+        "bottom_right_x": 626,
+        "bottom_right_y": 831,
+        "content": "A number of verbs have a DIRECT OBJECT (naming a thing) and an INDIRECT OBJECT (*to* or *for* a person). The usual pattern is VERB + PERSON + THING, without a preposition:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9835657922150483,
+          "minimum_content_confidence_score": 0.6725766488170288,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 833,
+        "bottom_right_x": 380,
+        "bottom_right_y": 855,
+        "content": "Show Mary the book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995860030958816,
+          "minimum_content_confidence_score": 0.9988503574763806,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 863,
+        "bottom_right_x": 626,
+        "bottom_right_y": 904,
+        "content": "If we wish to give more emphasis to the person, we can put it after the direct object, WITH the preposition:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9965118105232643,
+          "minimum_content_confidence_score": 0.9273597615034385,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 906,
+        "bottom_right_x": 618,
+        "bottom_right_y": 929,
+        "content": "Show the book to Mary. (That is, not to anyone else.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999666793036408,
+          "minimum_content_confidence_score": 0.9998819287732784,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 937,
+        "bottom_right_x": 624,
+        "bottom_right_y": 958,
+        "content": "The verbs *explain* and *say* always have this second pattern.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998347429497028,
+          "minimum_content_confidence_score": 0.9993396011850045,
+          "block_type_confidence_score": 0.9999964237340748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 341,
+        "top_left_y": 967,
+        "bottom_right_x": 445,
+        "bottom_right_y": 982,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997111776965824,
+          "minimum_content_confidence_score": 0.999541319238623,
+          "block_type_confidence_score": 0.9770217377422947
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

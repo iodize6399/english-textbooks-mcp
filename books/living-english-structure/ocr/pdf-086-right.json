@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-086-right",
+    "pdf_page": 86,
+    "side": "right",
+    "reading_order": 172
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:11.961996+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "24 Has he a job now?\n25 My friend has a Rolls Royce.\n26 The children have a beautiful dolls' house.\n27 Had he the kind you wanted? (Did he have the kind you wanted?)\n28 What have you to show me?\n29 Haven't they anything better to do?\n30 He hadn't a penny when I knew him.\n\nNotice that we avoid the question-form Had I? etc., and usually use the did form even for simple possession, e.g. in No. 27 above. This is probably because had is felt to apply to the past moment only, as in the type:\n\nThey didn't have electric light in Ancient Rome.\n\n33.2\nIntermediate\n\nThe use of get as shown in Exercise 33.1 has also spread to the form have to = 'must'.\n\nWhat have I got to do next?\n\nThe negative form is not the same as mustn't, but replaces needn't (i.e. it is the OPPOSITE of must). See also earlier exercises on must, Exercises 16.1, 2.\n\nI haven't got to go just yet.\n\n= don't have to, or needn't\n\nWhen the stress falls on got it reinforces very strongly the idea of obligation. The PAST tense form, I'd got to do it or I hadn't got to do it, is rarely heard without this emphasis (had to and didn't have to being preferred), except in reported speech, where a parallel form is sought.\n\nI had to get to school by 8.30.\n\nYou hadn't got to do what he said.\n\n'I've got to practise it every day.'\n\nHe said he'd got to practise it every day.\n\nNotice that have without its object can never change to have got.\n\nHave you got the books? - Yes, I have, which shows it to be a quasi-perfect tense.\n\n* * *\n\n● Say the following sentences, using a form with got instead of the simple verb have:\n1 I don't have to get up so early every morning.\n2 Have you anything else to give me?\n3 He told me he didn't have to work any more.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "33 get and got forms\n161",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.971032029881284,
+      "minimum_page_confidence_score": 0.25014094414349863
+    },
+    "blocks": [
+      {
+        "top_left_x": 146,
+        "top_left_y": 16,
+        "bottom_right_x": 328,
+        "bottom_right_y": 36,
+        "content": "33 get and got forms",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.912927694394002,
+          "minimum_content_confidence_score": 0.5698312901420182,
+          "block_type_confidence_score": 0.999925897198043
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 622,
+        "top_left_y": 14,
+        "bottom_right_x": 653,
+        "bottom_right_y": 33,
+        "content": "161",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999583976891858,
+          "minimum_content_confidence_score": 0.9999583976891858,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 71,
+        "bottom_right_x": 631,
+        "bottom_right_y": 246,
+        "content": "24 Has he a job now?\n25 My friend has a Rolls Royce.\n26 The children have a beautiful dolls' house.\n27 Had he the kind you wanted? (Did he have the kind you wanted?)\n28 What have you to show me?\n29 Haven't they anything better to do?\n30 He hadn't a penny when I knew him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999592253283679,
+          "minimum_content_confidence_score": 0.9794615220224603,
+          "block_type_confidence_score": 0.9940855720721764
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 249,
+        "bottom_right_x": 655,
+        "bottom_right_y": 331,
+        "content": "Notice that we avoid the question-form Had I? etc., and usually use the did form even for simple possession, e.g. in No. 27 above. This is probably because had is felt to apply to the past moment only, as in the type:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9908865602583451,
+          "minimum_content_confidence_score": 0.6486433405961809,
+          "block_type_confidence_score": 0.9999529145487657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 333,
+        "bottom_right_x": 626,
+        "bottom_right_y": 354,
+        "content": "They didn't have electric light in Ancient Rome.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999870228197745,
+          "minimum_content_confidence_score": 0.9999687681413515,
+          "block_type_confidence_score": 0.9998282489203051
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 361,
+        "bottom_right_x": 156,
+        "bottom_right_y": 402,
+        "content": "33.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9530681559166335,
+          "minimum_content_confidence_score": 0.8995625645067739,
+          "block_type_confidence_score": 0.6494447798555443
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 363,
+        "bottom_right_x": 653,
+        "bottom_right_y": 403,
+        "content": "The use of get as shown in Exercise 33.1 has also spread to the form have to = 'must'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999331103047455,
+          "minimum_content_confidence_score": 0.9990637731364999,
+          "block_type_confidence_score": 0.9999790196052284
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 407,
+        "bottom_right_x": 455,
+        "bottom_right_y": 428,
+        "content": "What have I got to do next?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999952317226963,
+          "minimum_content_confidence_score": 0.9999746090656421,
+          "block_type_confidence_score": 0.9999737746439785
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 435,
+        "bottom_right_x": 653,
+        "bottom_right_y": 495,
+        "content": "The negative form is not the same as mustn't, but replaces needn't (i.e. it is the OPPOSITE of must). See also earlier exercises on must, Exercises 16.1, 2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998780084146777,
+          "minimum_content_confidence_score": 0.9977518737325096,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 498,
+        "bottom_right_x": 446,
+        "bottom_right_y": 520,
+        "content": "I haven't got to go just yet.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999628864797651,
+          "minimum_content_confidence_score": 0.9998285351044474,
+          "block_type_confidence_score": 0.9999752050825816
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 237,
+        "top_left_y": 520,
+        "bottom_right_x": 457,
+        "bottom_right_y": 539,
+        "content": "= don't have to, or needn't",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998695838442254,
+          "minimum_content_confidence_score": 0.9993114447238793,
+          "block_type_confidence_score": 0.9947008864309648
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 542,
+        "bottom_right_x": 655,
+        "bottom_right_y": 644,
+        "content": "When the stress falls on got it reinforces very strongly the idea of obligation. The PAST tense form, I'd got to do it or I hadn't got to do it, is rarely heard without this emphasis (had to and didn't have to being preferred), except in reported speech, where a parallel form is sought.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999569448005471,
+          "minimum_content_confidence_score": 0.9992706138933841,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 647,
+        "bottom_right_x": 469,
+        "bottom_right_y": 667,
+        "content": "I had to get to school by 8.30.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999678938745169,
+          "minimum_content_confidence_score": 0.9998765144262002,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 667,
+        "bottom_right_x": 508,
+        "bottom_right_y": 688,
+        "content": "You hadn't got to do what he said.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999912507440767,
+          "minimum_content_confidence_score": 0.9999815038453097,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 691,
+        "bottom_right_x": 492,
+        "bottom_right_y": 711,
+        "content": "'I've got to practise it every day.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999609671988358,
+          "minimum_content_confidence_score": 0.9998199853037798,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 711,
+        "bottom_right_x": 555,
+        "bottom_right_y": 732,
+        "content": "He said he'd got to practise it every day.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999640110010728,
+          "minimum_content_confidence_score": 0.9996936068090272,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 740,
+        "bottom_right_x": 655,
+        "bottom_right_y": 781,
+        "content": "Notice that have without its object can never change to have got.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934476041329,
+          "minimum_content_confidence_score": 0.9999666702877409,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 784,
+        "bottom_right_x": 549,
+        "bottom_right_y": 835,
+        "content": "Have you got the books? - Yes, I have, which shows it to be a quasi-perfect tense.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9674271886314392,
+          "minimum_content_confidence_score": 0.5225186606574319,
+          "block_type_confidence_score": 0.9995643606924682
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 364,
+        "top_left_y": 847,
+        "bottom_right_x": 468,
+        "bottom_right_y": 860,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997852056254799,
+          "minimum_content_confidence_score": 0.9940829802583261,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 872,
+        "bottom_right_x": 657,
+        "bottom_right_y": 982,
+        "content": "● Say the following sentences, using a form with got instead of the simple verb have:\n1 I don't have to get up so early every morning.\n2 Have you anything else to give me?\n3 He told me he didn't have to work any more.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9927307072043459,
+          "minimum_content_confidence_score": 0.6479536267280721,
+          "block_type_confidence_score": 0.9977682679326692
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

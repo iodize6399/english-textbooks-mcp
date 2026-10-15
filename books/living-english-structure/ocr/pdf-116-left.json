@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-116-left",
+    "pdf_page": 116,
+    "side": "left",
+    "reading_order": 231
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "# 46.6\n\nSee notes to Exercises 46.4 and 46.5.\n\n# Intermediate\n\n# NON-  \nDEFINING  \nRELATIVE\n\n- ● Combine the following pairs of sentences by means of NON-DEFINING RELATIVE PRONOUNS:\n- 1 Julius Caesar came to Britain in 55 BC. He was a powerful Roman general.\n- 2 These cactus plants should not have too much water. They will grow in pots indoors.\n- 3 They are still working on the motorway. Its completion date was last May.\n- 4 The antiquities of Egypt should not be missed. Such a lot has been written about them.\n- 5 The pelican is a very queer-looking bird. His beak (says a popular rhyme) can hold more than his belly can.\n- 6 The Irrawaddy flows through countless large swamps. It is one of the most important rivers in Asia.\n- 7 The Dover-Calais hovercraft makes the crossing in 30 minutes. It carries about 20 vehicles.\n- 8 It is strange that the peacock butterfly has a similar name in most languages. The peacock butterfly is found in most parts of Europe.\n- 9 The great fire of London destroyed a large part of the city. It broke out in 1666.\n- 10 Dr Johnson often met his friends in the Cheshire Cheese. His house was quite near.\n- 11 Helicopters can land near the centre of a large city. They do not need a long runway.\n- 12 The shops store food in their deep-freezes. The deep-freezes, however, need a constant electricity supply.\n- 13 The world was to be a great adventure for him. He knew very little about the world.\n- 14 The programme came by the Indian Ocean satellite. It went into fixed orbit in 1969.\n- 15 The Indian Ocean satellite relays hundreds of signals. The satellite has been in position since 1969.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "220\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9791807806076945,
+      "minimum_page_confidence_score": 0.1998405317237089
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 20,
+        "bottom_right_x": 59,
+        "bottom_right_y": 38,
+        "content": "220",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999886525634273,
+          "minimum_content_confidence_score": 0.999886525634273,
+          "block_type_confidence_score": 0.9999995048233361
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 20,
+        "bottom_right_x": 227,
+        "bottom_right_y": 38,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940934737123029,
+          "minimum_content_confidence_score": 0.9893760748719186,
+          "block_type_confidence_score": 0.9999756272253632
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 74,
+        "bottom_right_x": 67,
+        "bottom_right_y": 94,
+        "content": "# 46.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9783336486232868,
+          "minimum_content_confidence_score": 0.9770180962396352,
+          "block_type_confidence_score": 0.5772260467744349
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 74,
+        "bottom_right_x": 446,
+        "bottom_right_y": 94,
+        "content": "See notes to Exercises 46.4 and 46.5.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995511084778332,
+          "minimum_content_confidence_score": 0.9971736905964476,
+          "block_type_confidence_score": 0.9920719239068326
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 114,
+        "bottom_right_x": 127,
+        "bottom_right_y": 133,
+        "content": "# Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9269720467737161,
+          "minimum_content_confidence_score": 0.9013926602902774,
+          "block_type_confidence_score": 0.9447856288233047
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 137,
+        "bottom_right_x": 101,
+        "bottom_right_y": 193,
+        "content": "# NON-  \nDEFINING  \nRELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9640537411318121,
+          "minimum_content_confidence_score": 0.8040757563948836,
+          "block_type_confidence_score": 0.773791586734466
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 133,
+        "bottom_right_x": 611,
+        "bottom_right_y": 936,
+        "content": "- ● Combine the following pairs of sentences by means of NON-DEFINING RELATIVE PRONOUNS:\n- 1 Julius Caesar came to Britain in 55 BC. He was a powerful Roman general.\n- 2 These cactus plants should not have too much water. They will grow in pots indoors.\n- 3 They are still working on the motorway. Its completion date was last May.\n- 4 The antiquities of Egypt should not be missed. Such a lot has been written about them.\n- 5 The pelican is a very queer-looking bird. His beak (says a popular rhyme) can hold more than his belly can.\n- 6 The Irrawaddy flows through countless large swamps. It is one of the most important rivers in Asia.\n- 7 The Dover-Calais hovercraft makes the crossing in 30 minutes. It carries about 20 vehicles.\n- 8 It is strange that the peacock butterfly has a similar name in most languages. The peacock butterfly is found in most parts of Europe.\n- 9 The great fire of London destroyed a large part of the city. It broke out in 1666.\n- 10 Dr Johnson often met his friends in the Cheshire Cheese. His house was quite near.\n- 11 Helicopters can land near the centre of a large city. They do not need a long runway.\n- 12 The shops store food in their deep-freezes. The deep-freezes, however, need a constant electricity supply.\n- 13 The world was to be a great adventure for him. He knew very little about the world.\n- 14 The programme came by the Indian Ocean satellite. It went into fixed orbit in 1969.\n- 15 The Indian Ocean satellite relays hundreds of signals. The satellite has been in position since 1969.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955486995286779,
+          "minimum_content_confidence_score": 0.47527016526481497,
+          "block_type_confidence_score": 0.9997272043755121
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

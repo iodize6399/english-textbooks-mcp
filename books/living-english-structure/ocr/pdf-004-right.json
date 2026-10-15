@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-004-right",
+    "pdf_page": 4,
+    "side": "right",
+    "reading_order": 8
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "# Introduction\n\nThe common problems of English language structure have to be overcome by all students, and the difficulties they find are similar in all parts of the world. Regional differences can always be dealt with by the teacher, who should be aware of the particular problems of his students. The following general principles are self-evident:\n\n1 All students want to speak, write and read the normal accepted English of today.\n2 This can only be achieved by constant practice of existing forms, with some rational explanation of the grammatical devices employed, wherever this is possible.\n\nThe exercises in this book have been devised and revised over a period of many years, and are the results of practical experience with classes of foreign adults, including students of Latin, Teutonic, Slavonic, and Arabic mother tongues. All the exercises have been tried out and found practicable, and I hope they will prove useful and valuable to many other teachers of English.\n\n## HOW THE BOOK SHOULD BE USED\n\nThis book is an attempt to answer the foreign student's grammatical problems empirically, and to give him a large number of appropriate exercises to practise the acceptable forms. An English schoolboy does 'grammar' as an analytical exercise, but the foreign student needs to learn the mechanics of the language. Many existing grammar books were designed originally for the English schoolboy, and even a large number of those that are intended for foreigners have not managed to free themselves entirely from the purely analytical point of view.\n\nTeachers will find in this book a great deal that is unconventional, perhaps even revolutionary, for it does not pretend to tell the student what he OUGHT to SAY in English, but tries to show him what IS ACTUALLY SAID. Many of the exercises are based on the results of personal 'structure-counts' – in imitation of 'word-counts' – carried out while listening to the speech of educated English",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 37,
+      "height": 1022,
+      "width": 732
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9829365062457419,
+      "minimum_page_confidence_score": 0.42310300946724244
+    },
+    "blocks": [
+      {
+        "top_left_x": 202,
+        "top_left_y": 63,
+        "bottom_right_x": 351,
+        "bottom_right_y": 91,
+        "content": "# Introduction",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7784095807333293,
+          "minimum_content_confidence_score": 0.5621760669605245,
+          "block_type_confidence_score": 0.99927585150933
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 147,
+        "bottom_right_x": 706,
+        "bottom_right_y": 275,
+        "content": "The common problems of English language structure have to be overcome by all students, and the difficulties they find are similar in all parts of the world. Regional differences can always be dealt with by the teacher, who should be aware of the particular problems of his students. The following general principles are self-evident:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997954114297692,
+          "minimum_content_confidence_score": 0.9913599103583535,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 274,
+        "bottom_right_x": 706,
+        "bottom_right_y": 381,
+        "content": "1 All students want to speak, write and read the normal accepted English of today.\n2 This can only be achieved by constant practice of existing forms, with some rational explanation of the grammatical devices employed, wherever this is possible.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990321433364858,
+          "minimum_content_confidence_score": 0.9619804434833379,
+          "block_type_confidence_score": 0.9993732329954942
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 389,
+        "bottom_right_x": 706,
+        "bottom_right_y": 537,
+        "content": "The exercises in this book have been devised and revised over a period of many years, and are the results of practical experience with classes of foreign adults, including students of Latin, Teutonic, Slavonic, and Arabic mother tongues. All the exercises have been tried out and found practicable, and I hope they will prove useful and valuable to many other teachers of English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999804118568449,
+          "minimum_content_confidence_score": 0.9994552154927836,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 578,
+        "bottom_right_x": 565,
+        "bottom_right_y": 599,
+        "content": "## HOW THE BOOK SHOULD BE USED",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9338732612325361,
+          "minimum_content_confidence_score": 0.6789856845289306,
+          "block_type_confidence_score": 0.9990170137939071
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 620,
+        "bottom_right_x": 706,
+        "bottom_right_y": 832,
+        "content": "This book is an attempt to answer the foreign student's grammatical problems empirically, and to give him a large number of appropriate exercises to practise the acceptable forms. An English schoolboy does 'grammar' as an analytical exercise, but the foreign student needs to learn the mechanics of the language. Many existing grammar books were designed originally for the English schoolboy, and even a large number of those that are intended for foreigners have not managed to free themselves entirely from the purely analytical point of view.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999936967734315,
+          "minimum_content_confidence_score": 0.9958368220882091,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 841,
+        "bottom_right_x": 706,
+        "bottom_right_y": 991,
+        "content": "Teachers will find in this book a great deal that is unconventional, perhaps even revolutionary, for it does not pretend to tell the student what he OUGHT to SAY in English, but tries to show him what IS ACTUALLY SAID. Many of the exercises are based on the results of personal 'structure-counts' – in imitation of 'word-counts' – carried out while listening to the speech of educated English",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964263685661268,
+          "minimum_content_confidence_score": 0.8313841549278842,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-048-right",
+    "pdf_page": 48,
+    "side": "right",
+    "reading_order": 96
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "23.8\n\nIntermediate\n\nSince and for. See Exercise 23.3.\n\n* * *\n\n● Put the verb in a suitable tense and add since or for:\n1 — the last two years clothes (be) very dear.\n2 Coal (become) dearer — the end of last year.\n3 I (write) ten letters — breakfast.\n4 — last year the streets (become) more crowded.\n5 'You (see) Cyril lately?' 'Not — three or four days.'\n6 'You (take) Maisie out to tea recently?' 'Not — last Wednesday.'\n7 I (not see) him — more than a week.\n8 'How long you (wait)?' '— half an hour.'\n9 'How long that fire (burn)?' '— last night.'\n10 'You (wait) long?' 'No, not — long.'¹\n11 That boy (not wash) his face — some time.\n12 She (not buy) a new hat — six months.\n13 They (stay) at the same hotel every year — five years.\n14 They (build) that bridge — several months, but they (not finish) it yet.\n15 Poor old Henry (not have) a holiday — the year before last.\n16 I (wait) — two hours, but she (not come) yet.\n17 She (practise) the piano — six o'clock; I hope she'll soon finish.\n18 Although Walter (study) at the University — five years, he (not get) his degree yet.\n19 I (not have) a good night's sleep — last week.\n20 He (learn) to drive — seven years now, but he still (not pass) his driving test.\n\n# FINAL NOTE ON PRESENT PERFECT TENSE\n\nCertain uses of the PRESENT PERFECT, quite natural to an English-speaking person, strike a foreign student as being very odd. One has already been mentioned (see Exercise 23.6). Another oddity rises out of the use of the PRESENT PERFECT for a period of time that is not yet over. We use this tense with this year, this month, this week, etc., because\n\n¹ For long = 'a long time', etc., see Exercise 53.2.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "23 Present Perfect Tense\n85",
+    "footer": "L.E.S.—4",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 667
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9731635057131466,
+      "minimum_page_confidence_score": 0.2531756178638786
+    },
+    "blocks": [
+      {
+        "top_left_x": 133,
+        "top_left_y": 11,
+        "bottom_right_x": 349,
+        "bottom_right_y": 30,
+        "content": "23 Present Perfect Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998897876233612,
+          "minimum_content_confidence_score": 0.9998391346779639,
+          "block_type_confidence_score": 0.9999911969751641
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 11,
+        "bottom_right_x": 644,
+        "bottom_right_y": 29,
+        "content": "85",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991924137188833,
+          "minimum_content_confidence_score": 0.9991924137188833,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 66,
+        "bottom_right_x": 85,
+        "bottom_right_y": 86,
+        "content": "23.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985712929716254,
+          "minimum_content_confidence_score": 0.9985712929716254,
+          "block_type_confidence_score": 0.5536809090065996
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 87,
+        "bottom_right_x": 146,
+        "bottom_right_y": 107,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997366678573544,
+          "minimum_content_confidence_score": 0.9997366678573544,
+          "block_type_confidence_score": 0.9838659091673718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 66,
+        "bottom_right_x": 438,
+        "bottom_right_y": 88,
+        "content": "Since and for. See Exercise 23.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991502982444495,
+          "minimum_content_confidence_score": 0.9963056665858762,
+          "block_type_confidence_score": 0.9993602556715925
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 102,
+        "bottom_right_x": 457,
+        "bottom_right_y": 116,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.965156976725947,
+          "minimum_content_confidence_score": 0.8989193102958368,
+          "block_type_confidence_score": 0.9999899865198352
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 126,
+        "bottom_right_x": 642,
+        "bottom_right_y": 762,
+        "content": "● Put the verb in a suitable tense and add since or for:\n1 — the last two years clothes (be) very dear.\n2 Coal (become) dearer — the end of last year.\n3 I (write) ten letters — breakfast.\n4 — last year the streets (become) more crowded.\n5 'You (see) Cyril lately?' 'Not — three or four days.'\n6 'You (take) Maisie out to tea recently?' 'Not — last Wednesday.'\n7 I (not see) him — more than a week.\n8 'How long you (wait)?' '— half an hour.'\n9 'How long that fire (burn)?' '— last night.'\n10 'You (wait) long?' 'No, not — long.'¹\n11 That boy (not wash) his face — some time.\n12 She (not buy) a new hat — six months.\n13 They (stay) at the same hotel every year — five years.\n14 They (build) that bridge — several months, but they (not finish) it yet.\n15 Poor old Henry (not have) a holiday — the year before last.\n16 I (wait) — two hours, but she (not come) yet.\n17 She (practise) the piano — six o'clock; I hope she'll soon finish.\n18 Although Walter (study) at the University — five years, he (not get) his degree yet.\n19 I (not have) a good night's sleep — last week.\n20 He (learn) to drive — seven years now, but he still (not pass) his driving test.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999046799670627,
+          "minimum_content_confidence_score": 0.8500085715864353,
+          "block_type_confidence_score": 0.9840653503237157
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 792,
+        "bottom_right_x": 588,
+        "bottom_right_y": 814,
+        "content": "# FINAL NOTE ON PRESENT PERFECT TENSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9905755805977668,
+          "minimum_content_confidence_score": 0.946596337978012,
+          "block_type_confidence_score": 0.6786304042904279
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 832,
+        "bottom_right_x": 648,
+        "bottom_right_y": 954,
+        "content": "Certain uses of the PRESENT PERFECT, quite natural to an English-speaking person, strike a foreign student as being very odd. One has already been mentioned (see Exercise 23.6). Another oddity rises out of the use of the PRESENT PERFECT for a period of time that is not yet over. We use this tense with this year, this month, this week, etc., because",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999446027763682,
+          "minimum_content_confidence_score": 0.997470949941836,
+          "block_type_confidence_score": 0.9999777083605178
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 956,
+        "bottom_right_x": 553,
+        "bottom_right_y": 978,
+        "content": "¹ For long = 'a long time', etc., see Exercise 53.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998616203079776,
+          "minimum_content_confidence_score": 0.9990625832652925,
+          "block_type_confidence_score": 0.9704232088419654
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 81,
+        "top_left_y": 980,
+        "bottom_right_x": 138,
+        "bottom_right_y": 996,
+        "content": "L.E.S.—4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8694327596336118,
+          "minimum_content_confidence_score": 0.8694327596336118,
+          "block_type_confidence_score": 0.9999753521488566
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

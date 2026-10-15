@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-083-right",
+    "pdf_page": 83,
+    "side": "right",
+    "reading_order": 166
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:09.402870+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "## 32 Question-tags\n\n### 32.1 Elementary\n\nA very common device in conversation is that of making a statement and at once asking the listener to confirm it. In most languages this is done simply by means of a stereotyped phrase. (Cf. n'est-ce pas, nicht wahr, non è vero, ¿no es verdad?, nu-i aṣa, že ano (ze ne), nie prawda-li, не так-ли, **اليس كذلك** etc.)\n\nIn English this has to be practised, as we have a variable form.\n\nPositive statement, negative tag; negative statement, positive tag.\n\nThe auxiliaries repeat themselves in the tag. Other verbs use *do* in the tag.\n\nHe is here, isn't he? (He isn't here, is he?)\n\nYou will come, won't you? (You won't tell him, will you?)\n\nHe came yesterday, didn't he? (He didn't go, did he?)\n\nSee also preliminary Exercise 19.17.\n\n\\* \\* \\*\n\n- Read the following statements, adding the necessary question-tag:\n\n1. 1 He is early this morning.\n2. 2 We must go now.\n3. 3 You can swim well.\n4. 4 I was very quick.\n5. 5 It could be done.\n6. 6 You won't be late.\n7. 7 This winter hasn't been cold.\n8. 8 They ought not to be here.\n9. 9 You shouldn't smoke.\n10. 10 He has finished.\n11. 11 I am not so fat as you.\n12. 12 They always work hard.\n13. 13 He speaks English well.\n14. 14 You can help him.\n15. 15 You teach English.\n16. 16 They are learning English.\n17. 17 He has a lot of books.\n18. 18 She is too young.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9664907573126926,
+      "minimum_page_confidence_score": 0.1471279874865498
+    },
+    "blocks": [
+      {
+        "top_left_x": 123,
+        "top_left_y": 63,
+        "bottom_right_x": 329,
+        "bottom_right_y": 92,
+        "content": "## 32 Question-tags",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996580318718192,
+          "minimum_content_confidence_score": 0.9924212102917876,
+          "block_type_confidence_score": 0.9666352924098766
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 144,
+        "bottom_right_x": 137,
+        "bottom_right_y": 185,
+        "content": "### 32.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9868957157499975,
+          "minimum_content_confidence_score": 0.9612005834276419,
+          "block_type_confidence_score": 0.8886773867258863
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 141,
+        "bottom_right_x": 646,
+        "bottom_right_y": 278,
+        "content": "A very common device in conversation is that of making a statement and at once asking the listener to confirm it. In most languages this is done simply by means of a stereotyped phrase. (Cf. n'est-ce pas, nicht wahr, non è vero, ¿no es verdad?, nu-i aṣa, že ano (ze ne), nie prawda-li, не так-ли, **اليس كذلك** etc.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9619776954527063,
+          "minimum_content_confidence_score": 0.23278387354382474,
+          "block_type_confidence_score": 0.9999864103261001
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 276,
+        "bottom_right_x": 646,
+        "bottom_right_y": 301,
+        "content": "In English this has to be practised, as we have a variable form.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998607216314906,
+          "minimum_content_confidence_score": 0.9987681799634525,
+          "block_type_confidence_score": 0.9999914170043662
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 302,
+        "bottom_right_x": 646,
+        "bottom_right_y": 343,
+        "content": "Positive statement, negative tag; negative statement, positive tag.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999091384685315,
+          "minimum_content_confidence_score": 0.9996361864464225,
+          "block_type_confidence_score": 0.9996837186025268
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 341,
+        "bottom_right_x": 647,
+        "bottom_right_y": 383,
+        "content": "The auxiliaries repeat themselves in the tag. Other verbs use *do* in the tag.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997885824859918,
+          "minimum_content_confidence_score": 0.9742756675747217,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 381,
+        "bottom_right_x": 563,
+        "bottom_right_y": 403,
+        "content": "He is here, isn't he? (He isn't here, is he?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997212822030701,
+          "minimum_content_confidence_score": 0.9979928970918088,
+          "block_type_confidence_score": 0.99998879445232
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 401,
+        "bottom_right_x": 647,
+        "bottom_right_y": 443,
+        "content": "You will come, won't you? (You won't tell him, will you?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999739234788333,
+          "minimum_content_confidence_score": 0.9999443131899785,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 441,
+        "bottom_right_x": 648,
+        "bottom_right_y": 462,
+        "content": "He came yesterday, didn't he? (He didn't go, did he?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999622218964987,
+          "minimum_content_confidence_score": 0.999902533987771,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 466,
+        "bottom_right_x": 468,
+        "bottom_right_y": 488,
+        "content": "See also preliminary Exercise 19.17.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999384808502711,
+          "minimum_content_confidence_score": 0.999861259645664,
+          "block_type_confidence_score": 0.9999967813595916
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 355,
+        "top_left_y": 493,
+        "bottom_right_x": 460,
+        "bottom_right_y": 507,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962594686020213,
+          "minimum_content_confidence_score": 0.9892576927562321,
+          "block_type_confidence_score": 0.9999949932351057
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 516,
+        "bottom_right_x": 649,
+        "bottom_right_y": 558,
+        "content": "- Read the following statements, adding the necessary question-tag:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9526922972688288,
+          "minimum_content_confidence_score": 0.589281470847708,
+          "block_type_confidence_score": 0.703718080135528
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 560,
+        "bottom_right_x": 440,
+        "bottom_right_y": 953,
+        "content": "1. 1 He is early this morning.\n2. 2 We must go now.\n3. 3 You can swim well.\n4. 4 I was very quick.\n5. 5 It could be done.\n6. 6 You won't be late.\n7. 7 This winter hasn't been cold.\n8. 8 They ought not to be here.\n9. 9 You shouldn't smoke.\n10. 10 He has finished.\n11. 11 I am not so fat as you.\n12. 12 They always work hard.\n13. 13 He speaks English well.\n14. 14 You can help him.\n15. 15 You teach English.\n16. 16 They are learning English.\n17. 17 He has a lot of books.\n18. 18 She is too young.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998774824781983,
+          "minimum_content_confidence_score": 0.9926051023549077,
+          "block_type_confidence_score": 0.999977350747961
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

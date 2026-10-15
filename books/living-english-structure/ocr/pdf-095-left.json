@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-095-left",
+    "pdf_page": 95,
+    "side": "left",
+    "reading_order": 189
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:17.286698+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "(39.1)\n\n- ● Complete the following sentences by putting the given verbs into the gerund form:\n1. 1 They started (write) the lesson before the teacher came in.\n2. 2 I began (read) a novel yesterday.\n3. 3 We don't like (have) to do homework.\n4. 4 Do you mind (speak) to John and (ask) him to help us?\n5. 5 We enjoyed (see) you and (hear) all your news.\n6. 6 We thought of (drive) across France. We're rather tired of (go) by train.\n7. 7 It has stopped (rain). I hate (go) out in the rain.\n8. 8 I love (eat) oranges, but I dislike (peel) them.\n9. 9 I can't help (wonder) whether we should risk (go) without our raincoats.\n10. 10 My uncle has given up (smoke) and now prefers (eat) sweets.\n11. 11 I hate (practise) (read) aloud without first (learn) the new words.\n12. 12 I suggest (do) more sentences on the gerund next time.\n13. 13 I began (look) for the missing papers a few days ago, but now I must stop (try) to find them.\n14. 14 I like (come) to school by bus, but I hate (stand) in the rain and (wait) for it.\n15. 15 Start (do) the exercise now, and stop (write) as soon as I tell you to.\n\nNotice that by leaving out *and* in No. 14, *waiting* becomes a PRESENT PARTICIPLE.\n\n39.2  \n(Elementary  \nand)  \nIntermediate  \n'SUBJECT' OF  \nTHE GERUND\n\nSince the GERUND is a noun, it is logical to find it preceded by a POSSESSIVE PRONOUN or a NOUN IN THE POSSESSIVE FORM.\n\nDo you object to a cigarette?\n\nDo you object to our cigarettes?\n\nDo you object to smoking?\n\nDo you object to our smoking?\n\nDo you object to our smoking cigarettes?\n\nIn practice this pattern is restricted almost entirely to pronouns and proper names. Non-personal nouns do not normally have a possessive form, nor can we easily make a possessive form with more complicated subjects. So we",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "178\n39 -ing form - Gerund and Present Participle",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1016,
+      "width": 672
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9741203637660989,
+      "minimum_page_confidence_score": 0.12637372073376488
+    },
+    "blocks": [
+      {
+        "top_left_x": 20,
+        "top_left_y": 24,
+        "bottom_right_x": 52,
+        "bottom_right_y": 45,
+        "content": "178",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997123115509318,
+          "minimum_content_confidence_score": 0.9997123115509318,
+          "block_type_confidence_score": 0.999993837856848
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 24,
+        "bottom_right_x": 478,
+        "bottom_right_y": 45,
+        "content": "39 -ing form - Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9729223963915898,
+          "minimum_content_confidence_score": 0.7967708279763985,
+          "block_type_confidence_score": 0.9992820948491208
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 20,
+        "top_left_y": 80,
+        "bottom_right_x": 70,
+        "bottom_right_y": 103,
+        "content": "(39.1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992966783785688,
+          "minimum_content_confidence_score": 0.9992966783785688,
+          "block_type_confidence_score": 0.9828890340905228
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 78,
+        "bottom_right_x": 611,
+        "bottom_right_y": 670,
+        "content": "- ● Complete the following sentences by putting the given verbs into the gerund form:\n1. 1 They started (write) the lesson before the teacher came in.\n2. 2 I began (read) a novel yesterday.\n3. 3 We don't like (have) to do homework.\n4. 4 Do you mind (speak) to John and (ask) him to help us?\n5. 5 We enjoyed (see) you and (hear) all your news.\n6. 6 We thought of (drive) across France. We're rather tired of (go) by train.\n7. 7 It has stopped (rain). I hate (go) out in the rain.\n8. 8 I love (eat) oranges, but I dislike (peel) them.\n9. 9 I can't help (wonder) whether we should risk (go) without our raincoats.\n10. 10 My uncle has given up (smoke) and now prefers (eat) sweets.\n11. 11 I hate (practise) (read) aloud without first (learn) the new words.\n12. 12 I suggest (do) more sentences on the gerund next time.\n13. 13 I began (look) for the missing papers a few days ago, but now I must stop (try) to find them.\n14. 14 I like (come) to school by bus, but I hate (stand) in the rain and (wait) for it.\n15. 15 Start (do) the exercise now, and stop (write) as soon as I tell you to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957296265788459,
+          "minimum_content_confidence_score": 0.5924753068351951,
+          "block_type_confidence_score": 0.9819549013559439
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 674,
+        "bottom_right_x": 611,
+        "bottom_right_y": 714,
+        "content": "Notice that by leaving out *and* in No. 14, *waiting* becomes a PRESENT PARTICIPLE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9897978603439211,
+          "minimum_content_confidence_score": 0.8777322951956247,
+          "block_type_confidence_score": 0.9998526790266445
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 733,
+        "bottom_right_x": 125,
+        "bottom_right_y": 853,
+        "content": "39.2  \n(Elementary  \nand)  \nIntermediate  \n'SUBJECT' OF  \nTHE GERUND",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9783031465173323,
+          "minimum_content_confidence_score": 0.7306773793287864,
+          "block_type_confidence_score": 0.7958310086015534
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 733,
+        "bottom_right_x": 611,
+        "bottom_right_y": 792,
+        "content": "Since the GERUND is a noun, it is logical to find it preceded by a POSSESSIVE PRONOUN or a NOUN IN THE POSSESSIVE FORM.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995497403542121,
+          "minimum_content_confidence_score": 0.9148649438051506,
+          "block_type_confidence_score": 0.9999941587791524
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 797,
+        "bottom_right_x": 426,
+        "bottom_right_y": 819,
+        "content": "Do you object to a cigarette?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992255375766411,
+          "minimum_content_confidence_score": 0.996219626895678,
+          "block_type_confidence_score": 0.9997921422140411
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 819,
+        "bottom_right_x": 451,
+        "bottom_right_y": 838,
+        "content": "Do you object to our cigarettes?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991560220700135,
+          "minimum_content_confidence_score": 0.9964347282130663,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 838,
+        "bottom_right_x": 412,
+        "bottom_right_y": 858,
+        "content": "Do you object to smoking?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998575931742636,
+          "minimum_content_confidence_score": 0.9994363743909415,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 858,
+        "bottom_right_x": 445,
+        "bottom_right_y": 878,
+        "content": "Do you object to our smoking?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998895025631942,
+          "minimum_content_confidence_score": 0.9996466693492839,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 878,
+        "bottom_right_x": 524,
+        "bottom_right_y": 898,
+        "content": "Do you object to our smoking cigarettes?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998732588784283,
+          "minimum_content_confidence_score": 0.9997348600162689,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 907,
+        "bottom_right_x": 611,
+        "bottom_right_y": 989,
+        "content": "In practice this pattern is restricted almost entirely to pronouns and proper names. Non-personal nouns do not normally have a possessive form, nor can we easily make a possessive form with more complicated subjects. So we",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999757285963322,
+          "minimum_content_confidence_score": 0.9997637446137303,
+          "block_type_confidence_score": 0.9999848606494245
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "source": {
+    "id": "pdf-152-left",
+    "pdf_page": 152,
+    "side": "left",
+    "reading_order": 303
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "# 55.3 See Exercise 55.1 for explanations.\n\n# Intermediate\n\n|  1 | race | nation  |\n| --- | --- | --- |\n|  2 | plane | helicopter  |\n|  3 | paw | hoof  |\n|  4 | boot | slipper  |\n|  5 | wages | salary  |\n|  6 | cupboard | sideboard  |\n|  7 | sports car | racing car  |\n|  8 | raspberry | blackberry  |\n|  9 | empire | republic  |\n|  10 | map | globe  |\n|  11 | dustman | postman  |\n|  12 | ditch | gutter  |\n|  13 | tour | cruise  |\n|  14 | beetle | spider  |\n|  15 | dictionary | encyclopedia  |\n|  16 | bandage | sling  |\n|  17 | poetry | prose  |\n|  18 | beer | whisky  |\n|  19 | jam | marmalade  |\n|  20 | spoon | fork  |\n|  21 | motorway | speedway  |\n|  22 | pliers | pincers  |\n|  23 | puppy | cub  |\n|  24 | coffee | instant coffee  |\n|  25 | silk | wool  |\n|  26 | sand | soil  |\n|  27 | lake | pond  |\n|  28 | boxing | wrestling  |\n|  29 | violin | viola  |\n|  30 | expedition | excursion  |\n\n# 56 Prepositions and Adverbial Particles\n\n56.1 Elementary and Intermediate PREPOSITIONS usually come before the words they control. They indicate various relationships between words or phrases, the most usual being those of time, space (position, direction, etc.), and mental or emotional attitudes.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "292\n56 Prepositions and Adverbial Particles",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9844072302799829,
+      "minimum_page_confidence_score": 0.2245346367277272
+    },
+    "blocks": [
+      {
+        "top_left_x": 36,
+        "top_left_y": 16,
+        "bottom_right_x": 68,
+        "bottom_right_y": 36,
+        "content": "292",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999697217572346,
+          "minimum_content_confidence_score": 0.9999697217572346,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 16,
+        "bottom_right_x": 447,
+        "bottom_right_y": 38,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999713862177402,
+          "minimum_content_confidence_score": 0.9999225677292745,
+          "block_type_confidence_score": 0.9999446000493818
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 70,
+        "bottom_right_x": 440,
+        "bottom_right_y": 92,
+        "content": "# 55.3 See Exercise 55.1 for explanations.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9359676951097577,
+          "minimum_content_confidence_score": 0.705769778309004,
+          "block_type_confidence_score": 0.43437681963968333
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 92,
+        "bottom_right_x": 137,
+        "bottom_right_y": 112,
+        "content": "# Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9930325347448438,
+          "minimum_content_confidence_score": 0.9885376595031362,
+          "block_type_confidence_score": 0.693596332504305
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 116,
+        "bottom_right_x": 420,
+        "bottom_right_y": 769,
+        "content": "|  1 | race | nation  |\n| --- | --- | --- |\n|  2 | plane | helicopter  |\n|  3 | paw | hoof  |\n|  4 | boot | slipper  |\n|  5 | wages | salary  |\n|  6 | cupboard | sideboard  |\n|  7 | sports car | racing car  |\n|  8 | raspberry | blackberry  |\n|  9 | empire | republic  |\n|  10 | map | globe  |\n|  11 | dustman | postman  |\n|  12 | ditch | gutter  |\n|  13 | tour | cruise  |\n|  14 | beetle | spider  |\n|  15 | dictionary | encyclopedia  |\n|  16 | bandage | sling  |\n|  17 | poetry | prose  |\n|  18 | beer | whisky  |\n|  19 | jam | marmalade  |\n|  20 | spoon | fork  |\n|  21 | motorway | speedway  |\n|  22 | pliers | pincers  |\n|  23 | puppy | cub  |\n|  24 | coffee | instant coffee  |\n|  25 | silk | wool  |\n|  26 | sand | soil  |\n|  27 | lake | pond  |\n|  28 | boxing | wrestling  |\n|  29 | violin | viola  |\n|  30 | expedition | excursion  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999870297117272,
+          "minimum_content_confidence_score": 0.9996259218132256,
+          "block_type_confidence_score": 0.6513156297170406
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 825,
+        "bottom_right_x": 563,
+        "bottom_right_y": 857,
+        "content": "# 56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9320850765840069,
+          "minimum_content_confidence_score": 0.5926651161748019,
+          "block_type_confidence_score": 0.9999679337281997
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 906,
+        "bottom_right_x": 621,
+        "bottom_right_y": 989,
+        "content": "56.1 Elementary and Intermediate PREPOSITIONS usually come before the words they control. They indicate various relationships between words or phrases, the most usual being those of time, space (position, direction, etc.), and mental or emotional attitudes.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956742601943499,
+          "minimum_content_confidence_score": 0.9100342135120897,
+          "block_type_confidence_score": 0.967675654174181
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

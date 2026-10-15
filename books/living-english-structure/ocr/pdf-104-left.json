@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-104-left",
+    "pdf_page": 104,
+    "side": "left",
+    "reading_order": 207
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "15 You ought to buy your hats at a cheaper shop.\n16 It would certainly be better not to speak to him at all.\n17 I expect to meet you at Interlaken.\n18 He would laugh to see you with that funny hat on.\n19 It is better to love in vain, than never to love at all.\n20 I'm sure she would like to cook it herself.\n21 They hope to win the tournament by Thursday.\n22 He certainly would be foolhardy to attack them unarmed.\n23 I mean to have another try if I can.\n24 You might find it easier to leave me out altogether.\n25 It would be easier to climb over the mountain than to go round the valley, if there weren't so much snow.\n\n## 42 Verb, Noun or Adjective\n\n### 42.1 Elementary\n\nMany common words can be used as both verbs and nouns. Because they occur more frequently as verbs, students are apt to get less practice in their use as nouns.\n\n* * *\n\n- Make two sentences with each of the following words: (a) as a verb; (b) as a noun:\ncook; bite; swim; walk; answer; drink; rain; rest; work; smell; shave; smile; use¹; burn; cut; fight; pay; play; brush; dress; sleep; watch; kiss; look.\n\n### 42.2 Intermediate\n\n- Make sentences with each of the following words: (a) as a verb; (b) as a noun:\nburn; cough; fall; fear; copy; fold; light; drive; mark; smoke; sneeze; show; stand; taste; break; call; climb; cover; fly; help; kick; measure; move; colour; water; arm; hand; damage; place; act; dust; iron.\n\n¹ v. [ju:z], n. [ju:s]",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "196\n42 Verb, Noun or Adjective",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9690010516391766,
+      "minimum_page_confidence_score": 0.14661584696244534
+    },
+    "blocks": [
+      {
+        "top_left_x": 33,
+        "top_left_y": 26,
+        "bottom_right_x": 66,
+        "bottom_right_y": 46,
+        "content": "196",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999521993597025,
+          "minimum_content_confidence_score": 0.9999521993597025,
+          "block_type_confidence_score": 0.9999811838319953
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 26,
+        "bottom_right_x": 355,
+        "bottom_right_y": 46,
+        "content": "42 Verb, Noun or Adjective",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998670216229936,
+          "minimum_content_confidence_score": 0.9995751683610216,
+          "block_type_confidence_score": 0.9979804863933596
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 81,
+        "bottom_right_x": 625,
+        "bottom_right_y": 452,
+        "content": "15 You ought to buy your hats at a cheaper shop.\n16 It would certainly be better not to speak to him at all.\n17 I expect to meet you at Interlaken.\n18 He would laugh to see you with that funny hat on.\n19 It is better to love in vain, than never to love at all.\n20 I'm sure she would like to cook it herself.\n21 They hope to win the tournament by Thursday.\n22 He certainly would be foolhardy to attack them unarmed.\n23 I mean to have another try if I can.\n24 You might find it easier to leave me out altogether.\n25 It would be easier to climb over the mountain than to go round the valley, if there weren't so much snow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994094943138457,
+          "minimum_content_confidence_score": 0.9663809514433133,
+          "block_type_confidence_score": 0.9668773997529008
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 512,
+        "bottom_right_x": 440,
+        "bottom_right_y": 541,
+        "content": "## 42 Verb, Noun or Adjective",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998878967913986,
+          "minimum_content_confidence_score": 0.9996578672273765,
+          "block_type_confidence_score": 0.9985134084824184
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 40,
+        "top_left_y": 592,
+        "bottom_right_x": 134,
+        "bottom_right_y": 634,
+        "content": "### 42.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9794311334304662,
+          "minimum_content_confidence_score": 0.9389234723187169,
+          "block_type_confidence_score": 0.5845817306240346
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 166,
+        "top_left_y": 592,
+        "bottom_right_x": 629,
+        "bottom_right_y": 654,
+        "content": "Many common words can be used as both verbs and nouns. Because they occur more frequently as verbs, students are apt to get less practice in their use as nouns.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999886391043984,
+          "minimum_content_confidence_score": 0.9998599669942043,
+          "block_type_confidence_score": 0.9998390933571737
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 346,
+        "top_left_y": 666,
+        "bottom_right_x": 449,
+        "bottom_right_y": 681,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952337612361605,
+          "minimum_content_confidence_score": 0.9874589559943449,
+          "block_type_confidence_score": 0.9999545833252356
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 692,
+        "bottom_right_x": 630,
+        "bottom_right_y": 803,
+        "content": "- Make two sentences with each of the following words: (a) as a verb; (b) as a noun:\ncook; bite; swim; walk; answer; drink; rain; rest; work; smell; shave; smile; use¹; burn; cut; fight; pay; play; brush; dress; sleep; watch; kiss; look.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9717651283035664,
+          "minimum_content_confidence_score": 0.5305813591456382,
+          "block_type_confidence_score": 0.9818281319091959
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 821,
+        "bottom_right_x": 147,
+        "bottom_right_y": 862,
+        "content": "### 42.2 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997128074224245,
+          "minimum_content_confidence_score": 0.9994925452480943,
+          "block_type_confidence_score": 0.9997546083087471
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 821,
+        "bottom_right_x": 632,
+        "bottom_right_y": 975,
+        "content": "- Make sentences with each of the following words: (a) as a verb; (b) as a noun:\nburn; cough; fall; fear; copy; fold; light; drive; mark; smoke; sneeze; show; stand; taste; break; call; climb; cover; fly; help; kick; measure; move; colour; water; arm; hand; damage; place; act; dust; iron.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999465822788995,
+          "minimum_content_confidence_score": 0.9995580950624017,
+          "block_type_confidence_score": 0.9858937389378577
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 977,
+        "bottom_right_x": 316,
+        "bottom_right_y": 999,
+        "content": "¹ v. [ju:z], n. [ju:s]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9927044526893816,
+          "minimum_content_confidence_score": 0.9670195817321404,
+          "block_type_confidence_score": 0.9849134130735044
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

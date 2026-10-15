@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-111-left",
+    "pdf_page": 111,
+    "side": "left",
+    "reading_order": 221
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "45.3\nAdvanced\n\nSee notes to Exercises 45.1 and 45.2.\n\nThere is a further development of TYPE (2), expressing extreme surprise, consternation, or disbelief. Here the whole of the speaker's remark is echoed to him with the unbelievable section turned into the appropriate interrogative. This interrogative takes a heavy stress and quickly rising intonation.\n\nSo I had the bill sent to my wife. - You had it sent to WHOOO! ! ! ?\n\nSir, you're nothing but a raving lunatic! - I'm a WHAAAT! ! ? (Note that the indefinite article is retained.)\n\nI dyed my hair green yesterday. - You dyed it WHAAT colour! ! ?\n\n(The teacher reads the statement, the student responds.)\n\n* * *\n\n- Respond similarly to the following remarks:\n1 Columbus discovered America in 1764.\n2 I love eating raw fish.\n3 She wants to be a film star.\n4 I'm afraid you'll have to sleep in the bathroom.\n5 Mr Poorly has £45,000 in the bank.\n6 I had lunch with the Prime Minister yesterday.\n7 Nero was a kind-hearted emperor.\n8 For my dinner yesterday I had a jar of pickles.\n9 Jane is going to marry the dustman!\n10 She was wearing a hideous ostrich-feather hat.\n11 My brother has twenty-nine children.\n12 So I gave your plans of a submarine to a strange-looking foreigner.\n13 Baby has swallowed a teaspoon!\n14 Schoolmistresses are usually very attractive.\n15 The cat has had kittens in father's hat!\n16 I left my cigarette-end on the petrol-tin.\n17 My sister is going to live at Omsk.\n18 She was seen riding on a coal-cart.\n19 Just throw the rubbish out of the window.\n20 Darling, I've bought this bottle of whisky for your sake!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "210\n45 Interrogative Responses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1001,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9754834612469313,
+      "minimum_page_confidence_score": 0.17097684754470927
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 14,
+        "bottom_right_x": 57,
+        "bottom_right_y": 33,
+        "content": "210",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999430212054865,
+          "minimum_content_confidence_score": 0.9999430212054865,
+          "block_type_confidence_score": 0.9999957635135315
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 14,
+        "bottom_right_x": 346,
+        "bottom_right_y": 34,
+        "content": "45 Interrogative Responses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997884063725916,
+          "minimum_content_confidence_score": 0.9995987132783167,
+          "block_type_confidence_score": 0.99985912604891
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 70,
+        "bottom_right_x": 104,
+        "bottom_right_y": 111,
+        "content": "45.3\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9855733949916855,
+          "minimum_content_confidence_score": 0.9729325503758406,
+          "block_type_confidence_score": 0.49863331783207043
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 70,
+        "bottom_right_x": 463,
+        "bottom_right_y": 91,
+        "content": "See notes to Exercises 45.1 and 45.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999783907897059,
+          "minimum_content_confidence_score": 0.9998940819374772,
+          "block_type_confidence_score": 0.9999946356109105
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 90,
+        "bottom_right_x": 626,
+        "bottom_right_y": 213,
+        "content": "There is a further development of TYPE (2), expressing extreme surprise, consternation, or disbelief. Here the whole of the speaker's remark is echoed to him with the unbelievable section turned into the appropriate interrogative. This interrogative takes a heavy stress and quickly rising intonation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996862988135853,
+          "minimum_content_confidence_score": 0.9882133354818715,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 216,
+        "bottom_right_x": 626,
+        "bottom_right_y": 259,
+        "content": "So I had the bill sent to my wife. - You had it sent to WHOOO! ! ! ?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9361825192089789,
+          "minimum_content_confidence_score": 0.4580405594025271,
+          "block_type_confidence_score": 0.9996950364468014
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 259,
+        "bottom_right_x": 626,
+        "bottom_right_y": 320,
+        "content": "Sir, you're nothing but a raving lunatic! - I'm a WHAAAT! ! ? (Note that the indefinite article is retained.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995185840936586,
+          "minimum_content_confidence_score": 0.9142557036578587,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 320,
+        "bottom_right_x": 626,
+        "bottom_right_y": 361,
+        "content": "I dyed my hair green yesterday. - You dyed it WHAAT colour! ! ?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990652300169034,
+          "minimum_content_confidence_score": 0.993580805569257,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 361,
+        "bottom_right_x": 626,
+        "bottom_right_y": 382,
+        "content": "(The teacher reads the statement, the student responds.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999872328422709,
+          "minimum_content_confidence_score": 0.9999459629899059,
+          "block_type_confidence_score": 0.9999167988406579
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 337,
+        "top_left_y": 396,
+        "bottom_right_x": 442,
+        "bottom_right_y": 409,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983996269806261,
+          "minimum_content_confidence_score": 0.9959030607891077,
+          "block_type_confidence_score": 0.9999898673126559
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 422,
+        "bottom_right_x": 615,
+        "bottom_right_y": 940,
+        "content": "- Respond similarly to the following remarks:\n1 Columbus discovered America in 1764.\n2 I love eating raw fish.\n3 She wants to be a film star.\n4 I'm afraid you'll have to sleep in the bathroom.\n5 Mr Poorly has £45,000 in the bank.\n6 I had lunch with the Prime Minister yesterday.\n7 Nero was a kind-hearted emperor.\n8 For my dinner yesterday I had a jar of pickles.\n9 Jane is going to marry the dustman!\n10 She was wearing a hideous ostrich-feather hat.\n11 My brother has twenty-nine children.\n12 So I gave your plans of a submarine to a strange-looking foreigner.\n13 Baby has swallowed a teaspoon!\n14 Schoolmistresses are usually very attractive.\n15 The cat has had kittens in father's hat!\n16 I left my cigarette-end on the petrol-tin.\n17 My sister is going to live at Omsk.\n18 She was seen riding on a coal-cart.\n19 Just throw the rubbish out of the window.\n20 Darling, I've bought this bottle of whisky for your sake!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9949598186839026,
+          "minimum_content_confidence_score": 0.5245472011888772,
+          "block_type_confidence_score": 0.9923862238085739
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

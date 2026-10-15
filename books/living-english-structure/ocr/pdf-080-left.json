@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-080-left",
+    "pdf_page": 80,
+    "side": "left",
+    "reading_order": 159
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "10 Maisie would do it if she wanted to.\n11 If they hadn't told us, we shouldn't have found the way.\n12 What would you do if a bee stung you?\n13 He wouldn't have written if he hadn't heard some news.\n14 If I had enough money, I would buy a radio set.\n15 I shall have to buy a thick coat if the weather gets colder.\n16 If you hit the dog, it will bite you.\n17 We shall be pleased if our school wins the match.\n18 You'll be able to speak English better if you study harder.\n19 If he buys a house for £8,000 and sells it for £11,000, he'll make a good profit.\n20 The soldiers will fight bravely if they understand their orders.\n\n# 31.6\nElementary\n\nIt is not necessary for *can*, *must*, etc., to be made future in TYPE (1). See special exercises on *can* and *must* for details.\n\nYou can go this afternoon if you like. (permission)\nYou'll soon be able to swim if you practise hard.\n(capacity)\n\n* * *\n\n● Supply a suitable tense of the verbs in brackets:\n1 You will be ill if you (eat) so much.\n2 I (go) if I had known.\n3 If my car (not break) down, I should have caught the train.\n4 If she were older, she (have) more sense.\n5 If you (read) that book carefully, you would understand it.\n6 If the children (be) good, they can stay up late.\n7 I (buy) that hat if it were not so dear.\n8 You (kill) yourself if you always work as hard as that.\n9 If they had waited, they (find) me.\n10 I'm sure she will do well if she (go) to the University.\n11 If it (be) fine tomorrow, I shall play tennis.\n12 I shouldn't have thought it possible if I (not see) it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "148\n31 Conditions and Unreal Past",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 1000,
+      "width": 653
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9794162916533103,
+      "minimum_page_confidence_score": 0.36709921845684396
+    },
+    "blocks": [
+      {
+        "top_left_x": 29,
+        "top_left_y": 21,
+        "bottom_right_x": 62,
+        "bottom_right_y": 40,
+        "content": "148",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999378958168175,
+          "minimum_content_confidence_score": 0.9999378958168175,
+          "block_type_confidence_score": 0.9999886111329309
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 21,
+        "bottom_right_x": 366,
+        "bottom_right_y": 42,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999387121858945,
+          "minimum_content_confidence_score": 0.9998293315843698,
+          "block_type_confidence_score": 0.9930659317813295
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 74,
+        "bottom_right_x": 599,
+        "bottom_right_y": 435,
+        "content": "10 Maisie would do it if she wanted to.\n11 If they hadn't told us, we shouldn't have found the way.\n12 What would you do if a bee stung you?\n13 He wouldn't have written if he hadn't heard some news.\n14 If I had enough money, I would buy a radio set.\n15 I shall have to buy a thick coat if the weather gets colder.\n16 If you hit the dog, it will bite you.\n17 We shall be pleased if our school wins the match.\n18 You'll be able to speak English better if you study harder.\n19 If he buys a house for £8,000 and sells it for £11,000, he'll make a good profit.\n20 The soldiers will fight bravely if they understand their orders.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997244819550182,
+          "minimum_content_confidence_score": 0.9834844405635812,
+          "block_type_confidence_score": 0.9875645118007719
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 29,
+        "top_left_y": 452,
+        "bottom_right_x": 121,
+        "bottom_right_y": 494,
+        "content": "# 31.6\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.86562805243332,
+          "minimum_content_confidence_score": 0.6491764980807079,
+          "block_type_confidence_score": 0.5202624522774667
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 454,
+        "bottom_right_x": 601,
+        "bottom_right_y": 494,
+        "content": "It is not necessary for *can*, *must*, etc., to be made future in TYPE (1). See special exercises on *can* and *must* for details.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9900080960839345,
+          "minimum_content_confidence_score": 0.7991994365632531,
+          "block_type_confidence_score": 0.9998077523788297
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 497,
+        "bottom_right_x": 601,
+        "bottom_right_y": 558,
+        "content": "You can go this afternoon if you like. (permission)\nYou'll soon be able to swim if you practise hard.\n(capacity)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971347778862473,
+          "minimum_content_confidence_score": 0.9521105416807685,
+          "block_type_confidence_score": 0.9983191181045348
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 327,
+        "top_left_y": 570,
+        "bottom_right_x": 426,
+        "bottom_right_y": 585,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962439021809328,
+          "minimum_content_confidence_score": 0.9911502418123503,
+          "block_type_confidence_score": 0.9999909401759619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 594,
+        "bottom_right_x": 602,
+        "bottom_right_y": 957,
+        "content": "● Supply a suitable tense of the verbs in brackets:\n1 You will be ill if you (eat) so much.\n2 I (go) if I had known.\n3 If my car (not break) down, I should have caught the train.\n4 If she were older, she (have) more sense.\n5 If you (read) that book carefully, you would understand it.\n6 If the children (be) good, they can stay up late.\n7 I (buy) that hat if it were not so dear.\n8 You (kill) yourself if you always work as hard as that.\n9 If they had waited, they (find) me.\n10 I'm sure she will do well if she (go) to the University.\n11 If it (be) fine tomorrow, I shall play tennis.\n12 I shouldn't have thought it possible if I (not see) it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996456781852963,
+          "minimum_content_confidence_score": 0.9571708513073376,
+          "block_type_confidence_score": 0.9999305058146426
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

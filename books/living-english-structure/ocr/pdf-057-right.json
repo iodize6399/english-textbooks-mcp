@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-057-right",
+    "pdf_page": 57,
+    "side": "right",
+    "reading_order": 114
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "The Rat (shake) his head with a smile. But he (begin) to feel more and more jealous of Rat, sculling so strongly and so easily along, and his pride (begin) to whisper that he (can) do it every bit as well. He (jump) up and (seize) the sculls so suddenly that the Rat, who (gaze) out over the water and (say) more poetry-things to himself, was taken by surprise and (fall) backwards off his seat with his legs in the air for the second time, while the triumphant Mole (take) his place and (grab) the sculls with entire confidence.\n\n— KENNETH GRAHAME, *The Wind in the Willows*\n\n# **26.9  \nAdvanced**\n\n- Put the verbs in the following passage into the most suitable PAST tense form (SIMPLE or CONTINUOUS):\n\nThe gypsies (see) at once that she (be) a little lady, and were prepared to treat her accordingly. There was a group round the fire when they (reach) it. An old gypsy woman (sit) on the ground, occasionally poking a skewer into the round kettle that (send) forth an odorous steam; two small shock-headed children (lie) prone and (rest) their elbows something like small sphinxes; and a placid donkey (bend) his head over a tall girl, who (scratch) his nose and (indulge) him with a bite of excellent stolen hay. The slanting sunlight (fall) kindly upon them, and the scene (be) really very pretty, Maggie (think), only she (hope) they would soon set out the tea-cups. It (be) a little confusing, though, that the young woman (begin) to speak to the old one in a language which Maggie (not understand), while the tall girl, who (feed) the donkey, (sit up) and (stare) at her without offering any salutation.\n\n— GEORGE ELIOT, *The Mill on the Floss*",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "26 Past Tense (Continued)\n103",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1016,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9772326907409726,
+      "minimum_page_confidence_score": 0.37059858379094757
+    },
+    "blocks": [
+      {
+        "top_left_x": 151,
+        "top_left_y": 14,
+        "bottom_right_x": 390,
+        "bottom_right_y": 36,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997381216727501,
+          "minimum_content_confidence_score": 0.9995044542644965,
+          "block_type_confidence_score": 0.9999884460800057
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 644,
+        "top_left_y": 12,
+        "bottom_right_x": 677,
+        "bottom_right_y": 32,
+        "content": "103",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999905825550351,
+          "minimum_content_confidence_score": 0.9999905825550351,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 69,
+        "bottom_right_x": 671,
+        "bottom_right_y": 319,
+        "content": "The Rat (shake) his head with a smile. But he (begin) to feel more and more jealous of Rat, sculling so strongly and so easily along, and his pride (begin) to whisper that he (can) do it every bit as well. He (jump) up and (seize) the sculls so suddenly that the Rat, who (gaze) out over the water and (say) more poetry-things to himself, was taken by surprise and (fall) backwards off his seat with his legs in the air for the second time, while the triumphant Mole (take) his place and (grab) the sculls with entire confidence.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999085572557833,
+          "minimum_content_confidence_score": 0.9974918772173218,
+          "block_type_confidence_score": 0.9999947548186582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 320,
+        "bottom_right_x": 639,
+        "bottom_right_y": 345,
+        "content": "— KENNETH GRAHAME, *The Wind in the Willows*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9916796658681832,
+          "minimum_content_confidence_score": 0.9460966984774078,
+          "block_type_confidence_score": 0.9995836561668822
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 365,
+        "bottom_right_x": 142,
+        "bottom_right_y": 407,
+        "content": "# **26.9  \nAdvanced**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8508518178332759,
+          "minimum_content_confidence_score": 0.6644607680937121,
+          "block_type_confidence_score": 0.9142021172495199
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 160,
+        "top_left_y": 365,
+        "bottom_right_x": 680,
+        "bottom_right_y": 407,
+        "content": "- Put the verbs in the following passage into the most suitable PAST tense form (SIMPLE or CONTINUOUS):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9898859904882334,
+          "minimum_content_confidence_score": 0.9204798404087395,
+          "block_type_confidence_score": 0.8165330259959319
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 408,
+        "bottom_right_x": 680,
+        "bottom_right_y": 836,
+        "content": "The gypsies (see) at once that she (be) a little lady, and were prepared to treat her accordingly. There was a group round the fire when they (reach) it. An old gypsy woman (sit) on the ground, occasionally poking a skewer into the round kettle that (send) forth an odorous steam; two small shock-headed children (lie) prone and (rest) their elbows something like small sphinxes; and a placid donkey (bend) his head over a tall girl, who (scratch) his nose and (indulge) him with a bite of excellent stolen hay. The slanting sunlight (fall) kindly upon them, and the scene (be) really very pretty, Maggie (think), only she (hope) they would soon set out the tea-cups. It (be) a little confusing, though, that the young woman (begin) to speak to the old one in a language which Maggie (not understand), while the tall girl, who (feed) the donkey, (sit up) and (stare) at her without offering any salutation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999495814554968,
+          "minimum_content_confidence_score": 0.9323246729954202,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 838,
+        "bottom_right_x": 562,
+        "bottom_right_y": 862,
+        "content": "— GEORGE ELIOT, *The Mill on the Floss*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996321529596617,
+          "minimum_content_confidence_score": 0.998808018307967,
+          "block_type_confidence_score": 0.9999194210120018
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

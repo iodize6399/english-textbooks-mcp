@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-127-right",
+    "pdf_page": 127,
+    "side": "right",
+    "reading_order": 254
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:30.025220+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "3 — good for you to take exercise.\n4 — very wet last month, and now — windy.\n5 — raining for three hours without stopping.\n6 — a long time since I saw you.\n7 — a shame that those trees had to be cut down.\n8 — going to snow, isn't it?\n9 — snowing since 11 o'clock. When will it stop?\n10 — easy for him to find fault, but — not fair.\n11 — terribly hot in August last year.\n12 The church clock struck. — exactly 5 o'clock.\n13 — probable you'll find it in your pocket.\n14 — only 100 kilometres from here.\n15 You can get there in an hour, but — not easy to find the way.\n\n# 50.4\nElementary\nSee notes to Exercises 50.1-3.\n\n* * *\n\n● Add the correct form of it is or there is to the following:\n1 — fine today.\n2 — a good thing to be accurate.\n3 — a man standing under that tree ten minutes ago.\n4 — here that I saw him.\n5 — a post office in the village.\n6 — nothing left if we don't go soon.\n7 — a long time since I had a holiday.\n8 — a fact that he is a rich man.\n9 — often a rainbow after rain.\n10 — a pity (that) you can't come with me.\n11 — too early to leave yet.\n12 — a beautiful park near my home.\n13 — the same film at the Metro for three weeks.\n14 — difficult to find a house in the town next year.\n15 — a drink for everyone who was thirsty.\n16 — a new car in the next street.\n17 — not true to say that she is my friend.\n18 — a dog running across the road.\n19 — a train which leaves at nine o'clock.\n20 — not far from my house to the station.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "50 there is and it is\n243",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 672
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9738936734240983,
+      "minimum_page_confidence_score": 0.06278030611735025
+    },
+    "blocks": [
+      {
+        "top_left_x": 137,
+        "top_left_y": 24,
+        "bottom_right_x": 307,
+        "bottom_right_y": 44,
+        "content": "50 there is and it is",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9199966477108926,
+          "minimum_content_confidence_score": 0.5205822332090906,
+          "block_type_confidence_score": 0.9989629339495681
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 613,
+        "top_left_y": 21,
+        "bottom_right_x": 646,
+        "bottom_right_y": 40,
+        "content": "243",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999442131656885,
+          "minimum_content_confidence_score": 0.9999442131656885,
+          "block_type_confidence_score": 0.9999987895695205
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 79,
+        "bottom_right_x": 626,
+        "bottom_right_y": 384,
+        "content": "3 — good for you to take exercise.\n4 — very wet last month, and now — windy.\n5 — raining for three hours without stopping.\n6 — a long time since I saw you.\n7 — a shame that those trees had to be cut down.\n8 — going to snow, isn't it?\n9 — snowing since 11 o'clock. When will it stop?\n10 — easy for him to find fault, but — not fair.\n11 — terribly hot in August last year.\n12 The church clock struck. — exactly 5 o'clock.\n13 — probable you'll find it in your pocket.\n14 — only 100 kilometres from here.\n15 You can get there in an hour, but — not easy to find the way.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997794605696301,
+          "minimum_content_confidence_score": 0.9912557675415656,
+          "block_type_confidence_score": 0.9875230075152542
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 403,
+        "bottom_right_x": 421,
+        "bottom_right_y": 444,
+        "content": "# 50.4\nElementary\nSee notes to Exercises 50.1-3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8943936375430315,
+          "minimum_content_confidence_score": 0.4331404291151554,
+          "block_type_confidence_score": 0.5152715983125332
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 356,
+        "top_left_y": 437,
+        "bottom_right_x": 460,
+        "bottom_right_y": 450,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942302727279687,
+          "minimum_content_confidence_score": 0.9845001751475801,
+          "block_type_confidence_score": 0.9996398792584618
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 461,
+        "bottom_right_x": 648,
+        "bottom_right_y": 920,
+        "content": "● Add the correct form of it is or there is to the following:\n1 — fine today.\n2 — a good thing to be accurate.\n3 — a man standing under that tree ten minutes ago.\n4 — here that I saw him.\n5 — a post office in the village.\n6 — nothing left if we don't go soon.\n7 — a long time since I had a holiday.\n8 — a fact that he is a rich man.\n9 — often a rainbow after rain.\n10 — a pity (that) you can't come with me.\n11 — too early to leave yet.\n12 — a beautiful park near my home.\n13 — the same film at the Metro for three weeks.\n14 — difficult to find a house in the town next year.\n15 — a drink for everyone who was thirsty.\n16 — a new car in the next street.\n17 — not true to say that she is my friend.\n18 — a dog running across the road.\n19 — a train which leaves at nine o'clock.\n20 — not far from my house to the station.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989323675915551,
+          "minimum_content_confidence_score": 0.8665349769360466,
+          "block_type_confidence_score": 0.9971631409618353
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

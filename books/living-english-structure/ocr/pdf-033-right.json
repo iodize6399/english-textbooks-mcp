@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-033-right",
+    "pdf_page": 33,
+    "side": "right",
+    "reading_order": 66
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "- ● Read the following remarks and add to them, either freely or using the suggestion in brackets:\n1 He came early. (I)\n2 I like you very much. (she)\n3 You can come whenever you like. (your friend)\n4 Apples were very dear. (bananas)\n5 She knows you quite well. (her husband)\n6 He ought to listen more carefully. (you)\n7 My friend lives in Chicago. (his sister)\n8 A stone sinks. (iron)\n9 Watt was an inventor. (Edison)\n10 We arrived yesterday. (our wives)\n11 Mary could do it. (her teacher)\n12 Dogs like meat. (cats)\n13 They must do as they are told. (you)\n14 The No. 7 bus goes to the Opera House. (the No. 24)\n15 Browning wrote poetry. (Tennyson)\n16 She must go home. (I)\n17 They were late for the concert. (you)\n18 Dick wrote me a letter. (his mother)\n19 I like sweets. (we all)\n20 The potatoes are too salt. (the beans)\n\n# **19.12**\n**Elementary**\n**ADDITIONS**\n**TO REMARKS**\n\nNegative addition is made by using the appropriate auxiliary, introduced by *nor* or *neither*; INVERSION takes place.\n\nHe can't read this. – Nor *can I*.\nPotatoes won't grow here. – Neither *will* roses.\n\n* * *\n\n- ● Read the following remarks and add to them, either freely or using the suggestion in brackets:\n1 Dogs don't fly. (pigs)\n2 Dogs can't fly. (cats)\n3 He wasn't late. (you)\n4 He hasn't any time. (I)\n5 These books don't belong to me. (those)\n6 These aren't my books. (those)\n7 A chair can't stand on three legs. (a table)\n8 He oughtn't to make such a mistake. (you)\n9 We couldn't remember his name. (they)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "19 Short-form Responses using Auxiliary Verbs\n55",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9746500248507156,
+      "minimum_page_confidence_score": 0.16552802877097592
+    },
+    "blocks": [
+      {
+        "top_left_x": 136,
+        "top_left_y": 23,
+        "bottom_right_x": 532,
+        "bottom_right_y": 44,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999566530518646,
+          "minimum_content_confidence_score": 0.9981192590209681,
+          "block_type_confidence_score": 0.9970333568013866
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 625,
+        "top_left_y": 23,
+        "bottom_right_x": 649,
+        "bottom_right_y": 42,
+        "content": "55",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994230025281325,
+          "minimum_content_confidence_score": 0.9994230025281325,
+          "block_type_confidence_score": 0.9999984594528865
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 78,
+        "bottom_right_x": 642,
+        "bottom_right_y": 581,
+        "content": "- ● Read the following remarks and add to them, either freely or using the suggestion in brackets:\n1 He came early. (I)\n2 I like you very much. (she)\n3 You can come whenever you like. (your friend)\n4 Apples were very dear. (bananas)\n5 She knows you quite well. (her husband)\n6 He ought to listen more carefully. (you)\n7 My friend lives in Chicago. (his sister)\n8 A stone sinks. (iron)\n9 Watt was an inventor. (Edison)\n10 We arrived yesterday. (our wives)\n11 Mary could do it. (her teacher)\n12 Dogs like meat. (cats)\n13 They must do as they are told. (you)\n14 The No. 7 bus goes to the Opera House. (the No. 24)\n15 Browning wrote poetry. (Tennyson)\n16 She must go home. (I)\n17 They were late for the concert. (you)\n18 Dick wrote me a letter. (his mother)\n19 I like sweets. (we all)\n20 The potatoes are too salt. (the beans)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9935028672826459,
+          "minimum_content_confidence_score": 0.5309458372076894,
+          "block_type_confidence_score": 0.9837211119847702
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 603,
+        "bottom_right_x": 144,
+        "bottom_right_y": 683,
+        "content": "# **19.12**\n**Elementary**\n**ADDITIONS**\n**TO REMARKS**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9319357480625818,
+          "minimum_content_confidence_score": 0.6291488718310013,
+          "block_type_confidence_score": 0.5033982308786126
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 603,
+        "bottom_right_x": 649,
+        "bottom_right_y": 664,
+        "content": "Negative addition is made by using the appropriate auxiliary, introduced by *nor* or *neither*; INVERSION takes place.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995249580916566,
+          "minimum_content_confidence_score": 0.9961471742481718,
+          "block_type_confidence_score": 0.9998180005388472
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 210,
+        "top_left_y": 667,
+        "bottom_right_x": 600,
+        "bottom_right_y": 708,
+        "content": "He can't read this. – Nor *can I*.\nPotatoes won't grow here. – Neither *will* roses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9626345185307851,
+          "minimum_content_confidence_score": 0.6185641347615449,
+          "block_type_confidence_score": 0.9957682915473423
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 353,
+        "top_left_y": 722,
+        "bottom_right_x": 460,
+        "bottom_right_y": 736,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9945091032847598,
+          "minimum_content_confidence_score": 0.9869622880530672,
+          "block_type_confidence_score": 0.9998219330388024
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 747,
+        "bottom_right_x": 649,
+        "bottom_right_y": 989,
+        "content": "- ● Read the following remarks and add to them, either freely or using the suggestion in brackets:\n1 Dogs don't fly. (pigs)\n2 Dogs can't fly. (cats)\n3 He wasn't late. (you)\n4 He hasn't any time. (I)\n5 These books don't belong to me. (those)\n6 These aren't my books. (those)\n7 A chair can't stand on three legs. (a table)\n8 He oughtn't to make such a mistake. (you)\n9 We couldn't remember his name. (they)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999421183994827,
+          "minimum_content_confidence_score": 0.9988290685399853,
+          "block_type_confidence_score": 0.9999681721318864
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

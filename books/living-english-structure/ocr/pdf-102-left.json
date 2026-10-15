@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-102-left",
+    "pdf_page": 102,
+    "side": "left",
+    "reading_order": 203
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "18 There's no (know) what might happen if we start (they, work) on plans that won't bear (look into).19 Don't (keep) (I, wait) long before (answer) my question.20 Listen to (the baby, cry)! He can't stand (have) to wait for his food, and he won't leave off (cry) till he gets it.21 I advise you (wait) before (decide) (accept) the job.22 Is (boil) or (fry) the best way of (cook) this fish?23 I should like (watch) these farmworkers (cut) the corn for a few minutes before (go) any farther.24 Did you forget (remind) John (ask) his friend (pay back) the money he owes us?25 Please (begin) (eat) now without (wait) for the others to come. There's no (tell) when they'll manage (get) here.26 I can see (you, begin) (smile), so it is no use (you, pretend) (be) asleep.27 Maisie says she would love (go) with me to the cinema tonight; she says she hates (go) out alone.28 Would you mind (arrange) (travel) with my young sister?29 Do you remember (I, ask) you (lend) me a dictionary?30 Try (persuade) Maisie (be) more reasonable.31 If you don't enjoy (eat) sour oranges, try (put) sugar on them after (peel) them.32 I'm surprised at (you, have) to work so late. Just imagine (I, do) the same! No, it doesn't bear (think about).33 I observed Cyril (try) (persuade) the children (watch) (he, dance) a jig.34 (Stay) at work all day will mean (we, have) only sandwiches for lunch.35 If I find you (day-dream) again instead of (work), I regret (say) I shall have to complain to the manager of (you, not pull) your weight. It'll be no good (you, try) (find) an excuse next time.36 I don't fancy (go on) (wait) much longer for her. Would you consider (give) her another five minutes before (give up) (wait) for her altogether?37 By (get) to school late we escaped (have) an exam.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "192\n40 Infinitive and Gerund",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 675
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.990252696180576,
+      "minimum_page_confidence_score": 0.35755124091844814
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 20,
+        "bottom_right_x": 50,
+        "bottom_right_y": 39,
+        "content": "192",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999334856404999,
+          "minimum_content_confidence_score": 0.9999334856404999,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 20,
+        "bottom_right_x": 313,
+        "bottom_right_y": 39,
+        "content": "40 Infinitive and Gerund",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9875257295633921,
+          "minimum_content_confidence_score": 0.9507283716487231,
+          "block_type_confidence_score": 0.9996693398936102
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 72,
+        "bottom_right_x": 607,
+        "bottom_right_y": 991,
+        "content": "18 There's no (know) what might happen if we start (they, work) on plans that won't bear (look into).19 Don't (keep) (I, wait) long before (answer) my question.20 Listen to (the baby, cry)! He can't stand (have) to wait for his food, and he won't leave off (cry) till he gets it.21 I advise you (wait) before (decide) (accept) the job.22 Is (boil) or (fry) the best way of (cook) this fish?23 I should like (watch) these farmworkers (cut) the corn for a few minutes before (go) any farther.24 Did you forget (remind) John (ask) his friend (pay back) the money he owes us?25 Please (begin) (eat) now without (wait) for the others to come. There's no (tell) when they'll manage (get) here.26 I can see (you, begin) (smile), so it is no use (you, pretend) (be) asleep.27 Maisie says she would love (go) with me to the cinema tonight; she says she hates (go) out alone.28 Would you mind (arrange) (travel) with my young sister?29 Do you remember (I, ask) you (lend) me a dictionary?30 Try (persuade) Maisie (be) more reasonable.31 If you don't enjoy (eat) sour oranges, try (put) sugar on them after (peel) them.32 I'm surprised at (you, have) to work so late. Just imagine (I, do) the same! No, it doesn't bear (think about).33 I observed Cyril (try) (persuade) the children (watch) (he, dance) a jig.34 (Stay) at work all day will mean (we, have) only sandwiches for lunch.35 If I find you (day-dream) again instead of (work), I regret (say) I shall have to complain to the manager of (you, not pull) your weight. It'll be no good (you, try) (find) an excuse next time.36 I don't fancy (go on) (wait) much longer for her. Would you consider (give) her another five minutes before (give up) (wait) for her altogether?37 By (get) to school late we escaped (have) an exam.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991957961068294,
+          "minimum_content_confidence_score": 0.8863940086080225,
+          "block_type_confidence_score": 0.8932963139375789
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

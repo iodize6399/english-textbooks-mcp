@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-118-right",
+    "pdf_page": 118,
+    "side": "right",
+    "reading_order": 236
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "2 He has three sons, and they all work in the same office.\n3 He gave each of the ladies a rose, and this earned him their smiles.\n4 He studied hard in his youth, and that contributed to his success in later life.\n5 His cousin built several houses, and they are none of them more than five miles from the heart of London.\n6 Cyril used to be fond of boxing, and that accounts for his crooked nose.\n7 John went fishing last weekend, and that is one of the pleasantest ways of spending one's leisure.\n8 There were two spare rooms upstairs, and neither of them had been used for years.\n9 They have four children, and they all go to a Comprehensive School.\n10 He passed his examination with honours, and this made his parents very proud of him.\n11 The soldier on overseas service had a baby girl aged three years, but he had never seen her.\n12 He was dropped when he was a baby, and that made him a permanent invalid.\n13 They are going on a voyage of exploration to the South Pole, and it will be a dangerous undertaking.\n14 There were two dwarfs at the circus, and neither of them was over three feet high.\n15 The Professor came home drunk the other night, and that shocked the whole neighbourhood.\n\n**46.10**\n**Advanced**\n\n**DEFINING RELATIVE.** Read notes to Exercises 46.1-3 for general remarks on the defining relative.\n\nAdvanced students frequently ask why we say such and such a thing. The following brief notes on the relative are added for this purpose to be expanded as required by the teacher.\n\n**HISTORICAL.** *That* was originally used in relative clauses of all kinds; the *wh*—forms were purely interrogative. Gradually the *wh*—forms came to be used side by side with *that*, and since the eighteenth century have gained great popularity in English, largely through the efforts of classical writers, especially Addison and Johnson, who attempted to make an English imitation of Latin grammatical forms.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n225",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9790175715739909,
+      "minimum_page_confidence_score": 0.3467715529816327
+    },
+    "blocks": [
+      {
+        "top_left_x": 144,
+        "top_left_y": 14,
+        "bottom_right_x": 258,
+        "bottom_right_y": 34,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972063143091852,
+          "minimum_content_confidence_score": 0.99443575468574,
+          "block_type_confidence_score": 0.9999915821019969
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 14,
+        "bottom_right_x": 651,
+        "bottom_right_y": 33,
+        "content": "225",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999609980179329,
+          "minimum_content_confidence_score": 0.999609980179329,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 69,
+        "bottom_right_x": 654,
+        "bottom_right_y": 701,
+        "content": "2 He has three sons, and they all work in the same office.\n3 He gave each of the ladies a rose, and this earned him their smiles.\n4 He studied hard in his youth, and that contributed to his success in later life.\n5 His cousin built several houses, and they are none of them more than five miles from the heart of London.\n6 Cyril used to be fond of boxing, and that accounts for his crooked nose.\n7 John went fishing last weekend, and that is one of the pleasantest ways of spending one's leisure.\n8 There were two spare rooms upstairs, and neither of them had been used for years.\n9 They have four children, and they all go to a Comprehensive School.\n10 He passed his examination with honours, and this made his parents very proud of him.\n11 The soldier on overseas service had a baby girl aged three years, but he had never seen her.\n12 He was dropped when he was a baby, and that made him a permanent invalid.\n13 They are going on a voyage of exploration to the South Pole, and it will be a dangerous undertaking.\n14 There were two dwarfs at the circus, and neither of them was over three feet high.\n15 The Professor came home drunk the other night, and that shocked the whole neighbourhood.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977635506472655,
+          "minimum_content_confidence_score": 0.5602622214345349,
+          "block_type_confidence_score": 0.9993725186536804
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 54,
+        "top_left_y": 719,
+        "bottom_right_x": 135,
+        "bottom_right_y": 760,
+        "content": "**46.10**\n**Advanced**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9438789329348563,
+          "minimum_content_confidence_score": 0.8720949557719774,
+          "block_type_confidence_score": 0.5534164945047227
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 719,
+        "bottom_right_x": 656,
+        "bottom_right_y": 761,
+        "content": "**DEFINING RELATIVE.** Read notes to Exercises 46.1-3 for general remarks on the defining relative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9917630805637984,
+          "minimum_content_confidence_score": 0.9391850101699355,
+          "block_type_confidence_score": 0.9998070374063454
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 760,
+        "bottom_right_x": 656,
+        "bottom_right_y": 839,
+        "content": "Advanced students frequently ask why we say such and such a thing. The following brief notes on the relative are added for this purpose to be expanded as required by the teacher.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998932037475892,
+          "minimum_content_confidence_score": 0.9969267218185967,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 839,
+        "bottom_right_x": 656,
+        "bottom_right_y": 980,
+        "content": "**HISTORICAL.** *That* was originally used in relative clauses of all kinds; the *wh*—forms were purely interrogative. Gradually the *wh*—forms came to be used side by side with *that*, and since the eighteenth century have gained great popularity in English, largely through the efforts of classical writers, especially Addison and Johnson, who attempted to make an English imitation of Latin grammatical forms.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984695272794352,
+          "minimum_content_confidence_score": 0.9188846834321492,
+          "block_type_confidence_score": 0.9999825957461574
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

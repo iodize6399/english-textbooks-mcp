@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-108-right",
+    "pdf_page": 108,
+    "side": "right",
+    "reading_order": 216
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "4 The man over there asked for a cup of tea.\n5 Maisie was eating out of a paper bag.\n6 Miss Sharp sailed on the 'Queen Elizabeth 2'.\n7 Cyril is playing with a ball.\n8 The villagers build their huts with mud.\n9 We went to see the latest film yesterday.\n10 The clerk rang up his girl-friend.\n11 The gardener spoke to the cook about it.\n12 She threw away some old clothes.\n13 I found out the reason.\n14 A tailor sews with a needle.\n15 The old man was listening to the radio.\n16 Shoes are made of leather.\n17 I am thinking about the party tonight.\n18 Mary reads to an old blind woman every week.\n19 I shall put on my new evening dress.\n20 You were looking at the view.\n\n# GENERAL REVISION\n\n# 44.9\nIntermediate\n\nIn the same way as explained in Exercise 44.6, prepositions are separated from the interrogative where.\n\nWhere have you come from?\n\nNote the question-form: What is . . . like?\n\n* * *\n\n● Ask questions with interrogatives (including why, when, where, how) to which the following statements are the answers. The point of the question appears in bold type:\n1 A leaf is part of a tree.\n2 My father is an engine driver.\n3 That handsome man over there is Mr Green.\n4 I am coming back on Friday.\n5 She is singing because she is happy.\n6 You left your glasses on the table.\n7 My friend Maisie married a sailor.\n8 He opened the door with a key.\n9 Cyril has only £17 in the bank.\n10 I have two cigarettes.\n11 I intend to remain here for two weeks.\n12 You can give your old trousers to the poor.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "44 Interrogatives\n205",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9740381522834207,
+      "minimum_page_confidence_score": 0.3049313645578076
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 20,
+        "bottom_right_x": 298,
+        "bottom_right_y": 40,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997044465563177,
+          "minimum_content_confidence_score": 0.9995400061348958,
+          "block_type_confidence_score": 0.999985420123213
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 21,
+        "bottom_right_x": 657,
+        "bottom_right_y": 39,
+        "content": "205",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998850954462006,
+          "minimum_content_confidence_score": 0.9998850954462006,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 75,
+        "bottom_right_x": 608,
+        "bottom_right_y": 445,
+        "content": "4 The man over there asked for a cup of tea.\n5 Maisie was eating out of a paper bag.\n6 Miss Sharp sailed on the 'Queen Elizabeth 2'.\n7 Cyril is playing with a ball.\n8 The villagers build their huts with mud.\n9 We went to see the latest film yesterday.\n10 The clerk rang up his girl-friend.\n11 The gardener spoke to the cook about it.\n12 She threw away some old clothes.\n13 I found out the reason.\n14 A tailor sews with a needle.\n15 The old man was listening to the radio.\n16 Shoes are made of leather.\n17 I am thinking about the party tonight.\n18 Mary reads to an old blind woman every week.\n19 I shall put on my new evening dress.\n20 You were looking at the view.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996995658170109,
+          "minimum_content_confidence_score": 0.9871457937122279,
+          "block_type_confidence_score": 0.9770170716713684
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 475,
+        "bottom_right_x": 379,
+        "bottom_right_y": 494,
+        "content": "# GENERAL REVISION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9499541783518101,
+          "minimum_content_confidence_score": 0.8669934359192603,
+          "block_type_confidence_score": 0.9446155136799096
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 515,
+        "bottom_right_x": 158,
+        "bottom_right_y": 555,
+        "content": "# 44.9\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.934187578469985,
+          "minimum_content_confidence_score": 0.7651532146083977,
+          "block_type_confidence_score": 0.7035996168331035
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 516,
+        "bottom_right_x": 657,
+        "bottom_right_y": 556,
+        "content": "In the same way as explained in Exercise 44.6, prepositions are separated from the interrogative where.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9924578224639277,
+          "minimum_content_confidence_score": 0.9320533668127714,
+          "block_type_confidence_score": 0.9999699601613475
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 560,
+        "bottom_right_x": 461,
+        "bottom_right_y": 580,
+        "content": "Where have you come from?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999834005740744,
+          "minimum_content_confidence_score": 0.9999342880217392,
+          "block_type_confidence_score": 0.9999710329823779
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 589,
+        "bottom_right_x": 533,
+        "bottom_right_y": 610,
+        "content": "Note the question-form: What is . . . like?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9789888293253389,
+          "minimum_content_confidence_score": 0.8170722636003832,
+          "block_type_confidence_score": 0.9999618544824983
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 363,
+        "top_left_y": 623,
+        "bottom_right_x": 468,
+        "bottom_right_y": 637,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9929843585955688,
+          "minimum_content_confidence_score": 0.9798507397387519,
+          "block_type_confidence_score": 0.9999896288992495
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 649,
+        "bottom_right_x": 657,
+        "bottom_right_y": 973,
+        "content": "● Ask questions with interrogatives (including why, when, where, how) to which the following statements are the answers. The point of the question appears in bold type:\n1 A leaf is part of a tree.\n2 My father is an engine driver.\n3 That handsome man over there is Mr Green.\n4 I am coming back on Friday.\n5 She is singing because she is happy.\n6 You left your glasses on the table.\n7 My friend Maisie married a sailor.\n8 He opened the door with a key.\n9 Cyril has only £17 in the bank.\n10 I have two cigarettes.\n11 I intend to remain here for two weeks.\n12 You can give your old trousers to the poor.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981127435542405,
+          "minimum_content_confidence_score": 0.815546842611018,
+          "block_type_confidence_score": 0.9988107536014368
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

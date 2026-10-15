@@ -1,0 +1,434 @@
+{
+  "source": {
+    "id": "pdf-008-right",
+    "pdf_page": 8,
+    "side": "right",
+    "reading_order": 16
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:05.087310+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "10 — beautiful music they are playing!\n11 — fun your friend Maisie is!\n12 — strange name to give a dog!\n13 — funny thing to say!\n14 — good meat this is!\n15 — pity Cyril couldn't come!\n\n# 1.7\n\n# Elementary\n\nA(n) is used for any one example of a COUNTABLE noun. The plural of this is some. It means 'an unknown number of' the things named by that noun. We prefer to use There is (are, was, etc.) to introduce this idea instead of the simple verb to be. (See also Exercise 50.1.)\n\nThere is a broken chair in the corner of the room.\n\nThere were some books on this table yesterday.\n\nThere'll be a picnic in the forest next Friday.\n\nThe DEFINITE ARTICLE the is used whenever the noun is identified for us as 'one special, known example' (or 'certain known examples' in the plural).\n\nA man and a boy were going along a dusty road. The man was pushing the boy along the road on a toy bicycle. The bicycle belonged to the boy's sister . . .\n\n* * *\n\n● Supply a(n), the or some where necessary:\n\n1 — children love — fruit.\n\n2 — child ran across — street.\n\n3 It is pleasant to read — book in — afternoon.\n\n4 There is — garden behind — house.\n\n5 I have — pen and — pencil.\n\n6 — tea is very hot, I must put — milk in it.\n\n7 — postman has just put — letter under — door.\n\n8 Give me — knife and — small spoon.\n\n9 — cat loves — milk.\n\n10 Mary wants — doll with — blue eyes.\n\n11 You must give him — food and — cup of coffee.\n\n12 — car made — loud noise.\n\n13 — vegetables are good for — health.\n\n14 — girls do not often wear — hats.\n\n15 — door of — garage is broken.\n\n16 There are — beautiful flowers in — park.\n\n17 I want — glass of — milk.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "1 Countables and Uncountables\n5",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1021,
+      "width": 692
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9729101323124009,
+      "minimum_page_confidence_score": 0.17737915425348644
+    },
+    "blocks": [
+      {
+        "top_left_x": 166,
+        "top_left_y": 17,
+        "bottom_right_x": 432,
+        "bottom_right_y": 38,
+        "content": "1 Countables and Uncountables",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999788592433065,
+          "minimum_content_confidence_score": 0.9995364907976888,
+          "block_type_confidence_score": 0.9947873070924623
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 653,
+        "top_left_y": 18,
+        "bottom_right_x": 668,
+        "bottom_right_y": 37,
+        "content": "5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996224875508513,
+          "minimum_content_confidence_score": 0.9996224875508513,
+          "block_type_confidence_score": 0.9999946081181529
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 73,
+        "bottom_right_x": 520,
+        "bottom_right_y": 205,
+        "content": "10 — beautiful music they are playing!\n11 — fun your friend Maisie is!\n12 — strange name to give a dog!\n13 — funny thing to say!\n14 — good meat this is!\n15 — pity Cyril couldn't come!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9862796306191487,
+          "minimum_content_confidence_score": 0.7863477086985559,
+          "block_type_confidence_score": 0.9992241922163972
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 64,
+        "top_left_y": 222,
+        "bottom_right_x": 96,
+        "bottom_right_y": 242,
+        "content": "# 1.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9514617628332308,
+          "minimum_content_confidence_score": 0.9046501217161695,
+          "block_type_confidence_score": 0.6486108458681076
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 64,
+        "top_left_y": 244,
+        "bottom_right_x": 158,
+        "bottom_right_y": 265,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999608591449954,
+          "minimum_content_confidence_score": 0.9992920407305149,
+          "block_type_confidence_score": 0.9922105059531376
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 225,
+        "bottom_right_x": 666,
+        "bottom_right_y": 326,
+        "content": "A(n) is used for any one example of a COUNTABLE noun. The plural of this is some. It means 'an unknown number of' the things named by that noun. We prefer to use There is (are, was, etc.) to introduce this idea instead of the simple verb to be. (See also Exercise 50.1.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993145421573284,
+          "minimum_content_confidence_score": 0.9777239599297669,
+          "block_type_confidence_score": 0.9998810432844463
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 229,
+        "top_left_y": 328,
+        "bottom_right_x": 644,
+        "bottom_right_y": 349,
+        "content": "There is a broken chair in the corner of the room.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999925007804044,
+          "minimum_content_confidence_score": 0.9999752050825816,
+          "block_type_confidence_score": 0.99906746168228
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 229,
+        "top_left_y": 349,
+        "bottom_right_x": 617,
+        "bottom_right_y": 369,
+        "content": "There were some books on this table yesterday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999860932873808,
+          "minimum_content_confidence_score": 0.9999520444289105,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 229,
+        "top_left_y": 369,
+        "bottom_right_x": 598,
+        "bottom_right_y": 389,
+        "content": "There'll be a picnic in the forest next Friday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999900214910552,
+          "minimum_content_confidence_score": 0.9999542257282243,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 398,
+        "bottom_right_x": 666,
+        "bottom_right_y": 459,
+        "content": "The DEFINITE ARTICLE the is used whenever the noun is identified for us as 'one special, known example' (or 'certain known examples' in the plural).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997988404198065,
+          "minimum_content_confidence_score": 0.9953777851957313,
+          "block_type_confidence_score": 0.9999666225125773
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 227,
+        "top_left_y": 461,
+        "bottom_right_x": 666,
+        "bottom_right_y": 522,
+        "content": "A man and a boy were going along a dusty road. The man was pushing the boy along the road on a toy bicycle. The bicycle belonged to the boy's sister . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9871650078862412,
+          "minimum_content_confidence_score": 0.5663399069604764,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 371,
+        "top_left_y": 533,
+        "bottom_right_x": 478,
+        "bottom_right_y": 549,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940811044008178,
+          "minimum_content_confidence_score": 0.9829019338051934,
+          "block_type_confidence_score": 0.9962197933385954
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 559,
+        "bottom_right_x": 535,
+        "bottom_right_y": 582,
+        "content": "● Supply a(n), the or some where necessary:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9550008688811933,
+          "minimum_content_confidence_score": 0.640182086857207,
+          "block_type_confidence_score": 0.9455679550355525
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 583,
+        "bottom_right_x": 416,
+        "bottom_right_y": 605,
+        "content": "1 — children love — fruit.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999633603540438,
+          "minimum_content_confidence_score": 0.9998133530919079,
+          "block_type_confidence_score": 0.7057241789840274
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 605,
+        "bottom_right_x": 452,
+        "bottom_right_y": 626,
+        "content": "2 — child ran across — street.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999481979602875,
+          "minimum_content_confidence_score": 0.9964728036615633,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 626,
+        "bottom_right_x": 616,
+        "bottom_right_y": 649,
+        "content": "3 It is pleasant to read — book in — afternoon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999826056639356,
+          "minimum_content_confidence_score": 0.9998871215477863,
+          "block_type_confidence_score": 0.9999545833252356
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 649,
+        "bottom_right_x": 520,
+        "bottom_right_y": 670,
+        "content": "4 There is — garden behind — house.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999971368643169,
+          "minimum_content_confidence_score": 0.9999903441405488,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 670,
+        "bottom_right_x": 450,
+        "bottom_right_y": 693,
+        "content": "5 I have — pen and — pencil.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999995561354388,
+          "minimum_content_confidence_score": 0.999985933501902,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 693,
+        "bottom_right_x": 588,
+        "bottom_right_y": 714,
+        "content": "6 — tea is very hot, I must put — milk in it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999881009707298,
+          "minimum_content_confidence_score": 0.9999289563119074,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 714,
+        "bottom_right_x": 635,
+        "bottom_right_y": 737,
+        "content": "7 — postman has just put — letter under — door.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999839609706155,
+          "minimum_content_confidence_score": 0.9999198105363678,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 737,
+        "bottom_right_x": 538,
+        "bottom_right_y": 758,
+        "content": "8 Give me — knife and — small spoon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999963461702036,
+          "minimum_content_confidence_score": 0.9999863081655129,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 758,
+        "bottom_right_x": 379,
+        "bottom_right_y": 779,
+        "content": "9 — cat loves — milk.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999812156531211,
+          "minimum_content_confidence_score": 0.99992728761822,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 779,
+        "bottom_right_x": 540,
+        "bottom_right_y": 801,
+        "content": "10 Mary wants — doll with — blue eyes.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999586560433771,
+          "minimum_content_confidence_score": 0.9997289915340261,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 801,
+        "bottom_right_x": 644,
+        "bottom_right_y": 824,
+        "content": "11 You must give him — food and — cup of coffee.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999942322167946,
+          "minimum_content_confidence_score": 0.9999607079419288,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 824,
+        "bottom_right_x": 436,
+        "bottom_right_y": 844,
+        "content": "12 — car made — loud noise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999818127261518,
+          "minimum_content_confidence_score": 0.9999498156047876,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 844,
+        "bottom_right_x": 524,
+        "bottom_right_y": 867,
+        "content": "13 — vegetables are good for — health.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999918306080438,
+          "minimum_content_confidence_score": 0.999979258013377,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 867,
+        "bottom_right_x": 504,
+        "bottom_right_y": 888,
+        "content": "14 — girls do not often wear — hats.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934458330605,
+          "minimum_content_confidence_score": 0.9999678344260878,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 888,
+        "bottom_right_x": 478,
+        "bottom_right_y": 910,
+        "content": "15 — door of — garage is broken.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999822553473274,
+          "minimum_content_confidence_score": 0.9999332472523584,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 910,
+        "bottom_right_x": 570,
+        "bottom_right_y": 933,
+        "content": "16 There are — beautiful flowers in — park.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999783273885513,
+          "minimum_content_confidence_score": 0.9998327220633646,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 933,
+        "bottom_right_x": 436,
+        "bottom_right_y": 955,
+        "content": "17 I want — glass of — milk.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999997648108329,
+          "minimum_content_confidence_score": 0.9999952515219284,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

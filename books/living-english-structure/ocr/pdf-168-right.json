@@ -1,0 +1,317 @@
+{
+  "source": {
+    "id": "pdf-168-right",
+    "pdf_page": 168,
+    "side": "right",
+    "reading_order": 336
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "be used when the verb of the main clause is in a past tense. *That* can be omitted wherever it occurs between brackets in this section.\n\nThey rented the top floor that they might have a good view.\n\n(But the simple *that*-clause is not much used to express purpose in modern English.)\n\nThey have arrived early so that (in order that) they may (shall) not miss the overture. (Literary style.)\n\nThey've come early so (that) they won't miss the overture. (Good spoken English style.)\n\nThey arrived early so that (in order that) they might (should) not miss the overture. (Literary style.)\n\nThey came early so (that) they wouldn't miss the overture. (Good spoken English style.)\n\nMake a note of it so (that) you don't (shan't) forget. Make a note of it lest you (may, might, should) forget. (Literary.)\n\nMake a note of it in case you forget. (Good colloquial.)\n\nWe didn't move lest we should (might) wake him up. (Literary.)\n\nWe didn't move for fear (that) we should (might) wake him up. (Literary – *for fear (that)* is mainly used with a negative main clause.)\n\nWe didn't move in case we woke him up. (Good colloquial.)\n\n#### L RESULT\n\nChief conjunctions: *that, so (that), so (such) . . . that; but that* (negative).\n\nRESULT clauses are like an inversion of clauses of CAUSE. The *so that* introducing a clause of PURPOSE can always be replaced by *in order that*; we cannot do this with *so that* introducing a clause of RESULT. We can, however, reverse the clauses in such a sentence, changing the main clause into one of CAUSE (introduced by *as, since* or *because*).\n\nShe bought a book so (that) she might learn English. (PURPOSE)\n\nShe bought a book in order that she might learn English.\n\nShe bought a good book, so (that) she learnt English well. (RESULT)\n\nShe bought so good a book that she learnt English well. (Literary)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "58 Appendix on Clauses\n325",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9772149570894801,
+      "minimum_page_confidence_score": 0.2749217995267243
+    },
+    "blocks": [
+      {
+        "top_left_x": 142,
+        "top_left_y": 22,
+        "bottom_right_x": 351,
+        "bottom_right_y": 44,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982680348577903,
+          "minimum_content_confidence_score": 0.9938065744937639,
+          "block_type_confidence_score": 0.9999693555297061
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 623,
+        "top_left_y": 26,
+        "bottom_right_x": 657,
+        "bottom_right_y": 45,
+        "content": "325",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9886088410018249,
+          "minimum_content_confidence_score": 0.9886088410018249,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 78,
+        "bottom_right_x": 657,
+        "bottom_right_y": 138,
+        "content": "be used when the verb of the main clause is in a past tense. *That* can be omitted wherever it occurs between brackets in this section.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99743513070687,
+          "minimum_content_confidence_score": 0.9595559964979921,
+          "block_type_confidence_score": 0.9999878408000585
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 142,
+        "bottom_right_x": 657,
+        "bottom_right_y": 181,
+        "content": "They rented the top floor that they might have a good view.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999845479202337,
+          "minimum_content_confidence_score": 0.9999485042370907,
+          "block_type_confidence_score": 0.9924093520519643
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 182,
+        "bottom_right_x": 657,
+        "bottom_right_y": 224,
+        "content": "(But the simple *that*-clause is not much used to express purpose in modern English.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997904174096252,
+          "minimum_content_confidence_score": 0.9981949767454592,
+          "block_type_confidence_score": 0.9999768739326302
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 223,
+        "bottom_right_x": 657,
+        "bottom_right_y": 264,
+        "content": "They have arrived early so that (in order that) they may (shall) not miss the overture. (Literary style.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989208835985325,
+          "minimum_content_confidence_score": 0.9826836455292813,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 262,
+        "bottom_right_x": 657,
+        "bottom_right_y": 303,
+        "content": "They've come early so (that) they won't miss the overture. (Good spoken English style.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9842747042632681,
+          "minimum_content_confidence_score": 0.7809975146915888,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 302,
+        "bottom_right_x": 657,
+        "bottom_right_y": 343,
+        "content": "They arrived early so that (in order that) they might (should) not miss the overture. (Literary style.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999687165375893,
+          "minimum_content_confidence_score": 0.99986304729117,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 342,
+        "bottom_right_x": 657,
+        "bottom_right_y": 383,
+        "content": "They came early so (that) they wouldn't miss the overture. (Good spoken English style.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999442290246228,
+          "minimum_content_confidence_score": 0.9995247001740262,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 382,
+        "bottom_right_x": 657,
+        "bottom_right_y": 441,
+        "content": "Make a note of it so (that) you don't (shan't) forget. Make a note of it lest you (may, might, should) forget. (Literary.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944417110025863,
+          "minimum_content_confidence_score": 0.9130003527405665,
+          "block_type_confidence_score": 0.9999142958679805
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 440,
+        "bottom_right_x": 657,
+        "bottom_right_y": 480,
+        "content": "Make a note of it in case you forget. (Good colloquial.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999575350833503,
+          "minimum_content_confidence_score": 0.999753347449305,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 480,
+        "bottom_right_x": 657,
+        "bottom_right_y": 520,
+        "content": "We didn't move lest we should (might) wake him up. (Literary.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998203922578274,
+          "minimum_content_confidence_score": 0.9984668194391264,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 520,
+        "bottom_right_x": 657,
+        "bottom_right_y": 580,
+        "content": "We didn't move for fear (that) we should (might) wake him up. (Literary – *for fear (that)* is mainly used with a negative main clause.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9892971606916768,
+          "minimum_content_confidence_score": 0.8648875190738048,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 579,
+        "bottom_right_x": 657,
+        "bottom_right_y": 620,
+        "content": "We didn't move in case we woke him up. (Good colloquial.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999955093062912,
+          "minimum_content_confidence_score": 0.9995837117538748,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 639,
+        "bottom_right_x": 240,
+        "bottom_right_y": 658,
+        "content": "#### L RESULT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7914307828988568,
+          "minimum_content_confidence_score": 0.43583011829935464,
+          "block_type_confidence_score": 0.9902006983963781
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 659,
+        "bottom_right_x": 657,
+        "bottom_right_y": 699,
+        "content": "Chief conjunctions: *that, so (that), so (such) . . . that; but that* (negative).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9909458176213032,
+          "minimum_content_confidence_score": 0.913360801307357,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 699,
+        "bottom_right_x": 657,
+        "bottom_right_y": 820,
+        "content": "RESULT clauses are like an inversion of clauses of CAUSE. The *so that* introducing a clause of PURPOSE can always be replaced by *in order that*; we cannot do this with *so that* introducing a clause of RESULT. We can, however, reverse the clauses in such a sentence, changing the main clause into one of CAUSE (introduced by *as, since* or *because*).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99681100643521,
+          "minimum_content_confidence_score": 0.9160390883102647,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 819,
+        "bottom_right_x": 657,
+        "bottom_right_y": 858,
+        "content": "She bought a book so (that) she might learn English. (PURPOSE)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995174380788509,
+          "minimum_content_confidence_score": 0.9966328153515378,
+          "block_type_confidence_score": 0.9999203745371731
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 858,
+        "bottom_right_x": 657,
+        "bottom_right_y": 897,
+        "content": "She bought a book in order that she might learn English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999961541981754,
+          "minimum_content_confidence_score": 0.9998137105948935,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 897,
+        "bottom_right_x": 657,
+        "bottom_right_y": 937,
+        "content": "She bought a good book, so (that) she learnt English well. (RESULT)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999511296698195,
+          "minimum_content_confidence_score": 0.9998048244064436,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 937,
+        "bottom_right_x": 657,
+        "bottom_right_y": 978,
+        "content": "She bought so good a book that she learnt English well. (Literary)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999093668290583,
+          "minimum_content_confidence_score": 0.9994468174748747,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

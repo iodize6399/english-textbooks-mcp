@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-023-left",
+    "pdf_page": 23,
+    "side": "left",
+    "reading_order": 45
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "3 I asked someone to paint the gate last week.\n4 Someone tuned her piano for her yesterday.\n5 Somebody will have to see to it for you.\n6 I asked a man to mend my shoes.\n7 Somebody sends Maisie her dresses from Paris.\n8 Your hair wants cutting. You must —.\n9 Tell someone to translate it into English.\n10 Our season tickets need renewing. We must —.\n11 I'll ask someone to make a new one.\n12 We ordered somebody to whitewash the ceiling.\n13 Order someone to send it round to the house.\n14 The knives want sharpening. We must —.\n15 We must find somebody to chop all this wood up.\n16 Tell him to take another photograph.\n17 I'm going to tell someone to add an extra room.\n18 Your car wants servicing. You must —.\n19 He asked his tailor to lengthen the trousers.\n20 Tell someone to bring it to you on a tray.\n\n## 16 must, have to, need\n\n# 16.1\n\nElementary\nMUST AND\nMUST NOT\n\nMust and have (got) to are commands or obligations.\n\nMust not and am/is/are not to are prohibitions (negative commands).\n\nThey are PRESENT and FUTURE in meaning; but future obligation can be made more precise with the form shall have to.\n\nPAST TENSE:\n\nHad (got) to is an obligation in the past.\n\nWas/were not to is a prohibition in the past: it occurs mostly in reported speech.\n\n* * *\n\n● Read each sentence as it stands, then make it refer to the past:\n\n1 You must do it at once.\n2 He mustn't tell me.\n3 She has to wash the glasses.\n4 He is not to come before seven.\n5 You'll have to read it again.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "34\n16 must, have to, need",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 698
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.974325563649038,
+      "minimum_page_confidence_score": 0.2454355473563446
+    },
+    "blocks": [
+      {
+        "top_left_x": 37,
+        "top_left_y": 18,
+        "bottom_right_x": 59,
+        "bottom_right_y": 37,
+        "content": "34",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997450763371897,
+          "minimum_content_confidence_score": 0.9997450763371897,
+          "block_type_confidence_score": 0.9999934527270476
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 126,
+        "top_left_y": 18,
+        "bottom_right_x": 319,
+        "bottom_right_y": 38,
+        "content": "16 must, have to, need",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9895352120301636,
+          "minimum_content_confidence_score": 0.9477332783567123,
+          "block_type_confidence_score": 0.9876189991217591
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 126,
+        "top_left_y": 71,
+        "bottom_right_x": 611,
+        "bottom_right_y": 465,
+        "content": "3 I asked someone to paint the gate last week.\n4 Someone tuned her piano for her yesterday.\n5 Somebody will have to see to it for you.\n6 I asked a man to mend my shoes.\n7 Somebody sends Maisie her dresses from Paris.\n8 Your hair wants cutting. You must —.\n9 Tell someone to translate it into English.\n10 Our season tickets need renewing. We must —.\n11 I'll ask someone to make a new one.\n12 We ordered somebody to whitewash the ceiling.\n13 Order someone to send it round to the house.\n14 The knives want sharpening. We must —.\n15 We must find somebody to chop all this wood up.\n16 Tell him to take another photograph.\n17 I'm going to tell someone to add an extra room.\n18 Your car wants servicing. You must —.\n19 He asked his tailor to lengthen the trousers.\n20 Tell someone to bring it to you on a tray.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969871146535165,
+          "minimum_content_confidence_score": 0.791786124990698,
+          "block_type_confidence_score": 0.9999753242852847
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 505,
+        "bottom_right_x": 401,
+        "bottom_right_y": 535,
+        "content": "## 16 must, have to, need",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9632183317172219,
+          "minimum_content_confidence_score": 0.8806630518601621,
+          "block_type_confidence_score": 0.996885138106883
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 584,
+        "bottom_right_x": 78,
+        "bottom_right_y": 605,
+        "content": "# 16.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8352196798581386,
+          "minimum_content_confidence_score": 0.7057830085538628,
+          "block_type_confidence_score": 0.5916456495449441
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 607,
+        "bottom_right_x": 131,
+        "bottom_right_y": 662,
+        "content": "Elementary\nMUST AND\nMUST NOT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9868682623770269,
+          "minimum_content_confidence_score": 0.9082268074025374,
+          "block_type_confidence_score": 0.55608814104844
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 583,
+        "bottom_right_x": 589,
+        "bottom_right_y": 605,
+        "content": "Must and have (got) to are commands or obligations.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999694860353352,
+          "minimum_content_confidence_score": 0.9999284216920821,
+          "block_type_confidence_score": 0.9992653763630557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 605,
+        "bottom_right_x": 625,
+        "bottom_right_y": 645,
+        "content": "Must not and am/is/are not to are prohibitions (negative commands).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998284105368616,
+          "minimum_content_confidence_score": 0.9834539791847392,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 645,
+        "bottom_right_x": 625,
+        "bottom_right_y": 704,
+        "content": "They are PRESENT and FUTURE in meaning; but future obligation can be made more precise with the form shall have to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999419069925424,
+          "minimum_content_confidence_score": 0.9992857316680204,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 710,
+        "bottom_right_x": 261,
+        "bottom_right_y": 726,
+        "content": "PAST TENSE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9823909213754746,
+          "minimum_content_confidence_score": 0.9649920026180454,
+          "block_type_confidence_score": 0.9873191415602344
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 727,
+        "bottom_right_x": 490,
+        "bottom_right_y": 748,
+        "content": "Had (got) to is an obligation in the past.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999703170614649,
+          "minimum_content_confidence_score": 0.999802390054013,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 748,
+        "bottom_right_x": 625,
+        "bottom_right_y": 789,
+        "content": "Was/were not to is a prohibition in the past: it occurs mostly in reported speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999721959787341,
+          "minimum_content_confidence_score": 0.9997152730659465,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 803,
+        "bottom_right_x": 443,
+        "bottom_right_y": 818,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9899046079134357,
+          "minimum_content_confidence_score": 0.9702185990254322,
+          "block_type_confidence_score": 0.9981640966267762
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 826,
+        "bottom_right_x": 627,
+        "bottom_right_y": 869,
+        "content": "● Read each sentence as it stands, then make it refer to the past:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9757399429939168,
+          "minimum_content_confidence_score": 0.6604270792814573,
+          "block_type_confidence_score": 0.8669621590785807
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 871,
+        "bottom_right_x": 451,
+        "bottom_right_y": 981,
+        "content": "1 You must do it at once.\n2 He mustn't tell me.\n3 She has to wash the glasses.\n4 He is not to come before seven.\n5 You'll have to read it again.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999938711293549,
+          "minimum_content_confidence_score": 0.9991690869745491,
+          "block_type_confidence_score": 0.9999884368330701
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

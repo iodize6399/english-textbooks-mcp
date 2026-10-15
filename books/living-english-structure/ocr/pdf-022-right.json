@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-022-right",
+    "pdf_page": 22,
+    "side": "right",
+    "reading_order": 44
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "3 Did you have a comfortable journey?\n4 Who used to take you out for walks when you were little? (Answer in affirmative, of course.)\n5 'Need I do it at once?' 'No, you —.'\n6 'Ought you to make so much noise?' 'No, I suppose I —.'\n7 Do I have to come at nine?\n8 Did you have to write in ink?\n9 Did you have sausages for breakfast?\n10 Have we any sausages in the house?\n11 Need she put on a clean dress?\n12 'Who wrote that rude remark on the blackboard?' 'I —.'\n13 Did you use to live here? (Used you to live here?)\n14 Dare he come without our invitation?\n15 Did you have your shoes cleaned this morning?\n16 Need it be finished by Saturday?\n17 Do you want any more rice pudding?\n18 Dare they do it again?\n19 Did he dare to call you a thief to your face? (Answer in affirmative.)\n20 Didn't you use to go to school with him? (Usedn't you to go to school with him?)\n\n## 15 Causative use of *have*\n\n15.1\nIntermediate\nand\nAdvanced\n\nCausing something to be done by someone else is expressed by *have* or *get* with a past participle.\n\nHe must have (get) his pen mended. (= Someone must mend it for him.)\n\nI had (got) my shoes cleaned. (= I asked someone to clean them for me.)\n\nQuestions and negatives are made with *do*.\n\n* * *\n\n● Reword the following sentences, using *have* or *get* with a past participle:\n\n1 Someone washed my car for me yesterday.\n\n2 Someone doesn't clean them for us every day.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "15 Causative use of *have*\n33",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1024,
+      "width": 710
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9737038688563021,
+      "minimum_page_confidence_score": 0.1902893690098956
+    },
+    "blocks": [
+      {
+        "top_left_x": 148,
+        "top_left_y": 11,
+        "bottom_right_x": 367,
+        "bottom_right_y": 33,
+        "content": "15 Causative use of *have*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9839779639035013,
+          "minimum_content_confidence_score": 0.9211470296855084,
+          "block_type_confidence_score": 0.9656838642391724
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 650,
+        "top_left_y": 10,
+        "bottom_right_x": 674,
+        "bottom_right_y": 30,
+        "content": "33",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999662649076229,
+          "minimum_content_confidence_score": 0.9999662649076229,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 68,
+        "bottom_right_x": 675,
+        "bottom_right_y": 587,
+        "content": "3 Did you have a comfortable journey?\n4 Who used to take you out for walks when you were little? (Answer in affirmative, of course.)\n5 'Need I do it at once?' 'No, you —.'\n6 'Ought you to make so much noise?' 'No, I suppose I —.'\n7 Do I have to come at nine?\n8 Did you have to write in ink?\n9 Did you have sausages for breakfast?\n10 Have we any sausages in the house?\n11 Need she put on a clean dress?\n12 'Who wrote that rude remark on the blackboard?' 'I —.'\n13 Did you use to live here? (Used you to live here?)\n14 Dare he come without our invitation?\n15 Did you have your shoes cleaned this morning?\n16 Need it be finished by Saturday?\n17 Do you want any more rice pudding?\n18 Dare they do it again?\n19 Did he dare to call you a thief to your face? (Answer in affirmative.)\n20 Didn't you use to go to school with him? (Usedn't you to go to school with him?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992038865142924,
+          "minimum_content_confidence_score": 0.9517601075756466,
+          "block_type_confidence_score": 0.9998732965854205
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 620,
+        "bottom_right_x": 441,
+        "bottom_right_y": 651,
+        "content": "## 15 Causative use of *have*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9936713149834439,
+          "minimum_content_confidence_score": 0.9626271165232144,
+          "block_type_confidence_score": 0.997098188606231
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 698,
+        "bottom_right_x": 163,
+        "bottom_right_y": 781,
+        "content": "15.1\nIntermediate\nand\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9130153161347742,
+          "minimum_content_confidence_score": 0.5811963924069103,
+          "block_type_confidence_score": 0.93697323838934
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 699,
+        "bottom_right_x": 678,
+        "bottom_right_y": 742,
+        "content": "Causing something to be done by someone else is expressed by *have* or *get* with a past participle.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998002514389559,
+          "minimum_content_confidence_score": 0.9981420055536943,
+          "block_type_confidence_score": 0.9999895096921129
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 227,
+        "top_left_y": 744,
+        "bottom_right_x": 679,
+        "bottom_right_y": 786,
+        "content": "He must have (get) his pen mended. (= Someone must mend it for him.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994417263951404,
+          "minimum_content_confidence_score": 0.9971364714706289,
+          "block_type_confidence_score": 0.9999827149515604
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 227,
+        "top_left_y": 786,
+        "bottom_right_x": 679,
+        "bottom_right_y": 828,
+        "content": "I had (got) my shoes cleaned. (= I asked someone to clean them for me.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999981751621011,
+          "minimum_content_confidence_score": 0.9998194305436546,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 836,
+        "bottom_right_x": 554,
+        "bottom_right_y": 859,
+        "content": "Questions and negatives are made with *do*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999833529563353,
+          "minimum_content_confidence_score": 0.9990295918340245,
+          "block_type_confidence_score": 0.9999864103261001
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 375,
+        "top_left_y": 871,
+        "bottom_right_x": 487,
+        "bottom_right_y": 887,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9080482677587555,
+          "minimum_content_confidence_score": 0.725485920949636,
+          "block_type_confidence_score": 0.999327039923232
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 898,
+        "bottom_right_x": 676,
+        "bottom_right_y": 940,
+        "content": "● Reword the following sentences, using *have* or *get* with a past participle:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995226794979187,
+          "minimum_content_confidence_score": 0.9406978303068672,
+          "block_type_confidence_score": 0.8807720705550935
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 943,
+        "bottom_right_x": 592,
+        "bottom_right_y": 967,
+        "content": "1 Someone washed my car for me yesterday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998746790230006,
+          "minimum_content_confidence_score": 0.9994282416990811,
+          "block_type_confidence_score": 0.7981419862966596
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 967,
+        "bottom_right_x": 623,
+        "bottom_right_y": 990,
+        "content": "2 Someone doesn't clean them for us every day.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999915674807964,
+          "minimum_content_confidence_score": 0.9999678145263777,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

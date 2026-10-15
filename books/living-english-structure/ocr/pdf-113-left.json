@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-113-left",
+    "pdf_page": 113,
+    "side": "left",
+    "reading_order": 225
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "The man I always forget the name of is coming to tea.\n\nTHINGS:\n\nThis case is very rare with things; we prefer a way out.\n\nThe book with the torn cover is mine.\n\n(= The book of which the cover is torn . . . – very clumsy.)\n\nN.B. – A defining relative clause is never preceded by a comma.\n\n\\* \\* \\*\n\n(46.2)\n\n● Add relatives, WHERE NEEDED:\n\n1. 1 The book — I was reading yesterday was a detective story.\n2. 2 The man — you spoke to in the street is my English teacher.\n3. 3 I should like to see the trees — you picked these apples from.\n4. 4 There's the lady — purse has been stolen.\n5. 5 The people — you were living with in London are coming to see you.\n6. 6 The picture — you were talking about has been sold.\n7. 7 People — live in glass houses shouldn't throw stones.\n8. 8 Buy it back from the man — you sold it to.\n9. 9 What's the name of that man — wife has run away and left him?\n10. 10 Can you remember the person — you took it from?\n11. 11 Where is there a shop — sells picture-postcards?\n12. 12 That's the knife and fork — I eat with.\n13. 13 Where is the man — sold me these sun-glasses?\n14. 14 What's that music — you are listening to?\n15. 15 I don't like the house — he lives in.\n16. 16 The man — made these shoes doesn't know his trade.\n17. 17 Here comes the girl — I am hiding from.\n18. 18 The people — are looking at that house are my parents.\n19. 19 The house — they are looking at is my house.\n20. 20 And the girl — you see at the door is my sister.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "214\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 997,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9747930743587502,
+      "minimum_page_confidence_score": 0.18503733096847405
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 18,
+        "bottom_right_x": 55,
+        "bottom_right_y": 36,
+        "content": "214",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999890328655274,
+          "minimum_content_confidence_score": 0.9999890328655274,
+          "block_type_confidence_score": 0.999999724901756
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 18,
+        "bottom_right_x": 224,
+        "bottom_right_y": 36,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986245305146919,
+          "minimum_content_confidence_score": 0.9974391637009352,
+          "block_type_confidence_score": 0.9994546211483142
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 72,
+        "bottom_right_x": 607,
+        "bottom_right_y": 93,
+        "content": "The man I always forget the name of is coming to tea.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999938247408611,
+          "minimum_content_confidence_score": 0.9996746200620995,
+          "block_type_confidence_score": 0.9999703177676235
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 166,
+        "top_left_y": 96,
+        "bottom_right_x": 233,
+        "bottom_right_y": 112,
+        "content": "THINGS:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997185459455183,
+          "minimum_content_confidence_score": 0.9997185459455183,
+          "block_type_confidence_score": 0.9322929634007334
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 112,
+        "bottom_right_x": 590,
+        "bottom_right_y": 133,
+        "content": "This case is very rare with things; we prefer a way out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999815815831017,
+          "minimum_content_confidence_score": 0.9999426636198856,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 136,
+        "bottom_right_x": 493,
+        "bottom_right_y": 156,
+        "content": "The book with the torn cover is mine.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999544475967468,
+          "minimum_content_confidence_score": 0.999756991330385,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 156,
+        "bottom_right_x": 608,
+        "bottom_right_y": 196,
+        "content": "(= The book of which the cover is torn . . . – very clumsy.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9513070259047339,
+          "minimum_content_confidence_score": 0.4336275374001026,
+          "block_type_confidence_score": 0.9996386880319736
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 205,
+        "bottom_right_x": 608,
+        "bottom_right_y": 245,
+        "content": "N.B. – A defining relative clause is never preceded by a comma.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996963318918537,
+          "minimum_content_confidence_score": 0.9971668155253472,
+          "block_type_confidence_score": 0.9998872407290764
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 326,
+        "top_left_y": 259,
+        "bottom_right_x": 429,
+        "bottom_right_y": 272,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9705233756524138,
+          "minimum_content_confidence_score": 0.9121578445170667,
+          "block_type_confidence_score": 0.9999936819476216
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 285,
+        "bottom_right_x": 72,
+        "bottom_right_y": 306,
+        "content": "(46.2)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998564388296626,
+          "minimum_content_confidence_score": 0.998564388296626,
+          "block_type_confidence_score": 0.9944980551403373
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 285,
+        "bottom_right_x": 393,
+        "bottom_right_y": 306,
+        "content": "● Add relatives, WHERE NEEDED:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979921405715931,
+          "minimum_content_confidence_score": 0.9959954104503191,
+          "block_type_confidence_score": 0.8844985364905198
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 308,
+        "bottom_right_x": 585,
+        "bottom_right_y": 962,
+        "content": "1. 1 The book — I was reading yesterday was a detective story.\n2. 2 The man — you spoke to in the street is my English teacher.\n3. 3 I should like to see the trees — you picked these apples from.\n4. 4 There's the lady — purse has been stolen.\n5. 5 The people — you were living with in London are coming to see you.\n6. 6 The picture — you were talking about has been sold.\n7. 7 People — live in glass houses shouldn't throw stones.\n8. 8 Buy it back from the man — you sold it to.\n9. 9 What's the name of that man — wife has run away and left him?\n10. 10 Can you remember the person — you took it from?\n11. 11 Where is there a shop — sells picture-postcards?\n12. 12 That's the knife and fork — I eat with.\n13. 13 Where is the man — sold me these sun-glasses?\n14. 14 What's that music — you are listening to?\n15. 15 I don't like the house — he lives in.\n16. 16 The man — made these shoes doesn't know his trade.\n17. 17 Here comes the girl — I am hiding from.\n18. 18 The people — are looking at that house are my parents.\n19. 19 The house — they are looking at is my house.\n20. 20 And the girl — you see at the door is my sister.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997651512285163,
+          "minimum_content_confidence_score": 0.9792281357326632,
+          "block_type_confidence_score": 0.9999641192914955
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

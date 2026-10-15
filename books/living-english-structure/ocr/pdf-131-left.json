@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-131-left",
+    "pdf_page": 131,
+    "side": "left",
+    "reading_order": 261
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "should/would make should/would have made*\n\n* This does not hold for the *should/would* form of polite requests, which usually remains unchanged.\n\nAdverbs of time and place and a few other expressions also change. Here are some examples (to be taken as convenient equivalents, not as 'rules'):\n\n*here = there now = then yesterday = the day before*\n*this = that ago = before next week = the following week etc.*\n\nBut these 'equivalents' should be used with common sense:\n\n'This vehicle isn't safe.'\n\nHe said that the vehicle was not safe. (*the, not that, unless this is stressed*)\n\nAnd it is not always necessary to use any equivalent at all, as the past tense of the introducing verb is often quite sufficient.\n\n'I am coming to see you now.'\n\nHe said he was coming to see me. (*then is not wanted*)\n\n* * *\n\n(51.5)\n\n- Put the following sentences into REPORTED SPEECH, introducing them with a verb in the PAST tense:\n1 I am ill.\n2 I met him last year.\n3 They will be here soon.\n4 She has finished now.\n5 I am living in London.\n6 He is going to Berlin tomorrow.\n7 I've just been to the butcher's.\n8 I can come next week.\n9 I don't know what he'll say.\n10 They went away yesterday.\n11 Wait till I come.\n12 I think she is married.\n13 I fell downstairs.\n14 I'll leave it on the table.\n15 I'm sorry I'm late.\n16 I am very stupid.\n17 She is quite charming but hasn't much sense.\n18 He can come in when I have finished my work.\n19 The clock will never work again if you try to mend it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "250\n51 Reported Speech",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 665
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9604255588788567,
+      "minimum_page_confidence_score": 0.2345581133381089
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 25,
+        "bottom_right_x": 59,
+        "bottom_right_y": 45,
+        "content": "250",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99992609570002,
+          "minimum_content_confidence_score": 0.99992609570002,
+          "block_type_confidence_score": 0.9999918021754988
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 23,
+        "bottom_right_x": 286,
+        "bottom_right_y": 45,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994820668347266,
+          "minimum_content_confidence_score": 0.9989964314238264,
+          "block_type_confidence_score": 0.9989679791437319
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 73,
+        "bottom_right_x": 580,
+        "bottom_right_y": 101,
+        "content": "should/would make should/would have made*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9897626298665854,
+          "minimum_content_confidence_score": 0.9579673675163343,
+          "block_type_confidence_score": 0.9998696020381034
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 94,
+        "bottom_right_x": 610,
+        "bottom_right_y": 141,
+        "content": "* This does not hold for the *should/would* form of polite requests, which usually remains unchanged.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978828998988054,
+          "minimum_content_confidence_score": 0.9719449111677141,
+          "block_type_confidence_score": 0.9997132646894823
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 133,
+        "bottom_right_x": 610,
+        "bottom_right_y": 201,
+        "content": "Adverbs of time and place and a few other expressions also change. Here are some examples (to be taken as convenient equivalents, not as 'rules'):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994780991944954,
+          "minimum_content_confidence_score": 0.9883524372916477,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 193,
+        "bottom_right_x": 611,
+        "bottom_right_y": 257,
+        "content": "*here = there now = then yesterday = the day before*\n*this = that ago = before next week = the following week etc.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9368917706759639,
+          "minimum_content_confidence_score": 0.36222008317672527,
+          "block_type_confidence_score": 0.9266563989987509
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 253,
+        "bottom_right_x": 612,
+        "bottom_right_y": 299,
+        "content": "But these 'equivalents' should be used with common sense:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999851300888606,
+          "minimum_content_confidence_score": 0.9999498365147919,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 299,
+        "bottom_right_x": 377,
+        "bottom_right_y": 322,
+        "content": "'This vehicle isn't safe.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999249064297805,
+          "minimum_content_confidence_score": 0.999813641964844,
+          "block_type_confidence_score": 0.999722200331212
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 316,
+        "bottom_right_x": 612,
+        "bottom_right_y": 363,
+        "content": "He said that the vehicle was not safe. (*the, not that, unless this is stressed*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9911562670668881,
+          "minimum_content_confidence_score": 0.9115759901630279,
+          "block_type_confidence_score": 0.9999878408000585
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 365,
+        "bottom_right_x": 613,
+        "bottom_right_y": 431,
+        "content": "And it is not always necessary to use any equivalent at all, as the past tense of the introducing verb is often quite sufficient.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998649824643011,
+          "minimum_content_confidence_score": 0.9983410259797825,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 431,
+        "bottom_right_x": 438,
+        "bottom_right_y": 456,
+        "content": "'I am coming to see you now.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999734017850077,
+          "minimum_content_confidence_score": 0.9999098897763626,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 449,
+        "bottom_right_x": 614,
+        "bottom_right_y": 475,
+        "content": "He said he was coming to see me. (*then is not wanted*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9935513288993381,
+          "minimum_content_confidence_score": 0.9230436736848463,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 334,
+        "top_left_y": 486,
+        "bottom_right_x": 435,
+        "bottom_right_y": 500,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9926498208313016,
+          "minimum_content_confidence_score": 0.980005963396501,
+          "block_type_confidence_score": 0.9999915362117302
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 29,
+        "top_left_y": 515,
+        "bottom_right_x": 81,
+        "bottom_right_y": 537,
+        "content": "(51.5)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997535811858613,
+          "minimum_content_confidence_score": 0.9997535811858613,
+          "block_type_confidence_score": 0.9572146467191529
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 508,
+        "bottom_right_x": 614,
+        "bottom_right_y": 992,
+        "content": "- Put the following sentences into REPORTED SPEECH, introducing them with a verb in the PAST tense:\n1 I am ill.\n2 I met him last year.\n3 They will be here soon.\n4 She has finished now.\n5 I am living in London.\n6 He is going to Berlin tomorrow.\n7 I've just been to the butcher's.\n8 I can come next week.\n9 I don't know what he'll say.\n10 They went away yesterday.\n11 Wait till I come.\n12 I think she is married.\n13 I fell downstairs.\n14 I'll leave it on the table.\n15 I'm sorry I'm late.\n16 I am very stupid.\n17 She is quite charming but hasn't much sense.\n18 He can come in when I have finished my work.\n19 The clock will never work again if you try to mend it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9927451181613879,
+          "minimum_content_confidence_score": 0.5782107756713969,
+          "block_type_confidence_score": 0.9834180392602075
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

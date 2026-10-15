@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-055-left",
+    "pdf_page": 55,
+    "side": "left",
+    "reading_order": 109
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "14 She cut her finger while she (cut) the bread and butter.\n15 The bus started while I (get) on.\n16 When I (listen) to the radio last night, I heard a loud scream.\n17 The light went out while we (have) supper.\n18 She finished the housework while she (cook) the lunch.\n19 The children (do) their homework when their father came back from the office.\n20 I took another cake when you (not look)!\n\n26.4\n\nElementary\n\nSee Exercise 26.3.\n\nRemember that if the actions are consecutive they appear in PAST SIMPLE tense.\n\nThis is the same with habitual actions in the past.\n\nI (always) wear a hat when it snows.\n\nI (always) wore a hat when it snowed.\n\nThe PAST CONTINUOUS is used when we are not interested in the completion of one or more actions, but simply in the fact that they are in progress at the time something else happens.\n\n* * *\n\n● Supply suitable past tenses of the verbs in brackets:\n1 He (sit) in a café when I (see) him.\n2 When I (go) out the sun (shine).\n3 The boy (fall down) while he (run).\n4 When the war (begin) we (live) in London.\n5 The light (go out) while I (have) tea.\n6 I (have) tea when the light (go out).\n7 My friends (sing) when I (come) into the room.\n8 While you (play) the piano I (write) a letter.\n9 When I (be) at school I (learn) Latin. (To be has no continuous form.)\n10 He (eat) his dinner when I (go) to see him.\n11 When my grandmother (go) for a walk she always (wear) gloves.\n12 When it (rain) she (carry) an umbrella.\n13 She (die) while she (run) after a bus.\n14 We (drink) coffee every day when we (be) in France.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "98\n26 Past Tense (Continued)",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9730485524287821,
+      "minimum_page_confidence_score": 0.17798757127873266
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 26,
+        "bottom_right_x": 47,
+        "bottom_right_y": 45,
+        "content": "98",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999921208870625,
+          "minimum_content_confidence_score": 0.999921208870625,
+          "block_type_confidence_score": 0.9999604433340032
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 24,
+        "bottom_right_x": 342,
+        "bottom_right_y": 45,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981993290662763,
+          "minimum_content_confidence_score": 0.9934824315419898,
+          "block_type_confidence_score": 0.9956623987369433
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 77,
+        "bottom_right_x": 613,
+        "bottom_right_y": 319,
+        "content": "14 She cut her finger while she (cut) the bread and butter.\n15 The bus started while I (get) on.\n16 When I (listen) to the radio last night, I heard a loud scream.\n17 The light went out while we (have) supper.\n18 She finished the housework while she (cook) the lunch.\n19 The children (do) their homework when their father came back from the office.\n20 I took another cake when you (not look)!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973526888096678,
+          "minimum_content_confidence_score": 0.8020107681317251,
+          "block_type_confidence_score": 0.9924134612903449
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 338,
+        "bottom_right_x": 68,
+        "bottom_right_y": 359,
+        "content": "26.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995856093295987,
+          "minimum_content_confidence_score": 0.9995856093295987,
+          "block_type_confidence_score": 0.6350391294949392
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 359,
+        "bottom_right_x": 119,
+        "bottom_right_y": 380,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999879123244013,
+          "minimum_content_confidence_score": 0.9999879123244013,
+          "block_type_confidence_score": 0.9970013684159622
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 338,
+        "bottom_right_x": 297,
+        "bottom_right_y": 359,
+        "content": "See Exercise 26.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999715246259976,
+          "minimum_content_confidence_score": 0.9999566532123468,
+          "block_type_confidence_score": 0.9999687681413515
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 358,
+        "bottom_right_x": 613,
+        "bottom_right_y": 398,
+        "content": "Remember that if the actions are consecutive they appear in PAST SIMPLE tense.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998544505862061,
+          "minimum_content_confidence_score": 0.9992801368624623,
+          "block_type_confidence_score": 0.9999897481064004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 397,
+        "bottom_right_x": 563,
+        "bottom_right_y": 418,
+        "content": "This is the same with habitual actions in the past.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999928178616877,
+          "minimum_content_confidence_score": 0.9999547025218425,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 421,
+        "bottom_right_x": 486,
+        "bottom_right_y": 441,
+        "content": "I (always) wear a hat when it snows.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997224989215571,
+          "minimum_content_confidence_score": 0.9978242704943441,
+          "block_type_confidence_score": 0.9984899945435153
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 441,
+        "bottom_right_x": 498,
+        "bottom_right_y": 462,
+        "content": "I (always) wore a hat when it snowed.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998835271411144,
+          "minimum_content_confidence_score": 0.9919336119337288,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 470,
+        "bottom_right_x": 616,
+        "bottom_right_y": 551,
+        "content": "The PAST CONTINUOUS is used when we are not interested in the completion of one or more actions, but simply in the fact that they are in progress at the time something else happens.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999711069044314,
+          "minimum_content_confidence_score": 0.9994453885120366,
+          "block_type_confidence_score": 0.9999014236368502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 565,
+        "bottom_right_x": 436,
+        "bottom_right_y": 578,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977100140098449,
+          "minimum_content_confidence_score": 0.9948365465865783,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 589,
+        "bottom_right_x": 607,
+        "bottom_right_y": 983,
+        "content": "● Supply suitable past tenses of the verbs in brackets:\n1 He (sit) in a café when I (see) him.\n2 When I (go) out the sun (shine).\n3 The boy (fall down) while he (run).\n4 When the war (begin) we (live) in London.\n5 The light (go out) while I (have) tea.\n6 I (have) tea when the light (go out).\n7 My friends (sing) when I (come) into the room.\n8 While you (play) the piano I (write) a letter.\n9 When I (be) at school I (learn) Latin. (To be has no continuous form.)\n10 He (eat) his dinner when I (go) to see him.\n11 When my grandmother (go) for a walk she always (wear) gloves.\n12 When it (rain) she (carry) an umbrella.\n13 She (die) while she (run) after a bus.\n14 We (drink) coffee every day when we (be) in France.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994950996278466,
+          "minimum_content_confidence_score": 0.9316104441091967,
+          "block_type_confidence_score": 0.9998846187221477
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "source": {
+    "id": "pdf-083-left",
+    "pdf_page": 83,
+    "side": "left",
+    "reading_order": 165
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:09.402870+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "3 The potatoes wouldn't have been burnt if . . .\n4 If you were to come tomorrow, . . .\n5 If the sun didn't shine, . . .\n6 You would never have caught that cold if . . .\n7 I'd go and see him if . . .\n8 We won't forget what we have learnt unless . . .\n9 I shall always like you unless . . .\n10 He wouldn't have begun to learn English if . . .\n11 If only you knew what I know, you . . .\n12 If I'd known she wasn't coming, . . .\n13 I should never have known if . . .\n14 If you had got up earlier this morning, . . .\n15 You can walk where you like, provided you . . .\n16 If he should arrive late, you . . .\n17 I'll go and call her if you will . . .\n18 If you would only suggest it to him, . . .\n19 You won't make any further progress as long as . . .\n20 If the spaces between 'Romeo' and 'and', and 'and' and 'Juliet' were wider, the book-cover . . .\n21 He was walking about as if . . .\n22 I would have married him if only . . .\n23 He won't tell you anything else unless . . .\n24 If they were to send us plenty of sugar and fruit, we . . .\n25 I don't know if he (come), but if he does, . . .\n\n# FINAL NOTES ON CONDITIONS\n\nThe inverted forms, Had I seen you earlier . . . are less frequently found in modern spoken English than in classical written style. They should, however, be understood by more advanced students, who will meet them often enough as they extend their reading in literature. A useful way to practise this inverted pattern is to read each of the sentences of Exercise 31.4 as a TYPE (3) condition, first in the if-form, then in the inverted form. Here is No. 1 done in this way:\n\nHe would have come if you had waited.\n\nHe would have come, had you waited: or\n\nHad you waited, he would have come.\n\nIt is better style if the inverted clause comes first.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "154\n31 Conditions and Unreal Past",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9812584963795012,
+      "minimum_page_confidence_score": 0.30595722958049454
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 15,
+        "bottom_right_x": 49,
+        "bottom_right_y": 34,
+        "content": "154",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99996864893943,
+          "minimum_content_confidence_score": 0.99996864893943,
+          "block_type_confidence_score": 0.9999996698821269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 15,
+        "bottom_right_x": 363,
+        "bottom_right_y": 34,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999057826635465,
+          "minimum_content_confidence_score": 0.9998096589988692,
+          "block_type_confidence_score": 0.9991975134727176
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 69,
+        "bottom_right_x": 580,
+        "bottom_right_y": 638,
+        "content": "3 The potatoes wouldn't have been burnt if . . .\n4 If you were to come tomorrow, . . .\n5 If the sun didn't shine, . . .\n6 You would never have caught that cold if . . .\n7 I'd go and see him if . . .\n8 We won't forget what we have learnt unless . . .\n9 I shall always like you unless . . .\n10 He wouldn't have begun to learn English if . . .\n11 If only you knew what I know, you . . .\n12 If I'd known she wasn't coming, . . .\n13 I should never have known if . . .\n14 If you had got up earlier this morning, . . .\n15 You can walk where you like, provided you . . .\n16 If he should arrive late, you . . .\n17 I'll go and call her if you will . . .\n18 If you would only suggest it to him, . . .\n19 You won't make any further progress as long as . . .\n20 If the spaces between 'Romeo' and 'and', and 'and' and 'Juliet' were wider, the book-cover . . .\n21 He was walking about as if . . .\n22 I would have married him if only . . .\n23 He won't tell you anything else unless . . .\n24 If they were to send us plenty of sugar and fruit, we . . .\n25 I don't know if he (come), but if he does, . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980458799873066,
+          "minimum_content_confidence_score": 0.7767159255168059,
+          "block_type_confidence_score": 0.9046210518358819
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 667,
+        "bottom_right_x": 436,
+        "bottom_right_y": 687,
+        "content": "# FINAL NOTES ON CONDITIONS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9323681134802289,
+          "minimum_content_confidence_score": 0.7310566393943849,
+          "block_type_confidence_score": 0.9563378151690163
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 706,
+        "bottom_right_x": 605,
+        "bottom_right_y": 886,
+        "content": "The inverted forms, Had I seen you earlier . . . are less frequently found in modern spoken English than in classical written style. They should, however, be understood by more advanced students, who will meet them often enough as they extend their reading in literature. A useful way to practise this inverted pattern is to read each of the sentences of Exercise 31.4 as a TYPE (3) condition, first in the if-form, then in the inverted form. Here is No. 1 done in this way:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972310433005457,
+          "minimum_content_confidence_score": 0.7749841940393438,
+          "block_type_confidence_score": 0.9999959469005546
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 890,
+        "bottom_right_x": 489,
+        "bottom_right_y": 910,
+        "content": "He would have come if you had waited.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999755892663242,
+          "minimum_content_confidence_score": 0.9998377347652787,
+          "block_type_confidence_score": 0.9998797322918859
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 910,
+        "bottom_right_x": 503,
+        "bottom_right_y": 930,
+        "content": "He would have come, had you waited: or",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998010034303942,
+          "minimum_content_confidence_score": 0.9841520967719557,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 930,
+        "bottom_right_x": 477,
+        "bottom_right_y": 950,
+        "content": "Had you waited, he would have come.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999891827038346,
+          "minimum_content_confidence_score": 0.9999641192914955,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 959,
+        "bottom_right_x": 541,
+        "bottom_right_y": 980,
+        "content": "It is better style if the inverted clause comes first.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999952913276792,
+          "minimum_content_confidence_score": 0.9999858148594419,
+          "block_type_confidence_score": 0.9994730151593174
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

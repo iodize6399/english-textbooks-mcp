@@ -1,0 +1,31 @@
+{
+  "pdf-001-left": {
+    "blank": true,
+    "reason": "Visually reviewed original cover spread: left half is empty."
+  },
+  "pdf-002-left": {
+    "blank": true,
+    "reason": "Visually reviewed original title spread: left half is blank. OCR hallucinated unrelated Chinese text."
+  },
+  "pdf-006-left": {
+    "blank": true,
+    "reason": "Visually reviewed original spread: blank half with only bleed from the following page. No printed x or edition note."
+  },
+  "pdf-170-left": {
+    "blank": true,
+    "reason": "Printed-page sequence position 328: empty scan after appendix."
+  },
+  "pdf-175-right": {
+    "blank": true,
+    "reason": "Visually reviewed final spread: right half is blank. OCR hallucinated an unrelated Chinese table."
+  },
+  "pdf-082-right": {
+    "replacements": [
+      {
+        "before": "\n11.11\nAdvanced",
+        "after": "\n31.11\nAdvanced"
+      }
+    ],
+    "reason": "The scan marginal heading reads 31.11 (the first digit is damaged); matches chapter context and index references."
+  }
+}

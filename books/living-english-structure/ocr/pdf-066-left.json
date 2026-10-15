@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-066-left",
+    "pdf_page": 66,
+    "side": "left",
+    "reading_order": 131
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "He's seeing him at once. (OR going to)\nHe'll be seeing him in a few minutes. (OR going to)\n\n* * *\n\n(28.9)\n\n● Restate the following, using the FUTURE CONTINUOUS:\n1 I'm seeing him tomorrow.\n2 They're going to do it again later.\n3 He is leaving in a few days.\n4 The leaves are going to fall soon.\n5 She says she is going to do the washing tomorrow.\n6 I'm going to have tea in town.\n7 I'll write to you later.\n8 He's going to meet us at the station.\n9 We're going to have crab for supper.\n10 You'll hear from Maisie in any case.\n11 Are you going to town again this week?\n12 We're having coffee after dinner as usual.\n13 He's coming home soon.\n14 I'm playing in a table-tennis match on Saturday with Cyril.\n15 He is lecturing on the seventeenth-century poets next.\n16 We are having dinner in half an hour.\n17 I shall see her tomorrow afternoon.\n18 You're going to learn more about this tense next lesson.\n19 Hurry up! the train is leaving in a minute.\n20 You'll forget your head next, you absent-minded old thing!\n\n28.10\n\nIntermediate\nand\n\nAdvanced\n\nCONTINUOUS\n\nFUTURE FORMS\n\nHe is going to do and he'll be doing have approximately the SAME MEANING, but the different grammatical form gives a DIFFERENT FEELING to each.\n\nIn the sentences:\n\n(a) They are going to put on another play (soon).\n(b) They'll be putting on another play soon.\n\n(a) tells us the PRESENT intentions of the actors, (b) tells us of events at a future time, soon (which MUST be understood); it tells us of the RESULTS of the intention, but bypasses the intention itself.\n\nFrom this we get the following second-person question-forms:",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "120\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9711048965772827,
+      "minimum_page_confidence_score": 0.22094474437000608
+    },
+    "blocks": [
+      {
+        "top_left_x": 36,
+        "top_left_y": 16,
+        "bottom_right_x": 68,
+        "bottom_right_y": 35,
+        "content": "120",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999746090656421,
+          "minimum_content_confidence_score": 0.9999746090656421,
+          "block_type_confidence_score": 0.9999939478942609
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 16,
+        "bottom_right_x": 405,
+        "bottom_right_y": 36,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999867086119657,
+          "minimum_content_confidence_score": 0.9999599472811979,
+          "block_type_confidence_score": 0.9996172951049782
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 71,
+        "bottom_right_x": 606,
+        "bottom_right_y": 113,
+        "content": "He's seeing him at once. (OR going to)\nHe'll be seeing him in a few minutes. (OR going to)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9828380271845146,
+          "minimum_content_confidence_score": 0.7737539063270736,
+          "block_type_confidence_score": 0.9986663983865186
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 340,
+        "top_left_y": 125,
+        "bottom_right_x": 442,
+        "bottom_right_y": 140,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980200289734164,
+          "minimum_content_confidence_score": 0.9956236328620615,
+          "block_type_confidence_score": 0.9999966621509202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 151,
+        "bottom_right_x": 85,
+        "bottom_right_y": 172,
+        "content": "(28.9)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998363010120359,
+          "minimum_content_confidence_score": 0.9998363010120359,
+          "block_type_confidence_score": 0.9962333991836823
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 151,
+        "bottom_right_x": 597,
+        "bottom_right_y": 718,
+        "content": "● Restate the following, using the FUTURE CONTINUOUS:\n1 I'm seeing him tomorrow.\n2 They're going to do it again later.\n3 He is leaving in a few days.\n4 The leaves are going to fall soon.\n5 She says she is going to do the washing tomorrow.\n6 I'm going to have tea in town.\n7 I'll write to you later.\n8 He's going to meet us at the station.\n9 We're going to have crab for supper.\n10 You'll hear from Maisie in any case.\n11 Are you going to town again this week?\n12 We're having coffee after dinner as usual.\n13 He's coming home soon.\n14 I'm playing in a table-tennis match on Saturday with Cyril.\n15 He is lecturing on the seventeenth-century poets next.\n16 We are having dinner in half an hour.\n17 I shall see her tomorrow afternoon.\n18 You're going to learn more about this tense next lesson.\n19 Hurry up! the train is leaving in a minute.\n20 You'll forget your head next, you absent-minded old thing!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996250466462215,
+          "minimum_content_confidence_score": 0.9605706310878952,
+          "block_type_confidence_score": 0.9875513743059449
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 738,
+        "bottom_right_x": 87,
+        "bottom_right_y": 757,
+        "content": "28.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998706145225125,
+          "minimum_content_confidence_score": 0.9998706145225125,
+          "block_type_confidence_score": 0.9779971260760202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 758,
+        "bottom_right_x": 137,
+        "bottom_right_y": 797,
+        "content": "Intermediate\nand",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9011730011731803,
+          "minimum_content_confidence_score": 0.7036849025284959,
+          "block_type_confidence_score": 0.998508891899629
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 798,
+        "bottom_right_x": 114,
+        "bottom_right_y": 817,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999943378794853,
+          "minimum_content_confidence_score": 0.999943378794853,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 820,
+        "bottom_right_x": 136,
+        "bottom_right_y": 837,
+        "content": "CONTINUOUS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999672432319622,
+          "minimum_content_confidence_score": 0.9999672432319622,
+          "block_type_confidence_score": 0.9999961853172863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 840,
+        "bottom_right_x": 152,
+        "bottom_right_y": 857,
+        "content": "FUTURE FORMS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999791193209531,
+          "minimum_content_confidence_score": 0.9999636427563733,
+          "block_type_confidence_score": 0.9999955892755635
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 738,
+        "bottom_right_x": 622,
+        "bottom_right_y": 798,
+        "content": "He is going to do and he'll be doing have approximately the SAME MEANING, but the different grammatical form gives a DIFFERENT FEELING to each.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988916012318069,
+          "minimum_content_confidence_score": 0.9738268757683205,
+          "block_type_confidence_score": 0.9999083364559224
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 798,
+        "bottom_right_x": 299,
+        "bottom_right_y": 817,
+        "content": "In the sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999965790684371,
+          "minimum_content_confidence_score": 0.9999952208175955,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 820,
+        "bottom_right_x": 579,
+        "bottom_right_y": 863,
+        "content": "(a) They are going to put on another play (soon).\n(b) They'll be putting on another play soon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991415786653175,
+          "minimum_content_confidence_score": 0.9864576842354876,
+          "block_type_confidence_score": 0.9840775872711434
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 865,
+        "bottom_right_x": 622,
+        "bottom_right_y": 946,
+        "content": "(a) tells us the PRESENT intentions of the actors, (b) tells us of events at a future time, soon (which MUST be understood); it tells us of the RESULTS of the intention, but bypasses the intention itself.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993230836448814,
+          "minimum_content_confidence_score": 0.9797276725423943,
+          "block_type_confidence_score": 0.9914122827185279
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 946,
+        "bottom_right_x": 621,
+        "bottom_right_y": 984,
+        "content": "From this we get the following second-person question-forms:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979618981421265,
+          "minimum_content_confidence_score": 0.983745251331778,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

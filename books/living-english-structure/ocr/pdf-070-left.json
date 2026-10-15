@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-070-left",
+    "pdf_page": 70,
+    "side": "left",
+    "reading_order": 139
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "**28.15**\n**Advanced**\n\nSee Exercise 28.14.\n\n* * *\n\n- Read the following sentences with the suggested alternative verb, making any necessary changes:\n1 They won't answer my questions. (refuse)\n2 When will you pay me for my services? (intend)\n3 We shall have wine to drink and good things to eat. (promise) (Passive voice)\n4 If he won't shave before breakfast (choose), I won't speak to him. (want)\n5 Will he listen to my singing, do you think? (like)\n6 Do you think they'll follow us all the way home? (mean)\n7 When will you learn English properly? (intend)\n8 I'll have it done now (want). I won't be kept waiting. (is to)\n9 You shall have time to think it over. (promise)\n10 He'll have his own way in the end (intend); he won't listen to us. (refuse)\n11 We shall visit all the sights of London. (hope)\n12 Why won't he have any dealings with you? (refuse)\n13 I shall be in Bournemouth this time next week. (hope)\n14 They will buy up all the land they can lay their hands on. (intend)\n15 She will go shopping tomorrow (want). Will you go too? (mean)\n\n**28.16**\n**Intermediate**\n\nFuture (and past) of *can, must, needn't*. See also Sections 16 and 17.\n\n*Can* has past *could* or *was able* (see Exercise 17.2), has future *shall/will be able*, or *can* (See Exercise 17.1).\n\n*Must* has past *had to* (see Exercises 16.1-4), has future *shall/will have to*.\n\n*Needn't* has past *didn't need to* or *needn't have* (see Exercise 16.3), has future *shan't/won't need to*, or *shan't/won't have to*.\n\n* * *",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "128\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 998,
+      "width": 696
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9764872270735124,
+      "minimum_page_confidence_score": 0.3034847792457269
+    },
+    "blocks": [
+      {
+        "top_left_x": 41,
+        "top_left_y": 14,
+        "bottom_right_x": 73,
+        "bottom_right_y": 32,
+        "content": "128",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999409948851344,
+          "minimum_content_confidence_score": 0.9999409948851344,
+          "block_type_confidence_score": 0.9999982943947677
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 129,
+        "top_left_y": 14,
+        "bottom_right_x": 410,
+        "bottom_right_y": 32,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999249471076417,
+          "minimum_content_confidence_score": 0.9995830606015058,
+          "block_type_confidence_score": 0.9998909148356799
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 41,
+        "top_left_y": 68,
+        "bottom_right_x": 119,
+        "bottom_right_y": 108,
+        "content": "**28.15**\n**Advanced**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9201807352860065,
+          "minimum_content_confidence_score": 0.8509904878070812,
+          "block_type_confidence_score": 0.5905949159529961
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 167,
+        "top_left_y": 68,
+        "bottom_right_x": 321,
+        "bottom_right_y": 88,
+        "content": "See Exercise 28.14.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998049792765907,
+          "minimum_content_confidence_score": 0.9996084316460356,
+          "block_type_confidence_score": 0.999603905280798
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 346,
+        "top_left_y": 103,
+        "bottom_right_x": 447,
+        "bottom_right_y": 116,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942597131294632,
+          "minimum_content_confidence_score": 0.9861301696448906,
+          "block_type_confidence_score": 0.9999884368330701
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 132,
+        "top_left_y": 127,
+        "bottom_right_x": 627,
+        "bottom_right_y": 695,
+        "content": "- Read the following sentences with the suggested alternative verb, making any necessary changes:\n1 They won't answer my questions. (refuse)\n2 When will you pay me for my services? (intend)\n3 We shall have wine to drink and good things to eat. (promise) (Passive voice)\n4 If he won't shave before breakfast (choose), I won't speak to him. (want)\n5 Will he listen to my singing, do you think? (like)\n6 Do you think they'll follow us all the way home? (mean)\n7 When will you learn English properly? (intend)\n8 I'll have it done now (want). I won't be kept waiting. (is to)\n9 You shall have time to think it over. (promise)\n10 He'll have his own way in the end (intend); he won't listen to us. (refuse)\n11 We shall visit all the sights of London. (hope)\n12 Why won't he have any dealings with you? (refuse)\n13 I shall be in Bournemouth this time next week. (hope)\n14 They will buy up all the land they can lay their hands on. (intend)\n15 She will go shopping tomorrow (want). Will you go too? (mean)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941796078673273,
+          "minimum_content_confidence_score": 0.5620855683143152,
+          "block_type_confidence_score": 0.9819904218295993
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 714,
+        "bottom_right_x": 147,
+        "bottom_right_y": 755,
+        "content": "**28.16**\n**Intermediate**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996598812868873,
+          "minimum_content_confidence_score": 0.9993140637226783,
+          "block_type_confidence_score": 0.999407404376887
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 714,
+        "bottom_right_x": 632,
+        "bottom_right_y": 755,
+        "content": "Future (and past) of *can, must, needn't*. See also Sections 16 and 17.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9910212746260478,
+          "minimum_content_confidence_score": 0.8859982910296532,
+          "block_type_confidence_score": 0.9999735362389561
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 755,
+        "bottom_right_x": 632,
+        "bottom_right_y": 796,
+        "content": "*Can* has past *could* or *was able* (see Exercise 17.2), has future *shall/will be able*, or *can* (See Exercise 17.1).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953057229643933,
+          "minimum_content_confidence_score": 0.9624968937789964,
+          "block_type_confidence_score": 0.9999879600069962
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 796,
+        "bottom_right_x": 632,
+        "bottom_right_y": 835,
+        "content": "*Must* has past *had to* (see Exercises 16.1-4), has future *shall/will have to*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9934165057422901,
+          "minimum_content_confidence_score": 0.9379487225979403,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 835,
+        "bottom_right_x": 632,
+        "bottom_right_y": 894,
+        "content": "*Needn't* has past *didn't need to* or *needn't have* (see Exercise 16.3), has future *shan't/won't need to*, or *shan't/won't have to*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990998890211144,
+          "minimum_content_confidence_score": 0.9949321288870916,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 352,
+        "top_left_y": 909,
+        "bottom_right_x": 454,
+        "bottom_right_y": 923,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995442205122477,
+          "minimum_content_confidence_score": 0.9989511059292853,
+          "block_type_confidence_score": 0.9986700840700642
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

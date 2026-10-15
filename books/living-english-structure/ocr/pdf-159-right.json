@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-159-right",
+    "pdf_page": 159,
+    "side": "right",
+    "reading_order": 318
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "84 I confess — a secret love — tobacco.85 I know I owe you £50. I'll settle — — Friday.86 Your story conflicted — that of other eye-witnesses, whose versions all tally — one another — — the minutest detail.87 You must conform — the rules — the game, — all events.88 We confronted the murderer — the body, — his utter dismay.89 I must congratulate him — his success — the examination.90 The police connived — her escape — her knowing — it.91 Stop showing —. Everybody knows you're only standing — — the real boss.92 The helicopter took — — the airport and put — — the school playing-field.93 Content yourself — what you have and don't strive — the impossible.94 He has not contributed much — the solution — our difficulties.95 Her character contrasts strongly — his — all points.96 — this point the railway converges — the river, only to strike — — a tangent a little further —.97 He spends his nights conversing — his friends — all manner — topics, drawn — their joint reminiscences.98 An ambulance was standing — — case — accidents.99 I cannot convey — you the depth — my sympathy — your loss.100 But I can convince you — the sincerity — my words.101 Are you blind — what he is degenerating —?102 The ships departing — the dock this morning were bound — the East Indies.103 Can I depend — you not to be angry — me — being late?104 I am afraid he has fallen — love — a girl who, although not exactly devoid — intelligence, or even deficient — common sense, is certainly a bit weak — the head.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "56 Prepositions and Adverbial Particles\n307",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1019,
+      "width": 682
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9828111306595276,
+      "minimum_page_confidence_score": 0.16176230743478207
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 17,
+        "bottom_right_x": 472,
+        "bottom_right_y": 39,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976864463052703,
+          "minimum_content_confidence_score": 0.9907515778430269,
+          "block_type_confidence_score": 0.9972403238027002
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 621,
+        "top_left_y": 17,
+        "bottom_right_x": 654,
+        "bottom_right_y": 35,
+        "content": "307",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999643576942727,
+          "minimum_content_confidence_score": 0.9999643576942727,
+          "block_type_confidence_score": 0.999999339764625
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 71,
+        "bottom_right_x": 659,
+        "bottom_right_y": 986,
+        "content": "84 I confess — a secret love — tobacco.85 I know I owe you £50. I'll settle — — Friday.86 Your story conflicted — that of other eye-witnesses, whose versions all tally — one another — — the minutest detail.87 You must conform — the rules — the game, — all events.88 We confronted the murderer — the body, — his utter dismay.89 I must congratulate him — his success — the examination.90 The police connived — her escape — her knowing — it.91 Stop showing —. Everybody knows you're only standing — — the real boss.92 The helicopter took — — the airport and put — — the school playing-field.93 Content yourself — what you have and don't strive — the impossible.94 He has not contributed much — the solution — our difficulties.95 Her character contrasts strongly — his — all points.96 — this point the railway converges — the river, only to strike — — a tangent a little further —.97 He spends his nights conversing — his friends — all manner — topics, drawn — their joint reminiscences.98 An ambulance was standing — — case — accidents.99 I cannot convey — you the depth — my sympathy — your loss.100 But I can convince you — the sincerity — my words.101 Are you blind — what he is degenerating —?102 The ships departing — the dock this morning were bound — the East Indies.103 Can I depend — you not to be angry — me — being late?104 I am afraid he has fallen — love — a girl who, although not exactly devoid — intelligence, or even deficient — common sense, is certainly a bit weak — the head.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990726383423795,
+          "minimum_content_confidence_score": 0.9096014630299716,
+          "block_type_confidence_score": 0.9323622882942503
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

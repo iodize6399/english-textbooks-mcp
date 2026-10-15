@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-123-left",
+    "pdf_page": 123,
+    "side": "left",
+    "reading_order": 245
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:27.117367+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "10 Lots of people don't know — Vladikavkaz is.\n11 Can you tell us — road leads to the station?\n12 I've forgotten — she gave it to.\n13 I wonder — she married.\n14 I can't think — she married him.\n15 Have they told you — time to come?\n16 Can you see — is coming down the street?\n17 You must tell the librarian — book you are taking.\n18 She hasn't written to tell me — she is coming.\n19 The grocer says he doesn't know — he sent it to.\n20 I never know — I can trust.\n\n# 47.4\nIntermediate\n\nSee Exercise 47.3.\n\n* * *\n\n● Add the missing links:\n1 Have you heard — is coming to stay with me?\n2 We don't know — she has gone.\n3 Can you tell me — this box is so heavy?\n4 I remember — you were a little girl.\n5 Do you know — makes the sun hot?\n6 Nobody knows — you put your shoes.\n7 Try to think — you did with my pen-knife.\n8 Did anyone see — way Maisie went?\n9 I want to know — told you about it.\n10 We asked him — he got married.\n11 Show me — this machine works.\n12 I haven't decided — would be the best thing to do.\n13 Do you know — made the tea this morning?\n14 Please explain — this is impossible.\n15 I am not sure — their train arrives.\n\n# 47.5\nIntermediate\nand\nAdvanced\n\nSee Exercise 47.3.\n\nHow many, much, long, often, etc. behave similarly.\n\n* * *\n\n● Add the missing links:\n1 I inquired — the price of the furniture was.\n2 The young couple wanted to know — the rent would be.\n3 I've not the slightest idea — you went to see.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "234\n47 Relative and Interrogative Links",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9712460053759601,
+      "minimum_page_confidence_score": 0.140846863378889
+    },
+    "blocks": [
+      {
+        "top_left_x": 32,
+        "top_left_y": 28,
+        "bottom_right_x": 64,
+        "bottom_right_y": 46,
+        "content": "234",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999941829250343,
+          "minimum_content_confidence_score": 0.999941829250343,
+          "block_type_confidence_score": 0.999983439513019
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 27,
+        "bottom_right_x": 414,
+        "bottom_right_y": 46,
+        "content": "47 Relative and Interrogative Links",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997604739910573,
+          "minimum_content_confidence_score": 0.9989462286037764,
+          "block_type_confidence_score": 0.9963990195680458
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 81,
+        "bottom_right_x": 615,
+        "bottom_right_y": 321,
+        "content": "10 Lots of people don't know — Vladikavkaz is.\n11 Can you tell us — road leads to the station?\n12 I've forgotten — she gave it to.\n13 I wonder — she married.\n14 I can't think — she married him.\n15 Have they told you — time to come?\n16 Can you see — is coming down the street?\n17 You must tell the librarian — book you are taking.\n18 She hasn't written to tell me — she is coming.\n19 The grocer says he doesn't know — he sent it to.\n20 I never know — I can trust.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999351719890598,
+          "minimum_content_confidence_score": 0.997461650870667,
+          "block_type_confidence_score": 0.9953861714976018
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 34,
+        "top_left_y": 341,
+        "bottom_right_x": 135,
+        "bottom_right_y": 382,
+        "content": "# 47.4\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9392793104703788,
+          "minimum_content_confidence_score": 0.9149002664240755,
+          "block_type_confidence_score": 0.6179301789234135
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 341,
+        "bottom_right_x": 304,
+        "bottom_right_y": 362,
+        "content": "See Exercise 47.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999767361652836,
+          "minimum_content_confidence_score": 0.9999625132298275,
+          "block_type_confidence_score": 0.9955933823595403
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 375,
+        "bottom_right_x": 441,
+        "bottom_right_y": 390,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.990798117199667,
+          "minimum_content_confidence_score": 0.9729458762616587,
+          "block_type_confidence_score": 0.9999905825550351
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 401,
+        "bottom_right_x": 620,
+        "bottom_right_y": 750,
+        "content": "● Add the missing links:\n1 Have you heard — is coming to stay with me?\n2 We don't know — she has gone.\n3 Can you tell me — this box is so heavy?\n4 I remember — you were a little girl.\n5 Do you know — makes the sun hot?\n6 Nobody knows — you put your shoes.\n7 Try to think — you did with my pen-knife.\n8 Did anyone see — way Maisie went?\n9 I want to know — told you about it.\n10 We asked him — he got married.\n11 Show me — this machine works.\n12 I haven't decided — would be the best thing to do.\n13 Do you know — made the tea this morning?\n14 Please explain — this is impossible.\n15 I am not sure — their train arrives.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999591962860454,
+          "minimum_content_confidence_score": 0.9385681808781531,
+          "block_type_confidence_score": 0.9988170567581828
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 771,
+        "bottom_right_x": 139,
+        "bottom_right_y": 849,
+        "content": "# 47.5\nIntermediate\nand\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9879100466640702,
+          "minimum_content_confidence_score": 0.9043409625782085,
+          "block_type_confidence_score": 0.9998265805692722
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 771,
+        "bottom_right_x": 308,
+        "bottom_right_y": 790,
+        "content": "See Exercise 47.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999585221306173,
+          "minimum_content_confidence_score": 0.9998916593910157,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 790,
+        "bottom_right_x": 574,
+        "bottom_right_y": 812,
+        "content": "How many, much, long, often, etc. behave similarly.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999848382012031,
+          "minimum_content_confidence_score": 0.9999535098028691,
+          "block_type_confidence_score": 0.999538872775793
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 342,
+        "top_left_y": 824,
+        "bottom_right_x": 444,
+        "bottom_right_y": 838,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999954186732369,
+          "minimum_content_confidence_score": 0.9999200169669461,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 132,
+        "top_left_y": 850,
+        "bottom_right_x": 577,
+        "bottom_right_y": 962,
+        "content": "● Add the missing links:\n1 I inquired — the price of the furniture was.\n2 The young couple wanted to know — the rent would be.\n3 I've not the slightest idea — you went to see.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996320242304969,
+          "minimum_content_confidence_score": 0.9857113932246518,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

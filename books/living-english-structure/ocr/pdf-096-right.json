@@ -1,0 +1,214 @@
+{
+  "source": {
+    "id": "pdf-096-right",
+    "pdf_page": 96,
+    "side": "right",
+    "reading_order": 192
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:17.286698+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "13 I can excuse Betty's being rude to me, but I can't forgive her being rude to Maisie.\n14 My parents don't like my going out alone at night.\n15 I'll have to insist on his not disturbing us before the end of the lesson.\n16 I was afraid of your leaving without me.\n17 Do you remember his coming here for the first time?\n18 I can't understand their forgetting to come to our party.\n19 The weather won't stop your playing in the match.\n20 If you don't mind my saying so, I think we should do part of this exercise again.\n\n39.4\n\nIntermediate\nand Advanced\nSURVEY OF\nCOMMON VERBS\nTHAT ARE\nFOLLOWED BY\n-ING FORM\nOF VERB\n\nLIST 1. VERBS FOLLOWED BY GERUND\n\n|  *appreciate* | *go on (= continue)*  |\n| --- | --- |\n|  *avoid* | *keep (on)*  |\n|  *consider* | *leave off (= cease)*  |\n|  *delay* | *mention*  |\n|  *detest* | *mind (negs. and questions)*  |\n|  *dislike* | *miss*  |\n|  *enjoy* | *pardon*  |\n|  *escape* | *practise*  |\n|  *excuse* | *put off (= postpone)*  |\n|  *fancy (negs. and questions)* | *recollect*  |\n|  *finish* | *stop*  |\n|  *forgive* | *suggest*  |\n|  *give up^{1}* | *understand*  |\n|  *can't resist* | *deny^{2}*  |\n|  *can't stand* | *postpone^{2}*  |\n|  *can't help* | *risk^{2}*  |\n\nI couldn't deny that he'd made a reasonable excuse.\n(I couldn't deny his having made . . .)\n\nHe denied knowing anything about the missing jewels.\nIt went on raining for days.\n\nDo you recollect (my) telling John about the new house?\n\n$^{1}$ And very many other transitive phrasal verbs, i.e. verb + adverbial (get off going to prison; talk over buying a house) and verb + preposition (see through his pretending to be an expert; get out of doing something unpleasant) combinations.\n\n$^{2}$ The 'subjects' of the gerunds following the last three verbs can only be in the POSSESSIVE form; but as the effect is very heavy, it is more usual to employ a clause (see first example).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "39 -ing form - Gerund and Present Participle\n181",
+    "footer": "L.E.S.—7",
+    "dimensions": {
+      "dpi": 34,
+      "height": 1006,
+      "width": 655
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9786218161287014,
+      "minimum_page_confidence_score": 0.2139895629720486
+    },
+    "blocks": [
+      {
+        "top_left_x": 135,
+        "top_left_y": 28,
+        "bottom_right_x": 504,
+        "bottom_right_y": 50,
+        "content": "39 -ing form - Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9549950214247289,
+          "minimum_content_confidence_score": 0.6472008766805845,
+          "block_type_confidence_score": 0.9999548320789592
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 601,
+        "top_left_y": 30,
+        "bottom_right_x": 632,
+        "bottom_right_y": 48,
+        "content": "181",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999486234366107,
+          "minimum_content_confidence_score": 0.9999486234366107,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 83,
+        "bottom_right_x": 627,
+        "bottom_right_y": 360,
+        "content": "13 I can excuse Betty's being rude to me, but I can't forgive her being rude to Maisie.\n14 My parents don't like my going out alone at night.\n15 I'll have to insist on his not disturbing us before the end of the lesson.\n16 I was afraid of your leaving without me.\n17 Do you remember his coming here for the first time?\n18 I can't understand their forgetting to come to our party.\n19 The weather won't stop your playing in the match.\n20 If you don't mind my saying so, I think we should do part of this exercise again.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953803829168644,
+          "minimum_content_confidence_score": 0.611226038080391,
+          "block_type_confidence_score": 0.9769881694617835
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 377,
+        "bottom_right_x": 87,
+        "bottom_right_y": 397,
+        "content": "39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960304210736439,
+          "minimum_content_confidence_score": 0.9960304210736439,
+          "block_type_confidence_score": 0.7693790356589594
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 398,
+        "bottom_right_x": 166,
+        "bottom_right_y": 551,
+        "content": "Intermediate\nand Advanced\nSURVEY OF\nCOMMON VERBS\nTHAT ARE\nFOLLOWED BY\n-ING FORM\nOF VERB",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9904403375632462,
+          "minimum_content_confidence_score": 0.7977630743126122,
+          "block_type_confidence_score": 0.988287380962596
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 171,
+        "top_left_y": 381,
+        "bottom_right_x": 468,
+        "bottom_right_y": 399,
+        "content": "LIST 1. VERBS FOLLOWED BY GERUND",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998930542905174,
+          "minimum_content_confidence_score": 0.9996907881172027,
+          "block_type_confidence_score": 0.9115833675450082
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 398,
+        "bottom_right_x": 625,
+        "bottom_right_y": 707,
+        "content": "|  *appreciate* | *go on (= continue)*  |\n| --- | --- |\n|  *avoid* | *keep (on)*  |\n|  *consider* | *leave off (= cease)*  |\n|  *delay* | *mention*  |\n|  *detest* | *mind (negs. and questions)*  |\n|  *dislike* | *miss*  |\n|  *enjoy* | *pardon*  |\n|  *escape* | *practise*  |\n|  *excuse* | *put off (= postpone)*  |\n|  *fancy (negs. and questions)* | *recollect*  |\n|  *finish* | *stop*  |\n|  *forgive* | *suggest*  |\n|  *give up^{1}* | *understand*  |\n|  *can't resist* | *deny^{2}*  |\n|  *can't stand* | *postpone^{2}*  |\n|  *can't help* | *risk^{2}*  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944914022809213,
+          "minimum_content_confidence_score": 0.9359711781192369,
+          "block_type_confidence_score": 0.983217247703363
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 710,
+        "bottom_right_x": 628,
+        "bottom_right_y": 750,
+        "content": "I couldn't deny that he'd made a reasonable excuse.\n(I couldn't deny his having made . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9963257282602966,
+          "minimum_content_confidence_score": 0.94776528826388,
+          "block_type_confidence_score": 0.9998711513688372
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 749,
+        "bottom_right_x": 633,
+        "bottom_right_y": 788,
+        "content": "He denied knowing anything about the missing jewels.\nIt went on raining for days.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999461181212899,
+          "minimum_content_confidence_score": 0.999635374640744,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 787,
+        "bottom_right_x": 634,
+        "bottom_right_y": 825,
+        "content": "Do you recollect (my) telling John about the new house?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9663768083601509,
+          "minimum_content_confidence_score": 0.6639070446375268,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 830,
+        "bottom_right_x": 634,
+        "bottom_right_y": 903,
+        "content": "$^{1}$ And very many other transitive phrasal verbs, i.e. verb + adverbial (get off going to prison; talk over buying a house) and verb + preposition (see through his pretending to be an expert; get out of doing something unpleasant) combinations.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977151586421874,
+          "minimum_content_confidence_score": 0.93744380387027,
+          "block_type_confidence_score": 0.9227682068359492
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 173,
+        "top_left_y": 901,
+        "bottom_right_x": 634,
+        "bottom_right_y": 955,
+        "content": "$^{2}$ The 'subjects' of the gerunds following the last three verbs can only be in the POSSESSIVE form; but as the effect is very heavy, it is more usual to employ a clause (see first example).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988315601518595,
+          "minimum_content_confidence_score": 0.9585524861553941,
+          "block_type_confidence_score": 0.9997599701154202
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 84,
+        "top_left_y": 974,
+        "bottom_right_x": 139,
+        "bottom_right_y": 988,
+        "content": "L.E.S.—7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9351141703734217,
+          "minimum_content_confidence_score": 0.9351141703734217,
+          "block_type_confidence_score": 0.9999877308512578
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-063-right",
+    "pdf_page": 63,
+    "side": "right",
+    "reading_order": 126
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "7 Prices have gone up during the last few weeks.\n8 Did he take you with him to the Zoo last time?\n9 I have been very busy today.\n10 He had a tooth pulled out yesterday.\n11 He looked for you at the party last night.\n12 Cyril hasn't shaved since yesterday.\n13 I saw the queen three days ago.\n14 We took our examinations in 1972.\n15 Did we go out yesterday afternoon?\n16 He stayed at home till six o'clock.\n17 They haven't paid me since March.\n18 Did Maisie know what to do?\n19 Have you written to him since?\n20 We didn't have time to see them all.\n\nIn most of these going to sounds better. Why? Why not in No. 18?\n\n28.5\nElementary\n\nSee previous exercises and Exercise 28.6.\n\nGoing to. Notice that going to does not normally express simple futurity, but colours the future with INTENTION OF A FEELING OF CERTAINTY in the mind of the speaker.\n\nHe's going to write to me every week.\nI'm going to climb to the top.\nShe's going to have a baby.\n\n(A shall/will form would be out of place in these.)\n\nThat is why going to is more usual with persons than with things. Note use of going to in PASSIVE VOICE, where intention or certainty of the agent is implied:\n\nThis room is going to be cleaned.\n\nAll these trees are going to be cut down soon.\n\n* * *\n\n● Change the following sentences into the going to form of future:\n1 He will leave tomorrow.\n2 Where will he stay?\n3 John will wait for us there.\n4 We shall write letters all the afternoon.\n5 He will lend me the money.\n6 We shall eat them all.\n7 The judge will ask you a few questions.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n115",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9733388234286617,
+      "minimum_page_confidence_score": 0.1781497488973595
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 16,
+        "bottom_right_x": 425,
+        "bottom_right_y": 36,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999562188107585,
+          "minimum_content_confidence_score": 0.9997789156578467,
+          "block_type_confidence_score": 0.9998750750399971
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 616,
+        "top_left_y": 16,
+        "bottom_right_x": 649,
+        "bottom_right_y": 35,
+        "content": "115",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999108393991315,
+          "minimum_content_confidence_score": 0.9999108393991315,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 70,
+        "bottom_right_x": 619,
+        "bottom_right_y": 376,
+        "content": "7 Prices have gone up during the last few weeks.\n8 Did he take you with him to the Zoo last time?\n9 I have been very busy today.\n10 He had a tooth pulled out yesterday.\n11 He looked for you at the party last night.\n12 Cyril hasn't shaved since yesterday.\n13 I saw the queen three days ago.\n14 We took our examinations in 1972.\n15 Did we go out yesterday afternoon?\n16 He stayed at home till six o'clock.\n17 They haven't paid me since March.\n18 Did Maisie know what to do?\n19 Have you written to him since?\n20 We didn't have time to see them all.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996892647148287,
+          "minimum_content_confidence_score": 0.9785924495048904,
+          "block_type_confidence_score": 0.9924219150435488
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 383,
+        "bottom_right_x": 652,
+        "bottom_right_y": 424,
+        "content": "In most of these going to sounds better. Why? Why not in No. 18?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9885934053396219,
+          "minimum_content_confidence_score": 0.8490691513788802,
+          "block_type_confidence_score": 0.9995420884930557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 49,
+        "top_left_y": 442,
+        "bottom_right_x": 144,
+        "bottom_right_y": 483,
+        "content": "28.5\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9095651168066657,
+          "minimum_content_confidence_score": 0.7530236428276273,
+          "block_type_confidence_score": 0.6764886517047085
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 443,
+        "bottom_right_x": 511,
+        "bottom_right_y": 464,
+        "content": "See previous exercises and Exercise 28.6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999868345424666,
+          "minimum_content_confidence_score": 0.9999713129479276,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 464,
+        "bottom_right_x": 653,
+        "bottom_right_y": 543,
+        "content": "Going to. Notice that going to does not normally express simple futurity, but colours the future with INTENTION OF A FEELING OF CERTAINTY in the mind of the speaker.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9907654534932768,
+          "minimum_content_confidence_score": 0.7343511166558565,
+          "block_type_confidence_score": 0.9999896288992495
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 547,
+        "bottom_right_x": 529,
+        "bottom_right_y": 607,
+        "content": "He's going to write to me every week.\nI'm going to climb to the top.\nShe's going to have a baby.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999862498864498,
+          "minimum_content_confidence_score": 0.9998292022712378,
+          "block_type_confidence_score": 0.9819682351009322
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 615,
+        "bottom_right_x": 585,
+        "bottom_right_y": 637,
+        "content": "(A shall/will form would be out of place in these.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999702768372879,
+          "minimum_content_confidence_score": 0.9998472103572369,
+          "block_type_confidence_score": 0.9998407617436356
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 636,
+        "bottom_right_x": 653,
+        "bottom_right_y": 696,
+        "content": "That is why going to is more usual with persons than with things. Note use of going to in PASSIVE VOICE, where intention or certainty of the agent is implied:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999591553728465,
+          "minimum_content_confidence_score": 0.9993693040636656,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 699,
+        "bottom_right_x": 494,
+        "bottom_right_y": 719,
+        "content": "This room is going to be cleaned.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999990900664314,
+          "minimum_content_confidence_score": 0.9999618150628644,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 719,
+        "bottom_right_x": 600,
+        "bottom_right_y": 740,
+        "content": "All these trees are going to be cut down soon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999883637458422,
+          "minimum_content_confidence_score": 0.9999372998439418,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 754,
+        "bottom_right_x": 466,
+        "bottom_right_y": 768,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979243729700326,
+          "minimum_content_confidence_score": 0.9944408760680419,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 778,
+        "bottom_right_x": 655,
+        "bottom_right_y": 975,
+        "content": "● Change the following sentences into the going to form of future:\n1 He will leave tomorrow.\n2 Where will he stay?\n3 John will wait for us there.\n4 We shall write letters all the afternoon.\n5 He will lend me the money.\n6 We shall eat them all.\n7 The judge will ask you a few questions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973906117882851,
+          "minimum_content_confidence_score": 0.8320365956956581,
+          "block_type_confidence_score": 0.9995594774054927
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

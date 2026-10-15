@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-104-right",
+    "pdf_page": 104,
+    "side": "right",
+    "reading_order": 208
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "**42.3**\n**Advanced** ● Make two sentences with each of the following words: (a) as a verb; (b) as a noun:\nchange; doubt; jump; laugh; lift; start; stop; turn; step; rub; shake; tear; touch; want; bend; catch; draw; hold; leave; make; air; book; shoe; stomach; mouth¹; finger; thumb; eye; steam; house²; match; dog; harbour.\n\n**42.4**\n**Elementary** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ndry; open; shut; warm; clean; hurt; wet.\n\n**42.5**\n**Intermediate** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ndirty; clear; cut; empty; light; live³; mean; free.\n\n**42.6**\n**Advanced** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ncomplete; equal; loose; second; separate⁴; wrong; better; frequent⁵; right.\n\n## 43 have a —\n\n**43.1**\n**Elementary** Some languages, notably the Slavonic group, can make a distinction between an action done once only and an action done repeatedly. In English we have the *have a* plus verb-noun pattern for the 'once only' form.\nWe were riding in the car. (when we saw him)\nWe rode there in the car. (means of transport)\nWe had a ride in the car. (had one experience of this action)\n\nAlthough this can be a means of defining one particular performance of the action designated by the verb-noun, it must be admitted that the simple tense is usually equally good.\n\n* * *\n\n¹ v. [mauð], n. [mauθ]\n\n² v. [hauz], n. [haus]\n\n³ a. [laiv], v. [liv]\n\n⁴ a. ['seprit], v. ['sepəreit]\n\n⁵ a. ['fri:kwənt], v. [fri'kwent]",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "43 have a —\n197",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9653906151810027,
+      "minimum_page_confidence_score": 0.15743263529469018
+    },
+    "blocks": [
+      {
+        "top_left_x": 145,
+        "top_left_y": 21,
+        "bottom_right_x": 281,
+        "bottom_right_y": 41,
+        "content": "43 have a —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8624075890018355,
+          "minimum_content_confidence_score": 0.5117122902853284,
+          "block_type_confidence_score": 0.9999122558143517
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 19,
+        "bottom_right_x": 655,
+        "bottom_right_y": 38,
+        "content": "197",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999909401759619,
+          "minimum_content_confidence_score": 0.9999909401759619,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 76,
+        "bottom_right_x": 658,
+        "bottom_right_y": 509,
+        "content": "**42.3**\n**Advanced** ● Make two sentences with each of the following words: (a) as a verb; (b) as a noun:\nchange; doubt; jump; laugh; lift; start; stop; turn; step; rub; shake; tear; touch; want; bend; catch; draw; hold; leave; make; air; book; shoe; stomach; mouth¹; finger; thumb; eye; steam; house²; match; dog; harbour.\n\n**42.4**\n**Elementary** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ndry; open; shut; warm; clean; hurt; wet.\n\n**42.5**\n**Intermediate** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ndirty; clear; cut; empty; light; live³; mean; free.\n\n**42.6**\n**Advanced** ● Make two sentences with each of the following words: (a) as an adjective; (b) as a verb:\ncomplete; equal; loose; second; separate⁴; wrong; better; frequent⁵; right.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9897469575915373,
+          "minimum_content_confidence_score": 0.4410473241069914,
+          "block_type_confidence_score": 0.8842911726321065
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 569,
+        "bottom_right_x": 328,
+        "bottom_right_y": 595,
+        "content": "## 43 have a —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9658111031199725,
+          "minimum_content_confidence_score": 0.8666124159231532,
+          "block_type_confidence_score": 0.9791098684577131
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 648,
+        "bottom_right_x": 660,
+        "bottom_right_y": 812,
+        "content": "**43.1**\n**Elementary** Some languages, notably the Slavonic group, can make a distinction between an action done once only and an action done repeatedly. In English we have the *have a* plus verb-noun pattern for the 'once only' form.\nWe were riding in the car. (when we saw him)\nWe rode there in the car. (means of transport)\nWe had a ride in the car. (had one experience of this action)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989137792333249,
+          "minimum_content_confidence_score": 0.9739728078979909,
+          "block_type_confidence_score": 0.6511840771551739
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 820,
+        "bottom_right_x": 660,
+        "bottom_right_y": 902,
+        "content": "Although this can be a means of defining one particular performance of the action designated by the verb-noun, it must be admitted that the simple tense is usually equally good.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999884467291766,
+          "minimum_content_confidence_score": 0.9999053567850382,
+          "block_type_confidence_score": 0.9998561350834737
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 364,
+        "top_left_y": 912,
+        "bottom_right_x": 470,
+        "bottom_right_y": 925,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.994167247895732,
+          "minimum_content_confidence_score": 0.9913009831044641,
+          "block_type_confidence_score": 0.9998083481944735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 936,
+        "bottom_right_x": 357,
+        "bottom_right_y": 958,
+        "content": "¹ v. [mauð], n. [mauθ]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.956424253380985,
+          "minimum_content_confidence_score": 0.8757137370183903,
+          "block_type_confidence_score": 0.9950652471146829
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 424,
+        "top_left_y": 936,
+        "bottom_right_x": 590,
+        "bottom_right_y": 956,
+        "content": "² v. [hauz], n. [haus]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988160766760427,
+          "minimum_content_confidence_score": 0.9952297299489307,
+          "block_type_confidence_score": 0.9999814036965474
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 956,
+        "bottom_right_x": 320,
+        "bottom_right_y": 975,
+        "content": "³ a. [laiv], v. [liv]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9966562082867437,
+          "minimum_content_confidence_score": 0.9843405713595074,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 388,
+        "top_left_y": 956,
+        "bottom_right_x": 592,
+        "bottom_right_y": 974,
+        "content": "⁴ a. ['seprit], v. ['sepəreit]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9631346927810938,
+          "minimum_content_confidence_score": 0.8795794969970437,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "references"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 974,
+        "bottom_right_x": 413,
+        "bottom_right_y": 993,
+        "content": "⁵ a. ['fri:kwənt], v. [fri'kwent]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9854323125215471,
+          "minimum_content_confidence_score": 0.9463787267960069,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

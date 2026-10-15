@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-010-left",
+    "pdf_page": 10,
+    "side": "left",
+    "reading_order": 19
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "(2.1) ● Make the following statements (a) negative, (b) questions:\n\n1 He can read English.\n2 She has a brother.\n3 I must do it now.\n4 He is very late.\n5 They have time to do it.\n6 You can wait here.\n7 I am right.\n8 We can see from here.\n9 He must eat it.\n10 They are French.\n11 You must tell him everything.\n12 He can leave now.\n13 You have a penny.\n14 She can put it on the table.\n15 I must keep it.\n16 I am early.\n17 They can go now.\n18 You must write to her.\n19 He has a good one.\n20 I can come tomorrow.\n\n2.2 Use of do in questions and negatives.\n\nElementary\n\n* * *\n\n● Make the following statements (a) negative, (b) questions:\n1 John likes tea.\n2 He sells good cakes.\n3 You speak softly.\n4 It tastes good.\n5 I read well.\n6 He takes English lessons.\n7 They often go to the pictures.\n8 It costs five pence.\n9 She swims well.\n10 They try to understand.\n11 He walks to work.\n12 I do it well.\n13 You sleep well.\n14 They play football.\n15 He loves his wife.\n16 We believe him.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "8\n2 Elementary Negatives and Questions",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 694
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9702896878961662,
+      "minimum_page_confidence_score": 0.20707324399961688
+    },
+    "blocks": [
+      {
+        "top_left_x": 26,
+        "top_left_y": 16,
+        "bottom_right_x": 42,
+        "bottom_right_y": 35,
+        "content": "8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998731774057923,
+          "minimum_content_confidence_score": 0.9998731774057923,
+          "block_type_confidence_score": 0.9941801649576804
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 15,
+        "bottom_right_x": 444,
+        "bottom_right_y": 35,
+        "content": "2 Elementary Negatives and Questions",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996203577029991,
+          "minimum_content_confidence_score": 0.981356857888226,
+          "block_type_confidence_score": 0.9713571809844893
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 26,
+        "top_left_y": 70,
+        "bottom_right_x": 614,
+        "bottom_right_y": 93,
+        "content": "(2.1) ● Make the following statements (a) negative, (b) questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970477231863644,
+          "minimum_content_confidence_score": 0.983416797462302,
+          "block_type_confidence_score": 0.880333767962047
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 94,
+        "bottom_right_x": 424,
+        "bottom_right_y": 530,
+        "content": "1 He can read English.\n2 She has a brother.\n3 I must do it now.\n4 He is very late.\n5 They have time to do it.\n6 You can wait here.\n7 I am right.\n8 We can see from here.\n9 He must eat it.\n10 They are French.\n11 You must tell him everything.\n12 He can leave now.\n13 You have a penny.\n14 She can put it on the table.\n15 I must keep it.\n16 I am early.\n17 They can go now.\n18 You must write to her.\n19 He has a good one.\n20 I can come tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998950411197303,
+          "minimum_content_confidence_score": 0.9882098427772968,
+          "block_type_confidence_score": 0.9988584452353075
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 551,
+        "bottom_right_x": 458,
+        "bottom_right_y": 572,
+        "content": "2.2 Use of do in questions and negatives.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9756926451906355,
+          "minimum_content_confidence_score": 0.8166944045443256,
+          "block_type_confidence_score": 0.9096515198902793
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 572,
+        "bottom_right_x": 122,
+        "bottom_right_y": 593,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989487209488241,
+          "minimum_content_confidence_score": 0.9989487209488241,
+          "block_type_confidence_score": 0.8599978316445454
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 335,
+        "top_left_y": 585,
+        "bottom_right_x": 438,
+        "bottom_right_y": 599,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962836933335891,
+          "minimum_content_confidence_score": 0.991668366635465,
+          "block_type_confidence_score": 0.9998935574378137
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 610,
+        "bottom_right_x": 618,
+        "bottom_right_y": 984,
+        "content": "● Make the following statements (a) negative, (b) questions:\n1 John likes tea.\n2 He sells good cakes.\n3 You speak softly.\n4 It tastes good.\n5 I read well.\n6 He takes English lessons.\n7 They often go to the pictures.\n8 It costs five pence.\n9 She swims well.\n10 They try to understand.\n11 He walks to work.\n12 I do it well.\n13 You sleep well.\n14 They play football.\n15 He loves his wife.\n16 We believe him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999759563220861,
+          "minimum_content_confidence_score": 0.9991474274082008,
+          "block_type_confidence_score": 0.9997080225114381
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

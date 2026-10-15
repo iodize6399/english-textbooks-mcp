@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-130-left",
+    "pdf_page": 130,
+    "side": "left",
+    "reading_order": 259
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "4 Bring in the two accused men and take care they don't get away. (The judge . . .)\n5 Don't spend all your money on food and drink. Save some for the future.\n6 Drive as fast as you can. I don't want to be late.\n7 Wait here under the tree until the rain stops.\n8 Do what you're told or you'll get into trouble.\n9 Imitate my pronunciation if you want to speak well.\n10 Come and see me whenever you have a few hours to spare. Don't wait for me to ask you every time you want to come.\n11 Hurry up if you want to go out with me.\n12 Tell me when it's quarter past eight.\n13 Be a good girl and sit quietly for five minutes and Auntie will give you a sweet.\n14 Treat other people the way you'd like them to treat you.\n15 Take a cold shower before breakfast if you want to keep fit.\n\n# REPORTED SPEECH – STATEMENT\n\n51.4\n\nElementary\n\nWhen the reporting verb is in the PRESENT SIMPLE, PRESENT PERFECT, or FUTURE SIMPLE tense, there is no change of tense in the words reported. Notice only the necessary change of person.\n\n'I am very sorry.'\n\nHe will tell you\n\nHe says\n\nHe has just told me\n\n(that) he is very sorry.\n\n* * *\n\n● Put the following sentences into REPORTED SPEECH, introducing them with a verb in the PRESENT, PRESENT PERFECT, or FUTURE tense:\n\n1 I am going to town with my sister.\n2 You have bought yourself a new hat.\n3 We are very late.\n4 I want to speak to you.\n5 We have finished our work.\n6 He is ready to come with us.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "248\n51 Reported Speech",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9666179673071963,
+      "minimum_page_confidence_score": 0.18840597672809425
+    },
+    "blocks": [
+      {
+        "top_left_x": 31,
+        "top_left_y": 15,
+        "bottom_right_x": 64,
+        "bottom_right_y": 33,
+        "content": "248",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999181099254703,
+          "minimum_content_confidence_score": 0.9999181099254703,
+          "block_type_confidence_score": 0.999995873551576
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 15,
+        "bottom_right_x": 292,
+        "bottom_right_y": 34,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995708646062907,
+          "minimum_content_confidence_score": 0.999046044487204,
+          "block_type_confidence_score": 0.9993390806851639
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 68,
+        "bottom_right_x": 617,
+        "bottom_right_y": 504,
+        "content": "4 Bring in the two accused men and take care they don't get away. (The judge . . .)\n5 Don't spend all your money on food and drink. Save some for the future.\n6 Drive as fast as you can. I don't want to be late.\n7 Wait here under the tree until the rain stops.\n8 Do what you're told or you'll get into trouble.\n9 Imitate my pronunciation if you want to speak well.\n10 Come and see me whenever you have a few hours to spare. Don't wait for me to ask you every time you want to come.\n11 Hurry up if you want to go out with me.\n12 Tell me when it's quarter past eight.\n13 Be a good girl and sit quietly for five minutes and Auntie will give you a sweet.\n14 Treat other people the way you'd like them to treat you.\n15 Take a cold shower before breakfast if you want to keep fit.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989763665594051,
+          "minimum_content_confidence_score": 0.8898209906441504,
+          "block_type_confidence_score": 0.9940863969730905
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 534,
+        "bottom_right_x": 356,
+        "bottom_right_y": 554,
+        "content": "# REPORTED SPEECH – STATEMENT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8677160430962783,
+          "minimum_content_confidence_score": 0.5857382233461417,
+          "block_type_confidence_score": 0.9214022241547863
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 573,
+        "bottom_right_x": 74,
+        "bottom_right_y": 593,
+        "content": "51.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997018091112756,
+          "minimum_content_confidence_score": 0.9997018091112756,
+          "block_type_confidence_score": 0.4984056188729838
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 595,
+        "bottom_right_x": 125,
+        "bottom_right_y": 614,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999909282600522,
+          "minimum_content_confidence_score": 0.9999909282600522,
+          "block_type_confidence_score": 0.985766414169519
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 157,
+        "top_left_y": 573,
+        "bottom_right_x": 617,
+        "bottom_right_y": 653,
+        "content": "When the reporting verb is in the PRESENT SIMPLE, PRESENT PERFECT, or FUTURE SIMPLE tense, there is no change of tense in the words reported. Notice only the necessary change of person.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999371629810905,
+          "minimum_content_confidence_score": 0.9984855970953859,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 656,
+        "bottom_right_x": 338,
+        "bottom_right_y": 677,
+        "content": "'I am very sorry.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977484946762005,
+          "minimum_content_confidence_score": 0.9928244465630023,
+          "block_type_confidence_score": 0.9999469546810004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 682,
+        "bottom_right_x": 324,
+        "bottom_right_y": 702,
+        "content": "He will tell you",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999950528705414,
+          "minimum_content_confidence_score": 0.9999853374722015,
+          "block_type_confidence_score": 0.9999800924450729
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 703,
+        "bottom_right_x": 262,
+        "bottom_right_y": 722,
+        "content": "He says",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999923706979024,
+          "minimum_content_confidence_score": 0.9999865295319578,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 723,
+        "bottom_right_x": 364,
+        "bottom_right_y": 743,
+        "content": "He has just told me",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999956846500323,
+          "minimum_content_confidence_score": 0.9999905825550351,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 402,
+        "top_left_y": 701,
+        "bottom_right_x": 583,
+        "bottom_right_y": 722,
+        "content": "(that) he is very sorry.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990063576850032,
+          "minimum_content_confidence_score": 0.995046161535726,
+          "block_type_confidence_score": 0.9993031116708659
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 757,
+        "bottom_right_x": 437,
+        "bottom_right_y": 771,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997559468879243,
+          "minimum_content_confidence_score": 0.9962645164855664,
+          "block_type_confidence_score": 0.9999812844913009
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 782,
+        "bottom_right_x": 617,
+        "bottom_right_y": 842,
+        "content": "● Put the following sentences into REPORTED SPEECH, introducing them with a verb in the PRESENT, PRESENT PERFECT, or FUTURE tense:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957071350738773,
+          "minimum_content_confidence_score": 0.9119425017008292,
+          "block_type_confidence_score": 0.9045952988456529
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 846,
+        "bottom_right_x": 489,
+        "bottom_right_y": 976,
+        "content": "1 I am going to town with my sister.\n2 You have bought yourself a new hat.\n3 We are very late.\n4 I want to speak to you.\n5 We have finished our work.\n6 He is ready to come with us.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999626854170122,
+          "minimum_content_confidence_score": 0.9986654472633375,
+          "block_type_confidence_score": 0.999969840959284
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

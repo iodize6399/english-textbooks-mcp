@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-066-right",
+    "pdf_page": 66,
+    "side": "right",
+    "reading_order": 132
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "(a) Are you going to put on another play soon? (Direct question about intentions.)\n\n(b) Will you be putting on another play soon? (The intentions themselves are by-passed and the question concerns future activities. This is more of a pure future, more remote, and therefore more polite.)\n\n(c) Will you put on another play soon? (A request: please do so; we've enjoyed this one.)\n\nThe form in (b) is the modern equivalent of the older 'Shall you put on another play soon?' (Is it in your prearranged programme?)\n\n* * *\n\n● Turn the following into politer¹ questions by using the FUTURE CONTINUOUS form:\n\n1 Are you going to use this spoon?\n2 Are you going to need me any more tonight?\n3 Are you going to stay here long?\n4 Are you going to want any more like this?\n5 When are we going to see you again?\n6 When are you coming again?\n7 What are you going to have for breakfast?\n8 When are you going to post your letters?\n9 When are you going to have the house painted?\n10 When are you going to try the new ones?\n11 When are you going to go away?\n12 When are you going to have your next lesson?\n13 When are you going to want your heater turned on?\n14 How are you going to get back?\n15 Where are you going to stay in Paris?\n16 Are you going to spend much more time here?\n17 Are you going to make any more cakes like these?\n18 Which school are you going to send him to?\n19 Are you going to pay for it yourself?\n20 Are you going to have a haircut tomorrow?\n21 Are you going to stay out all night again?\n22 Do you require anything else?\n\n¹ But politeness, in English, is very much more a matter of intonation than of words and syntax. A faulty intonation may make the 'politer' form less courteous than the less elaborate form.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n121",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.973867636509958,
+      "minimum_page_confidence_score": 0.30628405570171446
+    },
+    "blocks": [
+      {
+        "top_left_x": 148,
+        "top_left_y": 19,
+        "bottom_right_x": 434,
+        "bottom_right_y": 39,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998698510530198,
+          "minimum_content_confidence_score": 0.9992784702985147,
+          "block_type_confidence_score": 0.9997742249716394
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 627,
+        "top_left_y": 16,
+        "bottom_right_x": 658,
+        "bottom_right_y": 35,
+        "content": "121",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99994635869545,
+          "minimum_content_confidence_score": 0.99994635869545,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 71,
+        "bottom_right_x": 660,
+        "bottom_right_y": 115,
+        "content": "(a) Are you going to put on another play soon? (Direct question about intentions.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996597308506384,
+          "minimum_content_confidence_score": 0.9982008477425219,
+          "block_type_confidence_score": 0.9769349204440357
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 111,
+        "bottom_right_x": 662,
+        "bottom_right_y": 195,
+        "content": "(b) Will you be putting on another play soon? (The intentions themselves are by-passed and the question concerns future activities. This is more of a pure future, more remote, and therefore more polite.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999967416063758,
+          "minimum_content_confidence_score": 0.9996086613202338,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 192,
+        "bottom_right_x": 662,
+        "bottom_right_y": 235,
+        "content": "(c) Will you put on another play soon? (A request: please do so; we've enjoyed this one.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970567689021439,
+          "minimum_content_confidence_score": 0.9510201402556211,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 240,
+        "bottom_right_x": 662,
+        "bottom_right_y": 305,
+        "content": "The form in (b) is the modern equivalent of the older 'Shall you put on another play soon?' (Is it in your prearranged programme?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967746552097977,
+          "minimum_content_confidence_score": 0.9269358694524339,
+          "block_type_confidence_score": 0.9996861012806234
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 368,
+        "top_left_y": 309,
+        "bottom_right_x": 473,
+        "bottom_right_y": 323,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8819134143584731,
+          "minimum_content_confidence_score": 0.6472069524571938,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 340,
+        "bottom_right_x": 662,
+        "bottom_right_y": 383,
+        "content": "● Turn the following into politer¹ questions by using the FUTURE CONTINUOUS form:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9966503194869657,
+          "minimum_content_confidence_score": 0.9730296150110574,
+          "block_type_confidence_score": 0.9873514473251037
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 394,
+        "bottom_right_x": 660,
+        "bottom_right_y": 897,
+        "content": "1 Are you going to use this spoon?\n2 Are you going to need me any more tonight?\n3 Are you going to stay here long?\n4 Are you going to want any more like this?\n5 When are we going to see you again?\n6 When are you coming again?\n7 What are you going to have for breakfast?\n8 When are you going to post your letters?\n9 When are you going to have the house painted?\n10 When are you going to try the new ones?\n11 When are you going to go away?\n12 When are you going to have your next lesson?\n13 When are you going to want your heater turned on?\n14 How are you going to get back?\n15 Where are you going to stay in Paris?\n16 Are you going to spend much more time here?\n17 Are you going to make any more cakes like these?\n18 Which school are you going to send him to?\n19 Are you going to pay for it yourself?\n20 Are you going to have a haircut tomorrow?\n21 Are you going to stay out all night again?\n22 Do you require anything else?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999714060155485,
+          "minimum_content_confidence_score": 0.9978094507908082,
+          "block_type_confidence_score": 0.999969840959284
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 910,
+        "bottom_right_x": 668,
+        "bottom_right_y": 984,
+        "content": "¹ But politeness, in English, is very much more a matter of intonation than of words and syntax. A faulty intonation may make the 'politer' form less courteous than the less elaborate form.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996438814851668,
+          "minimum_content_confidence_score": 0.9887863162153515,
+          "block_type_confidence_score": 0.9001265624428708
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

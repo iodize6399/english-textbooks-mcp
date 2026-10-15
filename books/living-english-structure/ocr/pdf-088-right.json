@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-088-right",
+    "pdf_page": 88,
+    "side": "right",
+    "reading_order": 176
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:11.961996+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "22 Somebody used to beat the poor animal every day.\nThe poor animal . . .\n23 I have become very sunburnt.\n24 A storm damaged the ship. The ship . . .\n25 He has known me for some time, and now he\nwould like to meet other young men here. (get to\nknow)\n\n## 34 Predicative so and not\n\n### 34.1 Elementary\n\nA useful and important time-saver in English speech is\nthis use of so with I think, believe, hope, am afraid, etc., in\nresponses.\n\nI think it will be fine tomorrow. – Oh, I hope so.\n(affirmative)\n\nYou haven't caught cold, have you? – I don't think so.\n(negative)\n\n* * *\n\n● Respond in a similar way to the following statements (the\nstatements to be read to the students):\n1 Is there time for another cup of tea? (think)\n2 He left a week ago, didn't he? (believe)\n3 Your mother won't be angry with you, will she?\n(not think)\n4 I expect we shall have a good time at the party.\n(hope)\n5 It seems that the train is very late. (afraid)\n6 Perhaps he has got here before us. (not believe)\n7 I'm sure you'll soon get better. (hope)\n8 You'll have to pay for it yourself. (afraid)\n9 Perhaps he will refuse to pay me. (not think)\n10 We shall be home again soon. (hope)\n11 Wasn't Nelson a famous admiral? (think)\n12 Can't you ask for help? (not think)\n13 You had a very unpleasant time, I'm told. (afraid)\n14 Athens is on the coast, isn't it? (believe)\n15 I think it will rain tomorrow. (afraid)\n16 Perhaps she has finished my dress. (hope)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "34 Predicative so and not\n165",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9713840680838305,
+      "minimum_page_confidence_score": 0.2289536327309592
+    },
+    "blocks": [
+      {
+        "top_left_x": 144,
+        "top_left_y": 16,
+        "bottom_right_x": 361,
+        "bottom_right_y": 36,
+        "content": "34 Predicative so and not",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9103408276910127,
+          "minimum_content_confidence_score": 0.6428356097104214,
+          "block_type_confidence_score": 0.999677144628617
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 16,
+        "bottom_right_x": 653,
+        "bottom_right_y": 36,
+        "content": "165",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999489810279807,
+          "minimum_content_confidence_score": 0.9999489810279807,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 71,
+        "bottom_right_x": 646,
+        "bottom_right_y": 224,
+        "content": "22 Somebody used to beat the poor animal every day.\nThe poor animal . . .\n23 I have become very sunburnt.\n24 A storm damaged the ship. The ship . . .\n25 He has known me for some time, and now he\nwould like to meet other young men here. (get to\nknow)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9892543839458273,
+          "minimum_content_confidence_score": 0.6221808900051728,
+          "block_type_confidence_score": 0.9770168441918813
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 282,
+        "bottom_right_x": 439,
+        "bottom_right_y": 311,
+        "content": "## 34 Predicative so and not",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9478695463033793,
+          "minimum_content_confidence_score": 0.7308936894089081,
+          "block_type_confidence_score": 0.9994450313152777
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 362,
+        "bottom_right_x": 146,
+        "bottom_right_y": 404,
+        "content": "### 34.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8710308253254658,
+          "minimum_content_confidence_score": 0.6138479119573533,
+          "block_type_confidence_score": 0.5877301613428336
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 362,
+        "bottom_right_x": 654,
+        "bottom_right_y": 423,
+        "content": "A useful and important time-saver in English speech is\nthis use of so with I think, believe, hope, am afraid, etc., in\nresponses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9727607844721414,
+          "minimum_content_confidence_score": 0.5613825477132447,
+          "block_type_confidence_score": 0.9999850990607846
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 426,
+        "bottom_right_x": 654,
+        "bottom_right_y": 467,
+        "content": "I think it will be fine tomorrow. – Oh, I hope so.\n(affirmative)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9783540522508881,
+          "minimum_content_confidence_score": 0.7175236194309011,
+          "block_type_confidence_score": 0.9999167988406579
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 467,
+        "bottom_right_x": 654,
+        "bottom_right_y": 508,
+        "content": "You haven't caught cold, have you? – I don't think so.\n(negative)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971167492401631,
+          "minimum_content_confidence_score": 0.9687408454453079,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 360,
+        "top_left_y": 521,
+        "bottom_right_x": 465,
+        "bottom_right_y": 535,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971355229667268,
+          "minimum_content_confidence_score": 0.9926648942910609,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 546,
+        "bottom_right_x": 654,
+        "bottom_right_y": 984,
+        "content": "● Respond in a similar way to the following statements (the\nstatements to be read to the students):\n1 Is there time for another cup of tea? (think)\n2 He left a week ago, didn't he? (believe)\n3 Your mother won't be angry with you, will she?\n(not think)\n4 I expect we shall have a good time at the party.\n(hope)\n5 It seems that the train is very late. (afraid)\n6 Perhaps he has got here before us. (not believe)\n7 I'm sure you'll soon get better. (hope)\n8 You'll have to pay for it yourself. (afraid)\n9 Perhaps he will refuse to pay me. (not think)\n10 We shall be home again soon. (hope)\n11 Wasn't Nelson a famous admiral? (think)\n12 Can't you ask for help? (not think)\n13 You had a very unpleasant time, I'm told. (afraid)\n14 Athens is on the coast, isn't it? (believe)\n15 I think it will rain tomorrow. (afraid)\n16 Perhaps she has finished my dress. (hope)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986502716951724,
+          "minimum_content_confidence_score": 0.7969051801537002,
+          "block_type_confidence_score": 0.9999557753101334
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

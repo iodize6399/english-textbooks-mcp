@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-060-left",
+    "pdf_page": 60,
+    "side": "left",
+    "reading_order": 119
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "5 He (continue) his training for a time, and soon (become) a pilot officer.\n6 Afterwards he (fight) on two fronts.\n7 I (expect) you (hear) how he (win) a medal for bravery.\n8 I once (hear) Tom Jones sing, but I never (hear) Lulu.\n9 A few years ago they (pull) down some old houses in that street.\n10 Last year they (begin) to build a new block of flats.\n11 In my town they continually (pull) down old houses and (put) up new ones.\n12 The town (change) its appearance completely since 1968.\n13 Two years ago they (call) in an American architect.\n14 He already (design) some important public buildings.\n15 Now he (prepare) the plans for a new Town Hall.\n16 There (be) great improvements in the country too.\n17 Until recently there (be) no baths in many of the cottages.\n18 Sometimes the roofs (leak) and (let) in the rain.\n19 Now they (build) a lot of new workmen's cottages. (Two possibilities.)\n20 They already (repair) some of the old ones and (make) them more healthy and comfortable.\n\n27.6\n\nAdvanced\n\nSIMPLE AND\nCONTINUOUS\nTENSE\nREVISION\n\n● Supply the most suitable tense (PRESENT, PAST, or PRESENT PERFECT):\n1 Lend me your rubber. I (make) a mistake and (want) to rub it out.\n2 I (see) you yesterday. You (drink) ginger beer at a café, but you (not see) me.\n3 I (go) to Portugal five years ago. Since then I (not speak) Portuguese, and (forget) nearly all I (learn) there.\n4 'You (read) Pickwick Papers?' 'I (begin) the book last week and just (finish) it.'\n5 'I (go) to the Zoo tomorrow. You ever (be) there?'",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "108\n27 Tense Revision (Present, Past, Present Perfect)",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 998,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9796254746919575,
+      "minimum_page_confidence_score": 0.1982300564323626
+    },
+    "blocks": [
+      {
+        "top_left_x": 15,
+        "top_left_y": 19,
+        "bottom_right_x": 48,
+        "bottom_right_y": 38,
+        "content": "108",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999694833531786,
+          "minimum_content_confidence_score": 0.9999694833531786,
+          "block_type_confidence_score": 0.9999785980735814
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 18,
+        "bottom_right_x": 516,
+        "bottom_right_y": 38,
+        "content": "27 Tense Revision (Present, Past, Present Perfect)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999401732346768,
+          "minimum_content_confidence_score": 0.9996974121690675,
+          "block_type_confidence_score": 0.9965717701704474
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 71,
+        "bottom_right_x": 601,
+        "bottom_right_y": 683,
+        "content": "5 He (continue) his training for a time, and soon (become) a pilot officer.\n6 Afterwards he (fight) on two fronts.\n7 I (expect) you (hear) how he (win) a medal for bravery.\n8 I once (hear) Tom Jones sing, but I never (hear) Lulu.\n9 A few years ago they (pull) down some old houses in that street.\n10 Last year they (begin) to build a new block of flats.\n11 In my town they continually (pull) down old houses and (put) up new ones.\n12 The town (change) its appearance completely since 1968.\n13 Two years ago they (call) in an American architect.\n14 He already (design) some important public buildings.\n15 Now he (prepare) the plans for a new Town Hall.\n16 There (be) great improvements in the country too.\n17 Until recently there (be) no baths in many of the cottages.\n18 Sometimes the roofs (leak) and (let) in the rain.\n19 Now they (build) a lot of new workmen's cottages. (Two possibilities.)\n20 They already (repair) some of the old ones and (make) them more healthy and comfortable.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995168478682172,
+          "minimum_content_confidence_score": 0.9174496783705323,
+          "block_type_confidence_score": 0.9968246045332859
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 702,
+        "bottom_right_x": 60,
+        "bottom_right_y": 722,
+        "content": "27.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998438394584848,
+          "minimum_content_confidence_score": 0.9998438394584848,
+          "block_type_confidence_score": 0.771835740743806
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 724,
+        "bottom_right_x": 97,
+        "bottom_right_y": 742,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999897252153674,
+          "minimum_content_confidence_score": 0.999897252153674,
+          "block_type_confidence_score": 0.9956343862008673
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 745,
+        "bottom_right_x": 120,
+        "bottom_right_y": 822,
+        "content": "SIMPLE AND\nCONTINUOUS\nTENSE\nREVISION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.965854248230503,
+          "minimum_content_confidence_score": 0.7277004256246931,
+          "block_type_confidence_score": 0.9950880281718782
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 702,
+        "bottom_right_x": 609,
+        "bottom_right_y": 967,
+        "content": "● Supply the most suitable tense (PRESENT, PAST, or PRESENT PERFECT):\n1 Lend me your rubber. I (make) a mistake and (want) to rub it out.\n2 I (see) you yesterday. You (drink) ginger beer at a café, but you (not see) me.\n3 I (go) to Portugal five years ago. Since then I (not speak) Portuguese, and (forget) nearly all I (learn) there.\n4 'You (read) Pickwick Papers?' 'I (begin) the book last week and just (finish) it.'\n5 'I (go) to the Zoo tomorrow. You ever (be) there?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976594609383173,
+          "minimum_content_confidence_score": 0.8983303602965689,
+          "block_type_confidence_score": 0.9950729190514745
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

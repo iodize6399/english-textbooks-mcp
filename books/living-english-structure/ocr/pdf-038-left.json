@@ -1,0 +1,161 @@
+{
+  "source": {
+    "id": "pdf-038-left",
+    "pdf_page": 38,
+    "side": "left",
+    "reading_order": 75
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "3 copy from the next person.\n4 bite his pencil, lips, nails.\n5 fold the paper.\n6 kick Y.\n7 leave the room.\n8 talk, whisper, write notes to, annoy Miss Z.\n9 point at the teacher.\n10 shout, laugh loudly, look out of the window.\n11 throw things at me.\n12 lend anything to P.\n13 think so hard.\n14 forget homework.\n15 smoke in class.\n16 play with pencil.\n17 listen to what Z says.\n18 look at you like that.\n19 look at Miss Q like that.\n20 eat in class.\n\netc., WITH OTHER KNOWN VERBS.\n\n# 20.4\nIntermediate\n\nWhen the verb has some particle with it, this is normally heard at the end of a spoken imperative. For example,\nTake your ugly face away!\n\nis more usual than 'Take away your ugly face!' (Though, of course, neither is very polite, even with the addition of please.)\n\n* * *\n\n• Say the following imperatives, putting the particle after the object:\n1 Put on your coat.\n2 Take off your shoes.\n3 Do up your buttons.\n4 Clear up this mess!\n5 Take away these books.\n6 Write down these sentences in pencil.\n7 Drink up your tea.\n8 Cover up your legs.\n9 Eat up your dinner.\n10 Take out my friend Maisie to lunch.\n11 Put back the clock one hour.\n12 Read out the message aloud.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "64\n20 Imperative",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1019,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9662459864076515,
+      "minimum_page_confidence_score": 0.26408359902531486
+    },
+    "blocks": [
+      {
+        "top_left_x": 19,
+        "top_left_y": 21,
+        "bottom_right_x": 44,
+        "bottom_right_y": 40,
+        "content": "64",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999132231714799,
+          "minimum_content_confidence_score": 0.9999132231714799,
+          "block_type_confidence_score": 0.9998755150216063
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 21,
+        "bottom_right_x": 232,
+        "bottom_right_y": 41,
+        "content": "20 Imperative",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9966830080446638,
+          "minimum_content_confidence_score": 0.9942132333586275,
+          "block_type_confidence_score": 0.9957434852218768
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 75,
+        "bottom_right_x": 543,
+        "bottom_right_y": 468,
+        "content": "3 copy from the next person.\n4 bite his pencil, lips, nails.\n5 fold the paper.\n6 kick Y.\n7 leave the room.\n8 talk, whisper, write notes to, annoy Miss Z.\n9 point at the teacher.\n10 shout, laugh loudly, look out of the window.\n11 throw things at me.\n12 lend anything to P.\n13 think so hard.\n14 forget homework.\n15 smoke in class.\n16 play with pencil.\n17 listen to what Z says.\n18 look at you like that.\n19 look at Miss Q like that.\n20 eat in class.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997846203607016,
+          "minimum_content_confidence_score": 0.9897617583597809,
+          "block_type_confidence_score": 0.9889819265813343
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 165,
+        "top_left_y": 473,
+        "bottom_right_x": 422,
+        "bottom_right_y": 493,
+        "content": "etc., WITH OTHER KNOWN VERBS.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999814727750751,
+          "minimum_content_confidence_score": 0.9996936088067047,
+          "block_type_confidence_score": 0.9952462282793244
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 513,
+        "bottom_right_x": 125,
+        "bottom_right_y": 553,
+        "content": "# 20.4\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8662423376876071,
+          "minimum_content_confidence_score": 0.6513307508421785,
+          "block_type_confidence_score": 0.7016188359228983
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 510,
+        "bottom_right_x": 607,
+        "bottom_right_y": 576,
+        "content": "When the verb has some particle with it, this is normally heard at the end of a spoken imperative. For example,\nTake your ugly face away!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9762272439122044,
+          "minimum_content_confidence_score": 0.5613853249837237,
+          "block_type_confidence_score": 0.9995947335090094
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 582,
+        "bottom_right_x": 610,
+        "bottom_right_y": 647,
+        "content": "is more usual than 'Take away your ugly face!' (Though, of course, neither is very polite, even with the addition of please.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9925719261538121,
+          "minimum_content_confidence_score": 0.8510954620485229,
+          "block_type_confidence_score": 0.9988174134979513
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 328,
+        "top_left_y": 660,
+        "bottom_right_x": 429,
+        "bottom_right_y": 672,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969105185539203,
+          "minimum_content_confidence_score": 0.9923663835251519,
+          "block_type_confidence_score": 0.9999387301794401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 682,
+        "bottom_right_x": 610,
+        "bottom_right_y": 990,
+        "content": "• Say the following imperatives, putting the particle after the object:\n1 Put on your coat.\n2 Take off your shoes.\n3 Do up your buttons.\n4 Clear up this mess!\n5 Take away these books.\n6 Write down these sentences in pencil.\n7 Drink up your tea.\n8 Cover up your legs.\n9 Eat up your dinner.\n10 Take out my friend Maisie to lunch.\n11 Put back the clock one hour.\n12 Read out the message aloud.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995372807799737,
+          "minimum_content_confidence_score": 0.586093742672115,
+          "block_type_confidence_score": 0.9997972661136226
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

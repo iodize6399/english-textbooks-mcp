@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-047-right",
+    "pdf_page": 47,
+    "side": "right",
+    "reading_order": 94
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "14 I (not find) a wife, though I (look) for one ever since I was twenty.\n15 Mary (rest) in the garden all day because she (be) ill.\n\n23.6\nIntermediate\nand\nAdvanced\n\nSee Exercise 23.4.\n\nNotice:\n\nHe has gone to London.\n\nHe has been to London.\n\nStudents are often puzzled by this apparent misuse of the preposition to after the verb be. Actually I have been must be considered as part of the verb go, an extension of I have gone with the meaning 'I have gone and come back again.' So\n\nHe has gone to London\n\n– and that's where you can find him now\n\nHe has been to London\n\n– and so he can tell you what he did there; he knows London now.\n\n* * *\n\n● Read the following, putting the verb in the correct form, PRESENT PERFECT SIMPLE and CONTINUOUS:\n1 John isn't in. He (go) to the pictures again although he (be = go) twice already this week.\n2 They (not speak) to each other since they quarrelled.\n3 That grandfather clock (stand) there for as long as I can remember.\n4 Cyril (try) to take me out to dinner for the last three weeks.\n5 How long you (learn) English?\n6 I (wait) here nearly half an hour for Maisie; do you think she (forget) to come?\n7 My clothes (hang) in the wardrobe all the time I was away, and now I see the moths (eat) great holes in them.\n8 My watch (go) for three days and it (not run down) yet.\n9 He (lose) his books. He (look) for them all the afternoon, but they (not turn up) yet.\n10 You ever (see) a live rhinoceros? You just (look)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "23 Present Perfect Tense\n83",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1000,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9693096356662566,
+      "minimum_page_confidence_score": 0.18933050211168065
+    },
+    "blocks": [
+      {
+        "top_left_x": 146,
+        "top_left_y": 18,
+        "bottom_right_x": 361,
+        "bottom_right_y": 39,
+        "content": "23 Present Perfect Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998304218675487,
+          "minimum_content_confidence_score": 0.9995175544453351,
+          "block_type_confidence_score": 0.9999203965670187
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 634,
+        "top_left_y": 20,
+        "bottom_right_x": 658,
+        "bottom_right_y": 38,
+        "content": "83",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999876633606226,
+          "minimum_content_confidence_score": 0.999876633606226,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 73,
+        "bottom_right_x": 641,
+        "bottom_right_y": 159,
+        "content": "14 I (not find) a wife, though I (look) for one ever since I was twenty.\n15 Mary (rest) in the garden all day because she (be) ill.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940799960367506,
+          "minimum_content_confidence_score": 0.8345389704554728,
+          "block_type_confidence_score": 0.9324397048684597
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 179,
+        "bottom_right_x": 157,
+        "bottom_right_y": 259,
+        "content": "23.6\nIntermediate\nand\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9920075440572488,
+          "minimum_content_confidence_score": 0.9675313402518704,
+          "block_type_confidence_score": 0.9628339507217153
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 180,
+        "bottom_right_x": 329,
+        "bottom_right_y": 201,
+        "content": "See Exercise 23.4.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999860578225421,
+          "minimum_content_confidence_score": 0.9996284628032792,
+          "block_type_confidence_score": 0.9999363462880796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 201,
+        "bottom_right_x": 247,
+        "bottom_right_y": 220,
+        "content": "Notice:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885901621112,
+          "minimum_content_confidence_score": 0.9999885901621112,
+          "block_type_confidence_score": 0.9999411140801217
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 225,
+        "bottom_right_x": 419,
+        "bottom_right_y": 244,
+        "content": "He has gone to London.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9559067630229425,
+          "minimum_content_confidence_score": 0.7796559863904697,
+          "block_type_confidence_score": 0.9999598280839657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 244,
+        "bottom_right_x": 418,
+        "bottom_right_y": 265,
+        "content": "He has been to London.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998575635084304,
+          "minimum_content_confidence_score": 0.9992964452784863,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 274,
+        "bottom_right_x": 658,
+        "bottom_right_y": 372,
+        "content": "Students are often puzzled by this apparent misuse of the preposition to after the verb be. Actually I have been must be considered as part of the verb go, an extension of I have gone with the meaning 'I have gone and come back again.' So",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9922033959046032,
+          "minimum_content_confidence_score": 0.6501816539070193,
+          "block_type_confidence_score": 0.9999948740268748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 378,
+        "bottom_right_x": 407,
+        "bottom_right_y": 398,
+        "content": "He has gone to London",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999985218103035,
+          "minimum_content_confidence_score": 0.9999949932351057,
+          "block_type_confidence_score": 0.999968291333751
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 236,
+        "top_left_y": 398,
+        "bottom_right_x": 581,
+        "bottom_right_y": 418,
+        "content": "– and that's where you can find him now",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.994716526580941,
+          "minimum_content_confidence_score": 0.9525026528558875,
+          "block_type_confidence_score": 0.9324116176924626
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 418,
+        "bottom_right_x": 407,
+        "bottom_right_y": 438,
+        "content": "He has been to London",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999961614868125,
+          "minimum_content_confidence_score": 0.9999908209686689,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 236,
+        "top_left_y": 438,
+        "bottom_right_x": 658,
+        "bottom_right_y": 476,
+        "content": "– and so he can tell you what he did there; he knows London now.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999898584487125,
+          "minimum_content_confidence_score": 0.9999162028949069,
+          "block_type_confidence_score": 0.9997384040577275
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 491,
+        "bottom_right_x": 468,
+        "bottom_right_y": 507,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964873683805582,
+          "minimum_content_confidence_score": 0.9928407735247808,
+          "block_type_confidence_score": 0.999993205116773
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 517,
+        "bottom_right_x": 655,
+        "bottom_right_y": 976,
+        "content": "● Read the following, putting the verb in the correct form, PRESENT PERFECT SIMPLE and CONTINUOUS:\n1 John isn't in. He (go) to the pictures again although he (be = go) twice already this week.\n2 They (not speak) to each other since they quarrelled.\n3 That grandfather clock (stand) there for as long as I can remember.\n4 Cyril (try) to take me out to dinner for the last three weeks.\n5 How long you (learn) English?\n6 I (wait) here nearly half an hour for Maisie; do you think she (forget) to come?\n7 My clothes (hang) in the wardrobe all the time I was away, and now I see the moths (eat) great holes in them.\n8 My watch (go) for three days and it (not run down) yet.\n9 He (lose) his books. He (look) for them all the afternoon, but they (not turn up) yet.\n10 You ever (see) a live rhinoceros? You just (look)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993845423451596,
+          "minimum_content_confidence_score": 0.9416271650430694,
+          "block_type_confidence_score": 0.9984822694102056
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

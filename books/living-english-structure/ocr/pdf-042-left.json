@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-042-left",
+    "pdf_page": 42,
+    "side": "left",
+    "reading_order": 83
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "2 What are you doing? What am I doing? Do I do this every lesson?\n3 Do you dance? Is X dancing?\n4 Does Miss Y sing? Is Miss Y singing?\n5 Why do you look so sad? Are you falling in love? When did you fall in love?\n6 Is that a personal question? Do you answer personal questions? Why not? Am I being rude to ask such questions? What do you think?\n7 What are you thinking of? Do you think hard when you do your homework?\n8 Where do you live? Do you come here by tram? Do you sleep at home every night?\n9 Are you sleeping now? Do you ever sleep in class?\n10 Why do I teach you English? Am I teaching you today? Do you teach English? Are you learning any English?\n11 What are you doing here? Mr X is learning English too, isn't he? Do you think he learns very much? Perhaps he works harder than (not so hard as) you.\n12 Why are you laughing (smiling), Miss P?\n13 Do I like correcting your homework? Why not?\n14 Are you listening carefully, Mr Z? Do you listen to the questions I ask the other students? Ought we to do that?\n15 Do you understand the use of the two present tenses quite well? Are you making notes about them? Do you ever make language notes?\n\n# 21.9\nIntermediate\n\nCertain verbs are practically never used in the PRESENT CONTINUOUS, even when describing the real present. These are mainly verbs of condition or behaviour not strictly under human control; consequently they go on whether we like it or not. Take an obvious example:\n\nI see a man outside; he is looking at me.\n\nAlthough these are both 'real' present, the verb see is not used in the continuous form. I have no control over what I see; I see all the time my eyes are open; but I can decide what to look at, and can change the direction of my gaze from one now to the next. Cf. hear and listen to. (For list of such verbs, see Exercise 21.10.)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "72\n21 The Present Tense",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1010,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9776542388253961,
+      "minimum_page_confidence_score": 0.2784798095230286
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 21,
+        "bottom_right_x": 46,
+        "bottom_right_y": 40,
+        "content": "72",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999881162465012,
+          "minimum_content_confidence_score": 0.999881162465012,
+          "block_type_confidence_score": 0.9999945530996185
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 21,
+        "bottom_right_x": 298,
+        "bottom_right_y": 40,
+        "content": "21 The Present Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997087259788057,
+          "minimum_content_confidence_score": 0.9995056451855768,
+          "block_type_confidence_score": 0.9975508655824091
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 75,
+        "bottom_right_x": 610,
+        "bottom_right_y": 710,
+        "content": "2 What are you doing? What am I doing? Do I do this every lesson?\n3 Do you dance? Is X dancing?\n4 Does Miss Y sing? Is Miss Y singing?\n5 Why do you look so sad? Are you falling in love? When did you fall in love?\n6 Is that a personal question? Do you answer personal questions? Why not? Am I being rude to ask such questions? What do you think?\n7 What are you thinking of? Do you think hard when you do your homework?\n8 Where do you live? Do you come here by tram? Do you sleep at home every night?\n9 Are you sleeping now? Do you ever sleep in class?\n10 Why do I teach you English? Am I teaching you today? Do you teach English? Are you learning any English?\n11 What are you doing here? Mr X is learning English too, isn't he? Do you think he learns very much? Perhaps he works harder than (not so hard as) you.\n12 Why are you laughing (smiling), Miss P?\n13 Do I like correcting your homework? Why not?\n14 Are you listening carefully, Mr Z? Do you listen to the questions I ask the other students? Ought we to do that?\n15 Do you understand the use of the two present tenses quite well? Are you making notes about them? Do you ever make language notes?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997885688068823,
+          "minimum_content_confidence_score": 0.7287984066897397,
+          "block_type_confidence_score": 0.9953865256214486
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 730,
+        "bottom_right_x": 127,
+        "bottom_right_y": 770,
+        "content": "# 21.9\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8664452707339605,
+          "minimum_content_confidence_score": 0.7310581644989713,
+          "block_type_confidence_score": 0.5218362315194058
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 730,
+        "bottom_right_x": 613,
+        "bottom_right_y": 829,
+        "content": "Certain verbs are practically never used in the PRESENT CONTINUOUS, even when describing the real present. These are mainly verbs of condition or behaviour not strictly under human control; consequently they go on whether we like it or not. Take an obvious example:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999237605949924,
+          "minimum_content_confidence_score": 0.9977018386245184,
+          "block_type_confidence_score": 0.9999631656845929
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 832,
+        "bottom_right_x": 515,
+        "bottom_right_y": 853,
+        "content": "I see a man outside; he is looking at me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9895218460099688,
+          "minimum_content_confidence_score": 0.9392708223964348,
+          "block_type_confidence_score": 0.9992038395026926
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 862,
+        "bottom_right_x": 613,
+        "bottom_right_y": 984,
+        "content": "Although these are both 'real' present, the verb see is not used in the continuous form. I have no control over what I see; I see all the time my eyes are open; but I can decide what to look at, and can change the direction of my gaze from one now to the next. Cf. hear and listen to. (For list of such verbs, see Exercise 21.10.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9928747971702121,
+          "minimum_content_confidence_score": 0.5218594044119954,
+          "block_type_confidence_score": 0.9999270492388316
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

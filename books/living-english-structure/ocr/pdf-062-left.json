@@ -1,0 +1,161 @@
+{
+  "source": {
+    "id": "pdf-062-left",
+    "pdf_page": 62,
+    "side": "left",
+    "reading_order": 123
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "# 28.2\nElementary\n\nNormal pure (or uncoloured) future is expressed by shall (first person), will (other persons), plus verb stem. It must be understood that when talking about people, the possibility of wish, will, promise or intention is always likely to be present. The purest futures are the least personal ones, especially when the future action is made to depend upon some external factors, as with if or when clauses.\n\nExcept in questions, the will form is very commonly heard for all persons.\n\nThe SOUND-SIGN of futurity is —'ll + verb stem. Except as the first or last word of the utterance, the auxiliary shall for the pure future is usually pronounced [ʃl].\n\nDRILL. BOOKS SHUT.\n\nAnswer the following questions:\n\n1 Will you have time to do an exercise this week?\n2 When will it get dark this evening?\n3 Will X come to the cinema with me if I ask him/her?\n4 When will you be here again?\n5 How'll you get home?\n6 Will you come here again next week?\n7 Will you soon know English very well?\n8 Will you remember these sentences next lesson?\n9 Shall I see you next lesson?\n10 How will you come to your next English lesson?\n11 When will you do me another exercise?\n12 Will you be here tomorrow?\n13 When shall we see you again?\n14 Shall I have time to write a letter before the end of the lesson?\n15 Where will you go after the lesson?\n16 Will there be a class next Thursday?\n17 Will the shops be open at 8 o'clock tomorrow morning?\n18 Will they still be open at 10 this evening?\n19 Will they be open on Saturday afternoon?\n20 Where will you be at midday tomorrow?\n21 How long will your friends be here?\n22 Do you think the lesson will last much longer?\nNo, it . . .\n23 How long do you think it'll last?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "112\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 672
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9724665931767522,
+      "minimum_page_confidence_score": 0.20474844650035903
+    },
+    "blocks": [
+      {
+        "top_left_x": 15,
+        "top_left_y": 18,
+        "bottom_right_x": 49,
+        "bottom_right_y": 38,
+        "content": "112",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998197880342641,
+          "minimum_content_confidence_score": 0.9998197880342641,
+          "block_type_confidence_score": 0.9999950482682162
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 19,
+        "bottom_right_x": 386,
+        "bottom_right_y": 40,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997863655465884,
+          "minimum_content_confidence_score": 0.9991739664931895,
+          "block_type_confidence_score": 0.9988353489678141
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 14,
+        "top_left_y": 73,
+        "bottom_right_x": 108,
+        "bottom_right_y": 116,
+        "content": "# 28.2\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.820078209283653,
+          "minimum_content_confidence_score": 0.5621441344530196,
+          "block_type_confidence_score": 0.8787271532075311
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 74,
+        "bottom_right_x": 603,
+        "bottom_right_y": 214,
+        "content": "Normal pure (or uncoloured) future is expressed by shall (first person), will (other persons), plus verb stem. It must be understood that when talking about people, the possibility of wish, will, promise or intention is always likely to be present. The purest futures are the least personal ones, especially when the future action is made to depend upon some external factors, as with if or when clauses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944974335664796,
+          "minimum_content_confidence_score": 0.8130230039905285,
+          "block_type_confidence_score": 0.9999700793634253
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 214,
+        "bottom_right_x": 601,
+        "bottom_right_y": 254,
+        "content": "Except in questions, the will form is very commonly heard for all persons.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999857340637626,
+          "minimum_content_confidence_score": 0.9999149680118773,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 254,
+        "bottom_right_x": 601,
+        "bottom_right_y": 316,
+        "content": "The SOUND-SIGN of futurity is —'ll + verb stem. Except as the first or last word of the utterance, the auxiliary shall for the pure future is usually pronounced [ʃl].",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952860291328847,
+          "minimum_content_confidence_score": 0.9258010332015665,
+          "block_type_confidence_score": 0.9999772315450165
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 320,
+        "bottom_right_x": 297,
+        "bottom_right_y": 338,
+        "content": "DRILL. BOOKS SHUT.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998827703465509,
+          "minimum_content_confidence_score": 0.9997986715816141,
+          "block_type_confidence_score": 0.999463726723013
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 357,
+        "bottom_right_x": 403,
+        "bottom_right_y": 379,
+        "content": "Answer the following questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8507558321933772,
+          "minimum_content_confidence_score": 0.4030295926456444,
+          "block_type_confidence_score": 0.866006557038821
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 394,
+        "bottom_right_x": 578,
+        "bottom_right_y": 991,
+        "content": "1 Will you have time to do an exercise this week?\n2 When will it get dark this evening?\n3 Will X come to the cinema with me if I ask him/her?\n4 When will you be here again?\n5 How'll you get home?\n6 Will you come here again next week?\n7 Will you soon know English very well?\n8 Will you remember these sentences next lesson?\n9 Shall I see you next lesson?\n10 How will you come to your next English lesson?\n11 When will you do me another exercise?\n12 Will you be here tomorrow?\n13 When shall we see you again?\n14 Shall I have time to write a letter before the end of the lesson?\n15 Where will you go after the lesson?\n16 Will there be a class next Thursday?\n17 Will the shops be open at 8 o'clock tomorrow morning?\n18 Will they still be open at 10 this evening?\n19 Will they be open on Saturday afternoon?\n20 Where will you be at midday tomorrow?\n21 How long will your friends be here?\n22 Do you think the lesson will last much longer?\nNo, it . . .\n23 How long do you think it'll last?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973425408632194,
+          "minimum_content_confidence_score": 0.7129244675320365,
+          "block_type_confidence_score": 0.9999797348316635
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

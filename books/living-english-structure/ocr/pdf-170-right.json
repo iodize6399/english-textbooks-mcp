@@ -1,0 +1,70 @@
+{
+  "source": {
+    "id": "pdf-170-right",
+    "pdf_page": 170,
+    "side": "right",
+    "reading_order": 340
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:48.625177+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "**Index** *Numbers refer to exercises and their notes.* In a few cases section numbers (marked §) are given.\n\n*a, an* 1.1-8\n— not used 1.8\n*able to* 17.2 28.3\nAccepted phrases 57.1-3\n*adding that* 51.13\nAdjective in same form as\nverb 42.4-6\nAdverb clauses §58\nAdverb(ial) particles: *see* Particle\nAdverbials\norder of — 5.1\nAdverbs\n— of frequency 5.1, 25.1-2\n— of manner 5.1 52.3\n— of place 5.1\n— of time 5.1\norder of — 5.1\nspecial — (*only, just* etc.) 5.1\n*advise* 39.4\nAffirmative addition (*so do I* etc.)\n19.11\n*afraid*\n— (*of*) §58\n— *so/not* 34.1-2\n— *to* — or *of* — *ing* 40.1\n*after* (conj.) §58\nAgent\nexpression of — in passive\n52.3 & note following 52.5\n*ago* 26.1-2\n— & *before* 29.2\n— in reported speech 51.5\n*agree* 39.4\nAgreement\nexpression of — using question\ntags 19.18-20\n*all* 6.4\n*that*-clause after — 46.3\n*who*-clause after — 46.10\n*allow* 39.4 40.1\n*almost* 25.1\n*already* 25.2\n*although* §58\n*always* 25.1\n— + present continuous\n21.10\n*nearly* — 25.2\n*am to* 16.3 18.1\n— as a future substitute\n28.14-15\nAnger\nexpression of — in question\ntags 32.4\n*angry* (*with*) §58\nAnomalous finites 14.1-3\n*any* 11.1-4\n*that*-clause after — 46.3\n*appear* 21.10\n*appreciate* + — *ing* 39.4\n*aren't I?* 32.2\n*around wh*— 46.10\nArticle not used 1.8\n*as*\n— + pronoun 6.4\n(conj.) §58\nconnective relative — 46.10\n*as if* 31.10 31.11\n*as long as* (conj.) 31.11 §58\n*as soon*\n*as soon as* 28.17 §58\n(*just*) *as soon* 53.5\n*as well* (also) 53.4\n(*just*) *as well* 53.5\n*ask* 51.1 51.7 51.13\nAssumption\nfuture of — 28.24\n*attempt* 39.4\nAuxiliary verbs\nnegatives & questions of —\n14.1-3\nshort form responses with —\n19.1-20\n*avoid* + — *ing* 39.4\n*aware* (*of*) §58",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 37,
+      "height": 1017,
+      "width": 666
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9860999155961383,
+      "minimum_page_confidence_score": 0.12467831043365236
+    },
+    "blocks": [
+      {
+        "top_left_x": 23,
+        "top_left_y": 24,
+        "bottom_right_x": 647,
+        "bottom_right_y": 77,
+        "content": "**Index** *Numbers refer to exercises and their notes.* In a few cases section numbers (marked §) are given.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9902362374741914,
+          "minimum_content_confidence_score": 0.9170402638853934,
+          "block_type_confidence_score": 0.8349143239349767
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 108,
+        "bottom_right_x": 635,
+        "bottom_right_y": 987,
+        "content": "*a, an* 1.1-8\n— not used 1.8\n*able to* 17.2 28.3\nAccepted phrases 57.1-3\n*adding that* 51.13\nAdjective in same form as\nverb 42.4-6\nAdverb clauses §58\nAdverb(ial) particles: *see* Particle\nAdverbials\norder of — 5.1\nAdverbs\n— of frequency 5.1, 25.1-2\n— of manner 5.1 52.3\n— of place 5.1\n— of time 5.1\norder of — 5.1\nspecial — (*only, just* etc.) 5.1\n*advise* 39.4\nAffirmative addition (*so do I* etc.)\n19.11\n*afraid*\n— (*of*) §58\n— *so/not* 34.1-2\n— *to* — or *of* — *ing* 40.1\n*after* (conj.) §58\nAgent\nexpression of — in passive\n52.3 & note following 52.5\n*ago* 26.1-2\n— & *before* 29.2\n— in reported speech 51.5\n*agree* 39.4\nAgreement\nexpression of — using question\ntags 19.18-20\n*all* 6.4\n*that*-clause after — 46.3\n*who*-clause after — 46.10\n*allow* 39.4 40.1\n*almost* 25.1\n*already* 25.2\n*although* §58\n*always* 25.1\n— + present continuous\n21.10\n*nearly* — 25.2\n*am to* 16.3 18.1\n— as a future substitute\n28.14-15\nAnger\nexpression of — in question\ntags 32.4\n*angry* (*with*) §58\nAnomalous finites 14.1-3\n*any* 11.1-4\n*that*-clause after — 46.3\n*appear* 21.10\n*appreciate* + — *ing* 39.4\n*aren't I?* 32.2\n*around wh*— 46.10\nArticle not used 1.8\n*as*\n— + pronoun 6.4\n(conj.) §58\nconnective relative — 46.10\n*as if* 31.10 31.11\n*as long as* (conj.) 31.11 §58\n*as soon*\n*as soon as* 28.17 §58\n(*just*) *as soon* 53.5\n*as well* (also) 53.4\n(*just*) *as well* 53.5\n*ask* 51.1 51.7 51.13\nAssumption\nfuture of — 28.24\n*attempt* 39.4\nAuxiliary verbs\nnegatives & questions of —\n14.1-3\nshort form responses with —\n19.1-20\n*avoid* + — *ing* 39.4\n*aware* (*of*) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9931582712152282,
+          "minimum_content_confidence_score": 0.5894454872176375,
+          "block_type_confidence_score": 0.653873517624439
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

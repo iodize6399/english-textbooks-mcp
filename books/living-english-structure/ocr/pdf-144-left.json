@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-144-left",
+    "pdf_page": 144,
+    "side": "left",
+    "reading_order": 287
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "33 His grandmother brought him up, and he *got his education* in Paris. (2 PASSIVES)34 Naturally one expects you to interest yourself in the job they have offered you. (3 PASSIVES)35 It must have disappointed him terribly that people told him they didn't want him. (3 PASSIVES)36 They must have given you the paper (that) they meant for the advanced candidates. (2 PASSIVES)37 Someone had already promised me a watch for my birthday when they presented me with one as a prize. (2 PASSIVES)38 It surprised me to hear someone had robbed you. (2 PASSIVES)39 When women have disappointed you as many times as they have him, you can truly say (that) bad luck has dogged you. (3 PASSIVES)40 We haven't moved anything since they sent you away to cure you. (3 PASSIVES)41 You must clear up all these books and papers and put them away in the cupboards you usually keep them in. (3 PASSIVES)42 Nobody would have stared at him if they had told him beforehand what clothes one had to wear in such a place. (3 PASSIVES)43 Ladies usually go to a tea-party more to speak to other people than *for other people to speak to them*.44 At the cocktail party people took no notice of the famous professor, but they made a fuss of his lovely young wife from the moment someone introduced her to the guests. (3 PASSIVES)45 People ought to tell us how much they expect of us. (2 PASSIVES)46 People no longer say that anyone inhabits Mars any more than the moon. (3 PASSIVES)47 No one has ever taken me for an Englishman before, although someone *did* once speak to me as if I were an American. (2 PASSIVES)48 I've only used this pen once since the day I had it mended. (2 PASSIVES)49 There's a new block of flats they are building down the road; perhaps you'd like someone to introduce you to the landlord. (2 PASSIVES)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "276\n52 Passive Voice",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 997,
+      "width": 645
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9888754683822902,
+      "minimum_page_confidence_score": 0.27932979509302613
+    },
+    "blocks": [
+      {
+        "top_left_x": 29,
+        "top_left_y": 38,
+        "bottom_right_x": 61,
+        "bottom_right_y": 57,
+        "content": "276",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999823573372132,
+          "minimum_content_confidence_score": 0.9999823573372132,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 38,
+        "bottom_right_x": 260,
+        "bottom_right_y": 57,
+        "content": "52 Passive Voice",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987084552736735,
+          "minimum_content_confidence_score": 0.9962080930072647,
+          "block_type_confidence_score": 0.9985208561786041
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 88,
+        "bottom_right_x": 603,
+        "bottom_right_y": 967,
+        "content": "33 His grandmother brought him up, and he *got his education* in Paris. (2 PASSIVES)34 Naturally one expects you to interest yourself in the job they have offered you. (3 PASSIVES)35 It must have disappointed him terribly that people told him they didn't want him. (3 PASSIVES)36 They must have given you the paper (that) they meant for the advanced candidates. (2 PASSIVES)37 Someone had already promised me a watch for my birthday when they presented me with one as a prize. (2 PASSIVES)38 It surprised me to hear someone had robbed you. (2 PASSIVES)39 When women have disappointed you as many times as they have him, you can truly say (that) bad luck has dogged you. (3 PASSIVES)40 We haven't moved anything since they sent you away to cure you. (3 PASSIVES)41 You must clear up all these books and papers and put them away in the cupboards you usually keep them in. (3 PASSIVES)42 Nobody would have stared at him if they had told him beforehand what clothes one had to wear in such a place. (3 PASSIVES)43 Ladies usually go to a tea-party more to speak to other people than *for other people to speak to them*.44 At the cocktail party people took no notice of the famous professor, but they made a fuss of his lovely young wife from the moment someone introduced her to the guests. (3 PASSIVES)45 People ought to tell us how much they expect of us. (2 PASSIVES)46 People no longer say that anyone inhabits Mars any more than the moon. (3 PASSIVES)47 No one has ever taken me for an Englishman before, although someone *did* once speak to me as if I were an American. (2 PASSIVES)48 I've only used this pen once since the day I had it mended. (2 PASSIVES)49 There's a new block of flats they are building down the road; perhaps you'd like someone to introduce you to the landlord. (2 PASSIVES)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980631824461149,
+          "minimum_content_confidence_score": 0.757318331825174,
+          "block_type_confidence_score": 0.9668996885607958
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-153-right",
+    "pdf_page": 153,
+    "side": "right",
+    "reading_order": 306
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "38 I must look — the postcard I got — my teacher last week.\n39 Most children remain — school — the ages of six and sixteen.\n40 The first space vehicle travelled — the world hundreds of times — a few weeks.\n41 I fell — a rock when I was climbing — a mountain last week.\n42 It's farther than I thought; it's — ten kilometres — the shortest route.\n43 Switzerland lies — Germany, France and Italy.\n44 I'm staying — friends not far — the station.\n45 Please come — me — the theatre tonight.\n46 Who did you give the money — ?\n47 Children — four years — age do not often go — school.\n48 My school was founded — Edward VI — 1553.\n49 Come and sit — this sunshade — a comfortable deck-chair.\n50 Do you want to speak — me — anything?\n51 There's a knock — the door. Who can be calling — us — this late hour?\n52 Don't go out — the rain — a hat.\n53 I like to smoke a cigarette and listen — the radio — half an hour or so — dinner.\n54 The cat is hiding — us — the table.\n55 I must work hard — history because I'm not very good — it.\n56 I wonder if I shall get — my history examination.\n57 You can cut the apple — two — this knife.\n58 I go — the post office every day — my way — work.\n59 Let's go — a walk — the garden — dinner-time.\n60 When we get back — our walk, we're going to sit — the fire — our books — half an hour.\n\n56.2\n\nElementary and Intermediate\n\nADVERBIAL PARTICLES combine with verbs even more often than prepositions to form idiomatic compounds. Most of them have the same form as their corresponding prepositions, but the following seven are adverbial only and never used as prepositions:\n\naway, back, out; backward(s), downward(s), forward(s), upward(s).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "56 Prepositions and Adverbial Particles\n295",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 1001,
+      "width": 662
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9797902113944891,
+      "minimum_page_confidence_score": 0.19595038691969707
+    },
+    "blocks": [
+      {
+        "top_left_x": 143,
+        "top_left_y": 15,
+        "bottom_right_x": 463,
+        "bottom_right_y": 36,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989165780879284,
+          "minimum_content_confidence_score": 0.996672908808108,
+          "block_type_confidence_score": 0.9997414584042016
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 607,
+        "top_left_y": 15,
+        "bottom_right_x": 641,
+        "bottom_right_y": 34,
+        "content": "295",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9931067662875529,
+          "minimum_content_confidence_score": 0.9931067662875529,
+          "block_type_confidence_score": 0.999999724901756
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 68,
+        "bottom_right_x": 631,
+        "bottom_right_y": 814,
+        "content": "38 I must look — the postcard I got — my teacher last week.\n39 Most children remain — school — the ages of six and sixteen.\n40 The first space vehicle travelled — the world hundreds of times — a few weeks.\n41 I fell — a rock when I was climbing — a mountain last week.\n42 It's farther than I thought; it's — ten kilometres — the shortest route.\n43 Switzerland lies — Germany, France and Italy.\n44 I'm staying — friends not far — the station.\n45 Please come — me — the theatre tonight.\n46 Who did you give the money — ?\n47 Children — four years — age do not often go — school.\n48 My school was founded — Edward VI — 1553.\n49 Come and sit — this sunshade — a comfortable deck-chair.\n50 Do you want to speak — me — anything?\n51 There's a knock — the door. Who can be calling — us — this late hour?\n52 Don't go out — the rain — a hat.\n53 I like to smoke a cigarette and listen — the radio — half an hour or so — dinner.\n54 The cat is hiding — us — the table.\n55 I must work hard — history because I'm not very good — it.\n56 I wonder if I shall get — my history examination.\n57 You can cut the apple — two — this knife.\n58 I go — the post office every day — my way — work.\n59 Let's go — a walk — the garden — dinner-time.\n60 When we get back — our walk, we're going to sit — the fire — our books — half an hour.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953838179525252,
+          "minimum_content_confidence_score": 0.5917010179167455,
+          "block_type_confidence_score": 0.9770084238484494
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 829,
+        "bottom_right_x": 96,
+        "bottom_right_y": 849,
+        "content": "56.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9963530645432084,
+          "minimum_content_confidence_score": 0.9963530645432084,
+          "block_type_confidence_score": 0.7266766015860403
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 851,
+        "bottom_right_x": 159,
+        "bottom_right_y": 908,
+        "content": "Elementary and Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8203549401020841,
+          "minimum_content_confidence_score": 0.49972738214534596,
+          "block_type_confidence_score": 0.9968867965014051
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 831,
+        "bottom_right_x": 645,
+        "bottom_right_y": 929,
+        "content": "ADVERBIAL PARTICLES combine with verbs even more often than prepositions to form idiomatic compounds. Most of them have the same form as their corresponding prepositions, but the following seven are adverbial only and never used as prepositions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999558288511197,
+          "minimum_content_confidence_score": 0.9993685608436127,
+          "block_type_confidence_score": 0.9999834301824576
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 929,
+        "bottom_right_x": 645,
+        "bottom_right_y": 969,
+        "content": "away, back, out; backward(s), downward(s), forward(s), upward(s).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998662898135395,
+          "minimum_content_confidence_score": 0.9992685206310299,
+          "block_type_confidence_score": 0.9932183542113984
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

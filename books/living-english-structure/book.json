@@ -1,0 +1,329 @@
+{
+  "id": "living-english-structure",
+  "title": "Living English Structure",
+  "subtitle": "A Practice Book for Foreign Students",
+  "author": "W. Stannard Allen",
+  "edition": "5th edition",
+  "publisher": "Longman",
+  "language": "en",
+  "source_file": "Living English structure _ a practice book for foreign -- William Stannard Allen -- 5th ed_ --, London, England, 1974 -- Longman -- isbn13 9780582521001 -- cd7355ffadf730913cda7f3b185b0d09 -- Anna’s Archive.pdf",
+  "layout": "two-page",
+  "expected_pdf_pages": 175,
+  "printed_page_ranges": [
+    {
+      "reading_start": 6,
+      "reading_end": 10,
+      "first_page": 5,
+      "style": "roman"
+    },
+    {
+      "reading_start": 12,
+      "reading_end": 349,
+      "first_page": 1,
+      "style": "arabic"
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Countables and uncountables",
+      "start_page": 1
+    },
+    {
+      "number": 2,
+      "title": "Negatives and questions (elementary)",
+      "start_page": 7
+    },
+    {
+      "number": 3,
+      "title": "Possessives",
+      "start_page": 9
+    },
+    {
+      "number": 4,
+      "title": "—self",
+      "start_page": 10
+    },
+    {
+      "number": 5,
+      "title": "Adverb order",
+      "start_page": 11
+    },
+    {
+      "number": 6,
+      "title": "Pronouns",
+      "start_page": 12
+    },
+    {
+      "number": 7,
+      "title": "Possessive case",
+      "start_page": 16
+    },
+    {
+      "number": 8,
+      "title": "Introduction to interrogatives",
+      "start_page": 18
+    },
+    {
+      "number": 9,
+      "title": "Telling the time",
+      "start_page": 19
+    },
+    {
+      "number": 10,
+      "title": "too and enough",
+      "start_page": 19
+    },
+    {
+      "number": 11,
+      "title": "some and any",
+      "start_page": 21
+    },
+    {
+      "number": 12,
+      "title": "no=not any",
+      "start_page": 25
+    },
+    {
+      "number": 13,
+      "title": "Comparisons",
+      "start_page": 28
+    },
+    {
+      "number": 14,
+      "title": "Negatives and questions of auxiliary verbs",
+      "start_page": 29
+    },
+    {
+      "number": 15,
+      "title": "Causative use of have",
+      "start_page": 33
+    },
+    {
+      "number": 16,
+      "title": "must, have to, need",
+      "start_page": 34
+    },
+    {
+      "number": 17,
+      "title": "can, could, was able, etc.",
+      "start_page": 42,
+      "heading": "can"
+    },
+    {
+      "number": 18,
+      "title": "Short-form negative (revision)",
+      "start_page": 45
+    },
+    {
+      "number": 19,
+      "title": "Short-form responses using auxiliary verbs",
+      "start_page": 47
+    },
+    {
+      "number": 20,
+      "title": "Imperative",
+      "start_page": 62
+    },
+    {
+      "number": 21,
+      "title": "Present tense",
+      "start_page": 65
+    },
+    {
+      "number": 22,
+      "title": "Notes on English tenses",
+      "start_page": 74
+    },
+    {
+      "number": 23,
+      "title": "Present Perfect tense",
+      "start_page": 77
+    },
+    {
+      "number": 24,
+      "title": "Past tense",
+      "start_page": 86
+    },
+    {
+      "number": 25,
+      "title": "Frequency (or pre-verb) adverbs",
+      "start_page": 92
+    },
+    {
+      "number": 26,
+      "title": "Past tense (continued)",
+      "start_page": 95
+    },
+    {
+      "number": 27,
+      "title": "Tense (Present, Past, Present Perfect) Revision",
+      "start_page": 104,
+      "heading": "Tense Revision"
+    },
+    {
+      "number": 28,
+      "title": "Future and Future Perfect",
+      "start_page": 110
+    },
+    {
+      "number": 29,
+      "title": "Past Perfect tense",
+      "start_page": 137
+    },
+    {
+      "number": 30,
+      "title": "Revision of Tenses",
+      "start_page": 140
+    },
+    {
+      "number": 31,
+      "title": "Conditions and unreal past",
+      "start_page": 144
+    },
+    {
+      "number": 32,
+      "title": "Question-tags",
+      "start_page": 155
+    },
+    {
+      "number": 33,
+      "title": "get and got forms",
+      "start_page": 160
+    },
+    {
+      "number": 34,
+      "title": "Predicative so and not",
+      "start_page": 165
+    },
+    {
+      "number": 35,
+      "title": "do and make",
+      "start_page": 167
+    },
+    {
+      "number": 36,
+      "title": "Infinitive implied by its particle",
+      "start_page": 169
+    },
+    {
+      "number": 37,
+      "title": "else and or else",
+      "start_page": 170
+    },
+    {
+      "number": 38,
+      "title": "Infinitive",
+      "start_page": 173
+    },
+    {
+      "number": 39,
+      "title": "-ing form – Gerund and Present Participle",
+      "start_page": 177
+    },
+    {
+      "number": 40,
+      "title": "Infinitive and Gerund",
+      "start_page": 185
+    },
+    {
+      "number": 41,
+      "title": "Perfect Infinitive of imaginary past",
+      "start_page": 193
+    },
+    {
+      "number": 42,
+      "title": "Verb, noun or adjective",
+      "start_page": 196
+    },
+    {
+      "number": 43,
+      "title": "have a —",
+      "start_page": 197
+    },
+    {
+      "number": 44,
+      "title": "Interrogatives",
+      "start_page": 198
+    },
+    {
+      "number": 45,
+      "title": "Interrogative responses",
+      "start_page": 207
+    },
+    {
+      "number": 46,
+      "title": "Relatives",
+      "start_page": 211
+    },
+    {
+      "number": 47,
+      "title": "Relative and interrogative links",
+      "start_page": 231
+    },
+    {
+      "number": 48,
+      "title": "Emphatic connectives (-ever forms)",
+      "start_page": 237
+    },
+    {
+      "number": 49,
+      "title": "Emphatic colloquial interrogatives",
+      "start_page": 239
+    },
+    {
+      "number": 50,
+      "title": "there is and it is",
+      "start_page": 241
+    },
+    {
+      "number": 51,
+      "title": "Reported speech",
+      "start_page": 246
+    },
+    {
+      "number": 52,
+      "title": "Passive voice",
+      "start_page": 268
+    },
+    {
+      "number": 53,
+      "title": "Miscellaneous exercises",
+      "start_page": 277
+    },
+    {
+      "number": 54,
+      "title": "Phrase openings",
+      "start_page": 287
+    },
+    {
+      "number": 55,
+      "title": "The comparison game",
+      "start_page": 290
+    },
+    {
+      "number": 56,
+      "title": "Prepositions and Adverbial particles",
+      "start_page": 292
+    },
+    {
+      "number": 57,
+      "title": "Accepted phrases",
+      "start_page": 309
+    },
+    {
+      "number": 58,
+      "title": "Appendix on Clauses",
+      "start_page": 316
+    }
+  ],
+  "notes": "Scanned two-page spreads. Exercises and examples reflect the source edition; the tutor should explain dated usage where relevant. The scan omits the Note to the Fifth Edition listed on contents page v; the half-page before printed page 1 is blank.",
+  "isbn": "0-582-52506-3",
+  "year": 1974,
+  "has_answer_key": false,
+  "index_start_page": 329,
+  "chapter_index_source": [
+    "pdf-003-right",
+    "pdf-004-left"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-145-left",
+    "pdf_page": 145,
+    "side": "left",
+    "reading_order": 289
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "parently correct grammatically is NEVER seen or heard in modern English; plenty of, a lot of, a great deal of, replace much and many in simple affirmative statements. Much is particularly objectionable in affirmative statements; many is uncommon.\n\nSimilarly far (= extent of distance) has a long way; far off (= position at a distance) has a long way off; and far away, far back have a long way away, a long way back in simple affirmative statements.\n\n* * *\n\n(53.1) ● Bearing this in mind, read the following statements in the AFFIRMATIVE:\n\n1 He hasn't got much money.\n2 It wasn't far off.\n3 You haven't done much.\n4 They haven't many friends.\n5 She hasn't given me much.\n6 We haven't gone far.\n7 There's not much coffee in this pot.\n8 He hasn't got much work to do.\n9 I have not invited many people to my party.\n10 You haven't had much to eat.\n11 They don't live far off.\n12 The cook hasn't put much salt in it.\n13 It is not far to the police station.\n14 We haven't walked far today.\n15 My brother does not read many books.\n16 She has not many children.\n17 You did not make much tea.\n18 The bird did not fly very far.\n19 There was not much dirt in the hall.\n20 I have not heard much about it.\n\n53.2 See Exercise 53.1.\n\nIntermediate Long and a long time are a similar pair.\n\n* * *\n\n● Read the following sentences in the AFFIRMATIVE:\n\n1 It wasn't far back, was it?\n2 You haven't got much to do, have you?\n3 I haven't seen many people here.\n4 The sea is certainly not far off.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "278\n53 Miscellaneous Exercises",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 661
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9722769070577261,
+      "minimum_page_confidence_score": 0.13623166436489623
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 16,
+        "bottom_right_x": 57,
+        "bottom_right_y": 36,
+        "content": "278",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999384917900483,
+          "minimum_content_confidence_score": 0.9999384917900483,
+          "block_type_confidence_score": 0.999988776186723
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 16,
+        "bottom_right_x": 344,
+        "bottom_right_y": 36,
+        "content": "53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995525671692703,
+          "minimum_content_confidence_score": 0.9991693250205735,
+          "block_type_confidence_score": 0.9983283704288227
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 71,
+        "bottom_right_x": 612,
+        "bottom_right_y": 171,
+        "content": "parently correct grammatically is NEVER seen or heard in modern English; plenty of, a lot of, a great deal of, replace much and many in simple affirmative statements. Much is particularly objectionable in affirmative statements; many is uncommon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9899214302284789,
+          "minimum_content_confidence_score": 0.6481100801592984,
+          "block_type_confidence_score": 0.9998292022712378
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 171,
+        "bottom_right_x": 612,
+        "bottom_right_y": 251,
+        "content": "Similarly far (= extent of distance) has a long way; far off (= position at a distance) has a long way off; and far away, far back have a long way away, a long way back in simple affirmative statements.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999898674914142,
+          "minimum_content_confidence_score": 0.9982432559401655,
+          "block_type_confidence_score": 0.9999436171854098
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 264,
+        "bottom_right_x": 433,
+        "bottom_right_y": 278,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9803474615184234,
+          "minimum_content_confidence_score": 0.9699242371407129,
+          "block_type_confidence_score": 0.9996136727781878
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 290,
+        "bottom_right_x": 612,
+        "bottom_right_y": 329,
+        "content": "(53.1) ● Bearing this in mind, read the following statements in the AFFIRMATIVE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996069180656008,
+          "minimum_content_confidence_score": 0.9524971387376704,
+          "block_type_confidence_score": 0.9810188716223834
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 333,
+        "bottom_right_x": 550,
+        "bottom_right_y": 767,
+        "content": "1 He hasn't got much money.\n2 It wasn't far off.\n3 You haven't done much.\n4 They haven't many friends.\n5 She hasn't given me much.\n6 We haven't gone far.\n7 There's not much coffee in this pot.\n8 He hasn't got much work to do.\n9 I have not invited many people to my party.\n10 You haven't had much to eat.\n11 They don't live far off.\n12 The cook hasn't put much salt in it.\n13 It is not far to the police station.\n14 We haven't walked far today.\n15 My brother does not read many books.\n16 She has not many children.\n17 You did not make much tea.\n18 The bird did not fly very far.\n19 There was not much dirt in the hall.\n20 I have not heard much about it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999785313431188,
+          "minimum_content_confidence_score": 0.9982858527621475,
+          "block_type_confidence_score": 0.9999793772183819
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 786,
+        "bottom_right_x": 300,
+        "bottom_right_y": 808,
+        "content": "53.2 See Exercise 53.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994102335912481,
+          "minimum_content_confidence_score": 0.997939430560344,
+          "block_type_confidence_score": 0.9809568078521015
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 808,
+        "bottom_right_x": 472,
+        "bottom_right_y": 828,
+        "content": "Intermediate Long and a long time are a similar pair.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999789122868329,
+          "minimum_content_confidence_score": 0.9998473162135255,
+          "block_type_confidence_score": 0.9997517486902793
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 334,
+        "top_left_y": 842,
+        "bottom_right_x": 437,
+        "bottom_right_y": 857,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999448105933592,
+          "minimum_content_confidence_score": 0.9998917696795575,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 868,
+        "bottom_right_x": 552,
+        "bottom_right_y": 888,
+        "content": "● Read the following sentences in the AFFIRMATIVE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885647025343,
+          "minimum_content_confidence_score": 0.999921924012059,
+          "block_type_confidence_score": 0.9975200556607037
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 891,
+        "bottom_right_x": 517,
+        "bottom_right_y": 978,
+        "content": "1 It wasn't far back, was it?\n2 You haven't got much to do, have you?\n3 I haven't seen many people here.\n4 The sea is certainly not far off.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999950983276465,
+          "minimum_content_confidence_score": 0.9999629272857378,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-036-right",
+    "pdf_page": 36,
+    "side": "right",
+    "reading_order": 72
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "10 We haven't come very far.\n11 There isn't enough for us all.\n12 We shan't see you till next week.\n13 It's not a very big house.\n14 The horses didn't run very well.\n15 You mustn't put your feet on the chair.\n16 They didn't give us very good cakes.\n17 Your shoes aren't very clean.\n18 She can't sing so well as her sister.\n19 This chair wasn't broken yesterday.\n20 I'm not very good at English.\n\n19.19\n\nSee Exercise 19.18.\n\nIntermediate\n\nThe teacher reads the statement; the student responds.\n\n* * *\n\n● Agree with the following remarks:\n1 He doesn't understand what we're saying.\n2 You aren't late today.\n3 She hasn't come yet.\n4 They weren't all Americans.\n5 Such a person shouldn't drive a car.\n6 He didn't say anything about it.\n7 You mustn't suck your fingers.\n8 Maisie usedn't to be so pretty.\n9 They didn't have any dinner.\n10 John Bull wasn't a real person.\n11 Cyril doesn't know you.\n12 There was never any talk of such a thing.\n13 We can't invite them all.\n14 They couldn't possibly have got here before us.\n15 Reading a lot of books won't help you to speak better.\n\n19.20\n\nSee Exercises 19.5 and 19.6.\n\nElementary\n\nA question-tag is also used here instead of so, etc.\n\nAGREEMENT\n\n'You're rather late.' 'Yes, I am, aren't I.'\n\nWITH AN\n\nDouble-falling stress, as in Exercise 19.18.\n\nAFFIRMATIVE\n\n* * *\n\n● Agree with the following remarks, using a question-tag:\n1 I'm rather sleepy today.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "19 Short-form Responses using Auxiliary Verbs\n61",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 1008,
+      "width": 663
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9735407876379591,
+      "minimum_page_confidence_score": 0.14089406869308674
+    },
+    "blocks": [
+      {
+        "top_left_x": 146,
+        "top_left_y": 23,
+        "bottom_right_x": 532,
+        "bottom_right_y": 44,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999091728288788,
+          "minimum_content_confidence_score": 0.9997330684063676,
+          "block_type_confidence_score": 0.9985848799021616
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 23,
+        "bottom_right_x": 642,
+        "bottom_right_y": 41,
+        "content": "61",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999680529300359,
+          "minimum_content_confidence_score": 0.9999680529300359,
+          "block_type_confidence_score": 0.999999339764625
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 78,
+        "bottom_right_x": 538,
+        "bottom_right_y": 312,
+        "content": "10 We haven't come very far.\n11 There isn't enough for us all.\n12 We shan't see you till next week.\n13 It's not a very big house.\n14 The horses didn't run very well.\n15 You mustn't put your feet on the chair.\n16 They didn't give us very good cakes.\n17 Your shoes aren't very clean.\n18 She can't sing so well as her sister.\n19 This chair wasn't broken yesterday.\n20 I'm not very good at English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999303681909399,
+          "minimum_content_confidence_score": 0.9974573102417438,
+          "block_type_confidence_score": 0.9933053845021483
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 331,
+        "bottom_right_x": 102,
+        "bottom_right_y": 351,
+        "content": "19.19",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997549719803226,
+          "minimum_content_confidence_score": 0.9997549719803226,
+          "block_type_confidence_score": 0.8760453358951124
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 331,
+        "bottom_right_x": 335,
+        "bottom_right_y": 351,
+        "content": "See Exercise 19.18.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999766644159843,
+          "minimum_content_confidence_score": 0.9999495770114563,
+          "block_type_confidence_score": 0.9999295522725348
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 351,
+        "bottom_right_x": 153,
+        "bottom_right_y": 370,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999209613784501,
+          "minimum_content_confidence_score": 0.9999209613784501,
+          "block_type_confidence_score": 0.9994177633846487
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 351,
+        "bottom_right_x": 623,
+        "bottom_right_y": 370,
+        "content": "The teacher reads the statement; the student responds.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999845541374343,
+          "minimum_content_confidence_score": 0.9999586287989359,
+          "block_type_confidence_score": 0.9999828341569776
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 358,
+        "top_left_y": 383,
+        "bottom_right_x": 461,
+        "bottom_right_y": 398,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977079904557752,
+          "minimum_content_confidence_score": 0.9938919411257543,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 408,
+        "bottom_right_x": 615,
+        "bottom_right_y": 769,
+        "content": "● Agree with the following remarks:\n1 He doesn't understand what we're saying.\n2 You aren't late today.\n3 She hasn't come yet.\n4 They weren't all Americans.\n5 Such a person shouldn't drive a car.\n6 He didn't say anything about it.\n7 You mustn't suck your fingers.\n8 Maisie usedn't to be so pretty.\n9 They didn't have any dinner.\n10 John Bull wasn't a real person.\n11 Cyril doesn't know you.\n12 There was never any talk of such a thing.\n13 We can't invite them all.\n14 They couldn't possibly have got here before us.\n15 Reading a lot of books won't help you to speak better.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994331295104125,
+          "minimum_content_confidence_score": 0.9320817418127314,
+          "block_type_confidence_score": 0.9932855073410201
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 789,
+        "bottom_right_x": 111,
+        "bottom_right_y": 809,
+        "content": "19.20",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999880316060389,
+          "minimum_content_confidence_score": 0.9999880316060389,
+          "block_type_confidence_score": 0.9999767547297425
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 789,
+        "bottom_right_x": 405,
+        "bottom_right_y": 809,
+        "content": "See Exercises 19.5 and 19.6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999758797667588,
+          "minimum_content_confidence_score": 0.9999284795451163,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 809,
+        "bottom_right_x": 151,
+        "bottom_right_y": 829,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999950409181292,
+          "minimum_content_confidence_score": 0.9999950409181292,
+          "block_type_confidence_score": 0.9999519609634618
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 809,
+        "bottom_right_x": 588,
+        "bottom_right_y": 829,
+        "content": "A question-tag is also used here instead of so, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.991818565519478,
+          "minimum_content_confidence_score": 0.9183781840129417,
+          "block_type_confidence_score": 0.9999817613105537
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 829,
+        "bottom_right_x": 151,
+        "bottom_right_y": 848,
+        "content": "AGREEMENT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999810595591042,
+          "minimum_content_confidence_score": 0.9999810595591042,
+          "block_type_confidence_score": 0.9999901057270286
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 829,
+        "bottom_right_x": 570,
+        "bottom_right_y": 852,
+        "content": "'You're rather late.' 'Yes, I am, aren't I.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996319540456147,
+          "minimum_content_confidence_score": 0.9982101227791494,
+          "block_type_confidence_score": 0.9999473122717736
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 852,
+        "bottom_right_x": 131,
+        "bottom_right_y": 868,
+        "content": "WITH AN",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999988258090057,
+          "minimum_content_confidence_score": 0.9999802116501774,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 860,
+        "bottom_right_x": 520,
+        "bottom_right_y": 881,
+        "content": "Double-falling stress, as in Exercise 19.18.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999754516306189,
+          "minimum_content_confidence_score": 0.9998843463407238,
+          "block_type_confidence_score": 0.9999479082542545
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 59,
+        "top_left_y": 868,
+        "bottom_right_x": 159,
+        "bottom_right_y": 886,
+        "content": "AFFIRMATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998603472008998,
+          "minimum_content_confidence_score": 0.9998603472008998,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 358,
+        "top_left_y": 894,
+        "bottom_right_x": 461,
+        "bottom_right_y": 908,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999234829919278,
+          "minimum_content_confidence_score": 0.9997857076242018,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 918,
+        "bottom_right_x": 635,
+        "bottom_right_y": 964,
+        "content": "● Agree with the following remarks, using a question-tag:\n1 I'm rather sleepy today.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999636174119334,
+          "minimum_content_confidence_score": 0.9996143874960246,
+          "block_type_confidence_score": 0.999837067447481
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

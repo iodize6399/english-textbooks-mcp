@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-150-left",
+    "pdf_page": 150,
+    "side": "left",
+    "reading_order": 299
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "4 I think it would be best to —\n5 There'll be plenty of time to —\n6 He thought it was immoral to —\n7 It was due to — that —\n8 It was on account of — that —\n9 It's easy for you to —\n10 It would be useless for — to —\n11 Everything is ready for — to —\n12 It's all very well to —, but —\n13 He was never known to —\n14 It's foolish to think that —\n15 Is it too much to ask you to —\n16 I suppose it's too much to hope that —\n17 I didn't stop to —\n18 You've only got to — to —\n19 If you want to —, you must —\n20 It was through — that —\n21 It was in — that —\n22 It was because of — that —\n23 It will be impossible for — to —\n24 It's only right for — to —\n25 It would be no use for — to —\n26 It is well known that —\n27 We couldn't help —\n28 She has been known to —\n29 It is unlikely that —\n30 It is a fact that —\n\n54.2\n\nAdvanced\n\nSee Exercise 54.1.\n\nSome useful openings require inversion of subject and verb; in general, this type of opening is more frequently found in writing than in speech.\n\nExamples of more difficult openings:\n\nOnly in this way could I manage to see him.\n\nAt no time have I ever been more frightened than now.\n\nThe essentials of good government are sound administration and honest officials.\n\nWe are not so considerate for the feelings of others as we should be.\n\nIt's not the words that matter so much as the way you say them.\n\n* * *",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "288\n54 Phrase Openings",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9710747576945663,
+      "minimum_page_confidence_score": 0.18756123370783448
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 16,
+        "bottom_right_x": 58,
+        "bottom_right_y": 34,
+        "content": "288",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998991591117187,
+          "minimum_content_confidence_score": 0.9998991591117187,
+          "block_type_confidence_score": 0.9999971389899586
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 16,
+        "bottom_right_x": 287,
+        "bottom_right_y": 35,
+        "content": "54 Phrase Openings",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979574361830608,
+          "minimum_content_confidence_score": 0.9939242287228555,
+          "block_type_confidence_score": 0.999208544554143
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 70,
+        "bottom_right_x": 505,
+        "bottom_right_y": 658,
+        "content": "4 I think it would be best to —\n5 There'll be plenty of time to —\n6 He thought it was immoral to —\n7 It was due to — that —\n8 It was on account of — that —\n9 It's easy for you to —\n10 It would be useless for — to —\n11 Everything is ready for — to —\n12 It's all very well to —, but —\n13 He was never known to —\n14 It's foolish to think that —\n15 Is it too much to ask you to —\n16 I suppose it's too much to hope that —\n17 I didn't stop to —\n18 You've only got to — to —\n19 If you want to —, you must —\n20 It was through — that —\n21 It was in — that —\n22 It was because of — that —\n23 It will be impossible for — to —\n24 It's only right for — to —\n25 It would be no use for — to —\n26 It is well known that —\n27 We couldn't help —\n28 She has been known to —\n29 It is unlikely that —\n30 It is a fact that —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994688908516364,
+          "minimum_content_confidence_score": 0.9311873797753236,
+          "block_type_confidence_score": 0.7772407739363901
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 677,
+        "bottom_right_x": 64,
+        "bottom_right_y": 697,
+        "content": "54.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942593528869291,
+          "minimum_content_confidence_score": 0.9942593528869291,
+          "block_type_confidence_score": 0.49234490328232977
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 698,
+        "bottom_right_x": 102,
+        "bottom_right_y": 718,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993774000965375,
+          "minimum_content_confidence_score": 0.9993774000965375,
+          "block_type_confidence_score": 0.9975242074282015
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 678,
+        "bottom_right_x": 293,
+        "bottom_right_y": 698,
+        "content": "See Exercise 54.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999678623502491,
+          "minimum_content_confidence_score": 0.999914891812595,
+          "block_type_confidence_score": 0.9996048581996233
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 698,
+        "bottom_right_x": 607,
+        "bottom_right_y": 760,
+        "content": "Some useful openings require inversion of subject and verb; in general, this type of opening is more frequently found in writing than in speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995604850105186,
+          "minimum_content_confidence_score": 0.9899181494598835,
+          "block_type_confidence_score": 0.9999903441405488
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 760,
+        "bottom_right_x": 445,
+        "bottom_right_y": 780,
+        "content": "Examples of more difficult openings:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999952006806051,
+          "minimum_content_confidence_score": 0.99998879445232,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 782,
+        "bottom_right_x": 537,
+        "bottom_right_y": 804,
+        "content": "Only in this way could I manage to see him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999638880304736,
+          "minimum_content_confidence_score": 0.9998011098852906,
+          "block_type_confidence_score": 0.9940512925358702
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 804,
+        "bottom_right_x": 606,
+        "bottom_right_y": 825,
+        "content": "At no time have I ever been more frightened than now.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999820242708924,
+          "minimum_content_confidence_score": 0.9999384508598482,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 824,
+        "bottom_right_x": 606,
+        "bottom_right_y": 863,
+        "content": "The essentials of good government are sound administration and honest officials.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998308812639455,
+          "minimum_content_confidence_score": 0.9981871388555197,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 863,
+        "bottom_right_x": 606,
+        "bottom_right_y": 902,
+        "content": "We are not so considerate for the feelings of others as we should be.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999769755098628,
+          "minimum_content_confidence_score": 0.9997598509638483,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 902,
+        "bottom_right_x": 606,
+        "bottom_right_y": 942,
+        "content": "It's not the words that matter so much as the way you say them.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999926943161566,
+          "minimum_content_confidence_score": 0.9999637616874363,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 326,
+        "top_left_y": 956,
+        "bottom_right_x": 427,
+        "bottom_right_y": 971,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972277570543026,
+          "minimum_content_confidence_score": 0.9951834145685068,
+          "block_type_confidence_score": 0.5311498086013179
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

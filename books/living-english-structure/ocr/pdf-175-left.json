@@ -1,0 +1,902 @@
+{
+  "source": {
+    "id": "pdf-175-left",
+    "pdf_page": 175,
+    "side": "left",
+    "reading_order": 349
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "Numbers refer to exercises.\n\nwell\n\nas — (also) 53.4\n\njust as — 53.5\n\nwere (subjunctive) 31.1 (footnote)\n\n31.4 31.10\n\n— to 31.11\n\nwhat? 8.1 44.1-8\n\nwhat about? 44.10\n\nwhat ever? 49.1\n\nwhat for? 44.6\n\nwhat\n\n— as link-word 47.1 51.7\n\nwhat!\n\nwhat a — ! 1.6\n\n— in reported speech 51.15\n\nwhen? 45.2\n\n+ Present continuous 21.3\n\n21.8\n\nwhen ever? 49.1\n\nwhen-clauses 28.17 §58\n\nwhere? 44.9 45.2\n\nwhere ever? 49.1\n\nwhere on earth? 49.1\n\nwhere\n\n— as link-word 47.1 51.7\n\n(conj.) §58\n\nwhereabouts 44.10\n\nwhether\n\n— in reported speech 51.8\n\n§58\n\nwhich? 8.1 44.1-8\n\nwhich\n\n— as link-word 47.1-6 51.7\n\n— in relative clauses 46.1-2\n\n46.5\n\nwhile-clauses 28.17 §58\n\nwho? 8.1 44.1-8\n\nwho ever? 49.1\n\nwho\n\nrelative 46.1-4\n\n— as link-word 47.1-6 51.7\n\nwhoever, whatever etc. 48.1 §58\n\nwhom? (disappearing) 44.4\n\nwhom in relative clauses 46.1-2\n\n46.4-5\n\nwhose? 44.2\n\nwhose in relative clauses 46.1-2\n\n46.5\n\nwhy? 45.2\n\nwhy ever? 49.1\n\nwhy as link-word 47.1 51.7\n\nwill 14.1-3 28.2-4\n\n— after if 31.11\n\nwish (v.) 31.10\n\n— & continuous tenses 21.10\n\nwon't 14.1-3\n\nworth + —ing 39.4\n\nwould 14.1-3\n\n— after if 31.11\n\nyesterday in reported speech\n\n51.5\n\nyours 3.1-3\n\nof yours 3.3",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "338\nIndex",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1007,
+      "width": 637
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9800335908065839,
+      "minimum_page_confidence_score": 0.25022874705166637
+    },
+    "blocks": [
+      {
+        "top_left_x": 33,
+        "top_left_y": 17,
+        "bottom_right_x": 65,
+        "bottom_right_y": 35,
+        "content": "338",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994014510108497,
+          "minimum_content_confidence_score": 0.9994014510108497,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 17,
+        "bottom_right_x": 210,
+        "bottom_right_y": 35,
+        "content": "Index",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999811652878874,
+          "minimum_content_confidence_score": 0.9999811652878874,
+          "block_type_confidence_score": 0.9989902450521013
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 73,
+        "bottom_right_x": 244,
+        "bottom_right_y": 93,
+        "content": "Numbers refer to exercises.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998571224430912,
+          "minimum_content_confidence_score": 0.9996289200283156,
+          "block_type_confidence_score": 0.8652629963426636
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 112,
+        "bottom_right_x": 70,
+        "bottom_right_y": 131,
+        "content": "well",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991696820606369,
+          "minimum_content_confidence_score": 0.9991696820606369,
+          "block_type_confidence_score": 0.9298330633122271
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 132,
+        "bottom_right_x": 192,
+        "bottom_right_y": 152,
+        "content": "as — (also) 53.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983157419341889,
+          "minimum_content_confidence_score": 0.9953631398127349,
+          "block_type_confidence_score": 0.893228968700866
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 152,
+        "bottom_right_x": 174,
+        "bottom_right_y": 171,
+        "content": "just as — 53.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998135919152482,
+          "minimum_content_confidence_score": 0.9993497787679844,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 171,
+        "bottom_right_x": 310,
+        "bottom_right_y": 192,
+        "content": "were (subjunctive) 31.1 (footnote)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995450456905643,
+          "minimum_content_confidence_score": 0.9984850862305603,
+          "block_type_confidence_score": 0.9991933658673906
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 192,
+        "bottom_right_x": 137,
+        "bottom_right_y": 211,
+        "content": "31.4 31.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998984229774925,
+          "minimum_content_confidence_score": 0.9998487583896465,
+          "block_type_confidence_score": 0.9999802116501774
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 211,
+        "bottom_right_x": 150,
+        "bottom_right_y": 231,
+        "content": "— to 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995143398927159,
+          "minimum_content_confidence_score": 0.9990865000009261,
+          "block_type_confidence_score": 0.9996198669291387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 231,
+        "bottom_right_x": 180,
+        "bottom_right_y": 250,
+        "content": "what? 8.1 44.1-8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978766023193831,
+          "minimum_content_confidence_score": 0.9938677496689252,
+          "block_type_confidence_score": 0.9990882848800727
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 250,
+        "bottom_right_x": 206,
+        "bottom_right_y": 270,
+        "content": "what about? 44.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997827846315106,
+          "minimum_content_confidence_score": 0.999722945923875,
+          "block_type_confidence_score": 0.9999883176260755
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 270,
+        "bottom_right_x": 185,
+        "bottom_right_y": 290,
+        "content": "what ever? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998244253929007,
+          "minimum_content_confidence_score": 0.9995068361080761,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 290,
+        "bottom_right_x": 176,
+        "bottom_right_y": 310,
+        "content": "what for? 44.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999084996588036,
+          "minimum_content_confidence_score": 0.9998359717975618,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 310,
+        "bottom_right_x": 74,
+        "bottom_right_y": 330,
+        "content": "what",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998076332215631,
+          "minimum_content_confidence_score": 0.9998076332215631,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 330,
+        "bottom_right_x": 266,
+        "bottom_right_y": 350,
+        "content": "— as link-word 47.1 51.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998804792548552,
+          "minimum_content_confidence_score": 0.999513267085003,
+          "block_type_confidence_score": 0.9999909401759619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 350,
+        "bottom_right_x": 79,
+        "bottom_right_y": 369,
+        "content": "what!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967949196722727,
+          "minimum_content_confidence_score": 0.9967949196722727,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 369,
+        "bottom_right_x": 178,
+        "bottom_right_y": 389,
+        "content": "what a — ! 1.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9725413498488905,
+          "minimum_content_confidence_score": 0.867214640990737,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 389,
+        "bottom_right_x": 277,
+        "bottom_right_y": 409,
+        "content": "— in reported speech 51.15",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999286031840218,
+          "minimum_content_confidence_score": 0.9998642390469163,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 409,
+        "bottom_right_x": 134,
+        "bottom_right_y": 428,
+        "content": "when? 45.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997709575804494,
+          "minimum_content_confidence_score": 0.9995557670286557,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 428,
+        "bottom_right_x": 274,
+        "bottom_right_y": 449,
+        "content": "+ Present continuous 21.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984129632730872,
+          "minimum_content_confidence_score": 0.9940278520016504,
+          "block_type_confidence_score": 0.9993612080963803
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 67,
+        "top_left_y": 449,
+        "bottom_right_x": 104,
+        "bottom_right_y": 468,
+        "content": "21.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999665360917076,
+          "minimum_content_confidence_score": 0.999665360917076,
+          "block_type_confidence_score": 0.9999921322487634
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 468,
+        "bottom_right_x": 185,
+        "bottom_right_y": 488,
+        "content": "when ever? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998848812096138,
+          "minimum_content_confidence_score": 0.9996950364468014,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 488,
+        "bottom_right_x": 235,
+        "bottom_right_y": 508,
+        "content": "when-clauses 28.17 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990935520580528,
+          "minimum_content_confidence_score": 0.997666645129197,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 508,
+        "bottom_right_x": 180,
+        "bottom_right_y": 527,
+        "content": "where? 44.9 45.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999565475228082,
+          "minimum_content_confidence_score": 0.9999233640540464,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 527,
+        "bottom_right_x": 191,
+        "bottom_right_y": 547,
+        "content": "where ever? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999736638058105,
+          "minimum_content_confidence_score": 0.9999500539683776,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 547,
+        "bottom_right_x": 222,
+        "bottom_right_y": 568,
+        "content": "where on earth? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998988664946655,
+          "minimum_content_confidence_score": 0.999677881073919,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 568,
+        "bottom_right_x": 81,
+        "bottom_right_y": 587,
+        "content": "where",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999225199684951,
+          "minimum_content_confidence_score": 0.9999225199684951,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 587,
+        "bottom_right_x": 264,
+        "bottom_right_y": 607,
+        "content": "— as link-word 47.1 51.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998956918256023,
+          "minimum_content_confidence_score": 0.999527320284437,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 607,
+        "bottom_right_x": 146,
+        "bottom_right_y": 627,
+        "content": "(conj.) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998347639360992,
+          "minimum_content_confidence_score": 0.9997707227664463,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 627,
+        "bottom_right_x": 187,
+        "bottom_right_y": 647,
+        "content": "whereabouts 44.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999110026625084,
+          "minimum_content_confidence_score": 0.9998276279911066,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 647,
+        "bottom_right_x": 95,
+        "bottom_right_y": 666,
+        "content": "whether",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999908932396985,
+          "minimum_content_confidence_score": 0.999908932396985,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 666,
+        "bottom_right_x": 268,
+        "bottom_right_y": 686,
+        "content": "— in reported speech 51.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999457838839912,
+          "minimum_content_confidence_score": 0.9997842777258221,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 67,
+        "top_left_y": 686,
+        "bottom_right_x": 95,
+        "bottom_right_y": 706,
+        "content": "§58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993651331328759,
+          "minimum_content_confidence_score": 0.9993651331328759,
+          "block_type_confidence_score": 0.9999920130413283
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 706,
+        "bottom_right_x": 185,
+        "bottom_right_y": 726,
+        "content": "which? 8.1 44.1-8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999829622192012,
+          "minimum_content_confidence_score": 0.9999584573568336,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 73,
+        "bottom_right_x": 381,
+        "bottom_right_y": 93,
+        "content": "which",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999829533624089,
+          "minimum_content_confidence_score": 0.9999829533624089,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 93,
+        "bottom_right_x": 584,
+        "bottom_right_y": 113,
+        "content": "— as link-word 47.1-6 51.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999771536930121,
+          "minimum_content_confidence_score": 0.9999538681349789,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 113,
+        "bottom_right_x": 582,
+        "bottom_right_y": 133,
+        "content": "— in relative clauses 46.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999109105267282,
+          "minimum_content_confidence_score": 0.9996905092820776,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 369,
+        "top_left_y": 133,
+        "bottom_right_x": 406,
+        "bottom_right_y": 152,
+        "content": "46.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998278322905922,
+          "minimum_content_confidence_score": 0.9998278322905922,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 152,
+        "bottom_right_x": 531,
+        "bottom_right_y": 172,
+        "content": "while-clauses 28.17 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999282334210099,
+          "minimum_content_confidence_score": 0.9998765606267441,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 172,
+        "bottom_right_x": 477,
+        "bottom_right_y": 192,
+        "content": "who? 8.1 44.1-8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999631214155483,
+          "minimum_content_confidence_score": 0.9998995182095596,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 192,
+        "bottom_right_x": 480,
+        "bottom_right_y": 211,
+        "content": "who ever? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999592315828066,
+          "minimum_content_confidence_score": 0.9999290755054595,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 211,
+        "bottom_right_x": 367,
+        "bottom_right_y": 231,
+        "content": "who",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999742514560126,
+          "minimum_content_confidence_score": 0.9999742514560126,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 231,
+        "bottom_right_x": 478,
+        "bottom_right_y": 250,
+        "content": "relative 46.1-4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999861208709641,
+          "minimum_content_confidence_score": 0.9999814036965474,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 250,
+        "bottom_right_x": 584,
+        "bottom_right_y": 270,
+        "content": "— as link-word 47.1-6 51.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999608793757128,
+          "minimum_content_confidence_score": 0.9998297981142137,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 270,
+        "bottom_right_x": 593,
+        "bottom_right_y": 290,
+        "content": "whoever, whatever etc. 48.1 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999912444805308,
+          "minimum_content_confidence_score": 0.9997773666300703,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 290,
+        "bottom_right_x": 557,
+        "bottom_right_y": 310,
+        "content": "whom? (disappearing) 44.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998488425015042,
+          "minimum_content_confidence_score": 0.9996040075889764,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 310,
+        "bottom_right_x": 588,
+        "bottom_right_y": 330,
+        "content": "whom in relative clauses 46.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999662447923183,
+          "minimum_content_confidence_score": 0.9998810432844463,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 330,
+        "bottom_right_x": 401,
+        "bottom_right_y": 350,
+        "content": "46.4-5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999834202421715,
+          "minimum_content_confidence_score": 0.999834202421715,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 350,
+        "bottom_right_x": 441,
+        "bottom_right_y": 369,
+        "content": "whose? 44.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999753385635577,
+          "minimum_content_confidence_score": 0.9999589740036788,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 369,
+        "bottom_right_x": 588,
+        "bottom_right_y": 389,
+        "content": "whose in relative clauses 46.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999916793553281,
+          "minimum_content_confidence_score": 0.9999748474916561,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 389,
+        "bottom_right_x": 385,
+        "bottom_right_y": 409,
+        "content": "46.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999656987925778,
+          "minimum_content_confidence_score": 0.9999656987925778,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 409,
+        "bottom_right_x": 425,
+        "bottom_right_y": 428,
+        "content": "why? 45.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999952183528291,
+          "minimum_content_confidence_score": 0.9999078002707811,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 428,
+        "bottom_right_x": 478,
+        "bottom_right_y": 449,
+        "content": "why ever? 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999301215291044,
+          "minimum_content_confidence_score": 0.9998060840910962,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 449,
+        "bottom_right_x": 561,
+        "bottom_right_y": 468,
+        "content": "why as link-word 47.1 51.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999231401549107,
+          "minimum_content_confidence_score": 0.9998093015118814,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 468,
+        "bottom_right_x": 485,
+        "bottom_right_y": 488,
+        "content": "will 14.1-3 28.2-4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998823014861311,
+          "minimum_content_confidence_score": 0.9996787150086466,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 488,
+        "bottom_right_x": 487,
+        "bottom_right_y": 508,
+        "content": "— after if 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991509175868389,
+          "minimum_content_confidence_score": 0.9972995920424053,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 508,
+        "bottom_right_x": 459,
+        "bottom_right_y": 527,
+        "content": "wish (v.) 31.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997099180402742,
+          "minimum_content_confidence_score": 0.9991766015501774,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 527,
+        "bottom_right_x": 594,
+        "bottom_right_y": 547,
+        "content": "— & continuous tenses 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997983862363433,
+          "minimum_content_confidence_score": 0.999545034633462,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 547,
+        "bottom_right_x": 441,
+        "bottom_right_y": 568,
+        "content": "won't 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995183654459782,
+          "minimum_content_confidence_score": 0.9990463866420581,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 568,
+        "bottom_right_x": 498,
+        "bottom_right_y": 587,
+        "content": "worth + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967085612260305,
+          "minimum_content_confidence_score": 0.9888054419524643,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 587,
+        "bottom_right_x": 443,
+        "bottom_right_y": 607,
+        "content": "would 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999560744899482,
+          "minimum_content_confidence_score": 0.9999221623902257,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 607,
+        "bottom_right_x": 487,
+        "bottom_right_y": 627,
+        "content": "— after if 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999762487270019,
+          "minimum_content_confidence_score": 0.9999353927404022,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 647,
+        "bottom_right_x": 568,
+        "bottom_right_y": 666,
+        "content": "yesterday in reported speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998264566929921,
+          "minimum_content_confidence_score": 0.9993226351240737,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 666,
+        "bottom_right_x": 385,
+        "bottom_right_y": 686,
+        "content": "51.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997725232458832,
+          "minimum_content_confidence_score": 0.9997725232458832,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 686,
+        "bottom_right_x": 432,
+        "bottom_right_y": 706,
+        "content": "yours 3.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998984262500947,
+          "minimum_content_confidence_score": 0.9998415727800237,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 351,
+        "top_left_y": 706,
+        "bottom_right_x": 455,
+        "bottom_right_y": 726,
+        "content": "of yours 3.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998390883681645,
+          "minimum_content_confidence_score": 0.9996197477942644,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

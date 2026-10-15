@@ -1,0 +1,278 @@
+{
+  "source": {
+    "id": "pdf-137-right",
+    "pdf_page": 137,
+    "side": "right",
+    "reading_order": 274
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "don't know if I shall be free, but I should love to come if I am.'\n\n25 'Will you take some castor oil?' 'No. I don't like it. Do you think a medicine I don't like will do me good?' 'No, I suppose not.'\n\n# REPORTED SPEECH (EXCLAMATIONS)\n\n# 51.15\nIntermediate\n\nReporting an exclamation is usually best achieved by a circumlocution reflecting the spirit of the original exclamation.\n\nExclamations are not often reported in spoken English, so too much time should not be wasted in hunting for the best expression. The other forms of REPORTED SPEECH are far more important.\n\nSome exclamatory forms are really questions (rhetorical) or imperatives.\n\n'What a lovely garden (this is)!'\n\nHe remarked what a lovely garden it was.\n\n'Hello! where are you going?'\n\nHe greeted me and asked (me) where I was going.\n\n'Oh dear! I've torn my frock.'\n\nShe exclaimed bitterly that she had torn her dress.\n\nor: She sighed and said that she had torn her dress.\n\n* * *\n\n● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 What a lovely house!\n2 Hello! What do you want?\n3 My goodness! You are slim!\n4 Haven't you ever been here before? (He was surprised . . .)\n5 What a dirty face you have!\n6 Oh! I've cut myself!\n7 Help me!\n8 The house is on fire!\n9 What have you done to your hair?\n10 Good gracious! It's impossible!\n11 What on earth has happened?\n12 What ever is the matter?\n13 What a terrible noise!\n14 Do be quiet!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n263",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 662
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9683389494301888,
+      "minimum_page_confidence_score": 0.21657080794107175
+    },
+    "blocks": [
+      {
+        "top_left_x": 135,
+        "top_left_y": 15,
+        "bottom_right_x": 311,
+        "bottom_right_y": 36,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9894132982842508,
+          "minimum_content_confidence_score": 0.9684542087572603,
+          "block_type_confidence_score": 0.9999625888406634
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 611,
+        "top_left_y": 15,
+        "bottom_right_x": 645,
+        "bottom_right_y": 34,
+        "content": "263",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998862872718773,
+          "minimum_content_confidence_score": 0.9998862872718773,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 70,
+        "bottom_right_x": 628,
+        "bottom_right_y": 114,
+        "content": "don't know if I shall be free, but I should love to come if I am.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9963797361652585,
+          "minimum_content_confidence_score": 0.9571178837158443,
+          "block_type_confidence_score": 0.9999856950894335
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 113,
+        "bottom_right_x": 646,
+        "bottom_right_y": 180,
+        "content": "25 'Will you take some castor oil?' 'No. I don't like it. Do you think a medicine I don't like will do me good?' 'No, I suppose not.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997247630416221,
+          "minimum_content_confidence_score": 0.9254808241892767,
+          "block_type_confidence_score": 0.5310964342165605
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 209,
+        "bottom_right_x": 540,
+        "bottom_right_y": 230,
+        "content": "# REPORTED SPEECH (EXCLAMATIONS)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8690381579953332,
+          "minimum_content_confidence_score": 0.6791036871091277,
+          "block_type_confidence_score": 0.8665635395855217
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 42,
+        "top_left_y": 247,
+        "bottom_right_x": 147,
+        "bottom_right_y": 287,
+        "content": "# 51.15\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9024646659027276,
+          "minimum_content_confidence_score": 0.6583019480032606,
+          "block_type_confidence_score": 0.6079583547816328
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 249,
+        "bottom_right_x": 646,
+        "bottom_right_y": 307,
+        "content": "Reporting an exclamation is usually best achieved by a circumlocution reflecting the spirit of the original exclamation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999909549695763,
+          "minimum_content_confidence_score": 0.9994090843650759,
+          "block_type_confidence_score": 0.9999762779146959
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 308,
+        "bottom_right_x": 646,
+        "bottom_right_y": 389,
+        "content": "Exclamations are not often reported in spoken English, so too much time should not be wasted in hunting for the best expression. The other forms of REPORTED SPEECH are far more important.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999722574529493,
+          "minimum_content_confidence_score": 0.9994830182767631,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 389,
+        "bottom_right_x": 646,
+        "bottom_right_y": 428,
+        "content": "Some exclamatory forms are really questions (rhetorical) or imperatives.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999089169101391,
+          "minimum_content_confidence_score": 0.9995301427050586,
+          "block_type_confidence_score": 0.9999802116501774
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 431,
+        "bottom_right_x": 470,
+        "bottom_right_y": 452,
+        "content": "'What a lovely garden (this is)!'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997126311229671,
+          "minimum_content_confidence_score": 0.9829165332845667,
+          "block_type_confidence_score": 0.9668507640767057
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 451,
+        "bottom_right_x": 558,
+        "bottom_right_y": 473,
+        "content": "He remarked what a lovely garden it was.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999393225645938,
+          "minimum_content_confidence_score": 0.9996897944807194,
+          "block_type_confidence_score": 0.9999870063564401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 472,
+        "bottom_right_x": 456,
+        "bottom_right_y": 492,
+        "content": "'Hello! where are you going?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999878185485675,
+          "minimum_content_confidence_score": 0.9996890796507776,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 491,
+        "bottom_right_x": 627,
+        "bottom_right_y": 513,
+        "content": "He greeted me and asked (me) where I was going.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999825166800604,
+          "minimum_content_confidence_score": 0.9999398287626842,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 512,
+        "bottom_right_x": 458,
+        "bottom_right_y": 532,
+        "content": "'Oh dear! I've torn my frock.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999125898196112,
+          "minimum_content_confidence_score": 0.9995542889392213,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 532,
+        "bottom_right_x": 627,
+        "bottom_right_y": 552,
+        "content": "She exclaimed bitterly that she had torn her dress.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999576566281826,
+          "minimum_content_confidence_score": 0.9998367114285107,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 551,
+        "bottom_right_x": 635,
+        "bottom_right_y": 572,
+        "content": "or: She sighed and said that she had torn her dress.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999378061685177,
+          "minimum_content_confidence_score": 0.9994969540929547,
+          "block_type_confidence_score": 0.9997842777258221
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 355,
+        "top_left_y": 584,
+        "bottom_right_x": 459,
+        "bottom_right_y": 598,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990660130562148,
+          "minimum_content_confidence_score": 0.9982743292216688,
+          "block_type_confidence_score": 0.9999921322487634
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 610,
+        "bottom_right_x": 646,
+        "bottom_right_y": 978,
+        "content": "● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 What a lovely house!\n2 Hello! What do you want?\n3 My goodness! You are slim!\n4 Haven't you ever been here before? (He was surprised . . .)\n5 What a dirty face you have!\n6 Oh! I've cut myself!\n7 Help me!\n8 The house is on fire!\n9 What have you done to your hair?\n10 Good gracious! It's impossible!\n11 What on earth has happened?\n12 What ever is the matter?\n13 What a terrible noise!\n14 Do be quiet!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976654098204959,
+          "minimum_content_confidence_score": 0.8826642485331135,
+          "block_type_confidence_score": 0.9992876362601234
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

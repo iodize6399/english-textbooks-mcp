@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-134-right",
+    "pdf_page": 134,
+    "side": "right",
+    "reading_order": 268
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "22 When will you come again? Shall I be seeing you next week?\n23 Where has Mary put my slippers? Why can't she leave them where I put them when I took them off?\n24 How far is it to the National Theatre? Can I walk it in ten minutes or must I take a bus?\n25 What's the English for Donaudampfschiffahrts-gesellschaftsbeamter?\n26 How many cakes can you get into your mouth at once? Do you think it is greedy to eat more than two at a time?\n27 Has Henry got a lawn-mower? Do you think he will lend it to me?\n28 How many times have I told you not to do that?\n29 Who called while I was out? Did she leave a message?\n30 Did Maisie question you about my whereabouts last Friday? What did you tell her? Is she asking you any more questions tomorrow?\n\n51.11\n\nAdvanced\n\nREPORTING\n\nA REPORTED\n\nQUESTION\n\nThe only point to remember is the change of tense in both parts.\n\n'Do you know who is coming?'\n\nHe asked if I knew who was coming.\n\n'Do you know who killed him?'\n\nHe asked if I knew who had killed him.\n\n'Did you wonder why I didn't come?'\n\nHe asked if I'd wondered why he hadn't come.\n\nBut we rarely find a succession of PAST PERFECTS, any other CONTEMPORARY actions being left in the PAST SIMPLE.\n\n'Did you wonder why I didn't come when I was wanted?'\n\nHe asked if I'd wondered why he hadn't come when he was wanted. (didn't come is also heard)\n\n* * *\n\n● Put the following sentences into REPORTED SPEECH with the introducing verb in the PAST tense. Vary the introducing verb.\n1 Can you tell me why you are so sad?\n2 Must you always ask me what I'm doing?\n3 Do you know how far it is to the station?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n257",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9725310174402232,
+      "minimum_page_confidence_score": 0.1828071666693124
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 21,
+        "bottom_right_x": 313,
+        "bottom_right_y": 42,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997754005157885,
+          "minimum_content_confidence_score": 0.9994322902369224,
+          "block_type_confidence_score": 0.9998785949251537
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 614,
+        "top_left_y": 21,
+        "bottom_right_x": 648,
+        "bottom_right_y": 39,
+        "content": "257",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999475506632682,
+          "minimum_content_confidence_score": 0.9999475506632682,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 76,
+        "bottom_right_x": 653,
+        "bottom_right_y": 513,
+        "content": "22 When will you come again? Shall I be seeing you next week?\n23 Where has Mary put my slippers? Why can't she leave them where I put them when I took them off?\n24 How far is it to the National Theatre? Can I walk it in ten minutes or must I take a bus?\n25 What's the English for Donaudampfschiffahrts-gesellschaftsbeamter?\n26 How many cakes can you get into your mouth at once? Do you think it is greedy to eat more than two at a time?\n27 Has Henry got a lawn-mower? Do you think he will lend it to me?\n28 How many times have I told you not to do that?\n29 Who called while I was out? Did she leave a message?\n30 Did Maisie question you about my whereabouts last Friday? What did you tell her? Is she asking you any more questions tomorrow?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994376084372076,
+          "minimum_content_confidence_score": 0.9313406988765865,
+          "block_type_confidence_score": 0.966907598545687
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 529,
+        "bottom_right_x": 102,
+        "bottom_right_y": 549,
+        "content": "51.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940314458013099,
+          "minimum_content_confidence_score": 0.9940314458013099,
+          "block_type_confidence_score": 0.7728497582840107
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 550,
+        "bottom_right_x": 131,
+        "bottom_right_y": 570,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999141766761902,
+          "minimum_content_confidence_score": 0.9999141766761902,
+          "block_type_confidence_score": 0.9991682539011489
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 573,
+        "bottom_right_x": 140,
+        "bottom_right_y": 589,
+        "content": "REPORTING",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999054187137466,
+          "minimum_content_confidence_score": 0.9999054187137466,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 592,
+        "bottom_right_x": 149,
+        "bottom_right_y": 610,
+        "content": "A REPORTED",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999582530562321,
+          "minimum_content_confidence_score": 0.9999258573209157,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 613,
+        "bottom_right_x": 130,
+        "bottom_right_y": 629,
+        "content": "QUESTION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999941438813185,
+          "minimum_content_confidence_score": 0.9999941438813185,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 529,
+        "bottom_right_x": 653,
+        "bottom_right_y": 570,
+        "content": "The only point to remember is the change of tense in both parts.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999923288540556,
+          "minimum_content_confidence_score": 0.9999659073064342,
+          "block_type_confidence_score": 0.999967456924635
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 573,
+        "bottom_right_x": 477,
+        "bottom_right_y": 593,
+        "content": "'Do you know who is coming?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997752003795926,
+          "minimum_content_confidence_score": 0.9991512324933125,
+          "block_type_confidence_score": 0.9980559070695721
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 593,
+        "bottom_right_x": 518,
+        "bottom_right_y": 614,
+        "content": "He asked if I knew who was coming.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9866140323773868,
+          "minimum_content_confidence_score": 0.8936454671255394,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 614,
+        "bottom_right_x": 481,
+        "bottom_right_y": 633,
+        "content": "'Do you know who killed him?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999972660954379,
+          "minimum_content_confidence_score": 0.9999215161578973,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 633,
+        "bottom_right_x": 541,
+        "bottom_right_y": 654,
+        "content": "He asked if I knew who had killed him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999718214655273,
+          "minimum_content_confidence_score": 0.9999210896780105,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 654,
+        "bottom_right_x": 529,
+        "bottom_right_y": 673,
+        "content": "'Did you wonder why I didn't come?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999736970738747,
+          "minimum_content_confidence_score": 0.999905079505088,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 673,
+        "bottom_right_x": 598,
+        "bottom_right_y": 694,
+        "content": "He asked if I'd wondered why he hadn't come.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999259973249656,
+          "minimum_content_confidence_score": 0.9995117188469796,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 701,
+        "bottom_right_x": 655,
+        "bottom_right_y": 741,
+        "content": "But we rarely find a succession of PAST PERFECTS, any other CONTEMPORARY actions being left in the PAST SIMPLE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999754281998293,
+          "minimum_content_confidence_score": 0.9998437669147868,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 744,
+        "bottom_right_x": 655,
+        "bottom_right_y": 784,
+        "content": "'Did you wonder why I didn't come when I was wanted?'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999892433582193,
+          "minimum_content_confidence_score": 0.9999286534689046,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 784,
+        "bottom_right_x": 656,
+        "bottom_right_y": 824,
+        "content": "He asked if I'd wondered why he hadn't come when he was wanted. (didn't come is also heard)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999663273416152,
+          "minimum_content_confidence_score": 0.999874250008407,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 363,
+        "top_left_y": 837,
+        "bottom_right_x": 467,
+        "bottom_right_y": 852,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978553386040557,
+          "minimum_content_confidence_score": 0.9949139482385222,
+          "block_type_confidence_score": 0.9999953508594287
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 863,
+        "bottom_right_x": 657,
+        "bottom_right_y": 992,
+        "content": "● Put the following sentences into REPORTED SPEECH with the introducing verb in the PAST tense. Vary the introducing verb.\n1 Can you tell me why you are so sad?\n2 Must you always ask me what I'm doing?\n3 Do you know how far it is to the station?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997315173869757,
+          "minimum_content_confidence_score": 0.8615586482932897,
+          "block_type_confidence_score": 0.9991805122008168
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

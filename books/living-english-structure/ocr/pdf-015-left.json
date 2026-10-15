@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-015-left",
+    "pdf_page": 15,
+    "side": "left",
+    "reading_order": 29
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "8 The parents of all the other boys\n9 The famous shop of Fortnum and Mason\n10 The houses of Henry and Mr Jones\n11 During the holiday of two weeks of my friend Maisie\n12 A wrist-watch of a lady or gentleman\n13 At (the shop of) Murdoch, the bookseller\n14 The army of Cyrus\n15 He's the favourite of the boss.\n\nHere is an old puzzle:\n\n'The son of Pharaoh's daughter was the daughter of Pharaoh's son.'\n\nIt makes sense only if we read daughter-of-Pharaoh as one unit having the same meaning as Pharaoh's daughter.\n\nPharaoh (ruler of Ancient Egypt) is pronounced [ˈfeəraʊ].\n\n## 8 Introduction to Interrogatives\nwho? what? and which?\n\n### 8.1 Elementary\n\nInterrogatives and relatives are dealt with as a group (Sections 44, 45), but a preliminary exercise or two, merely to practise the question-words, should come quite early. This exercise is restricted to the present tense and interrogatives in the subjective case. The uses of who? what? and which? should be clearly demonstrated on the blackboard.\n\n* * *\n\n● Add a question-word to the following questions:\n\n1 — is your name?\n2 — is that pretty girl?\n3 — is your telephone number?\n4 Here are the books! — is yours?\n5 — is coming to tea?\n6 — trees grow in Egypt?\n7 — is yours, the orange or the banana?\n8 — colour is it?\n9 — makes your shoes?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "18\n8 Introduction to Interrogatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1018,
+      "width": 706
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.964315775505897,
+      "minimum_page_confidence_score": 0.2709030497169981
+    },
+    "blocks": [
+      {
+        "top_left_x": 18,
+        "top_left_y": 17,
+        "bottom_right_x": 41,
+        "bottom_right_y": 36,
+        "content": "18",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999881281645592,
+          "minimum_content_confidence_score": 0.999881281645592,
+          "block_type_confidence_score": 0.9998562663195165
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 17,
+        "bottom_right_x": 387,
+        "bottom_right_y": 36,
+        "content": "8 Introduction to Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999402426410644,
+          "minimum_content_confidence_score": 0.9977864259924671,
+          "block_type_confidence_score": 0.9476560370238982
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 72,
+        "bottom_right_x": 572,
+        "bottom_right_y": 274,
+        "content": "8 The parents of all the other boys\n9 The famous shop of Fortnum and Mason\n10 The houses of Henry and Mr Jones\n11 During the holiday of two weeks of my friend Maisie\n12 A wrist-watch of a lady or gentleman\n13 At (the shop of) Murdoch, the bookseller\n14 The army of Cyrus\n15 He's the favourite of the boss.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985509752128395,
+          "minimum_content_confidence_score": 0.9223697511834955,
+          "block_type_confidence_score": 0.996805415640208
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 290,
+        "bottom_right_x": 335,
+        "bottom_right_y": 312,
+        "content": "Here is an old puzzle:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999905799485003,
+          "minimum_content_confidence_score": 0.9999737611829573,
+          "block_type_confidence_score": 0.9999533913417585
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 311,
+        "bottom_right_x": 625,
+        "bottom_right_y": 353,
+        "content": "'The son of Pharaoh's daughter was the daughter of Pharaoh's son.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993762710796946,
+          "minimum_content_confidence_score": 0.9965179373305135,
+          "block_type_confidence_score": 0.9997748643483101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 352,
+        "bottom_right_x": 625,
+        "bottom_right_y": 393,
+        "content": "It makes sense only if we read daughter-of-Pharaoh as one unit having the same meaning as Pharaoh's daughter.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9929994469755948,
+          "minimum_content_confidence_score": 0.8773886332204061,
+          "block_type_confidence_score": 0.9999945164027223
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 392,
+        "bottom_right_x": 625,
+        "bottom_right_y": 414,
+        "content": "Pharaoh (ruler of Ancient Egypt) is pronounced [ˈfeəraʊ].",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.958056194291766,
+          "minimum_content_confidence_score": 0.6647456506060763,
+          "block_type_confidence_score": 0.9999325320955504
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 474,
+        "bottom_right_x": 485,
+        "bottom_right_y": 532,
+        "content": "## 8 Introduction to Interrogatives\nwho? what? and which?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9435713795894515,
+          "minimum_content_confidence_score": 0.6153958169666509,
+          "block_type_confidence_score": 0.9838919891449076
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 20,
+        "top_left_y": 586,
+        "bottom_right_x": 117,
+        "bottom_right_y": 629,
+        "content": "### 8.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9781752922124823,
+          "minimum_content_confidence_score": 0.9350801763114969,
+          "block_type_confidence_score": 0.722762519269358
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 586,
+        "bottom_right_x": 628,
+        "bottom_right_y": 729,
+        "content": "Interrogatives and relatives are dealt with as a group (Sections 44, 45), but a preliminary exercise or two, merely to practise the question-words, should come quite early. This exercise is restricted to the present tense and interrogatives in the subjective case. The uses of who? what? and which? should be clearly demonstrated on the blackboard.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999726812961086,
+          "minimum_content_confidence_score": 0.9937641000713713,
+          "block_type_confidence_score": 0.9999736554414602
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 335,
+        "top_left_y": 744,
+        "bottom_right_x": 440,
+        "bottom_right_y": 758,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972726510611515,
+          "minimum_content_confidence_score": 0.9949138300988372,
+          "block_type_confidence_score": 0.9999369422603869
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 770,
+        "bottom_right_x": 557,
+        "bottom_right_y": 792,
+        "content": "● Add a question-word to the following questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9925916950117316,
+          "minimum_content_confidence_score": 0.9411970624726287,
+          "block_type_confidence_score": 0.9138343245879627
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 795,
+        "bottom_right_x": 510,
+        "bottom_right_y": 997,
+        "content": "1 — is your name?\n2 — is that pretty girl?\n3 — is your telephone number?\n4 Here are the books! — is yours?\n5 — is coming to tea?\n6 — trees grow in Egypt?\n7 — is yours, the orange or the banana?\n8 — colour is it?\n9 — makes your shoes?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998856927978496,
+          "minimum_content_confidence_score": 0.9964460528723086,
+          "block_type_confidence_score": 0.9999793772183819
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-161-right",
+    "pdf_page": 161,
+    "side": "right",
+    "reading_order": 322
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "27 Leave me alone. Leave my things alone.  \n28 I shall miss you.  \n29 I'm pleased with. I'm sorry for.  \n30 Here you are! (offering something)  \n31 Will you write and let them know?  \n32 Catch fire. Set fire to.  \n33 Read between the lines.  \n34 Go in for (sport, etc.).  \n35 Out of order.  \n36 I can't help that.  \n37 Straight on for about a mile.  \n38 As far as the —.  \n39 Turn to the left.  \n40 Take the next turning to the right by the —  \n41 Put out the light, put the light out; also **on**.  \n42 Turn out the light, turn the light out; also **on**.  \n43 Switch off the light, radio; also **on**.  \n44 By return of post.  \n45 Out of place.  \n46 Let us in. I let myself in (with this key).  \n47 Next door. Next door but one.  \n48 Opens on to, out of.  \n49 Look forward to seeing you.  \n50 No small change.  \n51 Catch a train, bus, etc.  \n52 Spend the night.  \n53 Would you mind —.  \n54 See a joke, take a joke; a sense of humour.  \n55 Make a fool of; to fool someone (over something).  \n56 Not at all.  \n57 On the way. By the way, —.  \n58 Come and fetch me; call for me; see me home.  \n59 Enough to live on.  \n60 Make fun of; poke fun at.  \n61 Not worth while.  \n62 Old-fashioned; up-to-date.  \n63 It's my turn; out of (his, etc.) turn. Whose turn?  \n64 (I beg your) pardon! (I'm) sorry!  \n65 (I beg your) pardon? I didn't (quite) catch what you said.  \n66 And that reminds me, —.  \n67 It's very kind of you (to say so).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "57 Accepted Phrases\n311",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 999,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9850616111926186,
+      "minimum_page_confidence_score": 0.14659541663797468
+    },
+    "blocks": [
+      {
+        "top_left_x": 152,
+        "top_left_y": 12,
+        "bottom_right_x": 334,
+        "bottom_right_y": 35,
+        "content": "57 Accepted Phrases",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9886669133106286,
+          "minimum_content_confidence_score": 0.9660787889300957,
+          "block_type_confidence_score": 0.9998898148247855
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 632,
+        "top_left_y": 18,
+        "bottom_right_x": 665,
+        "bottom_right_y": 38,
+        "content": "311",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998206222037653,
+          "minimum_content_confidence_score": 0.9998206222037653,
+          "block_type_confidence_score": 0.9999998716207886
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 67,
+        "bottom_right_x": 659,
+        "bottom_right_y": 986,
+        "content": "27 Leave me alone. Leave my things alone.  \n28 I shall miss you.  \n29 I'm pleased with. I'm sorry for.  \n30 Here you are! (offering something)  \n31 Will you write and let them know?  \n32 Catch fire. Set fire to.  \n33 Read between the lines.  \n34 Go in for (sport, etc.).  \n35 Out of order.  \n36 I can't help that.  \n37 Straight on for about a mile.  \n38 As far as the —.  \n39 Turn to the left.  \n40 Take the next turning to the right by the —  \n41 Put out the light, put the light out; also **on**.  \n42 Turn out the light, turn the light out; also **on**.  \n43 Switch off the light, radio; also **on**.  \n44 By return of post.  \n45 Out of place.  \n46 Let us in. I let myself in (with this key).  \n47 Next door. Next door but one.  \n48 Opens on to, out of.  \n49 Look forward to seeing you.  \n50 No small change.  \n51 Catch a train, bus, etc.  \n52 Spend the night.  \n53 Would you mind —.  \n54 See a joke, take a joke; a sense of humour.  \n55 Make a fool of; to fool someone (over something).  \n56 Not at all.  \n57 On the way. By the way, —.  \n58 Come and fetch me; call for me; see me home.  \n59 Enough to live on.  \n60 Make fun of; poke fun at.  \n61 Not worth while.  \n62 Old-fashioned; up-to-date.  \n63 It's my turn; out of (his, etc.) turn. Whose turn?  \n64 (I beg your) pardon! (I'm) sorry!  \n65 (I beg your) pardon? I didn't (quite) catch what you said.  \n66 And that reminds me, —.  \n67 It's very kind of you (to say so).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969308639499145,
+          "minimum_content_confidence_score": 0.5306956646164936,
+          "block_type_confidence_score": 0.7310257893904443
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-113-right",
+    "pdf_page": 113,
+    "side": "right",
+    "reading_order": 226
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "# 46.3\n\n# **Intermediate  \nDEFINING  \nRELATIVE**\n\nSee notes to Exercises 46.1 and 46.2.\n\nAlthough it was pointed out in Exercise 46.1 that for people custom prefers *who* in the subjective case, the following expressions almost invariably take *that*: **SUPERLATIVES**; *all*; *any*; *only*; *it is*.\n\nShe is the finest woman that ever lived.\n\nHe is the only American that has swum the Hellespont.\n\nIt's the teacher that decides what to read.\n\n\\* \\* \\*\n\n- ● Add relatives, **WHERE NEEDED** (i.e. use contact-clauses where possible):\n- 1 The knife — we cut the bread with is very sharp.\n- 2 The man — I gave the book to has died.\n- 3 The shop — we buy our cakes from is shut.\n- 4 The girl — works in the office is my sister.\n- 5 I'm afraid that's all — I've got.\n- 6 The paint on the seat — you are sitting on is still wet.\n- 7 The ties — Cyril wears are awful.\n- 8 Any man — listens to you is a fool.\n- 9 The old gentleman — lives across the road has got married for the fifth time.\n- 10 The policeman — helmet you knocked off is at the door.\n- 11 The horse — you were telling me about yesterday came in last.\n- 12 The man — is sitting at the desk is the secretary.\n- 13 The man — you see at the desk is the secretary.\n- 14 The girl — mother I was talking to has left the room.\n- 15 The man — I pointed out to you in the street is a crook.\n- 16 The pretty girl — you were speaking to just now slapped Cyril's face yesterday.\n- 17 This is the very room — I first met my wife in.\n- 18 'It's a wise child — knows its own father.'\n- 19 All the people — ever met him have disliked him.\n- 20 The coat — I gave Maisie for her birthday is already wearing out.\n- 21 Any paper — you read will give the same story.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n215",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 997,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9718012671277415,
+      "minimum_page_confidence_score": 0.2061187320633285
+    },
+    "blocks": [
+      {
+        "top_left_x": 144,
+        "top_left_y": 18,
+        "bottom_right_x": 257,
+        "bottom_right_y": 37,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984069408462599,
+          "minimum_content_confidence_score": 0.9968433255206415,
+          "block_type_confidence_score": 0.9999925724314579
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 18,
+        "bottom_right_x": 652,
+        "bottom_right_y": 37,
+        "content": "215",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995424457826833,
+          "minimum_content_confidence_score": 0.9995424457826833,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 72,
+        "bottom_right_x": 94,
+        "bottom_right_y": 92,
+        "content": "# 46.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9661761093820622,
+          "minimum_content_confidence_score": 0.9503394962978182,
+          "block_type_confidence_score": 0.5901785503571092
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 94,
+        "bottom_right_x": 156,
+        "bottom_right_y": 152,
+        "content": "# **Intermediate  \nDEFINING  \nRELATIVE**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.921129692087361,
+          "minimum_content_confidence_score": 0.35760631463031683,
+          "block_type_confidence_score": 0.8879174368622724
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 74,
+        "bottom_right_x": 480,
+        "bottom_right_y": 94,
+        "content": "See notes to Exercises 46.1 and 46.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999944184771925,
+          "minimum_content_confidence_score": 0.9998605445767166,
+          "block_type_confidence_score": 0.9999823573372132
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 94,
+        "bottom_right_x": 654,
+        "bottom_right_y": 174,
+        "content": "Although it was pointed out in Exercise 46.1 that for people custom prefers *who* in the subjective case, the following expressions almost invariably take *that*: **SUPERLATIVES**; *all*; *any*; *only*; *it is*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9906955037028737,
+          "minimum_content_confidence_score": 0.7706165583833343,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 177,
+        "bottom_right_x": 543,
+        "bottom_right_y": 198,
+        "content": "She is the finest woman that ever lived.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999982709254515,
+          "minimum_content_confidence_score": 0.9999169180254854,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 197,
+        "bottom_right_x": 652,
+        "bottom_right_y": 237,
+        "content": "He is the only American that has swum the Hellespont.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995999694604723,
+          "minimum_content_confidence_score": 0.9623670334817346,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 237,
+        "bottom_right_x": 563,
+        "bottom_right_y": 257,
+        "content": "It's the teacher that decides what to read.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9779511412914109,
+          "minimum_content_confidence_score": 0.8238540891831504,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 271,
+        "bottom_right_x": 465,
+        "bottom_right_y": 284,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979418100196783,
+          "minimum_content_confidence_score": 0.9944950162877372,
+          "block_type_confidence_score": 0.9999629272857378
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 296,
+        "bottom_right_x": 652,
+        "bottom_right_y": 971,
+        "content": "- ● Add relatives, **WHERE NEEDED** (i.e. use contact-clauses where possible):\n- 1 The knife — we cut the bread with is very sharp.\n- 2 The man — I gave the book to has died.\n- 3 The shop — we buy our cakes from is shut.\n- 4 The girl — works in the office is my sister.\n- 5 I'm afraid that's all — I've got.\n- 6 The paint on the seat — you are sitting on is still wet.\n- 7 The ties — Cyril wears are awful.\n- 8 Any man — listens to you is a fool.\n- 9 The old gentleman — lives across the road has got married for the fifth time.\n- 10 The policeman — helmet you knocked off is at the door.\n- 11 The horse — you were telling me about yesterday came in last.\n- 12 The man — is sitting at the desk is the secretary.\n- 13 The man — you see at the desk is the secretary.\n- 14 The girl — mother I was talking to has left the room.\n- 15 The man — I pointed out to you in the street is a crook.\n- 16 The pretty girl — you were speaking to just now slapped Cyril's face yesterday.\n- 17 This is the very room — I first met my wife in.\n- 18 'It's a wise child — knows its own father.'\n- 19 All the people — ever met him have disliked him.\n- 20 The coat — I gave Maisie for her birthday is already wearing out.\n- 21 Any paper — you read will give the same story.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973536709439169,
+          "minimum_content_confidence_score": 0.6192752541855319,
+          "block_type_confidence_score": 0.9997903548262453
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

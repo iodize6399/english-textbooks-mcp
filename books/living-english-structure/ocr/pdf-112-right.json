@@ -1,0 +1,291 @@
+{
+  "source": {
+    "id": "pdf-112-right",
+    "pdf_page": 112,
+    "side": "right",
+    "reading_order": 224
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "9 I'm looking for somebody — I can trust.\n10 I want to find a man — will lend me money.\n11 The man — you want has just left.\n12 The lady — was here yesterday has gone to London.\n13 The magazine — you lent me is very interesting.\n14 The chair — was broken is now mended.\n15 The old man — lives next door has just died.\n16 Women — work in hospitals are to be admired.\n17 The cigarette — you are smoking is a Player's.\n18 The girl — lives opposite my house is very pretty.\n19 The fish — I ate yesterday was not so good.\n20 The street — leads to the school is very wide.\n21 The flowers — I cut this morning are still fresh.\n22 The dress — you are wearing is lovely.\n23 The person — is sitting next to me is not very clever.\n24 The man — cut your hair did it very badly.\n25 The letter — we received today had no stamp on it.\n26 The music — the orchestra is playing is a Strauss waltz.\n27 Was the hat — you were wearing yesterday very expensive?\n28 The boy — threw that stone will be punished.\n29 The doctor — she visited is famous.\n30 The noise — you hear is only our dog fighting.\n\n# 46.2\n\n# Elementary\n\n# DEFINING\n\n# RELATIVE\n\nThe prepositional and possessive forms are as follows:\n\n# PREPOSITIONAL\n\n# PEOPLE:\n\nThe man you spoke to yesterday is coming to tea. (The man that you spoke to yesterday is coming to tea.)\n\nUse of whom should be strongly discouraged here.\n\n# THINGS:\n\nThe book you were looking at just now belongs to me. (The book that you were looking at just now belongs to me.)\n\nUse of which should be strongly discouraged here.\n\n# POSSESSIVE\n\n# PEOPLE:\n\nThe man whose name I always forget is coming to tea, or",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n213",
+    "footer": "L.R.S.—8",
+    "dimensions": {
+      "dpi": 34,
+      "height": 1001,
+      "width": 648
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9716928115852057,
+      "minimum_page_confidence_score": 0.2584505684252293
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 14,
+        "bottom_right_x": 248,
+        "bottom_right_y": 33,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993293642301764,
+          "minimum_content_confidence_score": 0.9987564705204137,
+          "block_type_confidence_score": 0.9999305728092452
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 601,
+        "top_left_y": 14,
+        "bottom_right_x": 633,
+        "bottom_right_y": 33,
+        "content": "213",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998426684993716,
+          "minimum_content_confidence_score": 0.9998426684993716,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 67,
+        "bottom_right_x": 631,
+        "bottom_right_y": 621,
+        "content": "9 I'm looking for somebody — I can trust.\n10 I want to find a man — will lend me money.\n11 The man — you want has just left.\n12 The lady — was here yesterday has gone to London.\n13 The magazine — you lent me is very interesting.\n14 The chair — was broken is now mended.\n15 The old man — lives next door has just died.\n16 Women — work in hospitals are to be admired.\n17 The cigarette — you are smoking is a Player's.\n18 The girl — lives opposite my house is very pretty.\n19 The fish — I ate yesterday was not so good.\n20 The street — leads to the school is very wide.\n21 The flowers — I cut this morning are still fresh.\n22 The dress — you are wearing is lovely.\n23 The person — is sitting next to me is not very clever.\n24 The man — cut your hair did it very badly.\n25 The letter — we received today had no stamp on it.\n26 The music — the orchestra is playing is a Strauss waltz.\n27 Was the hat — you were wearing yesterday very expensive?\n28 The boy — threw that stone will be punished.\n29 The doctor — she visited is famous.\n30 The noise — you hear is only our dog fighting.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992085827328376,
+          "minimum_content_confidence_score": 0.9318036471292982,
+          "block_type_confidence_score": 0.9796350404573702
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 638,
+        "bottom_right_x": 88,
+        "bottom_right_y": 657,
+        "content": "# 46.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8791893028930127,
+          "minimum_content_confidence_score": 0.7981474572069107,
+          "block_type_confidence_score": 0.5585466534549098
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 662,
+        "bottom_right_x": 138,
+        "bottom_right_y": 681,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9718490527550696,
+          "minimum_content_confidence_score": 0.9437729633407463,
+          "block_type_confidence_score": 0.8172187215401022
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 684,
+        "bottom_right_x": 121,
+        "bottom_right_y": 699,
+        "content": "# DEFINING",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99976653992492,
+          "minimum_content_confidence_score": 0.9995333182683624,
+          "block_type_confidence_score": 0.8518260220396076
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 702,
+        "bottom_right_x": 121,
+        "bottom_right_y": 718,
+        "content": "# RELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999675381247406,
+          "minimum_content_confidence_score": 0.9999359107138189,
+          "block_type_confidence_score": 0.9999848606494245
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 639,
+        "bottom_right_x": 615,
+        "bottom_right_y": 659,
+        "content": "The prepositional and possessive forms are as follows:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999304674564577,
+          "minimum_content_confidence_score": 0.9997328052943442,
+          "block_type_confidence_score": 0.9987979097403696
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 664,
+        "bottom_right_x": 289,
+        "bottom_right_y": 681,
+        "content": "# PREPOSITIONAL",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999395046991547,
+          "minimum_content_confidence_score": 0.9988355106578585,
+          "block_type_confidence_score": 0.9521958126904381
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 684,
+        "bottom_right_x": 255,
+        "bottom_right_y": 699,
+        "content": "# PEOPLE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999530299273579,
+          "minimum_content_confidence_score": 0.9999076095730286,
+          "block_type_confidence_score": 0.9576098837725863
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 208,
+        "top_left_y": 700,
+        "bottom_right_x": 633,
+        "bottom_right_y": 739,
+        "content": "The man you spoke to yesterday is coming to tea. (The man that you spoke to yesterday is coming to tea.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999159653583715,
+          "minimum_content_confidence_score": 0.9985955441077101,
+          "block_type_confidence_score": 0.9997909506169727
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 226,
+        "top_left_y": 739,
+        "bottom_right_x": 631,
+        "bottom_right_y": 760,
+        "content": "Use of whom should be strongly discouraged here.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9656350934669761,
+          "minimum_content_confidence_score": 0.7251564243739006,
+          "block_type_confidence_score": 0.9999469546810004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 762,
+        "bottom_right_x": 255,
+        "bottom_right_y": 777,
+        "content": "# THINGS:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999936149763851,
+          "minimum_content_confidence_score": 0.9999875875805179,
+          "block_type_confidence_score": 0.9999752050825816
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 208,
+        "top_left_y": 778,
+        "bottom_right_x": 633,
+        "bottom_right_y": 836,
+        "content": "The book you were looking at just now belongs to me. (The book that you were looking at just now belongs to me.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973151182108841,
+          "minimum_content_confidence_score": 0.9388737634345737,
+          "block_type_confidence_score": 0.9999885560391694
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 226,
+        "top_left_y": 836,
+        "bottom_right_x": 631,
+        "bottom_right_y": 856,
+        "content": "Use of which should be strongly discouraged here.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999877297330482,
+          "minimum_content_confidence_score": 0.9999187058723578,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 867,
+        "bottom_right_x": 255,
+        "bottom_right_y": 883,
+        "content": "# POSSESSIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996051237921709,
+          "minimum_content_confidence_score": 0.9992103667936172,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 890,
+        "bottom_right_x": 255,
+        "bottom_right_y": 906,
+        "content": "# PEOPLE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999736063156519,
+          "minimum_content_confidence_score": 0.9999482855137658,
+          "block_type_confidence_score": 0.9999927282861518
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 208,
+        "top_left_y": 907,
+        "bottom_right_x": 633,
+        "bottom_right_y": 944,
+        "content": "The man whose name I always forget is coming to tea, or",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998854937505865,
+          "minimum_content_confidence_score": 0.9867702840955463,
+          "block_type_confidence_score": 0.9999862911193472
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 85,
+        "top_left_y": 961,
+        "bottom_right_x": 140,
+        "bottom_right_y": 976,
+        "content": "L.R.S.—8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7345992010369754,
+          "minimum_content_confidence_score": 0.7345992010369754,
+          "block_type_confidence_score": 0.999977772835121
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

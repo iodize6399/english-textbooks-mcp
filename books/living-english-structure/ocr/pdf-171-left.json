@@ -1,0 +1,1227 @@
+{
+  "source": {
+    "id": "pdf-171-left",
+    "pdf_page": 171,
+    "side": "left",
+    "reading_order": 341
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:48.625177+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "Numbers refer to exercises.\n\nbarely any 1.3\n\nbarracks 1.8\n\nbear (v.)\n\nwon't — —ing 39.4\n\nbecause §58\n\nbed 1.8\n\nbefore-clauses 28.17 §58\n\nbeen to 23.6\n\nbegin 39.4\n\nbelieve 21.10\n\n— so 34.1-2\n\nbelong to 21.10\n\nbe 14.1-3\n\n(for am/is/etc. to see am to)\n\n— in continuous tenses 21.10\n\nbesides wh — 46.10\n\nbetter\n\nhad — 14.1-3 32.3\n\nbetween 6.3\n\nbeyond wh— 46.10\n\nblazes (What the blazes? etc.) 49.1\n\nboth 6.4\n\nbut\n\n— + pronoun 6.4\n\ncontrary addition using —\n\n19.14-16\n\ndisagreement using — 19.7\n\n19.9\n\nby + agent avoided in passive\n\nvoice 52.3 & note following\n\n52.5\n\ncan\n\n— in reported speech 51.6\n\nexpression of — in future 28.3\n\n28.16 31.6\n\nexpression of — in past 28.16\n\ncan & could 14.1-3 17.1-2\n\n(ability) 19.16\n\ncould & was able to 17.2\n\ncould in conditionals 31.11\n\n(permission) 19.16\n\ncan't 14.1-3\n\ncanvas, under 1.8\n\ncare 21.10\n\ndon't — (for) §58\n\ncase\n\nin — §58\n\nCausative use of have 15.1\n\nCause\n\nadverb clause of — §58\n\nand effect 31.11\n\ncease 39.4\n\ncertainly 53.6\n\nchoose as future substitute\n\n28.14-15\n\nchurch 1.8\n\nClauses\n\nadverb & noun — §58\n\ncollege 1.8\n\ncommand (v.) 51.1\n\nComparison game 55.1-3\n\nComparisons with than or as\n\n13.1-2\n\nCompound verbs 56.1-4\n\nConcession\n\nadverb clause of — §58\n\nConditions 31.1-11\n\n3 main types of — 31.1-2\n\ndoubtful — 31.11\n\nConnective, emphatic 48.1\n\n— relative 46.9\n\nconsider + —ing 39.4\n\nconsist of 21.10\n\nContact clauses 46.1\n\ncontain 21.10\n\ncontinue 39.4\n\nContinuous tenses\n\nverbs rarely used in — 21.9-10\n\nContrary addition (But I can't etc.)\n\n19.14-16\n\nContrast\n\nadverb clause of — §58\n\ncould: see can & could\n\nCountable nouns 1.1-8\n\ndare 14.1-3 25.2 32.2\n\ndaren't 14.1-3\n\ndeal\n\na great — of 53.1",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "330\nIndex",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9785006329632052,
+      "minimum_page_confidence_score": 0.21774110493410617
+    },
+    "blocks": [
+      {
+        "top_left_x": 30,
+        "top_left_y": 24,
+        "bottom_right_x": 63,
+        "bottom_right_y": 44,
+        "content": "330",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998373057981433,
+          "minimum_content_confidence_score": 0.9998373057981433,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 160,
+        "top_left_y": 24,
+        "bottom_right_x": 209,
+        "bottom_right_y": 44,
+        "content": "Index",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999960661089133,
+          "minimum_content_confidence_score": 0.9999960661089133,
+          "block_type_confidence_score": 0.9992117276984115
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 79,
+        "bottom_right_x": 243,
+        "bottom_right_y": 101,
+        "content": "Numbers refer to exercises.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997941804737522,
+          "minimum_content_confidence_score": 0.999422526257092,
+          "block_type_confidence_score": 0.6174942845051858
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 118,
+        "bottom_right_x": 155,
+        "bottom_right_y": 139,
+        "content": "barely any 1.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997714270897443,
+          "minimum_content_confidence_score": 0.9996693036288008,
+          "block_type_confidence_score": 0.5925320596014588
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 139,
+        "bottom_right_x": 142,
+        "bottom_right_y": 160,
+        "content": "barracks 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998905067351447,
+          "minimum_content_confidence_score": 0.9997886129970146,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 160,
+        "bottom_right_x": 100,
+        "bottom_right_y": 179,
+        "content": "bear (v.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996138377410123,
+          "minimum_content_confidence_score": 0.9993862533119118,
+          "block_type_confidence_score": 0.9999810460826691
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 179,
+        "bottom_right_x": 219,
+        "bottom_right_y": 199,
+        "content": "won't — —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970050154406073,
+          "minimum_content_confidence_score": 0.9940201469262193,
+          "block_type_confidence_score": 0.9982859715346704
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 199,
+        "bottom_right_x": 136,
+        "bottom_right_y": 219,
+        "content": "because §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991565039829783,
+          "minimum_content_confidence_score": 0.9985014423434119,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 219,
+        "bottom_right_x": 103,
+        "bottom_right_y": 238,
+        "content": "bed 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999663844869707,
+          "minimum_content_confidence_score": 0.9999493386194785,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 238,
+        "bottom_right_x": 237,
+        "bottom_right_y": 259,
+        "content": "before-clauses 28.17 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995525701047133,
+          "minimum_content_confidence_score": 0.998855833151257,
+          "block_type_confidence_score": 0.9999833109787883
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 259,
+        "bottom_right_x": 140,
+        "bottom_right_y": 278,
+        "content": "been to 23.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999620071417391,
+          "minimum_content_confidence_score": 0.9999042841054026,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 278,
+        "bottom_right_x": 126,
+        "bottom_right_y": 298,
+        "content": "begin 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999011489191116,
+          "minimum_content_confidence_score": 0.9998468801255272,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 298,
+        "bottom_right_x": 146,
+        "bottom_right_y": 317,
+        "content": "believe 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999799052818136,
+          "minimum_content_confidence_score": 0.9999722080283976,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 317,
+        "bottom_right_x": 163,
+        "bottom_right_y": 338,
+        "content": "— so 34.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993745383160291,
+          "minimum_content_confidence_score": 0.9985541774513167,
+          "block_type_confidence_score": 0.9999743706604208
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 338,
+        "bottom_right_x": 165,
+        "bottom_right_y": 357,
+        "content": "belong to 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999990549536892,
+          "minimum_content_confidence_score": 0.9999776487922183,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 357,
+        "bottom_right_x": 119,
+        "bottom_right_y": 376,
+        "content": "be 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999318116591189,
+          "minimum_content_confidence_score": 0.9998752034468528,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 376,
+        "bottom_right_x": 271,
+        "bottom_right_y": 397,
+        "content": "(for am/is/etc. to see am to)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987893195018117,
+          "minimum_content_confidence_score": 0.9932647300438318,
+          "block_type_confidence_score": 0.9999550601190241
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 397,
+        "bottom_right_x": 299,
+        "bottom_right_y": 416,
+        "content": "— in continuous tenses 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999090068589096,
+          "minimum_content_confidence_score": 0.9997033548443417,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 416,
+        "bottom_right_x": 201,
+        "bottom_right_y": 437,
+        "content": "besides wh — 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987156627259515,
+          "minimum_content_confidence_score": 0.9973482067860869,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 437,
+        "bottom_right_x": 81,
+        "bottom_right_y": 455,
+        "content": "better",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998786596688399,
+          "minimum_content_confidence_score": 0.9998786596688399,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 455,
+        "bottom_right_x": 215,
+        "bottom_right_y": 476,
+        "content": "had — 14.1-3 32.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998883189131816,
+          "minimum_content_confidence_score": 0.9997983385620595,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 476,
+        "bottom_right_x": 138,
+        "bottom_right_y": 495,
+        "content": "between 6.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997975271927269,
+          "minimum_content_confidence_score": 0.9996498857333799,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 495,
+        "bottom_right_x": 198,
+        "bottom_right_y": 516,
+        "content": "beyond wh— 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.96249909809807,
+          "minimum_content_confidence_score": 0.8875538760417332,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 516,
+        "bottom_right_x": 312,
+        "bottom_right_y": 535,
+        "content": "blazes (What the blazes? etc.) 49.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9943136970051075,
+          "minimum_content_confidence_score": 0.9684696468024253,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 535,
+        "bottom_right_x": 112,
+        "bottom_right_y": 554,
+        "content": "both 6.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999542263891192,
+          "minimum_content_confidence_score": 0.9999421868356455,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 554,
+        "bottom_right_x": 61,
+        "bottom_right_y": 574,
+        "content": "but",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999977350747961,
+          "minimum_content_confidence_score": 0.999977350747961,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 574,
+        "bottom_right_x": 213,
+        "bottom_right_y": 594,
+        "content": "— + pronoun 6.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998536946294794,
+          "minimum_content_confidence_score": 0.9995445895813118,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 594,
+        "bottom_right_x": 260,
+        "bottom_right_y": 615,
+        "content": "contrary addition using —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986955373215709,
+          "minimum_content_confidence_score": 0.9950755162265428,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 68,
+        "top_left_y": 615,
+        "bottom_right_x": 138,
+        "bottom_right_y": 633,
+        "content": "19.14-16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996154555271337,
+          "minimum_content_confidence_score": 0.9996154555271337,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 633,
+        "bottom_right_x": 276,
+        "bottom_right_y": 654,
+        "content": "disagreement using — 19.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998827854411652,
+          "minimum_content_confidence_score": 0.9997550286936099,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 68,
+        "top_left_y": 654,
+        "bottom_right_x": 105,
+        "bottom_right_y": 673,
+        "content": "19.9",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999558052048121,
+          "minimum_content_confidence_score": 0.9999558052048121,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 673,
+        "bottom_right_x": 271,
+        "bottom_right_y": 694,
+        "content": "by + agent avoided in passive",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998435269063871,
+          "minimum_content_confidence_score": 0.9993974027724509,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 694,
+        "bottom_right_x": 283,
+        "bottom_right_y": 713,
+        "content": "voice 52.3 & note following",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998783111595898,
+          "minimum_content_confidence_score": 0.9997324467414286,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 713,
+        "bottom_right_x": 87,
+        "bottom_right_y": 732,
+        "content": "52.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999387910693371,
+          "minimum_content_confidence_score": 0.9999387910693371,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 754,
+        "bottom_right_x": 63,
+        "bottom_right_y": 772,
+        "content": "can",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999926930045521,
+          "minimum_content_confidence_score": 0.999926930045521,
+          "block_type_confidence_score": 0.9999850990607846
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 772,
+        "bottom_right_x": 276,
+        "bottom_right_y": 793,
+        "content": "— in reported speech 51.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749909969833,
+          "minimum_content_confidence_score": 0.9999362271009362,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 793,
+        "bottom_right_x": 301,
+        "bottom_right_y": 813,
+        "content": "expression of — in future 28.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999392238058485,
+          "minimum_content_confidence_score": 0.9998152597371771,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 68,
+        "top_left_y": 813,
+        "bottom_right_x": 155,
+        "bottom_right_y": 832,
+        "content": "28.16 31.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998861927531908,
+          "minimum_content_confidence_score": 0.9998408260401299,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 832,
+        "bottom_right_x": 297,
+        "bottom_right_y": 852,
+        "content": "expression of — in past 28.16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999567991846599,
+          "minimum_content_confidence_score": 0.9998282489203051,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 852,
+        "bottom_right_x": 249,
+        "bottom_right_y": 872,
+        "content": "can & could 14.1-3 17.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999097282889606,
+          "minimum_content_confidence_score": 0.9996085507795613,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 872,
+        "bottom_right_x": 175,
+        "bottom_right_y": 892,
+        "content": "(ability) 19.16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999095881949587,
+          "minimum_content_confidence_score": 0.9998542487958969,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 892,
+        "bottom_right_x": 254,
+        "bottom_right_y": 912,
+        "content": "could & was able to 17.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999868437193813,
+          "minimum_content_confidence_score": 0.9999505305908489,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 912,
+        "bottom_right_x": 273,
+        "bottom_right_y": 932,
+        "content": "could in conditionals 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995942496318084,
+          "minimum_content_confidence_score": 0.9985188604302971,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 932,
+        "bottom_right_x": 210,
+        "bottom_right_y": 952,
+        "content": "(permission) 19.16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998312395965332,
+          "minimum_content_confidence_score": 0.9996688766864975,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 952,
+        "bottom_right_x": 138,
+        "bottom_right_y": 972,
+        "content": "can't 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999548109462546,
+          "minimum_content_confidence_score": 0.9999327469415609,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 972,
+        "bottom_right_x": 179,
+        "bottom_right_y": 992,
+        "content": "canvas, under 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999580069579873,
+          "minimum_content_confidence_score": 0.9998922298928955,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 79,
+        "bottom_right_x": 429,
+        "bottom_right_y": 101,
+        "content": "care 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999658582741242,
+          "minimum_content_confidence_score": 0.9999426636198856,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 101,
+        "bottom_right_x": 499,
+        "bottom_right_y": 121,
+        "content": "don't — (for) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940922223177338,
+          "minimum_content_confidence_score": 0.9816165696107761,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 121,
+        "bottom_right_x": 370,
+        "bottom_right_y": 139,
+        "content": "case",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749666753994,
+          "minimum_content_confidence_score": 0.9999749666753994,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 139,
+        "bottom_right_x": 440,
+        "bottom_right_y": 160,
+        "content": "in — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997109092318687,
+          "minimum_content_confidence_score": 0.9993684706488185,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 160,
+        "bottom_right_x": 552,
+        "bottom_right_y": 180,
+        "content": "Causative use of have 15.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997822572994202,
+          "minimum_content_confidence_score": 0.9893681301640139,
+          "block_type_confidence_score": 0.9999961853172863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 180,
+        "bottom_right_x": 384,
+        "bottom_right_y": 199,
+        "content": "Cause",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999326512895288,
+          "minimum_content_confidence_score": 0.9999326512895288,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 199,
+        "bottom_right_x": 552,
+        "bottom_right_y": 219,
+        "content": "adverb clause of — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998363320130087,
+          "minimum_content_confidence_score": 0.9995703024324037,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 219,
+        "bottom_right_x": 487,
+        "bottom_right_y": 238,
+        "content": "and effect 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999728943542324,
+          "minimum_content_confidence_score": 0.9999440939703319,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 238,
+        "bottom_right_x": 427,
+        "bottom_right_y": 259,
+        "content": "cease 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999493664697838,
+          "minimum_content_confidence_score": 0.9999029052442883,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 259,
+        "bottom_right_x": 453,
+        "bottom_right_y": 278,
+        "content": "certainly 53.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999727020734117,
+          "minimum_content_confidence_score": 0.9999595897400695,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 278,
+        "bottom_right_x": 541,
+        "bottom_right_y": 298,
+        "content": "choose as future substitute",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999715401637921,
+          "minimum_content_confidence_score": 0.9999376574276245,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 298,
+        "bottom_right_x": 420,
+        "bottom_right_y": 317,
+        "content": "28.14-15",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999839070336133,
+          "minimum_content_confidence_score": 0.9999839070336133,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 317,
+        "bottom_right_x": 429,
+        "bottom_right_y": 338,
+        "content": "church 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999933342747278,
+          "minimum_content_confidence_score": 0.9999920925259861,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 338,
+        "bottom_right_x": 396,
+        "bottom_right_y": 357,
+        "content": "Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999741493057623,
+          "minimum_content_confidence_score": 0.9999741493057623,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 357,
+        "bottom_right_x": 545,
+        "bottom_right_y": 376,
+        "content": "adverb & noun — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999952264046944,
+          "minimum_content_confidence_score": 0.9999180712714739,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 376,
+        "bottom_right_x": 431,
+        "bottom_right_y": 397,
+        "content": "college 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999253552735401,
+          "minimum_content_confidence_score": 0.9998582802387399,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 397,
+        "bottom_right_x": 487,
+        "bottom_right_y": 416,
+        "content": "command (v.) 51.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997729117173811,
+          "minimum_content_confidence_score": 0.9993806973540923,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 416,
+        "bottom_right_x": 545,
+        "bottom_right_y": 437,
+        "content": "Comparison game 55.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999740251082221,
+          "minimum_content_confidence_score": 0.999936823065897,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 437,
+        "bottom_right_x": 561,
+        "bottom_right_y": 455,
+        "content": "Comparisons with than or as",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9961760485120047,
+          "minimum_content_confidence_score": 0.9818377861781736,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 455,
+        "bottom_right_x": 403,
+        "bottom_right_y": 476,
+        "content": "13.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999681327904448,
+          "minimum_content_confidence_score": 0.9999681327904448,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 476,
+        "bottom_right_x": 536,
+        "bottom_right_y": 495,
+        "content": "Compound verbs 56.1-4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999883403902768,
+          "minimum_content_confidence_score": 0.9999799732399826,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 495,
+        "bottom_right_x": 426,
+        "bottom_right_y": 516,
+        "content": "Concession",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996456453616843,
+          "minimum_content_confidence_score": 0.9996456453616843,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 516,
+        "bottom_right_x": 552,
+        "bottom_right_y": 535,
+        "content": "adverb clause of — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999760958132994,
+          "minimum_content_confidence_score": 0.999955895463657,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 535,
+        "bottom_right_x": 496,
+        "bottom_right_y": 554,
+        "content": "Conditions 31.1-11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997771652346317,
+          "minimum_content_confidence_score": 0.9996073596194983,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 554,
+        "bottom_right_x": 568,
+        "bottom_right_y": 574,
+        "content": "3 main types of — 31.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998463441826823,
+          "minimum_content_confidence_score": 0.9992296674167761,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 574,
+        "bottom_right_x": 508,
+        "bottom_right_y": 594,
+        "content": "doubtful — 31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998684283228799,
+          "minimum_content_confidence_score": 0.9997404295638306,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 594,
+        "bottom_right_x": 554,
+        "bottom_right_y": 615,
+        "content": "Connective, emphatic 48.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998907522067234,
+          "minimum_content_confidence_score": 0.9998082594437322,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 615,
+        "bottom_right_x": 485,
+        "bottom_right_y": 633,
+        "content": "— relative 46.9",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999521133826003,
+          "minimum_content_confidence_score": 0.9998997550400364,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 633,
+        "bottom_right_x": 519,
+        "bottom_right_y": 654,
+        "content": "consider + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987732445292092,
+          "minimum_content_confidence_score": 0.9962132781546149,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 654,
+        "bottom_right_x": 468,
+        "bottom_right_y": 673,
+        "content": "consist of 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998557817031277,
+          "minimum_content_confidence_score": 0.9996424534745951,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 673,
+        "bottom_right_x": 506,
+        "bottom_right_y": 694,
+        "content": "Contact clauses 46.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999905030968265,
+          "minimum_content_confidence_score": 0.999985933501902,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 694,
+        "bottom_right_x": 451,
+        "bottom_right_y": 713,
+        "content": "contain 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998457401062146,
+          "minimum_content_confidence_score": 0.9996947981882445,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 713,
+        "bottom_right_x": 451,
+        "bottom_right_y": 732,
+        "content": "continue 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927998298876,
+          "minimum_content_confidence_score": 0.9999885560391694,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 732,
+        "bottom_right_x": 479,
+        "bottom_right_y": 754,
+        "content": "Continuous tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999634055214303,
+          "minimum_content_confidence_score": 0.9999476722116466,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 754,
+        "bottom_right_x": 608,
+        "bottom_right_y": 772,
+        "content": "verbs rarely used in — 21.9-10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999498363877709,
+          "minimum_content_confidence_score": 0.999733707716019,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 772,
+        "bottom_right_x": 608,
+        "bottom_right_y": 793,
+        "content": "Contrary addition (But I can't etc.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998196677306449,
+          "minimum_content_confidence_score": 0.9994298540227203,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 793,
+        "bottom_right_x": 420,
+        "bottom_right_y": 813,
+        "content": "19.14-16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999659074695408,
+          "minimum_content_confidence_score": 0.9999659074695408,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 813,
+        "bottom_right_x": 406,
+        "bottom_right_y": 832,
+        "content": "Contrast",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997906642099426,
+          "minimum_content_confidence_score": 0.9997906642099426,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 832,
+        "bottom_right_x": 552,
+        "bottom_right_y": 852,
+        "content": "adverb clause of — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999860413032732,
+          "minimum_content_confidence_score": 0.999953511668976,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 852,
+        "bottom_right_x": 509,
+        "bottom_right_y": 872,
+        "content": "could: see can & could",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995935387220557,
+          "minimum_content_confidence_score": 0.9980357600065892,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 872,
+        "bottom_right_x": 526,
+        "bottom_right_y": 892,
+        "content": "Countable nouns 1.1-8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992233947525212,
+          "minimum_content_confidence_score": 0.9977648486194571,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 912,
+        "bottom_right_x": 519,
+        "bottom_right_y": 932,
+        "content": "dare 14.1-3 25.2 32.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999851037985666,
+          "minimum_content_confidence_score": 0.9999643586596669,
+          "block_type_confidence_score": 0.9999966621509202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 932,
+        "bottom_right_x": 454,
+        "bottom_right_y": 952,
+        "content": "daren't 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994341319715747,
+          "minimum_content_confidence_score": 0.9988702394058682,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 952,
+        "bottom_right_x": 370,
+        "bottom_right_y": 972,
+        "content": "deal",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999935869517765,
+          "minimum_content_confidence_score": 0.999935869517765,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 972,
+        "bottom_right_x": 499,
+        "bottom_right_y": 992,
+        "content": "a great — of 53.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999473086368269,
+          "minimum_content_confidence_score": 0.999896417854762,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

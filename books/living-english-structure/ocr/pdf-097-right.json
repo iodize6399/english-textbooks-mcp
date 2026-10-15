@@ -1,0 +1,240 @@
+{
+  "source": {
+    "id": "pdf-097-right",
+    "pdf_page": 97,
+    "side": "right",
+    "reading_order": 194
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "LIST 3. GERUNDS WITH MEANING OF PASSIVE INFINITIVE\nThe OBJECT of the gerund is the SUBJECT of the main verb, e.g.\n\nYour hair needs cutting. (. . . needs to be cut).\n\n|  *deserve* | *want*  |\n| --- | --- |\n|  *merit* | *won't/doesn't/didn't bear*  |\n|  *need* | *won't/doesn't/didn't stand*  |\n\n(His success) is past hoping (praying) for\n(It's an idea) worth carrying out.\n\nMy shoes want mending.\n\nHis opinions won't bear repeating in public.\n\nHis brave action certainly deserves rewarding.\n\n* * *\n\n(39.4)\n\n● Complete the following sentences, using gerunds:\nEXAMPLE\n\nDo you mind (I, smoke) a pipe?\n\nANSWER: Do you mind my (or me) smoking a pipe?\n\n1 I can't help (feel) anxious about the political situation.\n2 I don't like (she, read) my letters.\n3 I think most people prefer (ride) to (walk).\n4 She loves (swim) in the sea.\n5 I can't understand (he, forget) to answer my letter.\n6 There's no (deny) that he enjoys (listen) to his own voice.\n7 Don't keep on (shout) like that; we must avoid (annoy) our neighbours.\n8 I enjoy (rest) in the afternoon after (try) to finish (do) my homework.\n9 Do you mind (I, see) your photos again?\n10 I can't understand (he, be) in love with a bad-tempered girl like Maisie.\n11 She likes (begin) pieces of knitting but hates (finish) them.\n12 I'm sure the librarian will remember (I, return) the dictionary last week.\n13 It won't be any use (you, try) to borrow any more money.\n14 I remember (he, ask) for this book last Friday.\n15 I dread (take) examinations for fear of (fail).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "39 -ing form - Gerund and Present Participle\n183",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.972483997940299,
+      "minimum_page_confidence_score": 0.17413107171694098
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 20,
+        "bottom_right_x": 518,
+        "bottom_right_y": 41,
+        "content": "39 -ing form - Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9684550837292736,
+          "minimum_content_confidence_score": 0.753391397482439,
+          "block_type_confidence_score": 0.9999817890136772
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 618,
+        "top_left_y": 20,
+        "bottom_right_x": 651,
+        "bottom_right_y": 39,
+        "content": "183",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999311017761935,
+          "minimum_content_confidence_score": 0.9999311017761935,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 78,
+        "bottom_right_x": 651,
+        "bottom_right_y": 137,
+        "content": "LIST 3. GERUNDS WITH MEANING OF PASSIVE INFINITIVE\nThe OBJECT of the gerund is the SUBJECT of the main verb, e.g.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9931218535225844,
+          "minimum_content_confidence_score": 0.8908671052107925,
+          "block_type_confidence_score": 0.9314118405182652
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 141,
+        "bottom_right_x": 581,
+        "bottom_right_y": 161,
+        "content": "Your hair needs cutting. (. . . needs to be cut).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.987112876071129,
+          "minimum_content_confidence_score": 0.8716953865242827,
+          "block_type_confidence_score": 0.9995148152963348
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 233,
+        "top_left_y": 167,
+        "bottom_right_x": 613,
+        "bottom_right_y": 227,
+        "content": "|  *deserve* | *want*  |\n| --- | --- |\n|  *merit* | *won't/doesn't/didn't bear*  |\n|  *need* | *won't/doesn't/didn't stand*  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970278555764903,
+          "minimum_content_confidence_score": 0.9911265389949072,
+          "block_type_confidence_score": 0.8416061189790084
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 270,
+        "top_left_y": 227,
+        "bottom_right_x": 605,
+        "bottom_right_y": 267,
+        "content": "(His success) is past hoping (praying) for\n(It's an idea) worth carrying out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957899325451426,
+          "minimum_content_confidence_score": 0.9810476683088023,
+          "block_type_confidence_score": 0.9996787150086466
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 267,
+        "bottom_right_x": 422,
+        "bottom_right_y": 286,
+        "content": "My shoes want mending.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999766999338307,
+          "minimum_content_confidence_score": 0.999152035178135,
+          "block_type_confidence_score": 0.9998881941871848
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 286,
+        "bottom_right_x": 583,
+        "bottom_right_y": 307,
+        "content": "His opinions won't bear repeating in public.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999987338595209,
+          "minimum_content_confidence_score": 0.9999716295680294,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 307,
+        "bottom_right_x": 598,
+        "bottom_right_y": 326,
+        "content": "His brave action certainly deserves rewarding.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999773338392258,
+          "minimum_content_confidence_score": 0.9999022688607453,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 359,
+        "top_left_y": 340,
+        "bottom_right_x": 465,
+        "bottom_right_y": 353,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979248525590112,
+          "minimum_content_confidence_score": 0.9963266384814647,
+          "block_type_confidence_score": 0.9999940395710211
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 364,
+        "bottom_right_x": 100,
+        "bottom_right_y": 386,
+        "content": "(39.4)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998848224077423,
+          "minimum_content_confidence_score": 0.9998848224077423,
+          "block_type_confidence_score": 0.9961808709501826
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 364,
+        "bottom_right_x": 587,
+        "bottom_right_y": 404,
+        "content": "● Complete the following sentences, using gerunds:\nEXAMPLE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944963564751915,
+          "minimum_content_confidence_score": 0.9568708164205312,
+          "block_type_confidence_score": 0.8802386151663241
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 408,
+        "bottom_right_x": 468,
+        "bottom_right_y": 429,
+        "content": "Do you mind (I, smoke) a pipe?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999695453982336,
+          "minimum_content_confidence_score": 0.9998872076617598,
+          "block_type_confidence_score": 0.999897252153674
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 429,
+        "bottom_right_x": 635,
+        "bottom_right_y": 449,
+        "content": "ANSWER: Do you mind my (or me) smoking a pipe?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979143263612983,
+          "minimum_content_confidence_score": 0.980960164393349,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 451,
+        "bottom_right_x": 647,
+        "bottom_right_y": 975,
+        "content": "1 I can't help (feel) anxious about the political situation.\n2 I don't like (she, read) my letters.\n3 I think most people prefer (ride) to (walk).\n4 She loves (swim) in the sea.\n5 I can't understand (he, forget) to answer my letter.\n6 There's no (deny) that he enjoys (listen) to his own voice.\n7 Don't keep on (shout) like that; we must avoid (annoy) our neighbours.\n8 I enjoy (rest) in the afternoon after (try) to finish (do) my homework.\n9 Do you mind (I, see) your photos again?\n10 I can't understand (he, be) in love with a bad-tempered girl like Maisie.\n11 She likes (begin) pieces of knitting but hates (finish) them.\n12 I'm sure the librarian will remember (I, return) the dictionary last week.\n13 It won't be any use (you, try) to borrow any more money.\n14 I remember (he, ask) for this book last Friday.\n15 I dread (take) examinations for fear of (fail).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997655118433886,
+          "minimum_content_confidence_score": 0.9701889762983843,
+          "block_type_confidence_score": 0.9993307304298616
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

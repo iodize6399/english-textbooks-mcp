@@ -1,0 +1,120 @@
+{
+  "source": {
+    "id": "pdf-002-right",
+    "pdf_page": 2,
+    "side": "right",
+    "reading_order": 4
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "# Living English Structure\n\nA practice book for foreign students by\n\nW. Stannard Allen\n\n![img-1.jpeg](img-1.jpeg)\n\nLongman",
+    "images": [
+      {
+        "id": "img-1.jpeg",
+        "top_left_x": 259,
+        "top_left_y": 801,
+        "bottom_right_x": 330,
+        "bottom_right_y": 880,
+        "image_base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABPAEcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+ovOj3sueV4YgcDjPJ+lSNgjt+NfLPxF8T6v4S+M2s3WiX8sDZhLpvLo+YUJDKeD/SgD6lzxnrXk/wASvizfeAvFFppsemRXVvJaidndmU5LOu0cYOAq/nUHw5+Mdz4pni0y/wBHuGvCQHuLVC0f1Yfw/rXE/tITq3i/SoOdyWG8/QyNj+VAGqn7SblTv8PKDjjbP/8AWrqvAXxibxv4l/spdKNsvlNIZPM3dMY4x6mvmQaTqPlecdPuvKC7i/ktjb65x0r1v9nCCQ+MdUuAhMa6eUZscAmRCB+OD+RoA+lVdcqCeWHGRin14f8AFX4la/4I8e2ttYvDPp8lhHK9rPECpYu4JDYyDhQOpFWtB/aB0S/8mDVLO6sp3cKdiiRCSRjnjA/CgD2aio43Eihx91hkZ7jtRQBj+JfFWl+E7GO91iV4bZ5REHVCwBIJGcdBxXld1/wqPxJ4tu/Eep66l1NcFB9nmLxxjaiqMjaM/d9e9a37Qp/4t9COeb1On0NfLdAH2j4c8U+DLi5TR/Dt9YeZj5ba1TaMKOowADgUzWbTwZB4wg1rXLvTotXitVjgW9uETZHvchlVj1yWGa+ePgZEkvxRsQ/aGYjkjnYauftAXAn+JZQKB5NnFHkHr95vw+9QB9Ft4x8LFSD4k0Yr3H26L/4qsnwxofgyPxbqGueG72zkvJ4fKuIbK4R41BbcW2rnBJA9uK+N8V7n+zWv/E315sHPkRjOOPvHvQB3XjT4d+HPGHjGPVNX1yOCOC2W3a2ikRGJDM2STnH3vStfSPDfw78LW6NaxaJGyEH7TcyxySZ9d7nI/D8q+aPibMJ/iTr7q6sPtjrlSSOOP6VyYJB70Afd+n6lZ6nALmxuoLuAnHmW8qyLn0yvHp+dFeZfs9wSW3w4nlYDbPqMrrnjChEX+amigCz8bdG1XxDoOkaVpNu00txfAPxwqhGOWboBkCuWsv2boWtIzfeIJFuSvzrDACin0BJzXZ/GHxrq3gnQLC90gwCae68pvOTdgbSeBkeleSWv7Q3i6Jv39tps646eUyn891AHU+BvhVrfgf4o2F1KVu9NMUwFzED8mUIAYdQaZ8Qfhnrvjj4pXctmi29gsEKtdzE7c7ew6n/61afw0+LWv+OPFi6Xc2VjDbLC8sjxht3GMYyfUipfH/xqu/Bni+40aDSba7jijRi7TlWBYZwQAf8AJoA5y4/ZuvFtibfX4XmxwrwkAn654rU+BvhvUvC3ivxHYaravDOkEe04Ox13HlT3rI/4aV1A/wDMt2v/AIEt/wDE133wt+J118QLvUo7jTIrT7LHGymKQtu3FuDkew/WgDyK7+GPiXxt431680+2SOxOoTYurj92rfOeg6mm698CPFejWT3dubfUUjGXS3J349lI5/Cu01L9oWTS9ev7E6CkkNvO8aSLMQzAHqRjg1Ef2kkYEL4dbOOP3/f8qAOs+BEJX4YRK2c/a5gRnBX5hxxRXQ/DrxHD4q8Kx6va6XHp6TTSB4UxhmDctkAZye+OTmigDg/2kc/8IppH3sC+OcdB+7avm0A5r7F+IPw+Tx7JpEdxcJBb2krvKypmRlIHyqew45/D0qS1+E/ga1svsq+HrWRSMM8u536YyGJJH4YoA8P/AGexn4hSnj/jzfjPuKwfjNn/AIWvreW3fNH/AOi1r3/wz8K7Dwh41Os6PM6WUlq0L20jFirZGCD3HB61n6h8GdP8Q+O9S1/XZzLbXDoYrWBiuQFCnceo6DpQB8qjrX0H+zTj7J4kyeQ9tx+Eldve/BTwLdWxji0drVwMCWG4k3D/AL6Yg/jUfww+H134Bvdet5J1uLO6aFrWUHDEKHzkdMjcKAPl7xPk+KNVLEk/a5c5GP4jWUOvSvorS/gEmo6pe6j4jvZEE9w8kcFqQCAWzySCPyqx4h/Z40eSxlk0C8uYLwAlY7hw8be3QEfmaAOl+B9usPwu0uRWY+a0ztufOD5hHHthf50Vd+FGmX2jfD7T9O1Wznt7qF5MrKdxOXYgjHQY7f40UAdH4pjml8K6qtvJJHN9lkKPG5VgQpPBHIr4+T4g+MrdTGPE+rcZHzXbtj8STX2hfwfatOubfOPNiZM/UEV8JXVrJDJJkfKGYZ47HFAHSxfE/wAbQSF18SXpYgg72D8Zz/Fmra/GLx8rZHiKYnjrBEf5rXC1JDC8xfYudil25xgCgDvR8afH/llP7d5JB3G2iB/9BpbT41+PLVmJ1kThh0mgjOPyArgZYniIDjBP+OP5g1Pp2m3eqXX2ayi82YjIXcF4yB1JA70Aeg/8L38df8/tr/4DLWp4f+K/xK8TaxDpemz28s8pH/LquEGeWPoBVbw18CPEeryxy6nJb6dZn7zbxLJ7YVeP1r6C8HeCdF8Fad9k0m3w7gGa5fBklPufT2HAycdTQBt6bHdw6dbR38yTXgjUTSIu1XfHJA7c0VaFFAH/2Q==",
+        "image_annotation": null
+      }
+    ],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 32,
+      "height": 1018,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9396932174017639,
+      "minimum_page_confidence_score": 0.2475110140756858
+    },
+    "blocks": [
+      {
+        "top_left_x": 264,
+        "top_left_y": 91,
+        "bottom_right_x": 528,
+        "bottom_right_y": 121,
+        "content": "# Living English Structure",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9851999375213658,
+          "minimum_content_confidence_score": 0.9579122415395819,
+          "block_type_confidence_score": 0.9993262065436307
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 264,
+        "top_left_y": 165,
+        "bottom_right_x": 571,
+        "bottom_right_y": 187,
+        "content": "A practice book for foreign students by",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999895438913489,
+          "minimum_content_confidence_score": 0.9999660265080288,
+          "block_type_confidence_score": 0.9999431404007152
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 264,
+        "top_left_y": 194,
+        "bottom_right_x": 464,
+        "bottom_right_y": 220,
+        "content": "W. Stannard Allen",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990512171250803,
+          "minimum_content_confidence_score": 0.9974651957089432,
+          "block_type_confidence_score": 0.9968163128734774
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 259,
+        "top_left_y": 801,
+        "bottom_right_x": 330,
+        "bottom_right_y": 880,
+        "content": "![img-1.jpeg](img-1.jpeg)",
+        "confidence_scores": {
+          "average_content_confidence_score": null,
+          "minimum_content_confidence_score": null,
+          "block_type_confidence_score": 0.8136512754196001
+        },
+        "type": "image",
+        "image_id": "img-1.jpeg"
+      },
+      {
+        "top_left_x": 259,
+        "top_left_y": 883,
+        "bottom_right_x": 333,
+        "bottom_right_y": 902,
+        "content": "Longman",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999573078907369,
+          "minimum_content_confidence_score": 0.9999573078907369,
+          "block_type_confidence_score": 0.47480413825212575
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-073-right",
+    "pdf_page": 73,
+    "side": "right",
+    "reading_order": 146
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "- ● Supply a suitable tense of the verb in brackets:\n- 1 He says he will make up the story as he (go) along.\n- 2 I shall ask you to do this when your friend (leave).\n- 3 I told the gatekeeper that we wanted to stay in the park until he (shut) the gates.\n- 4 Don't leave the house until you (wash) your face.\n- 5 After he (go) will you come and see me?\n- 6 I shan't know whether I've passed or not till I (see) the result printed in the paper.\n- 7 I know I ought to finish reading the book while I still (have) time.\n- 8 As soon as the ship (reach) port, its dangerous cargo will be unloaded.\n- 9 She said she would go on knitting as long as she (sit) in the deck-chair.\n- 10 I'll pay for the apples on the day you (deliver) them.\n- 11 How can I say what he is like until I (see) him?\n- 12 Obviously I shouldn't dream of asking you before I (have) to.\n- 13 After the game (be) over, let's go home together.\n- 14 If I really liked my job, I should work till my eyes (drop) out.\n- 15 I shall have done a lot of work while he (be) asleep.\n- 16 Will you please give me the football back again as soon as the game (be) over?\n- 17 If I were you, I should do it when the opportunity (arise).\n- 18 John says he will wait under the clock until Rosemary (come).\n- 19 If the plane (arrive) after the fog (clear), it will be able to land.\n- 20 We shall try to persuade him to do it before it (be) too late.\n- 21 I know that if I told my father all about it as soon as he (come) in, he would be on my side.\n- 22 Profiteers will continue to make lots of money while the war (last).\n- 23 I shall not speak to him until you (introduce) him to me.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n135",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9881800770839134,
+      "minimum_page_confidence_score": 0.25530761900683063
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 17,
+        "bottom_right_x": 432,
+        "bottom_right_y": 37,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999451787926174,
+          "minimum_content_confidence_score": 0.9997000402096589,
+          "block_type_confidence_score": 0.9998232162653818
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 625,
+        "top_left_y": 17,
+        "bottom_right_x": 659,
+        "bottom_right_y": 37,
+        "content": "135",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998483887738482,
+          "minimum_content_confidence_score": 0.9998483887738482,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 72,
+        "bottom_right_x": 657,
+        "bottom_right_y": 989,
+        "content": "- ● Supply a suitable tense of the verb in brackets:\n- 1 He says he will make up the story as he (go) along.\n- 2 I shall ask you to do this when your friend (leave).\n- 3 I told the gatekeeper that we wanted to stay in the park until he (shut) the gates.\n- 4 Don't leave the house until you (wash) your face.\n- 5 After he (go) will you come and see me?\n- 6 I shan't know whether I've passed or not till I (see) the result printed in the paper.\n- 7 I know I ought to finish reading the book while I still (have) time.\n- 8 As soon as the ship (reach) port, its dangerous cargo will be unloaded.\n- 9 She said she would go on knitting as long as she (sit) in the deck-chair.\n- 10 I'll pay for the apples on the day you (deliver) them.\n- 11 How can I say what he is like until I (see) him?\n- 12 Obviously I shouldn't dream of asking you before I (have) to.\n- 13 After the game (be) over, let's go home together.\n- 14 If I really liked my job, I should work till my eyes (drop) out.\n- 15 I shall have done a lot of work while he (be) asleep.\n- 16 Will you please give me the football back again as soon as the game (be) over?\n- 17 If I were you, I should do it when the opportunity (arise).\n- 18 John says he will wait under the clock until Rosemary (come).\n- 19 If the plane (arrive) after the fog (clear), it will be able to land.\n- 20 We shall try to persuade him to do it before it (be) too late.\n- 21 I know that if I told my father all about it as soon as he (come) in, he would be on my side.\n- 22 Profiteers will continue to make lots of money while the war (last).\n- 23 I shall not speak to him until you (introduce) him to me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9961273945882059,
+          "minimum_content_confidence_score": 0.4368058326838308,
+          "block_type_confidence_score": 0.9045847646618258
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-135-right",
+    "pdf_page": 135,
+    "side": "right",
+    "reading_order": 270
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "Mr B. What *was* that man's name?\n\n(= What did you say his name *was*?)\n\nImperatives take *was* (*were*) *to*, or more rarely *had to*.\n\nMr A. Put it *among the papers* in the third drawer down.\n\n[Pause for forgetting.]\n\nMr B. Where *was I to* put it?\n\n(= Where did you say I *was to* put it?)\n\nAnd in the past:\n\nMr A. They made *at least seventeen* copies and sold them all.\n\n[Pause; or more conversation to confuse the mind of Mr B.]\n\nMr B. How many copies *had they made*?\n\n(= How many did you say they *had made*?)\n\nN.B. – Note the rising intonation from the low-pitched question-word.\n\n\\* \\* \\*\n\n- ● The teacher reads the statements below. A pause, or further conversation is to be imagined, then the student makes a response, asking about the point in **bold type**, in the manner suggested above:\n- 1 He was **at the pictures** all the time.\n- 2 My husband is very fond of a **piece of pie** for his supper.\n- 3 Take the **pink** cushion with you when you go!\n- 4 He ate a **double helping of meat and potatoes** just before he collapsed.\n- 5 I'm taking the dog as far as the **common** for a run.\n- 6 I packed **three** suitcases before I found I wasn't to go after all.\n- 7 It's gone **half past three**!\n- 8 We're coming again **Monday week**.\n- 9 The cunning old man hid it **under a rose-bush** in his own garden.\n- 10 When you get there, go into **the third** door on your right as you face the building.\n- 11 ... and I shot five tigers while I was in India.\n- 12 I'm going to do it all again on the **15th** of July.\n- 13 My friend cannot come **because she has a touch of flu**.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n259",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 682
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9637511290421806,
+      "minimum_page_confidence_score": 0.2146589578296682
+    },
+    "blocks": [
+      {
+        "top_left_x": 145,
+        "top_left_y": 19,
+        "bottom_right_x": 321,
+        "bottom_right_y": 41,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995963947239971,
+          "minimum_content_confidence_score": 0.9990466393837057,
+          "block_type_confidence_score": 0.9997693317556717
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 623,
+        "top_left_y": 20,
+        "bottom_right_x": 656,
+        "bottom_right_y": 40,
+        "content": "259",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997380466107655,
+          "minimum_content_confidence_score": 0.9997380466107655,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 75,
+        "bottom_right_x": 524,
+        "bottom_right_y": 97,
+        "content": "Mr B. What *was* that man's name?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9698937374661429,
+          "minimum_content_confidence_score": 0.8534603347207803,
+          "block_type_confidence_score": 0.9999566097022262
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 97,
+        "bottom_right_x": 529,
+        "bottom_right_y": 116,
+        "content": "(= What did you say his name *was*?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983026531655478,
+          "minimum_content_confidence_score": 0.9926167768076316,
+          "block_type_confidence_score": 0.9999881984200047
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 125,
+        "bottom_right_x": 628,
+        "bottom_right_y": 146,
+        "content": "Imperatives take *was* (*were*) *to*, or more rarely *had to*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9763934413601933,
+          "minimum_content_confidence_score": 0.9264028268234075,
+          "block_type_confidence_score": 0.9999884368330701
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 148,
+        "bottom_right_x": 656,
+        "bottom_right_y": 188,
+        "content": "Mr A. Put it *among the papers* in the third drawer down.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979377306158977,
+          "minimum_content_confidence_score": 0.9819459354744937,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 239,
+        "top_left_y": 189,
+        "bottom_right_x": 421,
+        "bottom_right_y": 209,
+        "content": "[Pause for forgetting.]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996628483335316,
+          "minimum_content_confidence_score": 0.9992474367060291,
+          "block_type_confidence_score": 0.99846265991261
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 208,
+        "bottom_right_x": 476,
+        "bottom_right_y": 230,
+        "content": "Mr B. Where *was I to* put it?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9386816382645334,
+          "minimum_content_confidence_score": 0.5881903042808989,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 230,
+        "bottom_right_x": 544,
+        "bottom_right_y": 249,
+        "content": "(= Where did you say I *was to* put it?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9891799713959999,
+          "minimum_content_confidence_score": 0.9043518847236998,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 258,
+        "bottom_right_x": 339,
+        "bottom_right_y": 278,
+        "content": "And in the past:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749126113163,
+          "minimum_content_confidence_score": 0.9999413728379876,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 281,
+        "bottom_right_x": 656,
+        "bottom_right_y": 320,
+        "content": "Mr A. They made *at least seventeen* copies and sold them all.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978173922148721,
+          "minimum_content_confidence_score": 0.9868543252306569,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 239,
+        "top_left_y": 321,
+        "bottom_right_x": 656,
+        "bottom_right_y": 361,
+        "content": "[Pause; or more conversation to confuse the mind of Mr B.]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999232017584471,
+          "minimum_content_confidence_score": 0.9997776049374032,
+          "block_type_confidence_score": 0.9999208513000997
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 361,
+        "bottom_right_x": 572,
+        "bottom_right_y": 382,
+        "content": "Mr B. How many copies *had they made*?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9936920043441713,
+          "minimum_content_confidence_score": 0.9511981590723239,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 382,
+        "bottom_right_x": 586,
+        "bottom_right_y": 402,
+        "content": "(= How many did you say they *had made*?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985621528045358,
+          "minimum_content_confidence_score": 0.9887654539212929,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 409,
+        "bottom_right_x": 656,
+        "bottom_right_y": 450,
+        "content": "N.B. – Note the rising intonation from the low-pitched question-word.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9752536375820002,
+          "minimum_content_confidence_score": 0.7538145497280989,
+          "block_type_confidence_score": 0.9997058780131393
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 362,
+        "top_left_y": 464,
+        "bottom_right_x": 467,
+        "bottom_right_y": 479,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9913619054152693,
+          "minimum_content_confidence_score": 0.9756363232088221,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 489,
+        "bottom_right_x": 656,
+        "bottom_right_y": 985,
+        "content": "- ● The teacher reads the statements below. A pause, or further conversation is to be imagined, then the student makes a response, asking about the point in **bold type**, in the manner suggested above:\n- 1 He was **at the pictures** all the time.\n- 2 My husband is very fond of a **piece of pie** for his supper.\n- 3 Take the **pink** cushion with you when you go!\n- 4 He ate a **double helping of meat and potatoes** just before he collapsed.\n- 5 I'm taking the dog as far as the **common** for a run.\n- 6 I packed **three** suitcases before I found I wasn't to go after all.\n- 7 It's gone **half past three**!\n- 8 We're coming again **Monday week**.\n- 9 The cunning old man hid it **under a rose-bush** in his own garden.\n- 10 When you get there, go into **the third** door on your right as you face the building.\n- 11 ... and I shot five tigers while I was in India.\n- 12 I'm going to do it all again on the **15th** of July.\n- 13 My friend cannot come **because she has a touch of flu**.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9801164772121415,
+          "minimum_content_confidence_score": 0.4919958971655758,
+          "block_type_confidence_score": 0.9980714630388261
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

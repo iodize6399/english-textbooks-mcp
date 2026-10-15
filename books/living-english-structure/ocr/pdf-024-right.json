@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-024-right",
+    "pdf_page": 24,
+    "side": "right",
+    "reading_order": 48
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "You must call me 'Sir'. (I like it that way.)\n\nYou have to call me 'Sir'. (That's the regulation address.)\n\nYou must change your shoes. (I won't have you in here with muddy feet.)\n\nYou have to change your shoes. (. . . such is the custom on entering a mosque.)\n\n*Am/is/etc. to* is used for definite commands or prohibitions. This form, or *must*, is used for instructions on notices or orders (*have to* is never used here).\n\nPassengers must cross the lines by the footbridge. (The railway company instructs them to.)\n\nPorters often have to walk across the lines. (The nature of their work compels them to.)\n\nAll junior officers are to report to the colonel at once. (Military order)\n\nSoldiers have to salute their officers. (Such is the custom.)\n\n\\* \\* \\*\n\n- ● Read each of the following sentences as it stands, then in the negative (i.e. remove the idea of obligation):\n  1. 1 I must get there before eight.\n  2. 2 You will have to come again.\n  3. 3 They must leave before dinner.\n  4. 4 She must wash up all the glasses.\n  5. 5 We had to change our shoes.\n  6. 6 You'll have to pay him in advance.\n  7. 7 He had to give it back.\n  8. 8 The workmen have to take it away again.\n  9. 9 Our teacher must write it on the blackboard.\n  10. 10 We had to finish it by today.\n  11. 11 We shall have to leave earlier than usual.\n  12. 12 You must answer at once.\n  13. 13 We had to begin very early.\n  14. 14 You'll have to bring your own ink with you.\n  15. 15 You must eat them all.\n  16. 16 I shall have to buy a new one.\n  17. 17 They must learn the whole poem.\n  18. 18 She has to make some new ones. (*N.B.* some—any)\n  19. 19 I had to read it aloud.\n  20. 20 She must wear a hat.\n  21. 21 You'll have to stand outside.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "6^{}[] *must, have to, need*\n37",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9786217635164013,
+      "minimum_page_confidence_score": 0.2579284713938952
+    },
+    "blocks": [
+      {
+        "top_left_x": 154,
+        "top_left_y": 21,
+        "bottom_right_x": 341,
+        "bottom_right_y": 42,
+        "content": "6^{}[] *must, have to, need*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9827541728057103,
+          "minimum_content_confidence_score": 0.9479623798746133,
+          "block_type_confidence_score": 0.9997586109579653
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 635,
+        "top_left_y": 21,
+        "bottom_right_x": 659,
+        "bottom_right_y": 39,
+        "content": "37",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999871628071919,
+          "minimum_content_confidence_score": 0.999871628071919,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 77,
+        "bottom_right_x": 578,
+        "bottom_right_y": 98,
+        "content": "You must call me 'Sir'. (I like it that way.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9847569111287979,
+          "minimum_content_confidence_score": 0.847866360619534,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 97,
+        "bottom_right_x": 659,
+        "bottom_right_y": 137,
+        "content": "You have to call me 'Sir'. (That's the regulation address.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992231659574408,
+          "minimum_content_confidence_score": 0.9931358004093479,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 137,
+        "bottom_right_x": 659,
+        "bottom_right_y": 178,
+        "content": "You must change your shoes. (I won't have you in here with muddy feet.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999568129641455,
+          "minimum_content_confidence_score": 0.9998093015118814,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 177,
+        "bottom_right_x": 659,
+        "bottom_right_y": 218,
+        "content": "You have to change your shoes. (. . . such is the custom on entering a mosque.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9777365757462714,
+          "minimum_content_confidence_score": 0.6231763016624939,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 226,
+        "bottom_right_x": 659,
+        "bottom_right_y": 287,
+        "content": "*Am/is/etc. to* is used for definite commands or prohibitions. This form, or *must*, is used for instructions on notices or orders (*have to* is never used here).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9959436322054003,
+          "minimum_content_confidence_score": 0.9089142769425871,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 289,
+        "bottom_right_x": 659,
+        "bottom_right_y": 330,
+        "content": "Passengers must cross the lines by the footbridge. (The railway company instructs them to.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997192495636356,
+          "minimum_content_confidence_score": 0.9977546514220016,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 329,
+        "bottom_right_x": 659,
+        "bottom_right_y": 370,
+        "content": "Porters often have to walk across the lines. (The nature of their work compels them to.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999618562245853,
+          "minimum_content_confidence_score": 0.9996934468574814,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 369,
+        "bottom_right_x": 659,
+        "bottom_right_y": 410,
+        "content": "All junior officers are to report to the colonel at once. (Military order)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999142326977287,
+          "minimum_content_confidence_score": 0.9992248567242559,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 409,
+        "bottom_right_x": 659,
+        "bottom_right_y": 449,
+        "content": "Soldiers have to salute their officers. (Such is the custom.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999465235131162,
+          "minimum_content_confidence_score": 0.9996238036492215,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 464,
+        "bottom_right_x": 468,
+        "bottom_right_y": 478,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976861542747179,
+          "minimum_content_confidence_score": 0.99553474770968,
+          "block_type_confidence_score": 0.9999705561718785
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 488,
+        "bottom_right_x": 659,
+        "bottom_right_y": 989,
+        "content": "- ● Read each of the following sentences as it stands, then in the negative (i.e. remove the idea of obligation):\n  1. 1 I must get there before eight.\n  2. 2 You will have to come again.\n  3. 3 They must leave before dinner.\n  4. 4 She must wash up all the glasses.\n  5. 5 We had to change our shoes.\n  6. 6 You'll have to pay him in advance.\n  7. 7 He had to give it back.\n  8. 8 The workmen have to take it away again.\n  9. 9 Our teacher must write it on the blackboard.\n  10. 10 We had to finish it by today.\n  11. 11 We shall have to leave earlier than usual.\n  12. 12 You must answer at once.\n  13. 13 We had to begin very early.\n  14. 14 You'll have to bring your own ink with you.\n  15. 15 You must eat them all.\n  16. 16 I shall have to buy a new one.\n  17. 17 They must learn the whole poem.\n  18. 18 She has to make some new ones. (*N.B.* some—any)\n  19. 19 I had to read it aloud.\n  20. 20 She must wear a hat.\n  21. 21 You'll have to stand outside.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997191481159494,
+          "minimum_content_confidence_score": 0.6715699741006012,
+          "block_type_confidence_score": 0.9990697224556403
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-138-left",
+    "pdf_page": 138,
+    "side": "left",
+    "reading_order": 275
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "15 Don't stand there doing nothing!\n16 What a fool I've been! Why didn't I think of it before?\n17 What a noise you're making! Do you call that playing the piano?\n18 What a pity we didn't eat up all the figs yesterday! Now they're all bad.\n19 I say, what a charming daughter you have, Mrs Sidebotham!\n20 What a big helping of pudding you've given me! I shan't be able to eat it all, I'm sure.\n\n51.16\nAdvanced\n\nSee Exercise 51.15.\n\n* * *\n\n● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 Hello! Where are you off to?\n2 Oh dear! I've spilt my coffee.\n3 Would you believe it! Jane's broken another dish.\n4 Help me! Help! Quick!\n5 Look out! There's a motor-bike coming.\n6 Oh! I've burnt myself!\n7 Bother! The light has gone out.\n8 Ow! Can't you look where you're going? You've trodden on my sore toe.\n9 Darling! I love you! Will you always love me?\n10 Ugh! How I hate touching sticky things!\n11 Tut, tut! You are a naughty girl!\n12 Oh how wonderful! I'd simply love to come!\n13 For goodness' sake stop that awful row!\n14 What ever shall I do now my wife's fallen ill, what with looking after the baby and guests in the house too!\n15 Oh John, that's the best news I've heard for a long time.\n16 What a lovely garden you have! How well it is looked after!\n17 Hooray! We're going to have a holiday tomorrow! Where shall we go?\n18 By Jove! That was a good race! How splendidly they rowed!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "264\n51 Reported Speech",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9781720451642256,
+      "minimum_page_confidence_score": 0.1548077121664407
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 23,
+        "bottom_right_x": 59,
+        "bottom_right_y": 42,
+        "content": "264",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999448091463223,
+          "minimum_content_confidence_score": 0.9999448091463223,
+          "block_type_confidence_score": 0.99998718067655
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 23,
+        "bottom_right_x": 287,
+        "bottom_right_y": 44,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997665696913135,
+          "minimum_content_confidence_score": 0.9994745632501234,
+          "block_type_confidence_score": 0.9954252311688784
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 77,
+        "bottom_right_x": 606,
+        "bottom_right_y": 317,
+        "content": "15 Don't stand there doing nothing!\n16 What a fool I've been! Why didn't I think of it before?\n17 What a noise you're making! Do you call that playing the piano?\n18 What a pity we didn't eat up all the figs yesterday! Now they're all bad.\n19 I say, what a charming daughter you have, Mrs Sidebotham!\n20 What a big helping of pudding you've given me! I shan't be able to eat it all, I'm sure.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989360072644712,
+          "minimum_content_confidence_score": 0.9513046633627074,
+          "block_type_confidence_score": 0.9859319774976844
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 336,
+        "bottom_right_x": 106,
+        "bottom_right_y": 377,
+        "content": "51.16\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980081743114732,
+          "minimum_content_confidence_score": 0.9947234150378383,
+          "block_type_confidence_score": 0.61775812607139
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 336,
+        "bottom_right_x": 307,
+        "bottom_right_y": 357,
+        "content": "See Exercise 51.15.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999846793687345,
+          "minimum_content_confidence_score": 0.9999775891557117,
+          "block_type_confidence_score": 0.9995423266861265
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 371,
+        "bottom_right_x": 435,
+        "bottom_right_y": 386,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9946425740376501,
+          "minimum_content_confidence_score": 0.9845141559434516,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 396,
+        "bottom_right_x": 615,
+        "bottom_right_y": 985,
+        "content": "● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 Hello! Where are you off to?\n2 Oh dear! I've spilt my coffee.\n3 Would you believe it! Jane's broken another dish.\n4 Help me! Help! Quick!\n5 Look out! There's a motor-bike coming.\n6 Oh! I've burnt myself!\n7 Bother! The light has gone out.\n8 Ow! Can't you look where you're going? You've trodden on my sore toe.\n9 Darling! I love you! Will you always love me?\n10 Ugh! How I hate touching sticky things!\n11 Tut, tut! You are a naughty girl!\n12 Oh how wonderful! I'd simply love to come!\n13 For goodness' sake stop that awful row!\n14 What ever shall I do now my wife's fallen ill, what with looking after the baby and guests in the house too!\n15 Oh John, that's the best news I've heard for a long time.\n16 What a lovely garden you have! How well it is looked after!\n17 Hooray! We're going to have a holiday tomorrow! Where shall we go?\n18 By Jove! That was a good race! How splendidly they rowed!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988162775912639,
+          "minimum_content_confidence_score": 0.8344070640392276,
+          "block_type_confidence_score": 0.9858270019948993
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

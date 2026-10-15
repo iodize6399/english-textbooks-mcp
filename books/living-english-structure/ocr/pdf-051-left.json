@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-051-left",
+    "pdf_page": 51,
+    "side": "left",
+    "reading_order": 101
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "# 24.3\n\nElementary\nANSWERING\nIN PAST\nTENSE\n\nQuestions with a question-word demand a complete answer.\n\nInversion-questions should be answered in short form.\n\nWhat did he write? – He wrote plays.\n\nDid you see him? – No, I didn't.\n\nDRILL. BOOKS SHUT.\n\n* * *\n\n● Answer the following questions:\n1 Where did you buy that hat? (book, bag, pen, etc.)\n2 How much did it cost?\n3 Did you learn English at school?\n4 When did you leave school?\n5 What time did you get up this morning?\n6 What did you have for breakfast?\n7 Where did you catch cold?\n8 Did you find the last exercise difficult? (hard, easy, interesting)\n9 Did you go to the seaside last summer?\n10 How long did you spend there?\n11 Did our friends go to England by air or by sea?\n12 Which of those books did you like best?\n13 (Draw a picture.) What did I do just then?\n14 How many cups of coffee did you drink yesterday?\n15 Did you come here on a bicycle or by bus?\n16 When did you last take an examination?\n17 When did you last write a letter?\n18 When did you last see snow? (the sea, a mountain, me, your own face)\n19 When did you last hear some music? (a donkey, the radio)\n20 Did you understand the last question?\n21 When did you last go to a cinema? What did you see there?\n22 Did you learn English here last year?\n23 What did you take home to read last week?\n24 On what day(s) did you come to your class last month?\n25 When did you last drink some coffee? (break something, find some money, ride a bicycle, tell a story, swim, meet your friend, sing a song, etc.)\n26 Collar/Colour.¹ Did I say 'collar' or 'colour'?\n\n¹ The teacher chooses one of these two words.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "90\n24 Past Tense",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9733993488651843,
+      "minimum_page_confidence_score": 0.258685260040788
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 9,
+        "bottom_right_x": 48,
+        "bottom_right_y": 27,
+        "content": "90",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999061910914088,
+          "minimum_content_confidence_score": 0.9999061910914088,
+          "block_type_confidence_score": 0.9999963687225065
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 9,
+        "bottom_right_x": 241,
+        "bottom_right_y": 28,
+        "content": "24 Past Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995915311310086,
+          "minimum_content_confidence_score": 0.9995537604275517,
+          "block_type_confidence_score": 0.9999368437294307
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 62,
+        "bottom_right_x": 64,
+        "bottom_right_y": 82,
+        "content": "# 24.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9485734695269878,
+          "minimum_content_confidence_score": 0.94659227916229,
+          "block_type_confidence_score": 0.5589827487298779
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 84,
+        "bottom_right_x": 118,
+        "bottom_right_y": 162,
+        "content": "Elementary\nANSWERING\nIN PAST\nTENSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.947451280932067,
+          "minimum_content_confidence_score": 0.5811765082364704,
+          "block_type_confidence_score": 0.5267150186525562
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 63,
+        "bottom_right_x": 615,
+        "bottom_right_y": 103,
+        "content": "Questions with a question-word demand a complete answer.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9923476686706583,
+          "minimum_content_confidence_score": 0.9391680350803526,
+          "block_type_confidence_score": 0.9996432147292739
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 103,
+        "bottom_right_x": 597,
+        "bottom_right_y": 123,
+        "content": "Inversion-questions should be answered in short form.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999941539340372,
+          "minimum_content_confidence_score": 0.9999755879374981,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 126,
+        "bottom_right_x": 496,
+        "bottom_right_y": 147,
+        "content": "What did he write? – He wrote plays.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9928340994956665,
+          "minimum_content_confidence_score": 0.9428497754338526,
+          "block_type_confidence_score": 0.9996615602067899
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 147,
+        "bottom_right_x": 458,
+        "bottom_right_y": 167,
+        "content": "Did you see him? – No, I didn't.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980638748095789,
+          "minimum_content_confidence_score": 0.9846045555462944,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 179,
+        "bottom_right_x": 309,
+        "bottom_right_y": 196,
+        "content": "DRILL. BOOKS SHUT.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998746586663484,
+          "minimum_content_confidence_score": 0.9997221385610979,
+          "block_type_confidence_score": 0.9887526337972177
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 211,
+        "bottom_right_x": 434,
+        "bottom_right_y": 225,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942947456975464,
+          "minimum_content_confidence_score": 0.9876107859805455,
+          "block_type_confidence_score": 0.9999965429424904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 235,
+        "bottom_right_x": 619,
+        "bottom_right_y": 956,
+        "content": "● Answer the following questions:\n1 Where did you buy that hat? (book, bag, pen, etc.)\n2 How much did it cost?\n3 Did you learn English at school?\n4 When did you leave school?\n5 What time did you get up this morning?\n6 What did you have for breakfast?\n7 Where did you catch cold?\n8 Did you find the last exercise difficult? (hard, easy, interesting)\n9 Did you go to the seaside last summer?\n10 How long did you spend there?\n11 Did our friends go to England by air or by sea?\n12 Which of those books did you like best?\n13 (Draw a picture.) What did I do just then?\n14 How many cups of coffee did you drink yesterday?\n15 Did you come here on a bicycle or by bus?\n16 When did you last take an examination?\n17 When did you last write a letter?\n18 When did you last see snow? (the sea, a mountain, me, your own face)\n19 When did you last hear some music? (a donkey, the radio)\n20 Did you understand the last question?\n21 When did you last go to a cinema? What did you see there?\n22 Did you learn English here last year?\n23 What did you take home to read last week?\n24 On what day(s) did you come to your class last month?\n25 When did you last drink some coffee? (break something, find some money, ride a bicycle, tell a story, swim, meet your friend, sing a song, etc.)\n26 Collar/Colour.¹ Did I say 'collar' or 'colour'?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995232897172901,
+          "minimum_content_confidence_score": 0.8774585357425176,
+          "block_type_confidence_score": 0.9819720285753185
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 960,
+        "bottom_right_x": 504,
+        "bottom_right_y": 980,
+        "content": "¹ The teacher chooses one of these two words.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999219307315348,
+          "minimum_content_confidence_score": 0.9996567950896345,
+          "block_type_confidence_score": 0.7744839966627749
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-030-right",
+    "pdf_page": 30,
+    "side": "right",
+    "reading_order": 60
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "19 Need we change for dinner? Yes, you ...\n20 Oughtn't you to answer that letter now?\n\n**19.3**\n**Elementary**\n\nThe auxiliaries are great time-savers when answering 'question-word questions' (where *yes* or *no* cannot be used).\n\nWho told you that I was coming at five o'clock? –\nJohn did.\n\n* * *\n\n● Give short-form answers to the following questions:\n1 Who wrote *Hamlet*?\n2 How many of you can speak English fluently?\n3 Which of you must clean the blackboard?\n4 How many of you play tennis? Most of us ...\n5 How many of you can play chess? None of us ...\n6 Who teaches you English?\n7 What fell on the floor just now?\n8 Which is better, this one or that one?\n9 Which cost more, these or those?\n10 How many of you ought to know the answer? All of us ...\n11 Who made that noise?\n12 Which of you likes ice-cream? We all ...\n13 What fruit tastes nice? All ...\n14 How many of you must answer this question? We all ...\n15 Who shut the door?\n16 Which gives more light, the sun or the moon?\n17 What makes people fat? Eating ...\n18 Which of you finished your homework yesterday? None ...\n19 Who broke my pencil?\n20 Who wants to go for a walk?\n\n**19.4**\n**Intermediate**\n\n● Give short-form answers to the following questions:\n1 How many of you need new books?\n2 Who's the present ruler of England?\n3 Who's taken my books? (No one ...)\n4 Who discovered America?\n5 What was the world's biggest island before Australia was discovered? (Answer, if you need it, can be found after Exercise 57.3.)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "19 Short-form Responses using Auxiliary Verbs\n49",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9684543851102528,
+      "minimum_page_confidence_score": 0.12047750328209345
+    },
+    "blocks": [
+      {
+        "top_left_x": 135,
+        "top_left_y": 16,
+        "bottom_right_x": 531,
+        "bottom_right_y": 38,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999587005111893,
+          "minimum_content_confidence_score": 0.9999111969660766,
+          "block_type_confidence_score": 0.9995732807999413
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 18,
+        "bottom_right_x": 647,
+        "bottom_right_y": 37,
+        "content": "49",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999567288990747,
+          "minimum_content_confidence_score": 0.9999567288990747,
+          "block_type_confidence_score": 0.999999724901756
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 135,
+        "top_left_y": 71,
+        "bottom_right_x": 568,
+        "bottom_right_y": 117,
+        "content": "19 Need we change for dinner? Yes, you ...\n20 Oughtn't you to answer that letter now?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9805702551621308,
+          "minimum_content_confidence_score": 0.6739614932501443,
+          "block_type_confidence_score": 0.9525326120367272
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 130,
+        "bottom_right_x": 139,
+        "bottom_right_y": 172,
+        "content": "**19.3**\n**Elementary**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8091077850070504,
+          "minimum_content_confidence_score": 0.6548472838279533,
+          "block_type_confidence_score": 0.6775021542943944
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 132,
+        "bottom_right_x": 649,
+        "bottom_right_y": 192,
+        "content": "The auxiliaries are great time-savers when answering 'question-word questions' (where *yes* or *no* cannot be used).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991108425568127,
+          "minimum_content_confidence_score": 0.9924243498677354,
+          "block_type_confidence_score": 0.9999729402230112
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 195,
+        "bottom_right_x": 649,
+        "bottom_right_y": 235,
+        "content": "Who told you that I was coming at five o'clock? –\nJohn did.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9386648001379372,
+          "minimum_content_confidence_score": 0.4990256983485299,
+          "block_type_confidence_score": 0.9999085748308497
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 363,
+        "top_left_y": 241,
+        "bottom_right_x": 454,
+        "bottom_right_y": 255,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977930331106394,
+          "minimum_content_confidence_score": 0.9949368407311546,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 135,
+        "top_left_y": 263,
+        "bottom_right_x": 649,
+        "bottom_right_y": 788,
+        "content": "● Give short-form answers to the following questions:\n1 Who wrote *Hamlet*?\n2 How many of you can speak English fluently?\n3 Which of you must clean the blackboard?\n4 How many of you play tennis? Most of us ...\n5 How many of you can play chess? None of us ...\n6 Who teaches you English?\n7 What fell on the floor just now?\n8 Which is better, this one or that one?\n9 Which cost more, these or those?\n10 How many of you ought to know the answer? All of us ...\n11 Who made that noise?\n12 Which of you likes ice-cream? We all ...\n13 What fruit tastes nice? All ...\n14 How many of you must answer this question? We all ...\n15 Who shut the door?\n16 Which gives more light, the sun or the moon?\n17 What makes people fat? Eating ...\n18 Which of you finished your homework yesterday? None ...\n19 Who broke my pencil?\n20 Who wants to go for a walk?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988723657965959,
+          "minimum_content_confidence_score": 0.8790841696517543,
+          "block_type_confidence_score": 0.9997716471547335
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 801,
+        "bottom_right_x": 149,
+        "bottom_right_y": 841,
+        "content": "**19.4**\n**Intermediate**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997687040771576,
+          "minimum_content_confidence_score": 0.9996732702029526,
+          "block_type_confidence_score": 0.9999915362117302
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 802,
+        "bottom_right_x": 649,
+        "bottom_right_y": 979,
+        "content": "● Give short-form answers to the following questions:\n1 How many of you need new books?\n2 Who's the present ruler of England?\n3 Who's taken my books? (No one ...)\n4 Who discovered America?\n5 What was the world's biggest island before Australia was discovered? (Answer, if you need it, can be found after Exercise 57.3.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999231609336231,
+          "minimum_content_confidence_score": 0.9557744646095787,
+          "block_type_confidence_score": 0.9998856913588614
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

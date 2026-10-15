@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-065-left",
+    "pdf_page": 65,
+    "side": "left",
+    "reading_order": 129
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "(28.6)\n\n● Change the following sentences into the *going to* form of future:\n1 She'll be married this spring.\n2 The strong man will lift all these weights above his head.\n3 I'll practise the violin all the afternoon.\n4 I know you will like my music.\n5 What! You won't come home this afternoon?\n6 I won't be treated like that!\n7 You won't get a ticket for my next concert.\n8 Cyril will walk home with me tonight.\n9 Maisie will sew on my buttons for me.\n10 The sun will shine in a minute.\n11 I won't spend a penny more.\n12 Will you be gone long?\n13 Won't you kiss me 'good night'?\n14 He'll give me a present for my birthday.\n15 I think I shall have a cold.\n16 There will be a storm soon.\n17 Won't you have something to drink?\n18 We shall get a new gardener today.\n19 He will cut the grass this afternoon.\n20 I shall buy some cream cakes for tea.\n\n28.7\n\nElementary\n\nPRESENT\n\nCONTINUOUS\n\nFOR FUTURE\n\nLike *going to*, the PRESENT CONTINUOUS can express a definite future, and its time is fairly immediate.\n\nWe're going to the pictures this afternoon.\n\nShe's buying a new one soon.\n\nThey're playing some Beethoven next.\n\nThis form is scarcely ever used with THINGS, or with verbs of Exercise 21.10.\n\n* * *\n\n● Put the following into the immediate future of the PRESENT CONTINUOUS:\n1 We shall start strong verbs on Monday.\n2 He'll come to see me the day after tomorrow.\n3 We shall set out at two o'clock.\n4 She will invite seven other people.\n5 I shall take her to the Zoo this afternoon.\n6 Will you stay at home tonight?\n7 They will see to it tomorrow.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "118\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1003,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9682977063244274,
+      "minimum_page_confidence_score": 0.20323172156750074
+    },
+    "blocks": [
+      {
+        "top_left_x": 35,
+        "top_left_y": 18,
+        "bottom_right_x": 68,
+        "bottom_right_y": 36,
+        "content": "118",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999140574916894,
+          "minimum_content_confidence_score": 0.9999140574916894,
+          "block_type_confidence_score": 0.9999922423218084
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 18,
+        "bottom_right_x": 405,
+        "bottom_right_y": 38,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999360199603844,
+          "minimum_content_confidence_score": 0.9997070694069807,
+          "block_type_confidence_score": 0.9986788851538408
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 35,
+        "top_left_y": 73,
+        "bottom_right_x": 84,
+        "bottom_right_y": 94,
+        "content": "(28.6)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990484234232435,
+          "minimum_content_confidence_score": 0.9990484234232435,
+          "block_type_confidence_score": 0.9848668121671749
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 73,
+        "bottom_right_x": 624,
+        "bottom_right_y": 574,
+        "content": "● Change the following sentences into the *going to* form of future:\n1 She'll be married this spring.\n2 The strong man will lift all these weights above his head.\n3 I'll practise the violin all the afternoon.\n4 I know you will like my music.\n5 What! You won't come home this afternoon?\n6 I won't be treated like that!\n7 You won't get a ticket for my next concert.\n8 Cyril will walk home with me tonight.\n9 Maisie will sew on my buttons for me.\n10 The sun will shine in a minute.\n11 I won't spend a penny more.\n12 Will you be gone long?\n13 Won't you kiss me 'good night'?\n14 He'll give me a present for my birthday.\n15 I think I shall have a cold.\n16 There will be a storm soon.\n17 Won't you have something to drink?\n18 We shall get a new gardener today.\n19 He will cut the grass this afternoon.\n20 I shall buy some cream cakes for tea.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985553593819825,
+          "minimum_content_confidence_score": 0.8725031263647623,
+          "block_type_confidence_score": 0.9465750814020634
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 591,
+        "bottom_right_x": 74,
+        "bottom_right_y": 611,
+        "content": "28.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998740484463227,
+          "minimum_content_confidence_score": 0.9998740484463227,
+          "block_type_confidence_score": 0.9738741324789401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 612,
+        "bottom_right_x": 126,
+        "bottom_right_y": 633,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999635711190227,
+          "minimum_content_confidence_score": 0.9999635711190227,
+          "block_type_confidence_score": 0.9979408553369569
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 636,
+        "bottom_right_x": 99,
+        "bottom_right_y": 652,
+        "content": "PRESENT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989468234408413,
+          "minimum_content_confidence_score": 0.9989468234408413,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 655,
+        "bottom_right_x": 133,
+        "bottom_right_y": 672,
+        "content": "CONTINUOUS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999795444602961,
+          "minimum_content_confidence_score": 0.9999795444602961,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 675,
+        "bottom_right_x": 130,
+        "bottom_right_y": 692,
+        "content": "FOR FUTURE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997243516999114,
+          "minimum_content_confidence_score": 0.9994668228782488,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 592,
+        "bottom_right_x": 620,
+        "bottom_right_y": 635,
+        "content": "Like *going to*, the PRESENT CONTINUOUS can express a definite future, and its time is fairly immediate.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997967329915246,
+          "minimum_content_confidence_score": 0.9984378222566919,
+          "block_type_confidence_score": 0.9999375382330494
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 637,
+        "bottom_right_x": 539,
+        "bottom_right_y": 658,
+        "content": "We're going to the pictures this afternoon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989013652393863,
+          "minimum_content_confidence_score": 0.9931117043556144,
+          "block_type_confidence_score": 0.9996089081220385
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 658,
+        "bottom_right_x": 437,
+        "bottom_right_y": 678,
+        "content": "She's buying a new one soon.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999485467234887,
+          "minimum_content_confidence_score": 0.9997492465599263,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 678,
+        "bottom_right_x": 503,
+        "bottom_right_y": 698,
+        "content": "They're playing some Beethoven next.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885043984333,
+          "minimum_content_confidence_score": 0.9999833109787883,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 706,
+        "bottom_right_x": 620,
+        "bottom_right_y": 746,
+        "content": "This form is scarcely ever used with THINGS, or with verbs of Exercise 21.10.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995078797353496,
+          "minimum_content_confidence_score": 0.9935628650615153,
+          "block_type_confidence_score": 0.999985933501902
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 337,
+        "top_left_y": 761,
+        "bottom_right_x": 440,
+        "bottom_right_y": 775,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969905539995416,
+          "minimum_content_confidence_score": 0.9946041772153349,
+          "block_type_confidence_score": 0.9999281219647156
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 126,
+        "top_left_y": 786,
+        "bottom_right_x": 620,
+        "bottom_right_y": 983,
+        "content": "● Put the following into the immediate future of the PRESENT CONTINUOUS:\n1 We shall start strong verbs on Monday.\n2 He'll come to see me the day after tomorrow.\n3 We shall set out at two o'clock.\n4 She will invite seven other people.\n5 I shall take her to the Zoo this afternoon.\n6 Will you stay at home tonight?\n7 They will see to it tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999795239958312,
+          "minimum_content_confidence_score": 0.9994441977791033,
+          "block_type_confidence_score": 0.999837067447481
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

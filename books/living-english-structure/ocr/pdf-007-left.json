@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-007-left",
+    "pdf_page": 7,
+    "side": "left",
+    "reading_order": 13
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:05.087310+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "3 Novels are books.\n4 Boots are kinds of shoes.\n5 Watches are small clocks.\n6 Tables are pieces of furniture.\n7 Roses are beautiful flowers.\n8 Frenchmen are Europeans.\n9 Girls wear dresses.\n10 Children are not always good.\n11 There are always tables in dining-rooms.\n12 Exercises are not always easy for beginners.\n13 Hungry boys eat large dinners.\n14 Stockings are long socks.\n15 Soldiers are brave men.\n16 Coats have collars.\n17 Nouns are words.\n18 Houses have roofs.\n19 Postmen wear caps.\n20 Oranges are good to eat.\n21 Classrooms have blackboards.\n22 Dogs are good friends to men.\n23 Big men eat more than small boys.\n24 Cities are big towns.\n25 Schools are large buildings.\n\n1.3 Elementary Remember that only COUNTABLE (or UNIT) nouns take a or an.\n\n* * *\n\n● Add a or an where necessary:\n\n1 — cigarette is made of — tobacco and — paper.\n2 — milk comes from — cow.\n3 We make — butter and — cheese from — milk.\n4 — window is made of — glass.\n5 — handkerchief is made of — piece of cloth.\n6 — grass always grows in — English field.\n7 — chair is made of — wood.\n8 — cat has — tail.\n9 — man eats — meat.\n10 — ring is made of — gold or — silver.\n11 — coffee is — drink.\n12 — coat is made of — wool.\n13 — fish swims in — water.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "2\n1 Countables and Uncountables",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1006,
+      "width": 698
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9712241688330157,
+      "minimum_page_confidence_score": 0.1474404432496121
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 20,
+        "bottom_right_x": 32,
+        "bottom_right_y": 39,
+        "content": "2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999035689838597,
+          "minimum_content_confidence_score": 0.9999035689838597,
+          "block_type_confidence_score": 0.9971400400865871
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 19,
+        "bottom_right_x": 377,
+        "bottom_right_y": 39,
+        "content": "1 Countables and Uncountables",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997320711140288,
+          "minimum_content_confidence_score": 0.999467839120132,
+          "block_type_confidence_score": 0.8501527475817636
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 75,
+        "bottom_right_x": 530,
+        "bottom_right_y": 576,
+        "content": "3 Novels are books.\n4 Boots are kinds of shoes.\n5 Watches are small clocks.\n6 Tables are pieces of furniture.\n7 Roses are beautiful flowers.\n8 Frenchmen are Europeans.\n9 Girls wear dresses.\n10 Children are not always good.\n11 There are always tables in dining-rooms.\n12 Exercises are not always easy for beginners.\n13 Hungry boys eat large dinners.\n14 Stockings are long socks.\n15 Soldiers are brave men.\n16 Coats have collars.\n17 Nouns are words.\n18 Houses have roofs.\n19 Postmen wear caps.\n20 Oranges are good to eat.\n21 Classrooms have blackboards.\n22 Dogs are good friends to men.\n23 Big men eat more than small boys.\n24 Cities are big towns.\n25 Schools are large buildings.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991564946472951,
+          "minimum_content_confidence_score": 0.9720944228780339,
+          "block_type_confidence_score": 0.999713860390627
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 594,
+        "bottom_right_x": 606,
+        "bottom_right_y": 635,
+        "content": "1.3 Elementary Remember that only COUNTABLE (or UNIT) nouns take a or an.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960256664664022,
+          "minimum_content_confidence_score": 0.9786972607743583,
+          "block_type_confidence_score": 0.7446825849324811
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 322,
+        "top_left_y": 646,
+        "bottom_right_x": 430,
+        "bottom_right_y": 663,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9918670292966704,
+          "minimum_content_confidence_score": 0.9780566488584935,
+          "block_type_confidence_score": 0.816204587399285
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 675,
+        "bottom_right_x": 386,
+        "bottom_right_y": 695,
+        "content": "● Add a or an where necessary:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9291721836391743,
+          "minimum_content_confidence_score": 0.5045452717832063,
+          "block_type_confidence_score": 0.957415010782935
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 698,
+        "bottom_right_x": 579,
+        "bottom_right_y": 981,
+        "content": "1 — cigarette is made of — tobacco and — paper.\n2 — milk comes from — cow.\n3 We make — butter and — cheese from — milk.\n4 — window is made of — glass.\n5 — handkerchief is made of — piece of cloth.\n6 — grass always grows in — English field.\n7 — chair is made of — wood.\n8 — cat has — tail.\n9 — man eats — meat.\n10 — ring is made of — gold or — silver.\n11 — coffee is — drink.\n12 — coat is made of — wool.\n13 — fish swims in — water.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955232817805053,
+          "minimum_content_confidence_score": 0.5723614448749671,
+          "block_type_confidence_score": 0.9999936819476216
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

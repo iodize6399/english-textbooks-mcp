@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-106-left",
+    "pdf_page": 106,
+    "side": "left",
+    "reading_order": 211
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "3 — is going to the cinema tonight?\n4 — of these girls is the youngest?\n5 — hat is this, mine or yours?\n6 — is the matter with him?\n7 — of you can answer that question?\n8 — is John doing?\n9 — has finished the exercise?\n10 — are those people doing?\n11 — has broken the window?\n12 — dress do you like?\n13 — are you meeting at four o'clock?\n14 — have they done?\n15 — has eaten my sandwich?\n16 — did you want to see?\n17 — are you writing?\n18 — picture do you prefer, this or that?\n19 — went to the seaside with you?\n20 — asked you to come?\n21 — was that noise?\n22 — is your hat? (— hat is yours?)\n23 — did I say?\n24 — opened my letter?\n25 — did you send to market?\n26 — European language is the easiest to learn?\n27 — can I do to help?\n28 — pencil is this, Tom's or Harry's?\n29 — looked in at the window just now?\n30 — are you drinking?\n\n# 44.3\n\n# Elementary\n\nSee Notes to Exercises 44.1 and 44.2.\n\n* * *\n\n● Turn the following statements into questions, asking about the words in **bold type**:\n1 She is wearing a new hat.\n2 I have been to the Zoo.\n3 They are sitting under the trees.\n4 Tom has eaten some bad fish.\n5 They have seen her in that café every day.\n6 This is my favourite melody.\n7 My name is **Mrs Buttons**.\n8 That tooth is hurting me.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "200\n44 Interrogatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 675
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9727040304038177,
+      "minimum_page_confidence_score": 0.2744048623437288
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 15,
+        "bottom_right_x": 57,
+        "bottom_right_y": 34,
+        "content": "200",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999394453479565,
+          "minimum_content_confidence_score": 0.9999394453479565,
+          "block_type_confidence_score": 0.9999686953577459
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 15,
+        "bottom_right_x": 262,
+        "bottom_right_y": 34,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998717148775523,
+          "minimum_content_confidence_score": 0.9975227430178965,
+          "block_type_confidence_score": 0.9995629512361139
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 68,
+        "bottom_right_x": 556,
+        "bottom_right_y": 681,
+        "content": "3 — is going to the cinema tonight?\n4 — of these girls is the youngest?\n5 — hat is this, mine or yours?\n6 — is the matter with him?\n7 — of you can answer that question?\n8 — is John doing?\n9 — has finished the exercise?\n10 — are those people doing?\n11 — has broken the window?\n12 — dress do you like?\n13 — are you meeting at four o'clock?\n14 — have they done?\n15 — has eaten my sandwich?\n16 — did you want to see?\n17 — are you writing?\n18 — picture do you prefer, this or that?\n19 — went to the seaside with you?\n20 — asked you to come?\n21 — was that noise?\n22 — is your hat? (— hat is yours?)\n23 — did I say?\n24 — opened my letter?\n25 — did you send to market?\n26 — European language is the easiest to learn?\n27 — can I do to help?\n28 — pencil is this, Tom's or Harry's?\n29 — looked in at the window just now?\n30 — are you drinking?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999278075423117,
+          "minimum_content_confidence_score": 0.9960897877705197,
+          "block_type_confidence_score": 0.9968176158241292
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 26,
+        "top_left_y": 700,
+        "bottom_right_x": 68,
+        "bottom_right_y": 719,
+        "content": "# 44.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8878409782150213,
+          "minimum_content_confidence_score": 0.7981695553086539,
+          "block_type_confidence_score": 0.5136202853939198
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 26,
+        "top_left_y": 721,
+        "bottom_right_x": 119,
+        "bottom_right_y": 742,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990335560879691,
+          "minimum_content_confidence_score": 0.9981519819868532,
+          "block_type_confidence_score": 0.9792870347343892
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 700,
+        "bottom_right_x": 453,
+        "bottom_right_y": 719,
+        "content": "See Notes to Exercises 44.1 and 44.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999678231456857,
+          "minimum_content_confidence_score": 0.9998965834990942,
+          "block_type_confidence_score": 0.9314686217205863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 332,
+        "top_left_y": 735,
+        "bottom_right_x": 434,
+        "bottom_right_y": 748,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9959098356202167,
+          "minimum_content_confidence_score": 0.9925501424417105,
+          "block_type_confidence_score": 0.9999387301794401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 760,
+        "bottom_right_x": 614,
+        "bottom_right_y": 978,
+        "content": "● Turn the following statements into questions, asking about the words in **bold type**:\n1 She is wearing a new hat.\n2 I have been to the Zoo.\n3 They are sitting under the trees.\n4 Tom has eaten some bad fish.\n5 They have seen her in that café every day.\n6 This is my favourite melody.\n7 My name is **Mrs Buttons**.\n8 That tooth is hurting me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9804148017674885,
+          "minimum_content_confidence_score": 0.5912620221054569,
+          "block_type_confidence_score": 0.9966631788326668
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

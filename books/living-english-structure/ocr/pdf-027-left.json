@@ -1,0 +1,395 @@
+{
+  "source": {
+    "id": "pdf-027-left",
+    "pdf_page": 27,
+    "side": "left",
+    "reading_order": 53
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "# 17 can\n\n# 17.1\n\n# Elementary and Intermediate\n\nCan has two main uses:\n\n1 to express permission or possibility (= may).\n\nYou can go now.\n\n2 to express ability or capacity (= know how to).\n\nI can swim very well.\n\n1 2\n\nFUTURE can shall (will) be able to\n\nPAST could could or was (were) able to\n\nBut see also next exercise.\n\n* * *\n\nSay the following using the given time-expressions, first for the future and then for the past.\n\nEXAMPLE\n\nYou can drive. when you are 17/after you got your licence.\n\nANSWER 1: You can drive when you are 17.\n\nANSWER 2: You could drive after you got your licence.\n\n1 He can leave it here. for an hour/whenever he wanted to.\n\n2 He can play chess. this afternoon/when he was young.\n\n3 I can fly a plane. after a few more lessons/when I was in the air force.\n\n4 We can do this exercise. next week/last week.\n\n5 She can cook very well. with more practice/when I knew her.\n\n6 I can go early. if he lets me/every day last summer.\n\n7 She can make her own dresses. in a few years' time/before she got married.\n\n8 She can read easily. with her new glasses/before her eye trouble.\n\n9 He says I can have another one. tomorrow/He said — yesterday.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9655518367318864,
+      "minimum_page_confidence_score": 0.17891460518402338
+    },
+    "blocks": [
+      {
+        "top_left_x": 99,
+        "top_left_y": 68,
+        "bottom_right_x": 190,
+        "bottom_right_y": 96,
+        "content": "# 17 can",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.933085894728575,
+          "minimum_content_confidence_score": 0.9033551172743819,
+          "block_type_confidence_score": 0.7919720169597108
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 148,
+        "bottom_right_x": 58,
+        "bottom_right_y": 167,
+        "content": "# 17.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9917273390534092,
+          "minimum_content_confidence_score": 0.98756834804845,
+          "block_type_confidence_score": 0.590958490533455
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 170,
+        "bottom_right_x": 119,
+        "bottom_right_y": 228,
+        "content": "# Elementary and Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9416412653787833,
+          "minimum_content_confidence_score": 0.7767755337453945,
+          "block_type_confidence_score": 0.5295862920795966
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 149,
+        "bottom_right_x": 339,
+        "bottom_right_y": 167,
+        "content": "Can has two main uses:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999470573451921,
+          "minimum_content_confidence_score": 0.9997766516938639,
+          "block_type_confidence_score": 0.9914147433817462
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 169,
+        "bottom_right_x": 534,
+        "bottom_right_y": 189,
+        "content": "1 to express permission or possibility (= may).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998597162950437,
+          "minimum_content_confidence_score": 0.9993677563104088,
+          "block_type_confidence_score": 0.5926597820341546
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 195,
+        "bottom_right_x": 322,
+        "bottom_right_y": 215,
+        "content": "You can go now.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999872567796091,
+          "minimum_content_confidence_score": 0.9999750858798929,
+          "block_type_confidence_score": 0.7310493625105945
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 220,
+        "bottom_right_x": 555,
+        "bottom_right_y": 241,
+        "content": "2 to express ability or capacity (= know how to).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999687642768069,
+          "minimum_content_confidence_score": 0.9998566745828242,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 246,
+        "bottom_right_x": 353,
+        "bottom_right_y": 266,
+        "content": "I can swim very well.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999985262328474,
+          "minimum_content_confidence_score": 0.9999489810279807,
+          "block_type_confidence_score": 0.999933128058309
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 236,
+        "top_left_y": 272,
+        "bottom_right_x": 323,
+        "bottom_right_y": 291,
+        "content": "1 2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9761897487215956,
+          "minimum_content_confidence_score": 0.9525688851256643,
+          "block_type_confidence_score": 0.9948268719772113
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 294,
+        "bottom_right_x": 480,
+        "bottom_right_y": 312,
+        "content": "FUTURE can shall (will) be able to",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999865009910088,
+          "minimum_content_confidence_score": 0.999451818715458,
+          "block_type_confidence_score": 0.996169750812167
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 314,
+        "bottom_right_x": 455,
+        "bottom_right_y": 352,
+        "content": "PAST could could or was (were) able to",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8991180928766013,
+          "minimum_content_confidence_score": 0.5593785729984053,
+          "block_type_confidence_score": 0.9984436453375717
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 353,
+        "bottom_right_x": 353,
+        "bottom_right_y": 371,
+        "content": "But see also next exercise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999864033193487,
+          "minimum_content_confidence_score": 0.9999656331533702,
+          "block_type_confidence_score": 0.9999964237340748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 321,
+        "top_left_y": 385,
+        "bottom_right_x": 426,
+        "bottom_right_y": 400,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985666647691872,
+          "minimum_content_confidence_score": 0.9966250505816637,
+          "block_type_confidence_score": 0.998291792800196
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 411,
+        "bottom_right_x": 602,
+        "bottom_right_y": 452,
+        "content": "Say the following using the given time-expressions, first for the future and then for the past.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9776280652795512,
+          "minimum_content_confidence_score": 0.6423493147966748,
+          "block_type_confidence_score": 0.5620917328836758
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 460,
+        "bottom_right_x": 216,
+        "bottom_right_y": 475,
+        "content": "EXAMPLE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999667930056501,
+          "minimum_content_confidence_score": 0.9999667930056501,
+          "block_type_confidence_score": 0.6789068724139863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 481,
+        "bottom_right_x": 602,
+        "bottom_right_y": 518,
+        "content": "You can drive. when you are 17/after you got your licence.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994038594592602,
+          "minimum_content_confidence_score": 0.9944606818811641,
+          "block_type_confidence_score": 0.9989991678147704
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 520,
+        "bottom_right_x": 540,
+        "bottom_right_y": 539,
+        "content": "ANSWER 1: You can drive when you are 17.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999928423327729,
+          "minimum_content_confidence_score": 0.9999493992878887,
+          "block_type_confidence_score": 0.9913861548221714
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 541,
+        "bottom_right_x": 602,
+        "bottom_right_y": 578,
+        "content": "ANSWER 2: You could drive after you got your licence.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999932318135001,
+          "minimum_content_confidence_score": 0.9999504113947393,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 583,
+        "bottom_right_x": 554,
+        "bottom_right_y": 625,
+        "content": "1 He can leave it here. for an hour/whenever he wanted to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999840534682827,
+          "minimum_content_confidence_score": 0.999900580474022,
+          "block_type_confidence_score": 0.9939026572483598
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 628,
+        "bottom_right_x": 558,
+        "bottom_right_y": 670,
+        "content": "2 He can play chess. this afternoon/when he was young.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999652551542623,
+          "minimum_content_confidence_score": 0.9997062970191787,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 671,
+        "bottom_right_x": 589,
+        "bottom_right_y": 712,
+        "content": "3 I can fly a plane. after a few more lessons/when I was in the air force.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999937255409743,
+          "minimum_content_confidence_score": 0.9999726755197736,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 714,
+        "bottom_right_x": 552,
+        "bottom_right_y": 735,
+        "content": "4 We can do this exercise. next week/last week.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999387312800968,
+          "minimum_content_confidence_score": 0.9994942379655763,
+          "block_type_confidence_score": 0.9999946356109105
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 737,
+        "bottom_right_x": 580,
+        "bottom_right_y": 777,
+        "content": "5 She can cook very well. with more practice/when I knew her.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999834026037774,
+          "minimum_content_confidence_score": 0.9999163220796634,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 780,
+        "bottom_right_x": 599,
+        "bottom_right_y": 801,
+        "content": "6 I can go early. if he lets me/every day last summer.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999799424130176,
+          "minimum_content_confidence_score": 0.9998495638852211,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 802,
+        "bottom_right_x": 565,
+        "bottom_right_y": 844,
+        "content": "7 She can make her own dresses. in a few years' time/before she got married.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999688439208531,
+          "minimum_content_confidence_score": 0.9996815180849097,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 846,
+        "bottom_right_x": 569,
+        "bottom_right_y": 887,
+        "content": "8 She can read easily. with her new glasses/before her eye trouble.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999833608964909,
+          "minimum_content_confidence_score": 0.9999294330789258,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 889,
+        "bottom_right_x": 563,
+        "bottom_right_y": 932,
+        "content": "9 He says I can have another one. tomorrow/He said — yesterday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999438363602303,
+          "minimum_content_confidence_score": 0.99336325597584,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

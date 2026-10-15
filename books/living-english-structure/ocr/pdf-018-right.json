@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-018-right",
+    "pdf_page": 18,
+    "side": "right",
+    "reading_order": 36
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "19 Have you read — good books lately?\n20 Are there — lemons in the cupboard? We could make — lemonade.\n\n# 12 no = not . . . any\n\n# 12.1\n\n# Elementary\n\n# Compare:\n\nCome nowhere near me!\n\nDon't come anywhere near me!\n\nBoth are grammatically correct, but the not . . . any form is the normal one for ordinary statements. In fact several of the sentences below sound unusual in speech.\n\n* * *\n\n● Reword the following no-sentences in the not . . . any form. Use the contracted -n't forms:\n1 I have no time to help you.\n2 There is no more sugar.\n3 I can see my hat nowhere.\n4 He likes no girls with red hair.\n5 We have seen nobody we know yet.\n6 They want nothing to eat.\n7 I have no more money.\n8 There are no apples on the tree.\n9 There was nobody in the garden.\n10 The poor little boy has no shoes to wear.\n11 There is nowhere for you to sleep.\n12 The cook has put no salt in the cabbage.\n13 They will do no more work.\n14 There was nothing left.\n15 The chicken has laid no eggs today.\n16 I want no more, thank you.\n17 He gave me nothing to drink.\n18 I'll give it to nobody else.\n19 He gave me no ink, so I could write no more.\n20 My uncle can see nothing without his glasses.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "12 no = not . . . any\n25",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 999,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9661744175659941,
+      "minimum_page_confidence_score": 0.17366571812791945
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 22,
+        "bottom_right_x": 319,
+        "bottom_right_y": 42,
+        "content": "12 no = not . . . any",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9384338572281554,
+          "minimum_content_confidence_score": 0.6707993439396518,
+          "block_type_confidence_score": 0.9978388171386218
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 627,
+        "top_left_y": 22,
+        "bottom_right_x": 652,
+        "bottom_right_y": 41,
+        "content": "25",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982375030597144,
+          "minimum_content_confidence_score": 0.9982375030597144,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 76,
+        "bottom_right_x": 632,
+        "bottom_right_y": 142,
+        "content": "19 Have you read — good books lately?\n20 Are there — lemons in the cupboard? We could make — lemonade.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982148665060002,
+          "minimum_content_confidence_score": 0.9666448711095602,
+          "block_type_confidence_score": 0.817481456966134
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 130,
+        "top_left_y": 201,
+        "bottom_right_x": 383,
+        "bottom_right_y": 232,
+        "content": "# 12 no = not . . . any",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9422528241228267,
+          "minimum_content_confidence_score": 0.6513420870635355,
+          "block_type_confidence_score": 0.9361540767772051
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 281,
+        "bottom_right_x": 88,
+        "bottom_right_y": 301,
+        "content": "# 12.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9891893069639832,
+          "minimum_content_confidence_score": 0.9820137577607906,
+          "block_type_confidence_score": 0.5275310322559481
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 303,
+        "bottom_right_x": 142,
+        "bottom_right_y": 322,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999333081279804,
+          "minimum_content_confidence_score": 0.9987115792343725,
+          "block_type_confidence_score": 0.7304987082829588
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 282,
+        "bottom_right_x": 263,
+        "bottom_right_y": 303,
+        "content": "# Compare:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999907150288934,
+          "minimum_content_confidence_score": 0.9999861984066315,
+          "block_type_confidence_score": 0.6224290187135971
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 307,
+        "bottom_right_x": 418,
+        "bottom_right_y": 326,
+        "content": "Come nowhere near me!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999165701236071,
+          "minimum_content_confidence_score": 0.9997546088326152,
+          "block_type_confidence_score": 0.9965377930069435
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 327,
+        "bottom_right_x": 476,
+        "bottom_right_y": 347,
+        "content": "Don't come anywhere near me!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999379897436023,
+          "minimum_content_confidence_score": 0.9969272327011399,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 356,
+        "bottom_right_x": 655,
+        "bottom_right_y": 416,
+        "content": "Both are grammatically correct, but the not . . . any form is the normal one for ordinary statements. In fact several of the sentences below sound unusual in speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9869926485956547,
+          "minimum_content_confidence_score": 0.6207316534402875,
+          "block_type_confidence_score": 0.9996988488532895
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 359,
+        "top_left_y": 431,
+        "bottom_right_x": 464,
+        "bottom_right_y": 444,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998381344402881,
+          "minimum_content_confidence_score": 0.9962265370901328,
+          "block_type_confidence_score": 0.9999847414437658
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 456,
+        "bottom_right_x": 653,
+        "bottom_right_y": 936,
+        "content": "● Reword the following no-sentences in the not . . . any form. Use the contracted -n't forms:\n1 I have no time to help you.\n2 There is no more sugar.\n3 I can see my hat nowhere.\n4 He likes no girls with red hair.\n5 We have seen nobody we know yet.\n6 They want nothing to eat.\n7 I have no more money.\n8 There are no apples on the tree.\n9 There was nobody in the garden.\n10 The poor little boy has no shoes to wear.\n11 There is nowhere for you to sleep.\n12 The cook has put no salt in the cabbage.\n13 They will do no more work.\n14 There was nothing left.\n15 The chicken has laid no eggs today.\n16 I want no more, thank you.\n17 He gave me nothing to drink.\n18 I'll give it to nobody else.\n19 He gave me no ink, so I could write no more.\n20 My uncle can see nothing without his glasses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989060410941301,
+          "minimum_content_confidence_score": 0.9031889896628564,
+          "block_type_confidence_score": 0.998228118786375
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

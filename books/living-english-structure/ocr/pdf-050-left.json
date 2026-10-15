@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-050-left",
+    "pdf_page": 50,
+    "side": "left",
+    "reading_order": 99
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "41 They build a house.\n42 The sick man gets better.\n43 I eat my lunch quickly.\n44 Flowers grow in my garden.\n45 The soldier fights the enemy.\n46 I want coffee for breakfast.\n47 We buy meat.\n48 He feeds his horse.\n49 She loses her way.\n50 A baker sells bread.\n51 I bend my arm.\n52 We swim in the sea.\n53 She understands everything.\n54 I see a beautiful tie in the shop window.\n55 The wind blows strongly.\n56 He thinks hard.\n57 I feel ill.\n58 We go out every day.\n59 The picture hangs on the wall.\n60 Her knee hurts her.\n61 I use my car every day.\n62 We keep our handkerchiefs in the drawer.\n63 They meet outside the cinema.\n64 He always pays the bill.\n65 I play football every Saturday.\n66 I read a book before I go to bed.\n67 He smokes a pipe after supper.\n68 She shuts the door softly.\n69 The artist draws a picture.\n70 I write letters on Sundays.\n71 She lights the fire every morning.\n72 You hear a noise.\n73 The little boy stands on a chair.\n74 She always sits down when she is tired.\n75 We let the cat out at night.\n\n# 24.2\n\n# Elementary\n\n# PAST TENSE\n\n# QUESTION\n\n# FORM\n\nShe came here yesterday.\n\nDid she come here yesterday?\n\nDidn't she come here yesterday?\n\nNotice that most of the second type can be spoken so as to expect the answer yes.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "88\n24 Past Tense",
+    "footer": "* * *",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9694217734740819,
+      "minimum_page_confidence_score": 0.3104166847195624
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 26,
+        "bottom_right_x": 48,
+        "bottom_right_y": 44,
+        "content": "88",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995634078704312,
+          "minimum_content_confidence_score": 0.9995634078704312,
+          "block_type_confidence_score": 0.9999760673502817
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 26,
+        "bottom_right_x": 240,
+        "bottom_right_y": 44,
+        "content": "24 Past Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969249633284122,
+          "minimum_content_confidence_score": 0.9912229712314597,
+          "block_type_confidence_score": 0.9975218773316956
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 80,
+        "bottom_right_x": 528,
+        "bottom_right_y": 844,
+        "content": "41 They build a house.\n42 The sick man gets better.\n43 I eat my lunch quickly.\n44 Flowers grow in my garden.\n45 The soldier fights the enemy.\n46 I want coffee for breakfast.\n47 We buy meat.\n48 He feeds his horse.\n49 She loses her way.\n50 A baker sells bread.\n51 I bend my arm.\n52 We swim in the sea.\n53 She understands everything.\n54 I see a beautiful tie in the shop window.\n55 The wind blows strongly.\n56 He thinks hard.\n57 I feel ill.\n58 We go out every day.\n59 The picture hangs on the wall.\n60 Her knee hurts her.\n61 I use my car every day.\n62 We keep our handkerchiefs in the drawer.\n63 They meet outside the cinema.\n64 He always pays the bill.\n65 I play football every Saturday.\n66 I read a book before I go to bed.\n67 He smokes a pipe after supper.\n68 She shuts the door softly.\n69 The artist draws a picture.\n70 I write letters on Sundays.\n71 She lights the fire every morning.\n72 You hear a noise.\n73 The little boy stands on a chair.\n74 She always sits down when she is tired.\n75 We let the cat out at night.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997227206205576,
+          "minimum_content_confidence_score": 0.946341540871424,
+          "block_type_confidence_score": 0.8354676301910797
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 863,
+        "bottom_right_x": 73,
+        "bottom_right_y": 882,
+        "content": "# 24.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8475012802638858,
+          "minimum_content_confidence_score": 0.7772978047628848,
+          "block_type_confidence_score": 0.5857623834457608
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 883,
+        "bottom_right_x": 124,
+        "bottom_right_y": 903,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940245604346474,
+          "minimum_content_confidence_score": 0.9880580614860256,
+          "block_type_confidence_score": 0.8806087903317211
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 906,
+        "bottom_right_x": 121,
+        "bottom_right_y": 923,
+        "content": "# PAST TENSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993055618112455,
+          "minimum_content_confidence_score": 0.9979433159490033,
+          "block_type_confidence_score": 0.8669866275228804
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 925,
+        "bottom_right_x": 108,
+        "bottom_right_y": 942,
+        "content": "# QUESTION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999997496614732,
+          "minimum_content_confidence_score": 0.9999955892755635,
+          "block_type_confidence_score": 0.9998131147615048
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 945,
+        "bottom_right_x": 77,
+        "bottom_right_y": 962,
+        "content": "# FORM",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999799140175412,
+          "minimum_content_confidence_score": 0.9999604240811819,
+          "block_type_confidence_score": 0.9997916655779531
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 863,
+        "bottom_right_x": 360,
+        "bottom_right_y": 884,
+        "content": "She came here yesterday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999280591976003,
+          "minimum_content_confidence_score": 0.999782609520905,
+          "block_type_confidence_score": 0.9997064737098825
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 193,
+        "top_left_y": 886,
+        "bottom_right_x": 438,
+        "bottom_right_y": 908,
+        "content": "Did she come here yesterday?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999645816721336,
+          "minimum_content_confidence_score": 0.9999164412717095,
+          "block_type_confidence_score": 0.9999324129015863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 193,
+        "top_left_y": 908,
+        "bottom_right_x": 458,
+        "bottom_right_y": 928,
+        "content": "Didn't she come here yesterday?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998444954381774,
+          "minimum_content_confidence_score": 0.9992468065435859,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 936,
+        "bottom_right_x": 618,
+        "bottom_right_y": 978,
+        "content": "Notice that most of the second type can be spoken so as to expect the answer yes.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9904263151882984,
+          "minimum_content_confidence_score": 0.8665110764551458,
+          "block_type_confidence_score": 0.9999693641511719
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 336,
+        "top_left_y": 988,
+        "bottom_right_x": 438,
+        "bottom_right_y": 1002,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957744038587489,
+          "minimum_content_confidence_score": 0.9900764660651802,
+          "block_type_confidence_score": 0.8653438339487749
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1406 @@
+{
+  "method": "72 dpi grayscale, central 90% width / 92% height, pixel intensity below 96",
+  "review_threshold": 0.005,
+  "pages": [
+    {
+      "id": "pdf-001-left",
+      "ink_ratio": 0.0
+    },
+    {
+      "id": "pdf-001-right",
+      "ink_ratio": 0.51535
+    },
+    {
+      "id": "pdf-002-left",
+      "ink_ratio": 0.001255
+    },
+    {
+      "id": "pdf-002-right",
+      "ink_ratio": 0.015756
+    },
+    {
+      "id": "pdf-003-left",
+      "ink_ratio": 0.039593
+    },
+    {
+      "id": "pdf-003-right",
+      "ink_ratio": 0.083114
+    },
+    {
+      "id": "pdf-004-left",
+      "ink_ratio": 0.057441
+    },
+    {
+      "id": "pdf-004-right",
+      "ink_ratio": 0.127869
+    },
+    {
+      "id": "pdf-005-left",
+      "ink_ratio": 0.163145
+    },
+    {
+      "id": "pdf-005-right",
+      "ink_ratio": 0.153814
+    },
+    {
+      "id": "pdf-006-left",
+      "ink_ratio": 0.001145
+    },
+    {
+      "id": "pdf-006-right",
+      "ink_ratio": 0.086281
+    },
+    {
+      "id": "pdf-007-left",
+      "ink_ratio": 0.08606
+    },
+    {
+      "id": "pdf-007-right",
+      "ink_ratio": 0.092527
+    },
+    {
+      "id": "pdf-008-left",
+      "ink_ratio": 0.090682
+    },
+    {
+      "id": "pdf-008-right",
+      "ink_ratio": 0.105589
+    },
+    {
+      "id": "pdf-009-left",
+      "ink_ratio": 0.10377
+    },
+    {
+      "id": "pdf-009-right",
+      "ink_ratio": 0.088934
+    },
+    {
+      "id": "pdf-010-left",
+      "ink_ratio": 0.069451
+    },
+    {
+      "id": "pdf-010-right",
+      "ink_ratio": 0.080004
+    },
+    {
+      "id": "pdf-011-left",
+      "ink_ratio": 0.096355
+    },
+    {
+      "id": "pdf-011-right",
+      "ink_ratio": 0.108502
+    },
+    {
+      "id": "pdf-012-left",
+      "ink_ratio": 0.111684
+    },
+    {
+      "id": "pdf-012-right",
+      "ink_ratio": 0.128976
+    },
+    {
+      "id": "pdf-013-left",
+      "ink_ratio": 0.107506
+    },
+    {
+      "id": "pdf-013-right",
+      "ink_ratio": 0.125846
+    },
+    {
+      "id": "pdf-014-left",
+      "ink_ratio": 0.10356
+    },
+    {
+      "id": "pdf-014-right",
+      "ink_ratio": 0.091582
+    },
+    {
+      "id": "pdf-015-left",
+      "ink_ratio": 0.094866
+    },
+    {
+      "id": "pdf-015-right",
+      "ink_ratio": 0.077406
+    },
+    {
+      "id": "pdf-016-left",
+      "ink_ratio": 0.102704
+    },
+    {
+      "id": "pdf-016-right",
+      "ink_ratio": 0.085764
+    },
+    {
+      "id": "pdf-017-left",
+      "ink_ratio": 0.085997
+    },
+    {
+      "id": "pdf-017-right",
+      "ink_ratio": 0.107936
+    },
+    {
+      "id": "pdf-018-left",
+      "ink_ratio": 0.100197
+    },
+    {
+      "id": "pdf-018-right",
+      "ink_ratio": 0.083585
+    },
+    {
+      "id": "pdf-019-left",
+      "ink_ratio": 0.093613
+    },
+    {
+      "id": "pdf-019-right",
+      "ink_ratio": 0.102418
+    },
+    {
+      "id": "pdf-020-left",
+      "ink_ratio": 0.092108
+    },
+    {
+      "id": "pdf-020-right",
+      "ink_ratio": 0.105386
+    },
+    {
+      "id": "pdf-021-left",
+      "ink_ratio": 0.087514
+    },
+    {
+      "id": "pdf-021-right",
+      "ink_ratio": 0.090026
+    },
+    {
+      "id": "pdf-022-left",
+      "ink_ratio": 0.10768
+    },
+    {
+      "id": "pdf-022-right",
+      "ink_ratio": 0.104595
+    },
+    {
+      "id": "pdf-023-left",
+      "ink_ratio": 0.101354
+    },
+    {
+      "id": "pdf-023-right",
+      "ink_ratio": 0.095544
+    },
+    {
+      "id": "pdf-024-left",
+      "ink_ratio": 0.114018
+    },
+    {
+      "id": "pdf-024-right",
+      "ink_ratio": 0.101136
+    },
+    {
+      "id": "pdf-025-left",
+      "ink_ratio": 0.114007
+    },
+    {
+      "id": "pdf-025-right",
+      "ink_ratio": 0.12225
+    },
+    {
+      "id": "pdf-026-left",
+      "ink_ratio": 0.106035
+    },
+    {
+      "id": "pdf-026-right",
+      "ink_ratio": 0.089381
+    },
+    {
+      "id": "pdf-027-left",
+      "ink_ratio": 0.084211
+    },
+    {
+      "id": "pdf-027-right",
+      "ink_ratio": 0.107712
+    },
+    {
+      "id": "pdf-028-left",
+      "ink_ratio": 0.12013
+    },
+    {
+      "id": "pdf-028-right",
+      "ink_ratio": 0.107232
+    },
+    {
+      "id": "pdf-029-left",
+      "ink_ratio": 0.107391
+    },
+    {
+      "id": "pdf-029-right",
+      "ink_ratio": 0.09561
+    },
+    {
+      "id": "pdf-030-left",
+      "ink_ratio": 0.108844
+    },
+    {
+      "id": "pdf-030-right",
+      "ink_ratio": 0.106814
+    },
+    {
+      "id": "pdf-031-left",
+      "ink_ratio": 0.097656
+    },
+    {
+      "id": "pdf-031-right",
+      "ink_ratio": 0.089164
+    },
+    {
+      "id": "pdf-032-left",
+      "ink_ratio": 0.10302
+    },
+    {
+      "id": "pdf-032-right",
+      "ink_ratio": 0.096525
+    },
+    {
+      "id": "pdf-033-left",
+      "ink_ratio": 0.094923
+    },
+    {
+      "id": "pdf-033-right",
+      "ink_ratio": 0.099176
+    },
+    {
+      "id": "pdf-034-left",
+      "ink_ratio": 0.101997
+    },
+    {
+      "id": "pdf-034-right",
+      "ink_ratio": 0.103826
+    },
+    {
+      "id": "pdf-035-left",
+      "ink_ratio": 0.098916
+    },
+    {
+      "id": "pdf-035-right",
+      "ink_ratio": 0.109806
+    },
+    {
+      "id": "pdf-036-left",
+      "ink_ratio": 0.082356
+    },
+    {
+      "id": "pdf-036-right",
+      "ink_ratio": 0.089477
+    },
+    {
+      "id": "pdf-037-left",
+      "ink_ratio": 0.083669
+    },
+    {
+      "id": "pdf-037-right",
+      "ink_ratio": 0.080194
+    },
+    {
+      "id": "pdf-038-left",
+      "ink_ratio": 0.077215
+    },
+    {
+      "id": "pdf-038-right",
+      "ink_ratio": 0.084872
+    },
+    {
+      "id": "pdf-039-left",
+      "ink_ratio": 0.10224
+    },
+    {
+      "id": "pdf-039-right",
+      "ink_ratio": 0.108069
+    },
+    {
+      "id": "pdf-040-left",
+      "ink_ratio": 0.126401
+    },
+    {
+      "id": "pdf-040-right",
+      "ink_ratio": 0.12321
+    },
+    {
+      "id": "pdf-041-left",
+      "ink_ratio": 0.102164
+    },
+    {
+      "id": "pdf-041-right",
+      "ink_ratio": 0.108327
+    },
+    {
+      "id": "pdf-042-left",
+      "ink_ratio": 0.122473
+    },
+    {
+      "id": "pdf-042-right",
+      "ink_ratio": 0.109656
+    },
+    {
+      "id": "pdf-043-left",
+      "ink_ratio": 0.087214
+    },
+    {
+      "id": "pdf-043-right",
+      "ink_ratio": 0.123898
+    },
+    {
+      "id": "pdf-044-left",
+      "ink_ratio": 0.120512
+    },
+    {
+      "id": "pdf-044-right",
+      "ink_ratio": 0.120333
+    },
+    {
+      "id": "pdf-045-left",
+      "ink_ratio": 0.111763
+    },
+    {
+      "id": "pdf-045-right",
+      "ink_ratio": 0.110783
+    },
+    {
+      "id": "pdf-046-left",
+      "ink_ratio": 0.11368
+    },
+    {
+      "id": "pdf-046-right",
+      "ink_ratio": 0.117786
+    },
+    {
+      "id": "pdf-047-left",
+      "ink_ratio": 0.099019
+    },
+    {
+      "id": "pdf-047-right",
+      "ink_ratio": 0.099357
+    },
+    {
+      "id": "pdf-048-left",
+      "ink_ratio": 0.102219
+    },
+    {
+      "id": "pdf-048-right",
+      "ink_ratio": 0.108705
+    },
+    {
+      "id": "pdf-049-left",
+      "ink_ratio": 0.108314
+    },
+    {
+      "id": "pdf-049-right",
+      "ink_ratio": 0.071827
+    },
+    {
+      "id": "pdf-050-left",
+      "ink_ratio": 0.086348
+    },
+    {
+      "id": "pdf-050-right",
+      "ink_ratio": 0.087043
+    },
+    {
+      "id": "pdf-051-left",
+      "ink_ratio": 0.112785
+    },
+    {
+      "id": "pdf-051-right",
+      "ink_ratio": 0.09973
+    },
+    {
+      "id": "pdf-052-left",
+      "ink_ratio": 0.09118
+    },
+    {
+      "id": "pdf-052-right",
+      "ink_ratio": 0.112474
+    },
+    {
+      "id": "pdf-053-left",
+      "ink_ratio": 0.105058
+    },
+    {
+      "id": "pdf-053-right",
+      "ink_ratio": 0.096305
+    },
+    {
+      "id": "pdf-054-left",
+      "ink_ratio": 0.092399
+    },
+    {
+      "id": "pdf-054-right",
+      "ink_ratio": 0.105678
+    },
+    {
+      "id": "pdf-055-left",
+      "ink_ratio": 0.105887
+    },
+    {
+      "id": "pdf-055-right",
+      "ink_ratio": 0.114156
+    },
+    {
+      "id": "pdf-056-left",
+      "ink_ratio": 0.116519
+    },
+    {
+      "id": "pdf-056-right",
+      "ink_ratio": 0.107326
+    },
+    {
+      "id": "pdf-057-left",
+      "ink_ratio": 0.131027
+    },
+    {
+      "id": "pdf-057-right",
+      "ink_ratio": 0.12436
+    },
+    {
+      "id": "pdf-058-left",
+      "ink_ratio": 0.116236
+    },
+    {
+      "id": "pdf-058-right",
+      "ink_ratio": 0.119728
+    },
+    {
+      "id": "pdf-059-left",
+      "ink_ratio": 0.112559
+    },
+    {
+      "id": "pdf-059-right",
+      "ink_ratio": 0.121004
+    },
+    {
+      "id": "pdf-060-left",
+      "ink_ratio": 0.115371
+    },
+    {
+      "id": "pdf-060-right",
+      "ink_ratio": 0.117592
+    },
+    {
+      "id": "pdf-061-left",
+      "ink_ratio": 0.124024
+    },
+    {
+      "id": "pdf-061-right",
+      "ink_ratio": 0.104169
+    },
+    {
+      "id": "pdf-062-left",
+      "ink_ratio": 0.119761
+    },
+    {
+      "id": "pdf-062-right",
+      "ink_ratio": 0.104996
+    },
+    {
+      "id": "pdf-063-left",
+      "ink_ratio": 0.111784
+    },
+    {
+      "id": "pdf-063-right",
+      "ink_ratio": 0.105656
+    },
+    {
+      "id": "pdf-064-left",
+      "ink_ratio": 0.103785
+    },
+    {
+      "id": "pdf-064-right",
+      "ink_ratio": 0.108046
+    },
+    {
+      "id": "pdf-065-left",
+      "ink_ratio": 0.105329
+    },
+    {
+      "id": "pdf-065-right",
+      "ink_ratio": 0.115261
+    },
+    {
+      "id": "pdf-066-left",
+      "ink_ratio": 0.107319
+    },
+    {
+      "id": "pdf-066-right",
+      "ink_ratio": 0.119734
+    },
+    {
+      "id": "pdf-067-left",
+      "ink_ratio": 0.093452
+    },
+    {
+      "id": "pdf-067-right",
+      "ink_ratio": 0.117995
+    },
+    {
+      "id": "pdf-068-left",
+      "ink_ratio": 0.108741
+    },
+    {
+      "id": "pdf-068-right",
+      "ink_ratio": 0.145131
+    },
+    {
+      "id": "pdf-069-left",
+      "ink_ratio": 0.11672
+    },
+    {
+      "id": "pdf-069-right",
+      "ink_ratio": 0.106284
+    },
+    {
+      "id": "pdf-070-left",
+      "ink_ratio": 0.101768
+    },
+    {
+      "id": "pdf-070-right",
+      "ink_ratio": 0.10527
+    },
+    {
+      "id": "pdf-071-left",
+      "ink_ratio": 0.111385
+    },
+    {
+      "id": "pdf-071-right",
+      "ink_ratio": 0.117595
+    },
+    {
+      "id": "pdf-072-left",
+      "ink_ratio": 0.11842
+    },
+    {
+      "id": "pdf-072-right",
+      "ink_ratio": 0.111082
+    },
+    {
+      "id": "pdf-073-left",
+      "ink_ratio": 0.100617
+    },
+    {
+      "id": "pdf-073-right",
+      "ink_ratio": 0.118107
+    },
+    {
+      "id": "pdf-074-left",
+      "ink_ratio": 0.123532
+    },
+    {
+      "id": "pdf-074-right",
+      "ink_ratio": 0.107647
+    },
+    {
+      "id": "pdf-075-left",
+      "ink_ratio": 0.113329
+    },
+    {
+      "id": "pdf-075-right",
+      "ink_ratio": 0.107807
+    },
+    {
+      "id": "pdf-076-left",
+      "ink_ratio": 0.105541
+    },
+    {
+      "id": "pdf-076-right",
+      "ink_ratio": 0.122312
+    },
+    {
+      "id": "pdf-077-left",
+      "ink_ratio": 0.108451
+    },
+    {
+      "id": "pdf-077-right",
+      "ink_ratio": 0.1256
+    },
+    {
+      "id": "pdf-078-left",
+      "ink_ratio": 0.115074
+    },
+    {
+      "id": "pdf-078-right",
+      "ink_ratio": 0.11248
+    },
+    {
+      "id": "pdf-079-left",
+      "ink_ratio": 0.112823
+    },
+    {
+      "id": "pdf-079-right",
+      "ink_ratio": 0.118221
+    },
+    {
+      "id": "pdf-080-left",
+      "ink_ratio": 0.112702
+    },
+    {
+      "id": "pdf-080-right",
+      "ink_ratio": 0.112203
+    },
+    {
+      "id": "pdf-081-left",
+      "ink_ratio": 0.101534
+    },
+    {
+      "id": "pdf-081-right",
+      "ink_ratio": 0.102595
+    },
+    {
+      "id": "pdf-082-left",
+      "ink_ratio": 0.11739
+    },
+    {
+      "id": "pdf-082-right",
+      "ink_ratio": 0.100439
+    },
+    {
+      "id": "pdf-083-left",
+      "ink_ratio": 0.099519
+    },
+    {
+      "id": "pdf-083-right",
+      "ink_ratio": 0.086273
+    },
+    {
+      "id": "pdf-084-left",
+      "ink_ratio": 0.078367
+    },
+    {
+      "id": "pdf-084-right",
+      "ink_ratio": 0.092774
+    },
+    {
+      "id": "pdf-085-left",
+      "ink_ratio": 0.082876
+    },
+    {
+      "id": "pdf-085-right",
+      "ink_ratio": 0.105802
+    },
+    {
+      "id": "pdf-086-left",
+      "ink_ratio": 0.08662
+    },
+    {
+      "id": "pdf-086-right",
+      "ink_ratio": 0.112681
+    },
+    {
+      "id": "pdf-087-left",
+      "ink_ratio": 0.108727
+    },
+    {
+      "id": "pdf-087-right",
+      "ink_ratio": 0.099864
+    },
+    {
+      "id": "pdf-088-left",
+      "ink_ratio": 0.116824
+    },
+    {
+      "id": "pdf-088-right",
+      "ink_ratio": 0.105461
+    },
+    {
+      "id": "pdf-089-left",
+      "ink_ratio": 0.101053
+    },
+    {
+      "id": "pdf-089-right",
+      "ink_ratio": 0.095557
+    },
+    {
+      "id": "pdf-090-left",
+      "ink_ratio": 0.094394
+    },
+    {
+      "id": "pdf-090-right",
+      "ink_ratio": 0.099878
+    },
+    {
+      "id": "pdf-091-left",
+      "ink_ratio": 0.102345
+    },
+    {
+      "id": "pdf-091-right",
+      "ink_ratio": 0.120914
+    },
+    {
+      "id": "pdf-092-left",
+      "ink_ratio": 0.115065
+    },
+    {
+      "id": "pdf-092-right",
+      "ink_ratio": 0.095516
+    },
+    {
+      "id": "pdf-093-left",
+      "ink_ratio": 0.093846
+    },
+    {
+      "id": "pdf-093-right",
+      "ink_ratio": 0.100505
+    },
+    {
+      "id": "pdf-094-left",
+      "ink_ratio": 0.104428
+    },
+    {
+      "id": "pdf-094-right",
+      "ink_ratio": 0.087101
+    },
+    {
+      "id": "pdf-095-left",
+      "ink_ratio": 0.10828
+    },
+    {
+      "id": "pdf-095-right",
+      "ink_ratio": 0.116056
+    },
+    {
+      "id": "pdf-096-left",
+      "ink_ratio": 0.113449
+    },
+    {
+      "id": "pdf-096-right",
+      "ink_ratio": 0.114206
+    },
+    {
+      "id": "pdf-097-left",
+      "ink_ratio": 0.098255
+    },
+    {
+      "id": "pdf-097-right",
+      "ink_ratio": 0.099751
+    },
+    {
+      "id": "pdf-098-left",
+      "ink_ratio": 0.109696
+    },
+    {
+      "id": "pdf-098-right",
+      "ink_ratio": 0.104563
+    },
+    {
+      "id": "pdf-099-left",
+      "ink_ratio": 0.115033
+    },
+    {
+      "id": "pdf-099-right",
+      "ink_ratio": 0.099779
+    },
+    {
+      "id": "pdf-100-left",
+      "ink_ratio": 0.110324
+    },
+    {
+      "id": "pdf-100-right",
+      "ink_ratio": 0.113297
+    },
+    {
+      "id": "pdf-101-left",
+      "ink_ratio": 0.11802
+    },
+    {
+      "id": "pdf-101-right",
+      "ink_ratio": 0.11192
+    },
+    {
+      "id": "pdf-102-left",
+      "ink_ratio": 0.123798
+    },
+    {
+      "id": "pdf-102-right",
+      "ink_ratio": 0.116079
+    },
+    {
+      "id": "pdf-103-left",
+      "ink_ratio": 0.10576
+    },
+    {
+      "id": "pdf-103-right",
+      "ink_ratio": 0.106444
+    },
+    {
+      "id": "pdf-104-left",
+      "ink_ratio": 0.098877
+    },
+    {
+      "id": "pdf-104-right",
+      "ink_ratio": 0.102173
+    },
+    {
+      "id": "pdf-105-left",
+      "ink_ratio": 0.082717
+    },
+    {
+      "id": "pdf-105-right",
+      "ink_ratio": 0.086224
+    },
+    {
+      "id": "pdf-106-left",
+      "ink_ratio": 0.088652
+    },
+    {
+      "id": "pdf-106-right",
+      "ink_ratio": 0.091053
+    },
+    {
+      "id": "pdf-107-left",
+      "ink_ratio": 0.081728
+    },
+    {
+      "id": "pdf-107-right",
+      "ink_ratio": 0.084563
+    },
+    {
+      "id": "pdf-108-left",
+      "ink_ratio": 0.091388
+    },
+    {
+      "id": "pdf-108-right",
+      "ink_ratio": 0.108098
+    },
+    {
+      "id": "pdf-109-left",
+      "ink_ratio": 0.101515
+    },
+    {
+      "id": "pdf-109-right",
+      "ink_ratio": 0.111319
+    },
+    {
+      "id": "pdf-110-left",
+      "ink_ratio": 0.095383
+    },
+    {
+      "id": "pdf-110-right",
+      "ink_ratio": 0.101726
+    },
+    {
+      "id": "pdf-111-left",
+      "ink_ratio": 0.107804
+    },
+    {
+      "id": "pdf-111-right",
+      "ink_ratio": 0.112197
+    },
+    {
+      "id": "pdf-112-left",
+      "ink_ratio": 0.118537
+    },
+    {
+      "id": "pdf-112-right",
+      "ink_ratio": 0.111309
+    },
+    {
+      "id": "pdf-113-left",
+      "ink_ratio": 0.097643
+    },
+    {
+      "id": "pdf-113-right",
+      "ink_ratio": 0.119657
+    },
+    {
+      "id": "pdf-114-left",
+      "ink_ratio": 0.126403
+    },
+    {
+      "id": "pdf-114-right",
+      "ink_ratio": 0.122508
+    },
+    {
+      "id": "pdf-115-left",
+      "ink_ratio": 0.10527
+    },
+    {
+      "id": "pdf-115-right",
+      "ink_ratio": 0.109903
+    },
+    {
+      "id": "pdf-116-left",
+      "ink_ratio": 0.119063
+    },
+    {
+      "id": "pdf-116-right",
+      "ink_ratio": 0.112766
+    },
+    {
+      "id": "pdf-117-left",
+      "ink_ratio": 0.123974
+    },
+    {
+      "id": "pdf-117-right",
+      "ink_ratio": 0.135834
+    },
+    {
+      "id": "pdf-118-left",
+      "ink_ratio": 0.126342
+    },
+    {
+      "id": "pdf-118-right",
+      "ink_ratio": 0.133672
+    },
+    {
+      "id": "pdf-119-left",
+      "ink_ratio": 0.145755
+    },
+    {
+      "id": "pdf-119-right",
+      "ink_ratio": 0.103564
+    },
+    {
+      "id": "pdf-120-left",
+      "ink_ratio": 0.109816
+    },
+    {
+      "id": "pdf-120-right",
+      "ink_ratio": 0.119188
+    },
+    {
+      "id": "pdf-121-left",
+      "ink_ratio": 0.112792
+    },
+    {
+      "id": "pdf-121-right",
+      "ink_ratio": 0.098711
+    },
+    {
+      "id": "pdf-122-left",
+      "ink_ratio": 0.095212
+    },
+    {
+      "id": "pdf-122-right",
+      "ink_ratio": 0.120342
+    },
+    {
+      "id": "pdf-123-left",
+      "ink_ratio": 0.100196
+    },
+    {
+      "id": "pdf-123-right",
+      "ink_ratio": 0.105183
+    },
+    {
+      "id": "pdf-124-left",
+      "ink_ratio": 0.101264
+    },
+    {
+      "id": "pdf-124-right",
+      "ink_ratio": 0.118486
+    },
+    {
+      "id": "pdf-125-left",
+      "ink_ratio": 0.100812
+    },
+    {
+      "id": "pdf-125-right",
+      "ink_ratio": 0.11067
+    },
+    {
+      "id": "pdf-126-left",
+      "ink_ratio": 0.111671
+    },
+    {
+      "id": "pdf-126-right",
+      "ink_ratio": 0.099019
+    },
+    {
+      "id": "pdf-127-left",
+      "ink_ratio": 0.100675
+    },
+    {
+      "id": "pdf-127-right",
+      "ink_ratio": 0.100627
+    },
+    {
+      "id": "pdf-128-left",
+      "ink_ratio": 0.110363
+    },
+    {
+      "id": "pdf-128-right",
+      "ink_ratio": 0.109884
+    },
+    {
+      "id": "pdf-129-left",
+      "ink_ratio": 0.081329
+    },
+    {
+      "id": "pdf-129-right",
+      "ink_ratio": 0.08604
+    },
+    {
+      "id": "pdf-130-left",
+      "ink_ratio": 0.105302
+    },
+    {
+      "id": "pdf-130-right",
+      "ink_ratio": 0.107676
+    },
+    {
+      "id": "pdf-131-left",
+      "ink_ratio": 0.091858
+    },
+    {
+      "id": "pdf-131-right",
+      "ink_ratio": 0.10071
+    },
+    {
+      "id": "pdf-132-left",
+      "ink_ratio": 0.123116
+    },
+    {
+      "id": "pdf-132-right",
+      "ink_ratio": 0.114449
+    },
+    {
+      "id": "pdf-133-left",
+      "ink_ratio": 0.095026
+    },
+    {
+      "id": "pdf-133-right",
+      "ink_ratio": 0.113401
+    },
+    {
+      "id": "pdf-134-left",
+      "ink_ratio": 0.098151
+    },
+    {
+      "id": "pdf-134-right",
+      "ink_ratio": 0.115559
+    },
+    {
+      "id": "pdf-135-left",
+      "ink_ratio": 0.124457
+    },
+    {
+      "id": "pdf-135-right",
+      "ink_ratio": 0.108386
+    },
+    {
+      "id": "pdf-136-left",
+      "ink_ratio": 0.115673
+    },
+    {
+      "id": "pdf-136-right",
+      "ink_ratio": 0.108877
+    },
+    {
+      "id": "pdf-137-left",
+      "ink_ratio": 0.109775
+    },
+    {
+      "id": "pdf-137-right",
+      "ink_ratio": 0.097101
+    },
+    {
+      "id": "pdf-138-left",
+      "ink_ratio": 0.106656
+    },
+    {
+      "id": "pdf-138-right",
+      "ink_ratio": 0.121067
+    },
+    {
+      "id": "pdf-139-left",
+      "ink_ratio": 0.106927
+    },
+    {
+      "id": "pdf-139-right",
+      "ink_ratio": 0.096057
+    },
+    {
+      "id": "pdf-140-left",
+      "ink_ratio": 0.106882
+    },
+    {
+      "id": "pdf-140-right",
+      "ink_ratio": 0.11177
+    },
+    {
+      "id": "pdf-141-left",
+      "ink_ratio": 0.113947
+    },
+    {
+      "id": "pdf-141-right",
+      "ink_ratio": 0.115911
+    },
+    {
+      "id": "pdf-142-left",
+      "ink_ratio": 0.121213
+    },
+    {
+      "id": "pdf-142-right",
+      "ink_ratio": 0.124641
+    },
+    {
+      "id": "pdf-143-left",
+      "ink_ratio": 0.106958
+    },
+    {
+      "id": "pdf-143-right",
+      "ink_ratio": 0.107118
+    },
+    {
+      "id": "pdf-144-left",
+      "ink_ratio": 0.126642
+    },
+    {
+      "id": "pdf-144-right",
+      "ink_ratio": 0.11123
+    },
+    {
+      "id": "pdf-145-left",
+      "ink_ratio": 0.094519
+    },
+    {
+      "id": "pdf-145-right",
+      "ink_ratio": 0.10136
+    },
+    {
+      "id": "pdf-146-left",
+      "ink_ratio": 0.105427
+    },
+    {
+      "id": "pdf-146-right",
+      "ink_ratio": 0.112719
+    },
+    {
+      "id": "pdf-147-left",
+      "ink_ratio": 0.09822
+    },
+    {
+      "id": "pdf-147-right",
+      "ink_ratio": 0.11069
+    },
+    {
+      "id": "pdf-148-left",
+      "ink_ratio": 0.092927
+    },
+    {
+      "id": "pdf-148-right",
+      "ink_ratio": 0.113316
+    },
+    {
+      "id": "pdf-149-left",
+      "ink_ratio": 0.102957
+    },
+    {
+      "id": "pdf-149-right",
+      "ink_ratio": 0.100316
+    },
+    {
+      "id": "pdf-150-left",
+      "ink_ratio": 0.086635
+    },
+    {
+      "id": "pdf-150-right",
+      "ink_ratio": 0.086053
+    },
+    {
+      "id": "pdf-151-left",
+      "ink_ratio": 0.06597
+    },
+    {
+      "id": "pdf-151-right",
+      "ink_ratio": 0.052943
+    },
+    {
+      "id": "pdf-152-left",
+      "ink_ratio": 0.066527
+    },
+    {
+      "id": "pdf-152-right",
+      "ink_ratio": 0.109408
+    },
+    {
+      "id": "pdf-153-left",
+      "ink_ratio": 0.110037
+    },
+    {
+      "id": "pdf-153-right",
+      "ink_ratio": 0.114723
+    },
+    {
+      "id": "pdf-154-left",
+      "ink_ratio": 0.122249
+    },
+    {
+      "id": "pdf-154-right",
+      "ink_ratio": 0.100145
+    },
+    {
+      "id": "pdf-155-left",
+      "ink_ratio": 0.104409
+    },
+    {
+      "id": "pdf-155-right",
+      "ink_ratio": 0.108267
+    },
+    {
+      "id": "pdf-156-left",
+      "ink_ratio": 0.109992
+    },
+    {
+      "id": "pdf-156-right",
+      "ink_ratio": 0.113759
+    },
+    {
+      "id": "pdf-157-left",
+      "ink_ratio": 0.11006
+    },
+    {
+      "id": "pdf-157-right",
+      "ink_ratio": 0.098077
+    },
+    {
+      "id": "pdf-158-left",
+      "ink_ratio": 0.103243
+    },
+    {
+      "id": "pdf-158-right",
+      "ink_ratio": 0.104859
+    },
+    {
+      "id": "pdf-159-left",
+      "ink_ratio": 0.100359
+    },
+    {
+      "id": "pdf-159-right",
+      "ink_ratio": 0.102436
+    },
+    {
+      "id": "pdf-160-left",
+      "ink_ratio": 0.110637
+    },
+    {
+      "id": "pdf-160-right",
+      "ink_ratio": 0.112555
+    },
+    {
+      "id": "pdf-161-left",
+      "ink_ratio": 0.083938
+    },
+    {
+      "id": "pdf-161-right",
+      "ink_ratio": 0.089965
+    },
+    {
+      "id": "pdf-162-left",
+      "ink_ratio": 0.089087
+    },
+    {
+      "id": "pdf-162-right",
+      "ink_ratio": 0.099904
+    },
+    {
+      "id": "pdf-163-left",
+      "ink_ratio": 0.088681
+    },
+    {
+      "id": "pdf-163-right",
+      "ink_ratio": 0.110823
+    },
+    {
+      "id": "pdf-164-left",
+      "ink_ratio": 0.118533
+    },
+    {
+      "id": "pdf-164-right",
+      "ink_ratio": 0.114271
+    },
+    {
+      "id": "pdf-165-left",
+      "ink_ratio": 0.106357
+    },
+    {
+      "id": "pdf-165-right",
+      "ink_ratio": 0.088707
+    },
+    {
+      "id": "pdf-166-left",
+      "ink_ratio": 0.089607
+    },
+    {
+      "id": "pdf-166-right",
+      "ink_ratio": 0.113508
+    },
+    {
+      "id": "pdf-167-left",
+      "ink_ratio": 0.108032
+    },
+    {
+      "id": "pdf-167-right",
+      "ink_ratio": 0.103164
+    },
+    {
+      "id": "pdf-168-left",
+      "ink_ratio": 0.108472
+    },
+    {
+      "id": "pdf-168-right",
+      "ink_ratio": 0.111937
+    },
+    {
+      "id": "pdf-169-left",
+      "ink_ratio": 0.097478
+    },
+    {
+      "id": "pdf-169-right",
+      "ink_ratio": 0.100408
+    },
+    {
+      "id": "pdf-170-left",
+      "ink_ratio": 0.000818
+    },
+    {
+      "id": "pdf-170-right",
+      "ink_ratio": 0.110635
+    },
+    {
+      "id": "pdf-171-left",
+      "ink_ratio": 0.090378
+    },
+    {
+      "id": "pdf-171-right",
+      "ink_ratio": 0.1027
+    },
+    {
+      "id": "pdf-172-left",
+      "ink_ratio": 0.096089
+    },
+    {
+      "id": "pdf-172-right",
+      "ink_ratio": 0.100319
+    },
+    {
+      "id": "pdf-173-left",
+      "ink_ratio": 0.089629
+    },
+    {
+      "id": "pdf-173-right",
+      "ink_ratio": 0.111518
+    },
+    {
+      "id": "pdf-174-left",
+      "ink_ratio": 0.092142
+    },
+    {
+      "id": "pdf-174-right",
+      "ink_ratio": 0.090715
+    },
+    {
+      "id": "pdf-175-left",
+      "ink_ratio": 0.069805
+    },
+    {
+      "id": "pdf-175-right",
+      "ink_ratio": 0.000237
+    }
+  ]
+}

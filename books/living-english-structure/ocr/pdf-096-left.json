@@ -1,0 +1,109 @@
+{
+  "source": {
+    "id": "pdf-096-left",
+    "pdf_page": 96,
+    "side": "left",
+    "reading_order": 191
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:17.286698+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "8 Nobody minds you singing in class, but we can't stand you singing out of tune.\n9 Do you remember me asking for the book before?\n10 Cyril doesn't like the idea of me learning to ride his motor-cycle.\n11 Please forgive me asking such a personal question.\n12 Maisie can't understand me wanting to keep goldfish.\n13 Cyril says he doesn't remember you lending him any money.\n14 We shall miss you coming in to talk to us in the evenings.\n15 Our friends objected to us leaving so soon.\n16 I don't remember you having said before that you wanted to come.\n17 I don't much like the idea of Mary going home alone in the dark.\n18 You must please forgive us interrupting you in this way.\n19 Did your uncle agree to you coming to see me?\n20 I just can't understand you wanting to do this exercise again!\n\n39.3 (Elementary and) Intermediate ● Read the following, replacing the possessives in bold type by (pro)nouns:\n\n1 Would you mind my opening the window?\n2 My friend Cyril can't understand my treating him like that.\n3 I won't have your writing homework in pencil.\n4 Did you give it back without his asking you?\n5 Mother hates our eating and drinking between meals.\n6 I remember their coming in, long after midnight.\n7 I don't fancy his living with us for six months.\n8 Cyril will never forget my showing him how I can stand on my hands.\n9 I can't help your forgetting to bring your books.\n10 I can't imagine their refusing to pay for it.\n11 The teacher dislikes their sitting too far from the blackboard.\n12 The doctor doesn't object to my eating a little meat now and then.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "180\n39 -ing form – Gerund and Present Participle",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 1006,
+      "width": 655
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9811527900360734,
+      "minimum_page_confidence_score": 0.13656805376992615
+    },
+    "blocks": [
+      {
+        "top_left_x": 33,
+        "top_left_y": 30,
+        "bottom_right_x": 65,
+        "bottom_right_y": 49,
+        "content": "180",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999338432228186,
+          "minimum_content_confidence_score": 0.9999338432228186,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 30,
+        "bottom_right_x": 477,
+        "bottom_right_y": 50,
+        "content": "39 -ing form – Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9614652675478478,
+          "minimum_content_confidence_score": 0.7043818978944569,
+          "block_type_confidence_score": 0.9997936336409441
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 84,
+        "bottom_right_x": 590,
+        "bottom_right_y": 551,
+        "content": "8 Nobody minds you singing in class, but we can't stand you singing out of tune.\n9 Do you remember me asking for the book before?\n10 Cyril doesn't like the idea of me learning to ride his motor-cycle.\n11 Please forgive me asking such a personal question.\n12 Maisie can't understand me wanting to keep goldfish.\n13 Cyril says he doesn't remember you lending him any money.\n14 We shall miss you coming in to talk to us in the evenings.\n15 Our friends objected to us leaving so soon.\n16 I don't remember you having said before that you wanted to come.\n17 I don't much like the idea of Mary going home alone in the dark.\n18 You must please forgive us interrupting you in this way.\n19 Did your uncle agree to you coming to see me?\n20 I just can't understand you wanting to do this exercise again!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978855662090852,
+          "minimum_content_confidence_score": 0.8494363698766322,
+          "block_type_confidence_score": 0.982006399145419
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 31,
+        "top_left_y": 568,
+        "bottom_right_x": 601,
+        "bottom_right_y": 609,
+        "content": "39.3 (Elementary and) Intermediate ● Read the following, replacing the possessives in bold type by (pro)nouns:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9591842611149664,
+          "minimum_content_confidence_score": 0.5468263497721003,
+          "block_type_confidence_score": 0.8950414778757901
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 31,
+        "top_left_y": 609,
+        "bottom_right_x": 590,
+        "bottom_right_y": 972,
+        "content": "1 Would you mind my opening the window?\n2 My friend Cyril can't understand my treating him like that.\n3 I won't have your writing homework in pencil.\n4 Did you give it back without his asking you?\n5 Mother hates our eating and drinking between meals.\n6 I remember their coming in, long after midnight.\n7 I don't fancy his living with us for six months.\n8 Cyril will never forget my showing him how I can stand on my hands.\n9 I can't help your forgetting to bring your books.\n10 I can't imagine their refusing to pay for it.\n11 The teacher dislikes their sitting too far from the blackboard.\n12 The doctor doesn't object to my eating a little meat now and then.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999001831494434,
+          "minimum_content_confidence_score": 0.9912061054549665,
+          "block_type_confidence_score": 0.9952856684549335
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

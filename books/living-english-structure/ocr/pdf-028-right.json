@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-028-right",
+    "pdf_page": 28,
+    "side": "right",
+    "reading_order": 56
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "12 I can help you with your homework. after tea/\nwhen you were in difficulties yesterday.\n13 Our army can win a battle. when it has enough\nammunition/a few days ago.\n14 We can sit in the garden. next weekend/when it\nstopped raining.\n15 You can have a look at the baby. when it has\nbeen fed/she said I —.\n16 Cyril can improve his position. after a year or\ntwo/when his employer died.\n17 We can catch the 2.30 (two-thirty) train.\ntomorrow afternoon/in spite of the fog.\n18 Maisie says she can come out with me. on\nSaturday/Maisie said — on Saturday.\n19 We can finish it. by ten o'clock/before it was\nwanted.\n20 Simon can shoot well. in a few weeks/before his\naccident.\n21 They can put the fire out. when another engine\ncomes/after two hours.\n22 She can pass her examination. next June/last June.\n23 You can pour out the tea. when it is ready/I\nthought they said (that) I —.\n24 No one can undo that bolt. until it is oiled/until\nit was oiled.\n25 I can pick a lot of fruit off that tree. next week/\nlast year.\n\nGo through this exercise again and see which sentences\ncan make their past with managed to.\n\n## 18 Short-form Negative, Revision\n\n18.1\nAdvanced\n\nRead note to Exercise 14.3.\n\nMust. Notice that the negative form mustn't is a\nnegative obligation; the opposite of must is needn't. This\nis important for correct responses.\n\nHe needn't do that, need he? – Yes, I'm afraid he\nmust.\n\nMust I go? – No, you needn't.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "18 Short-form Negative, Revision\n45",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1021,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9680118151445789,
+      "minimum_page_confidence_score": 0.14411333408066485
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 18,
+        "bottom_right_x": 419,
+        "bottom_right_y": 40,
+        "content": "18 Short-form Negative, Revision",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999362373445202,
+          "minimum_content_confidence_score": 0.9998876337667866,
+          "block_type_confidence_score": 0.9998094693530152
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 20,
+        "bottom_right_x": 648,
+        "bottom_right_y": 39,
+        "content": "45",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999941829250343,
+          "minimum_content_confidence_score": 0.999941829250343,
+          "block_type_confidence_score": 0.999999724901756
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 71,
+        "bottom_right_x": 647,
+        "bottom_right_y": 660,
+        "content": "12 I can help you with your homework. after tea/\nwhen you were in difficulties yesterday.\n13 Our army can win a battle. when it has enough\nammunition/a few days ago.\n14 We can sit in the garden. next weekend/when it\nstopped raining.\n15 You can have a look at the baby. when it has\nbeen fed/she said I —.\n16 Cyril can improve his position. after a year or\ntwo/when his employer died.\n17 We can catch the 2.30 (two-thirty) train.\ntomorrow afternoon/in spite of the fog.\n18 Maisie says she can come out with me. on\nSaturday/Maisie said — on Saturday.\n19 We can finish it. by ten o'clock/before it was\nwanted.\n20 Simon can shoot well. in a few weeks/before his\naccident.\n21 They can put the fire out. when another engine\ncomes/after two hours.\n22 She can pass her examination. next June/last June.\n23 You can pour out the tea. when it is ready/I\nthought they said (that) I —.\n24 No one can undo that bolt. until it is oiled/until\nit was oiled.\n25 I can pick a lot of fruit off that tree. next week/\nlast year.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952366887927921,
+          "minimum_content_confidence_score": 0.5529032695390386,
+          "block_type_confidence_score": 0.984084745112755
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 676,
+        "bottom_right_x": 615,
+        "bottom_right_y": 717,
+        "content": "Go through this exercise again and see which sentences\ncan make their past with managed to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9854234699677754,
+          "minimum_content_confidence_score": 0.769896195915769,
+          "block_type_confidence_score": 0.9953294808607253
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 165,
+        "top_left_y": 772,
+        "bottom_right_x": 567,
+        "bottom_right_y": 802,
+        "content": "## 18 Short-form Negative, Revision",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982331640009162,
+          "minimum_content_confidence_score": 0.9914201337790252,
+          "block_type_confidence_score": 0.998963239920685
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 40,
+        "top_left_y": 843,
+        "bottom_right_x": 120,
+        "bottom_right_y": 883,
+        "content": "18.1\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992558205982273,
+          "minimum_content_confidence_score": 0.9986516992719081,
+          "block_type_confidence_score": 0.576702359752458
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 169,
+        "top_left_y": 844,
+        "bottom_right_x": 396,
+        "bottom_right_y": 866,
+        "content": "Read note to Exercise 14.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999613380619937,
+          "minimum_content_confidence_score": 0.9998238563171385,
+          "block_type_confidence_score": 0.999935750323403
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 169,
+        "top_left_y": 865,
+        "bottom_right_x": 644,
+        "bottom_right_y": 927,
+        "content": "Must. Notice that the negative form mustn't is a\nnegative obligation; the opposite of must is needn't. This\nis important for correct responses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989626708337456,
+          "minimum_content_confidence_score": 0.9874332200895615,
+          "block_type_confidence_score": 0.9999796156266157
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 206,
+        "top_left_y": 928,
+        "bottom_right_x": 644,
+        "bottom_right_y": 968,
+        "content": "He needn't do that, need he? – Yes, I'm afraid he\nmust.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9594108933909666,
+          "minimum_content_confidence_score": 0.4735915116639301,
+          "block_type_confidence_score": 0.9999712713868034
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 206,
+        "top_left_y": 968,
+        "bottom_right_x": 457,
+        "bottom_right_y": 990,
+        "content": "Must I go? – No, you needn't.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999504869998,
+          "minimum_content_confidence_score": 0.9997480550576275,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

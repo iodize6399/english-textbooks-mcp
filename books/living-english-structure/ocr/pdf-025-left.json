@@ -1,0 +1,421 @@
+{
+  "source": {
+    "id": "pdf-025-left",
+    "pdf_page": 25,
+    "side": "left",
+    "reading_order": 49
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "22 I had to show my passport.\n23 You must lock the box up again.\n24 We shall have to tell them our address.\n25 You must do the whole exercise again.\n\n# 16.4\n\nIntermediate\nHAVE TO\nAND NEED\n(WITH AND\nWITHOUT\nDO)\n\nSee Exercises 16.2 and 16.3.\n\nIn questions and negatives the present tense forms:\n\nDo I have to . . . ? I don't have to . . .\n\nDo I need to . . . ? I don't need to . . .\n\nare mostly used for HABITUAL ACTIONS; whereas the forms\n\nHave I got to . . . ? I haven't got to . . .\n\nNeed I . . . ?¹ I needn't . . .\n\nMust I . . . ?¹\n\nare mostly used for ONE PARTICULAR OCCASION.\n\nThis is a preference, not a rule, and except where one of the above aspects requires emphasis, all four forms are interchangeable. For some speakers there is a difference of meaning between Need you go shopping this afternoon? (which may sound like a protest) and Do you need to go shopping this afternoon? (a simple enquiry).\n\nThe forms of have to and need (with and without the auxiliary do) can be compared in the following examples, where the idea of one special occasion or of habit is strongly present.\n\nMust you get up early tomorrow morning? (Have you got to . . .)\n\nDo you have to get up early (every morning)?\n\nMust I show it to him now? (Have I got to . . .)\n\nDo I have to show my pass every time I go in?\n\nor Do I need to show my pass every time . . . ? (I hope it isn't necessary.)\n\nYou needn't do it just now.\n\nYou don't have to do it every time you see him.\n(You don't need to.)\n\n* * *\n\n¹ Need is used wherever there is a strong element of negation or doubt, or when the speaker seeks or expects a negative answer. Cf. the following examples:\n\nMust she come tomorrow? (open question)\n\nNeed she come tomorrow? (hoping for negative answer)\n\nMust I be present? (Do you want me?)\n\nI wonder if I need be present. (statement of doubt)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "38\n16 must, have to, need",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 691
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.969128778225891,
+      "minimum_page_confidence_score": 0.17581747313380885
+    },
+    "blocks": [
+      {
+        "top_left_x": 33,
+        "top_left_y": 20,
+        "bottom_right_x": 56,
+        "bottom_right_y": 39,
+        "content": "38",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995344661411264,
+          "minimum_content_confidence_score": 0.9995344661411264,
+          "block_type_confidence_score": 0.9999774977563451
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 19,
+        "bottom_right_x": 315,
+        "bottom_right_y": 39,
+        "content": "16 must, have to, need",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9611556344470902,
+          "minimum_content_confidence_score": 0.8063704924489059,
+          "block_type_confidence_score": 0.9955408633377653
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 74,
+        "bottom_right_x": 508,
+        "bottom_right_y": 161,
+        "content": "22 I had to show my passport.\n23 You must lock the box up again.\n24 We shall have to tell them our address.\n25 You must do the whole exercise again.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997324332967963,
+          "minimum_content_confidence_score": 0.9949967907760696,
+          "block_type_confidence_score": 0.9923339829871978
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 181,
+        "bottom_right_x": 75,
+        "bottom_right_y": 201,
+        "content": "# 16.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8718251485624933,
+          "minimum_content_confidence_score": 0.7546048705176461,
+          "block_type_confidence_score": 0.7496369958495582
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 203,
+        "bottom_right_x": 135,
+        "bottom_right_y": 319,
+        "content": "Intermediate\nHAVE TO\nAND NEED\n(WITH AND\nWITHOUT\nDO)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979258807297517,
+          "minimum_content_confidence_score": 0.9800264574142395,
+          "block_type_confidence_score": 0.7722807833089913
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 180,
+        "bottom_right_x": 385,
+        "bottom_right_y": 201,
+        "content": "See Exercises 16.2 and 16.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999838845408886,
+          "minimum_content_confidence_score": 0.999952795348734,
+          "block_type_confidence_score": 0.9929166896799722
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 201,
+        "bottom_right_x": 571,
+        "bottom_right_y": 220,
+        "content": "In questions and negatives the present tense forms:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999923686191378,
+          "minimum_content_confidence_score": 0.9999800756818602,
+          "block_type_confidence_score": 0.999952080163394
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 220,
+        "bottom_right_x": 532,
+        "bottom_right_y": 239,
+        "content": "Do I have to . . . ? I don't have to . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9730310282856401,
+          "minimum_content_confidence_score": 0.7571596379165938,
+          "block_type_confidence_score": 0.9924702899384424
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 239,
+        "bottom_right_x": 532,
+        "bottom_right_y": 260,
+        "content": "Do I need to . . . ? I don't need to . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999020362560116,
+          "minimum_content_confidence_score": 0.9995110042898191,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 260,
+        "bottom_right_x": 618,
+        "bottom_right_y": 280,
+        "content": "are mostly used for HABITUAL ACTIONS; whereas the forms",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999526050746823,
+          "minimum_content_confidence_score": 0.9998020325696243,
+          "block_type_confidence_score": 0.9999946356109105
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 280,
+        "bottom_right_x": 537,
+        "bottom_right_y": 301,
+        "content": "Have I got to . . . ? I haven't got to . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998806941902364,
+          "minimum_content_confidence_score": 0.9992771609321472,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 301,
+        "bottom_right_x": 484,
+        "bottom_right_y": 320,
+        "content": "Need I . . . ?¹ I needn't . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999170377766935,
+          "minimum_content_confidence_score": 0.9929812576707897,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 320,
+        "bottom_right_x": 274,
+        "bottom_right_y": 339,
+        "content": "Must I . . . ?¹",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999087655706068,
+          "minimum_content_confidence_score": 0.9995846685978051,
+          "block_type_confidence_score": 0.9999897481064004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 339,
+        "bottom_right_x": 532,
+        "bottom_right_y": 360,
+        "content": "are mostly used for ONE PARTICULAR OCCASION.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999732950069679,
+          "minimum_content_confidence_score": 0.9999221623902257,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 360,
+        "bottom_right_x": 621,
+        "bottom_right_y": 478,
+        "content": "This is a preference, not a rule, and except where one of the above aspects requires emphasis, all four forms are interchangeable. For some speakers there is a difference of meaning between Need you go shopping this afternoon? (which may sound like a protest) and Do you need to go shopping this afternoon? (a simple enquiry).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992456537394211,
+          "minimum_content_confidence_score": 0.9620808448568136,
+          "block_type_confidence_score": 0.9999965429424904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 478,
+        "bottom_right_x": 621,
+        "bottom_right_y": 558,
+        "content": "The forms of have to and need (with and without the auxiliary do) can be compared in the following examples, where the idea of one special occasion or of habit is strongly present.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999956071863725,
+          "minimum_content_confidence_score": 0.9999606624830781,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 559,
+        "bottom_right_x": 621,
+        "bottom_right_y": 602,
+        "content": "Must you get up early tomorrow morning? (Have you got to . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956990805453552,
+          "minimum_content_confidence_score": 0.9411165168158396,
+          "block_type_confidence_score": 0.9525382363632221
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 601,
+        "bottom_right_x": 572,
+        "bottom_right_y": 622,
+        "content": "Do you have to get up early (every morning)?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999993554342435,
+          "minimum_content_confidence_score": 0.9999805522604348,
+          "block_type_confidence_score": 0.9999722250068926
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 621,
+        "bottom_right_x": 591,
+        "bottom_right_y": 641,
+        "content": "Must I show it to him now? (Have I got to . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996930146232096,
+          "minimum_content_confidence_score": 0.9958553908767676,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 641,
+        "bottom_right_x": 582,
+        "bottom_right_y": 660,
+        "content": "Do I have to show my pass every time I go in?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999974155468854,
+          "minimum_content_confidence_score": 0.9998646201619699,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 660,
+        "bottom_right_x": 623,
+        "bottom_right_y": 701,
+        "content": "or Do I need to show my pass every time . . . ? (I hope it isn't necessary.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9748507456499167,
+          "minimum_content_confidence_score": 0.5286518857816349,
+          "block_type_confidence_score": 0.9999855758836753
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 701,
+        "bottom_right_x": 424,
+        "bottom_right_y": 720,
+        "content": "You needn't do it just now.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999900632147428,
+          "minimum_content_confidence_score": 0.9999666528046041,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 720,
+        "bottom_right_x": 623,
+        "bottom_right_y": 760,
+        "content": "You don't have to do it every time you see him.\n(You don't need to.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9860461560312453,
+          "minimum_content_confidence_score": 0.8170606362472564,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 342,
+        "top_left_y": 772,
+        "bottom_right_x": 448,
+        "bottom_right_y": 788,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8906056944228763,
+          "minimum_content_confidence_score": 0.6727773026024947,
+          "block_type_confidence_score": 0.9991752756080206
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 163,
+        "top_left_y": 816,
+        "bottom_right_x": 624,
+        "bottom_right_y": 871,
+        "content": "¹ Need is used wherever there is a strong element of negation or doubt, or when the speaker seeks or expects a negative answer. Cf. the following examples:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988016687881168,
+          "minimum_content_confidence_score": 0.9689215533505325,
+          "block_type_confidence_score": 0.8309599540019454
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 871,
+        "bottom_right_x": 519,
+        "bottom_right_y": 890,
+        "content": "Must she come tomorrow? (open question)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999982634521308,
+          "minimum_content_confidence_score": 0.9999440939703319,
+          "block_type_confidence_score": 0.9932319958410165
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 890,
+        "bottom_right_x": 614,
+        "bottom_right_y": 907,
+        "content": "Need she come tomorrow? (hoping for negative answer)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999756303445595,
+          "minimum_content_confidence_score": 0.9998985631837561,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 907,
+        "bottom_right_x": 491,
+        "bottom_right_y": 925,
+        "content": "Must I be present? (Do you want me?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999572689942751,
+          "minimum_content_confidence_score": 0.9997173753666372,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 925,
+        "bottom_right_x": 575,
+        "bottom_right_y": 944,
+        "content": "I wonder if I need be present. (statement of doubt)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999838913543735,
+          "minimum_content_confidence_score": 0.9999308824406172,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

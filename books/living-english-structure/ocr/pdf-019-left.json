@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-019-left",
+    "pdf_page": 19,
+    "side": "left",
+    "reading_order": 37
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "## 12.2 Elementary\n\nThe *no*-forms are chiefly used as short negative answers to questions.\n\nWhere are you going? – Nowhere.\n\nRemember: *neither* of two; *none* of many.\n\n\\* \\* \\*\n\n- ● Answer the following questions in the negative; respond quickly:\n  1. 1 Where are you going?\n  2. 2 How many exercises have you done today?\n  3. 3 Who were you talking to?\n  4. 4 How much did these flowers cost?\n  5. 5 What are you doing?\n  6. 6 Where has she been?\n  7. 7 Who did you meet?\n  8. 8 Who phoned this morning?\n  9. 9 How many will you give me?\n  10. 10 What did you say?\n  11. 11 Who told you to put it under the table?\n  12. 12 What do they want?\n  13. 13 Who do they want to see?\n  14. 14 Which of these two books have you read?\n  15. 15 How many have I given you already?\n  16. 16 Who told you to do that?\n  17. 17 What are you thinking about?\n  18. 18 How many of these are mine?\n  19. 19 Where did you go last night?\n  20. 20 Which foot have you hurt?\n\n## 12.3 Intermediate\n\nRead notes on Exercise 12.1.\n\nNotice that *neither* = 'not either'.\n\nStudents should be reminded that several of the sentences below sound unusual in speech.\n\n\\* \\* \\*\n\n- ● Reword the following *no*-sentences in the *not* . . . *any* form:\n  1. 1 We had eaten no meat for four days.\n  2. 2 They found nobody at home.\n  3. 3 He gave his wife no money for her clothes.\n  4. 4 They went nowhere after supper.\n  5. 5 How odd! This door has no hinges.\n  6. 6 I hope you've said nothing to Maisie.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "26\n12 no = not . . . any",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 995,
+      "width": 671
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726910565644085,
+      "minimum_page_confidence_score": 0.22603507857337513
+    },
+    "blocks": [
+      {
+        "top_left_x": 28,
+        "top_left_y": 18,
+        "bottom_right_x": 52,
+        "bottom_right_y": 37,
+        "content": "26",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996942024984583,
+          "minimum_content_confidence_score": 0.9996942024984583,
+          "block_type_confidence_score": 0.999925292120702
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 18,
+        "bottom_right_x": 289,
+        "bottom_right_y": 37,
+        "content": "12 no = not . . . any",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9633275778862049,
+          "minimum_content_confidence_score": 0.8386746071540958,
+          "block_type_confidence_score": 0.9980471890090638
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 70,
+        "bottom_right_x": 119,
+        "bottom_right_y": 112,
+        "content": "## 12.2 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8376263829167732,
+          "minimum_content_confidence_score": 0.5899640424913668,
+          "block_type_confidence_score": 0.8350430628825408
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 70,
+        "bottom_right_x": 601,
+        "bottom_right_y": 112,
+        "content": "The *no*-forms are chiefly used as short negative answers to questions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9910764654369832,
+          "minimum_content_confidence_score": 0.9023378009995351,
+          "block_type_confidence_score": 0.9998138297528844
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 113,
+        "bottom_right_x": 460,
+        "bottom_right_y": 133,
+        "content": "Where are you going? – Nowhere.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9890265676599612,
+          "minimum_content_confidence_score": 0.9352978681985953,
+          "block_type_confidence_score": 0.9999760395072578
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 142,
+        "bottom_right_x": 483,
+        "bottom_right_y": 162,
+        "content": "Remember: *neither* of two; *none* of many.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996841208818515,
+          "minimum_content_confidence_score": 0.9986881810270537,
+          "block_type_confidence_score": 0.999977350747961
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 326,
+        "top_left_y": 175,
+        "bottom_right_x": 427,
+        "bottom_right_y": 189,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9401018896624241,
+          "minimum_content_confidence_score": 0.8210552642971289,
+          "block_type_confidence_score": 0.9999338432228186
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 199,
+        "bottom_right_x": 601,
+        "bottom_right_y": 667,
+        "content": "- ● Answer the following questions in the negative; respond quickly:\n  1. 1 Where are you going?\n  2. 2 How many exercises have you done today?\n  3. 3 Who were you talking to?\n  4. 4 How much did these flowers cost?\n  5. 5 What are you doing?\n  6. 6 Where has she been?\n  7. 7 Who did you meet?\n  8. 8 Who phoned this morning?\n  9. 9 How many will you give me?\n  10. 10 What did you say?\n  11. 11 Who told you to put it under the table?\n  12. 12 What do they want?\n  13. 13 Who do they want to see?\n  14. 14 Which of these two books have you read?\n  15. 15 How many have I given you already?\n  16. 16 Who told you to do that?\n  17. 17 What are you thinking about?\n  18. 18 How many of these are mine?\n  19. 19 Where did you go last night?\n  20. 20 Which foot have you hurt?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971268432114814,
+          "minimum_content_confidence_score": 0.5732649872628667,
+          "block_type_confidence_score": 0.9994753968697998
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 31,
+        "top_left_y": 685,
+        "bottom_right_x": 131,
+        "bottom_right_y": 725,
+        "content": "## 12.3 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999063424585942,
+          "minimum_content_confidence_score": 0.9975200556607037,
+          "block_type_confidence_score": 0.9999954700677164
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 685,
+        "bottom_right_x": 383,
+        "bottom_right_y": 705,
+        "content": "Read notes on Exercise 12.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999315169888554,
+          "minimum_content_confidence_score": 0.9998064415914827,
+          "block_type_confidence_score": 0.9999923706636761
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 705,
+        "bottom_right_x": 424,
+        "bottom_right_y": 725,
+        "content": "Notice that *neither* = 'not either'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9733440230292577,
+          "minimum_content_confidence_score": 0.8419049231746588,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 725,
+        "bottom_right_x": 604,
+        "bottom_right_y": 764,
+        "content": "Students should be reminded that several of the sentences below sound unusual in speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999718399026307,
+          "minimum_content_confidence_score": 0.9998249122210231,
+          "block_type_confidence_score": 0.999993205116773
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 329,
+        "top_left_y": 777,
+        "bottom_right_x": 430,
+        "bottom_right_y": 791,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998833339709647,
+          "minimum_content_confidence_score": 0.9998125924691584,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 802,
+        "bottom_right_x": 604,
+        "bottom_right_y": 953,
+        "content": "- ● Reword the following *no*-sentences in the *not* . . . *any* form:\n  1. 1 We had eaten no meat for four days.\n  2. 2 They found nobody at home.\n  3. 3 He gave his wife no money for her clothes.\n  4. 4 They went nowhere after supper.\n  5. 5 How odd! This door has no hinges.\n  6. 6 I hope you've said nothing to Maisie.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978936307574735,
+          "minimum_content_confidence_score": 0.9341021060663341,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "source": {
+    "id": "pdf-003-right",
+    "pdf_page": 3,
+    "side": "right",
+    "reading_order": 6
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "# Contents\n\n|   | Introduction | vii  |\n| --- | --- | --- |\n|   | Note to the Fifth edition | x  |\n|  Section 1 | Countables and uncountables | 1  |\n|  2 | Negatives and questions (elementary) | 7  |\n|  3 | Possessives | 9  |\n|  4 | *—self* | 10  |\n|  5 | Adverb order | 11  |\n|  6 | Pronouns | 12  |\n|  7 | Possessive case | 16  |\n|  8 | Introduction to interrogatives | 18  |\n|  9 | Telling the time | 19  |\n|  10 | *too* and *enough* | 19  |\n|  11 | *some* and *any* | 21  |\n|  12 | *no*=*not any*, | 25  |\n|  13 | Comparisons | 28  |\n|  14 | Negatives and questions of auxiliary verbs | 29  |\n|  15 | Causative use of *have* | 33  |\n|  16 | *must, have to, need* | 34  |\n|  17 | *can, could, was able*, etc. | 42  |\n|  18 | Short-form negative (revision) | 45  |\n|  19 | Short-form responses using auxiliary verbs | 47  |\n|  20 | Imperative | 62  |\n|  21 | Present tense | 65  |\n|  22 | Notes on English tenses | 74  |\n|  23 | Present Perfect tense | 77  |\n|  24 | Past tense | 86  |\n|  25 | Frequency (or pre-verb) adverbs | 92  |\n|  26 | Past tense (continued) | 95  |\n|  27 | Tense (Present, Past, Present Perfect) Revision | 104  |\n|  28 | Future and Future Perfect | 110  |\n|  29 | Past Perfect tense | 137  |\n|  30 | Revision of Tenses | 140  |\n|  31 | Conditions and unreal past | 144  |\n|  32 | Question-tags | 155  |\n|  33 | *get* and *got* forms | 160  |\n|  34 | Predicative *so* and *not* | 165  |\n|  35 | *do* and *make* | 167  |\n|  36 | Infinitive implied by its particle | 169  |\n|  37 | *else* and *or else* | 170  |\n|  38 | Infinitive | 173  |",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 37,
+      "height": 1016,
+      "width": 737
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9935329168461232,
+      "minimum_page_confidence_score": 0.32079763641102127
+    },
+    "blocks": [
+      {
+        "top_left_x": 198,
+        "top_left_y": 18,
+        "bottom_right_x": 306,
+        "bottom_right_y": 46,
+        "content": "# Contents",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9954105646308296,
+          "minimum_content_confidence_score": 0.9914188448084588,
+          "block_type_confidence_score": 0.9988171755939064
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 100,
+        "top_left_y": 102,
+        "bottom_right_x": 703,
+        "bottom_right_y": 947,
+        "content": "|   | Introduction | vii  |\n| --- | --- | --- |\n|   | Note to the Fifth edition | x  |\n|  Section 1 | Countables and uncountables | 1  |\n|  2 | Negatives and questions (elementary) | 7  |\n|  3 | Possessives | 9  |\n|  4 | *—self* | 10  |\n|  5 | Adverb order | 11  |\n|  6 | Pronouns | 12  |\n|  7 | Possessive case | 16  |\n|  8 | Introduction to interrogatives | 18  |\n|  9 | Telling the time | 19  |\n|  10 | *too* and *enough* | 19  |\n|  11 | *some* and *any* | 21  |\n|  12 | *no*=*not any*, | 25  |\n|  13 | Comparisons | 28  |\n|  14 | Negatives and questions of auxiliary verbs | 29  |\n|  15 | Causative use of *have* | 33  |\n|  16 | *must, have to, need* | 34  |\n|  17 | *can, could, was able*, etc. | 42  |\n|  18 | Short-form negative (revision) | 45  |\n|  19 | Short-form responses using auxiliary verbs | 47  |\n|  20 | Imperative | 62  |\n|  21 | Present tense | 65  |\n|  22 | Notes on English tenses | 74  |\n|  23 | Present Perfect tense | 77  |\n|  24 | Past tense | 86  |\n|  25 | Frequency (or pre-verb) adverbs | 92  |\n|  26 | Past tense (continued) | 95  |\n|  27 | Tense (Present, Past, Present Perfect) Revision | 104  |\n|  28 | Future and Future Perfect | 110  |\n|  29 | Past Perfect tense | 137  |\n|  30 | Revision of Tenses | 140  |\n|  31 | Conditions and unreal past | 144  |\n|  32 | Question-tags | 155  |\n|  33 | *get* and *got* forms | 160  |\n|  34 | Predicative *so* and *not* | 165  |\n|  35 | *do* and *make* | 167  |\n|  36 | Infinitive implied by its particle | 169  |\n|  37 | *else* and *or else* | 170  |\n|  38 | Infinitive | 173  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979004348399432,
+          "minimum_content_confidence_score": 0.905985494553632,
+          "block_type_confidence_score": 0.9519977324924662
+        },
+        "type": "table",
+        "table_id": null
+      }
+    ]
+  }
+}

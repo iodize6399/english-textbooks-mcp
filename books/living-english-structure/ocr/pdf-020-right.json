@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-020-right",
+    "pdf_page": 20,
+    "side": "right",
+    "reading_order": 40
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "# 13.2\n\nRead note on Exercise 13.1.\n\n**Intermediate** ● The following sentences are not good ones as they stand. Reword them in the ways suggested in Exercise 13.1.\n\n1. 1 The sea was less smooth than I had hoped. (rough)\n2. 2 The river is less deep near the ford. (shallow)\n3. 3 It is less dangerous to tease a lion than scorn a woman. (safe)\n4. 4 Maisie is much less young than she looks.\n5. 5 She is less proud than her sister. (humble)\n6. 6 The film was less interesting than the play. (dull)\n7. 7 Richard Burton is much less ugly than Cyril. (handsome)\n8. 8 He is less obstinate than his brothers. (co-operative)\n9. 9 She's less sophisticated than she makes herself out to be. (naïve, simple)\n10. 10 You'd be less well off if you were married. (badly off)\n11. 11 My cigarettes are less good than yours.\n12. 12 A well-dressed woman is much less humble than a peacock. (Do in the affirmative form only.)\n13. 13 The river was less shallow than he expected.\n14. 14 John is much less intelligent than his sister. (dull)\n15. 15 My wife is much less economical than yours. (extravagant)\n\n## 14 Negatives and Questions of Auxiliary Verbs\n\nWhen these exercises are done orally, short forms should be used throughout.\n\nAUXILIARY VERBS are sometimes called ANOMALOUS FINITES, SPECIAL FINITES, OR MODAL AUXILIARIES.\n\nIn the first year students should be acquainted with the following:\n\n*be, have, do, did, can, could, must, shall, will.*\n\nIn the second year the others should be known:\n\n*should, would, may, might, ought to, used to, daren't, needn't, had better, would rather.*",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "14 Negatives and Questions of Auxiliary Verbs\n29",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 691
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9712694793205064,
+      "minimum_page_confidence_score": 0.22799070520153447
+    },
+    "blocks": [
+      {
+        "top_left_x": 145,
+        "top_left_y": 14,
+        "bottom_right_x": 537,
+        "bottom_right_y": 36,
+        "content": "14 Negatives and Questions of Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999903573051303,
+          "minimum_content_confidence_score": 0.9996823667682203,
+          "block_type_confidence_score": 0.9999529066740317
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 632,
+        "top_left_y": 14,
+        "bottom_right_x": 658,
+        "bottom_right_y": 34,
+        "content": "29",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999900231778581,
+          "minimum_content_confidence_score": 0.999900231778581,
+          "block_type_confidence_score": 0.999999724901756
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 68,
+        "bottom_right_x": 95,
+        "bottom_right_y": 89,
+        "content": "# 13.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8547757206533739,
+          "minimum_content_confidence_score": 0.7772712346411194,
+          "block_type_confidence_score": 0.5602676647205794
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 68,
+        "bottom_right_x": 413,
+        "bottom_right_y": 90,
+        "content": "Read note on Exercise 13.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995859456424414,
+          "minimum_content_confidence_score": 0.9981216968436939,
+          "block_type_confidence_score": 0.9575992815933433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 93,
+        "bottom_right_x": 658,
+        "bottom_right_y": 138,
+        "content": "**Intermediate** ● The following sentences are not good ones as they stand. Reword them in the ways suggested in Exercise 13.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9748727471617952,
+          "minimum_content_confidence_score": 0.7438786463049493,
+          "block_type_confidence_score": 0.9959209145314334
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 141,
+        "bottom_right_x": 658,
+        "bottom_right_y": 601,
+        "content": "1. 1 The sea was less smooth than I had hoped. (rough)\n2. 2 The river is less deep near the ford. (shallow)\n3. 3 It is less dangerous to tease a lion than scorn a woman. (safe)\n4. 4 Maisie is much less young than she looks.\n5. 5 She is less proud than her sister. (humble)\n6. 6 The film was less interesting than the play. (dull)\n7. 7 Richard Burton is much less ugly than Cyril. (handsome)\n8. 8 He is less obstinate than his brothers. (co-operative)\n9. 9 She's less sophisticated than she makes herself out to be. (naïve, simple)\n10. 10 You'd be less well off if you were married. (badly off)\n11. 11 My cigarettes are less good than yours.\n12. 12 A well-dressed woman is much less humble than a peacock. (Do in the affirmative form only.)\n13. 13 The river was less shallow than he expected.\n14. 14 John is much less intelligent than his sister. (dull)\n15. 15 My wife is much less economical than yours. (extravagant)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984227409782772,
+          "minimum_content_confidence_score": 0.7606878516254907,
+          "block_type_confidence_score": 0.9999246654044206
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 658,
+        "bottom_right_x": 495,
+        "bottom_right_y": 716,
+        "content": "## 14 Negatives and Questions of Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976917529506083,
+          "minimum_content_confidence_score": 0.982950650703652,
+          "block_type_confidence_score": 0.9999903441405488
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 764,
+        "bottom_right_x": 658,
+        "bottom_right_y": 805,
+        "content": "When these exercises are done orally, short forms should be used throughout.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999811071791118,
+          "minimum_content_confidence_score": 0.9999533169931396,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 805,
+        "bottom_right_x": 658,
+        "bottom_right_y": 845,
+        "content": "AUXILIARY VERBS are sometimes called ANOMALOUS FINITES, SPECIAL FINITES, OR MODAL AUXILIARIES.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9663353485226943,
+          "minimum_content_confidence_score": 0.6038063049721757,
+          "block_type_confidence_score": 0.9999945164027223
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 845,
+        "bottom_right_x": 658,
+        "bottom_right_y": 884,
+        "content": "In the first year students should be acquainted with the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885285675526,
+          "minimum_content_confidence_score": 0.9999610200823912,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 887,
+        "bottom_right_x": 588,
+        "bottom_right_y": 909,
+        "content": "*be, have, do, did, can, could, must, shall, will.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994178726448345,
+          "minimum_content_confidence_score": 0.9954622310319706,
+          "block_type_confidence_score": 0.9997648553711882
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 916,
+        "bottom_right_x": 581,
+        "bottom_right_y": 939,
+        "content": "In the second year the others should be known:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999385482611751,
+          "minimum_content_confidence_score": 0.9995349425236921,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 941,
+        "bottom_right_x": 658,
+        "bottom_right_y": 982,
+        "content": "*should, would, may, might, ought to, used to, daren't, needn't, had better, would rather.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997559203281782,
+          "minimum_content_confidence_score": 0.967676935507013,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

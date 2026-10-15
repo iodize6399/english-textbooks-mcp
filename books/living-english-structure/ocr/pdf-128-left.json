@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-128-left",
+    "pdf_page": 128,
+    "side": "left",
+    "reading_order": 255
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:30.025220+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "# **50.5**\n\n# **Intermediate**\n\nSee notes to Exercises 50.1–3.\n\nNotice the following expressions:\n\n- (a) It is time to go. (= The correct moment has arrived.)\n- (b) It is a long time since . . . (= The time has been long.)\n- (c) There is time to go. (= We have time; enough time exists.)\n- (d) It's a long way to Tipperary. (= The distance between here and Tipperary is long.)\n- (e) There's a long way to go yet before we get there. (= We still have this distance more to go; such a distance still exists for us.)\n\n\\* \\* \\*\n\n● Add the correct form of *there is* or *it is* to the following:\n\n- 1 — easy to understand why he hasn't come back.\n- 2 — time to go to bed.\n- 3 — many things worse than death.\n- 4 — very strange that we should both arrive together.\n- 5 — no one at home when I called for him.\n- 6 — a few sandwiches left over from yesterday.\n- 7 — fun going up in a helicopter.\n- 8 — two guests coming for the weekend.\n- 9 — no place like home.\n- 10 — impossible to guess where they could have gone to.\n- 11 — a good wheat crop this year.\n- 12 — hard to decide what was the best thing to do.\n- 13 — still several empty seats in the plane when I arrived.\n- 14 — hard times ahead of us.\n- 15 — terrifying to hear a knock on the window at midnight.\n- 16 — not known where he spent his early childhood.\n- 17 — a very good dance band in that restaurant.\n- 18 — time to finish this exercise before we go.\n- 19 — a long time since I saw such a beautiful sunset.\n- 20 — a light in the kitchen when I got home.\n- 21 — crowds of people at the station waiting to greet the film star, so you'd better be there very early.\n- 22 — very few people at his lecture yesterday.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "244\n50^{}[] *there is and it is*",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 999,
+      "width": 649
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9782475297136575,
+      "minimum_page_confidence_score": 0.202747587359331
+    },
+    "blocks": [
+      {
+        "top_left_x": 30,
+        "top_left_y": 22,
+        "bottom_right_x": 63,
+        "bottom_right_y": 40,
+        "content": "244",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999586360869611,
+          "minimum_content_confidence_score": 0.9999586360869611,
+          "block_type_confidence_score": 0.9999986795306304
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 22,
+        "bottom_right_x": 279,
+        "bottom_right_y": 40,
+        "content": "50^{}[] *there is and it is*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9417708117483561,
+          "minimum_content_confidence_score": 0.800643243608816,
+          "block_type_confidence_score": 0.9999102756647061
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 74,
+        "bottom_right_x": 70,
+        "bottom_right_y": 94,
+        "content": "# **50.5**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.918189621769165,
+          "minimum_content_confidence_score": 0.8784685328845311,
+          "block_type_confidence_score": 0.9858103198421992
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 95,
+        "bottom_right_x": 128,
+        "bottom_right_y": 113,
+        "content": "# **Intermediate**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987982803218003,
+          "minimum_content_confidence_score": 0.9985075617993454,
+          "block_type_confidence_score": 0.9875648603827193
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 74,
+        "bottom_right_x": 384,
+        "bottom_right_y": 94,
+        "content": "See notes to Exercises 50.1–3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9959825327058549,
+          "minimum_content_confidence_score": 0.9801083834575041,
+          "block_type_confidence_score": 0.9999408756865238
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 95,
+        "bottom_right_x": 411,
+        "bottom_right_y": 113,
+        "content": "Notice the following expressions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999717258691507,
+          "minimum_content_confidence_score": 0.9999327704835214,
+          "block_type_confidence_score": 0.9998201455395507
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 115,
+        "bottom_right_x": 595,
+        "bottom_right_y": 328,
+        "content": "- (a) It is time to go. (= The correct moment has arrived.)\n- (b) It is a long time since . . . (= The time has been long.)\n- (c) There is time to go. (= We have time; enough time exists.)\n- (d) It's a long way to Tipperary. (= The distance between here and Tipperary is long.)\n- (e) There's a long way to go yet before we get there. (= We still have this distance more to go; such a distance still exists for us.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9930115045852381,
+          "minimum_content_confidence_score": 0.6854832280329178,
+          "block_type_confidence_score": 0.9947709529665117
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 327,
+        "top_left_y": 341,
+        "bottom_right_x": 426,
+        "bottom_right_y": 355,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998269779980746,
+          "minimum_content_confidence_score": 0.9959269709603178,
+          "block_type_confidence_score": 0.9998895051981153
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 366,
+        "bottom_right_x": 588,
+        "bottom_right_y": 387,
+        "content": "● Add the correct form of *there is* or *it is* to the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9974965772220898,
+          "minimum_content_confidence_score": 0.9821138688390979,
+          "block_type_confidence_score": 0.9536652118198097
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 389,
+        "bottom_right_x": 594,
+        "bottom_right_y": 960,
+        "content": "- 1 — easy to understand why he hasn't come back.\n- 2 — time to go to bed.\n- 3 — many things worse than death.\n- 4 — very strange that we should both arrive together.\n- 5 — no one at home when I called for him.\n- 6 — a few sandwiches left over from yesterday.\n- 7 — fun going up in a helicopter.\n- 8 — two guests coming for the weekend.\n- 9 — no place like home.\n- 10 — impossible to guess where they could have gone to.\n- 11 — a good wheat crop this year.\n- 12 — hard to decide what was the best thing to do.\n- 13 — still several empty seats in the plane when I arrived.\n- 14 — hard times ahead of us.\n- 15 — terrifying to hear a knock on the window at midnight.\n- 16 — not known where he spent his early childhood.\n- 17 — a very good dance band in that restaurant.\n- 18 — time to finish this exercise before we go.\n- 19 — a long time since I saw such a beautiful sunset.\n- 20 — a light in the kitchen when I got home.\n- 21 — crowds of people at the station waiting to greet the film star, so you'd better be there very early.\n- 22 — very few people at his lecture yesterday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999875135111751,
+          "minimum_content_confidence_score": 0.9819119145217399,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

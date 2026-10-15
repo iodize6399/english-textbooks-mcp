@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-152-right",
+    "pdf_page": 152,
+    "side": "right",
+    "reading_order": 304
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "They can also come AFTER the words they govern, notably in questions and in relative clauses.\n\nWhat can I cut the bread *with*?\n\nThis is the book I was telling you *about*.\n\nMany verbs get strongly associated with certain prepositions in one of two ways:\n\n(1) verb and preposition keeping their basic meanings.\n(2) as a compound having an idiomatic meaning (we cannot guess the meaning from the two parts).\n\nTYPE (1) Take the book *in* your hand and open it *at* page 4.\n\nHe's sitting *on* a chair and looking *out of* the window.\n\nHe spoke *about* his holidays.\n\nTYPE (2) I didn't *take to* him at first. (like)\n\nHe *took after* his father. (resembled)\n\nShe *set about* preparing dinner. (began to prepare)\n\nThe ship *made for* the harbour. (went towards)\n\nAny good dictionary will list, under the verb, these compounds made with prepositions or adverbial particles. Two very useful works containing such idioms are Palmer's *Grammar of English Words* (Longman) and *The Advanced Learner's Dictionary* (Oxford).\n\nThe following two lists contain the commonest English PREPOSITIONS; all those in LIST (1) should be known to students within their first two years of study.\n\nLIST (1): about, after, along, among, at, before, behind, beneath, between, by, down, for, from, in, in front of, into, like, near, next to, of, off, on, out of, over, past, round, since, through, till (until), to (towards), under, up, with, without.\nLIST (2): above, across, against, below, beside, beyond, concerning, despite, except, inside, in spite of, opposite, outside.\n\n* * *\n\n● Put in suitable PREPOSITIONS:\n\n1 We don't go — school — Sundays.\n2 Wait — me — the bus-stop!\n3 We arrived — Winchester — exactly six o'clock.\n4 Come — 10 — Friday morning.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "56 Prepositions and Adverbial Particles\n293",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9731485248776434,
+      "minimum_page_confidence_score": 0.27838215995486354
+    },
+    "blocks": [
+      {
+        "top_left_x": 155,
+        "top_left_y": 16,
+        "bottom_right_x": 485,
+        "bottom_right_y": 38,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998831376299637,
+          "minimum_content_confidence_score": 0.9996647446527728,
+          "block_type_confidence_score": 0.9996258129444718
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 632,
+        "top_left_y": 18,
+        "bottom_right_x": 666,
+        "bottom_right_y": 37,
+        "content": "293",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999937061454891,
+          "minimum_content_confidence_score": 0.999937061454891,
+          "block_type_confidence_score": 0.9999996698821269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 72,
+        "bottom_right_x": 666,
+        "bottom_right_y": 114,
+        "content": "They can also come AFTER the words they govern, notably in questions and in relative clauses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9925585548164698,
+          "minimum_content_confidence_score": 0.9044262814521316,
+          "block_type_confidence_score": 0.9999933243243502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 116,
+        "bottom_right_x": 489,
+        "bottom_right_y": 136,
+        "content": "What can I cut the bread *with*?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9771888269643988,
+          "minimum_content_confidence_score": 0.8404642342588735,
+          "block_type_confidence_score": 0.9999374190384885
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 136,
+        "bottom_right_x": 565,
+        "bottom_right_y": 158,
+        "content": "This is the book I was telling you *about*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998491870775816,
+          "minimum_content_confidence_score": 0.9992438316764722,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 165,
+        "bottom_right_x": 666,
+        "bottom_right_y": 207,
+        "content": "Many verbs get strongly associated with certain prepositions in one of two ways:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999642164186392,
+          "minimum_content_confidence_score": 0.9998122806128164,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 206,
+        "bottom_right_x": 666,
+        "bottom_right_y": 268,
+        "content": "(1) verb and preposition keeping their basic meanings.\n(2) as a compound having an idiomatic meaning (we cannot guess the meaning from the two parts).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982522906594912,
+          "minimum_content_confidence_score": 0.971102494467165,
+          "block_type_confidence_score": 0.9914160323469803
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 270,
+        "bottom_right_x": 666,
+        "bottom_right_y": 311,
+        "content": "TYPE (1) Take the book *in* your hand and open it *at* page 4.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9902860243120367,
+          "minimum_content_confidence_score": 0.8814875008359535,
+          "block_type_confidence_score": 0.9662697487102575
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 312,
+        "top_left_y": 311,
+        "bottom_right_x": 669,
+        "bottom_right_y": 350,
+        "content": "He's sitting *on* a chair and looking *out of* the window.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9784488056178827,
+          "minimum_content_confidence_score": 0.7695215256783954,
+          "block_type_confidence_score": 0.999823958874181
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 312,
+        "top_left_y": 350,
+        "bottom_right_x": 552,
+        "bottom_right_y": 371,
+        "content": "He spoke *about* his holidays.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999943165328679,
+          "minimum_content_confidence_score": 0.999795359531765,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 370,
+        "bottom_right_x": 593,
+        "bottom_right_y": 392,
+        "content": "TYPE (2) I didn't *take to* him at first. (like)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9757152319747254,
+          "minimum_content_confidence_score": 0.7662696736976384,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 312,
+        "top_left_y": 391,
+        "bottom_right_x": 617,
+        "bottom_right_y": 412,
+        "content": "He *took after* his father. (resembled)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9917737380671695,
+          "minimum_content_confidence_score": 0.9529991895338278,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 312,
+        "top_left_y": 411,
+        "bottom_right_x": 666,
+        "bottom_right_y": 450,
+        "content": "She *set about* preparing dinner. (began to prepare)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982916544480371,
+          "minimum_content_confidence_score": 0.9873834470097793,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 312,
+        "top_left_y": 450,
+        "bottom_right_x": 666,
+        "bottom_right_y": 489,
+        "content": "The ship *made for* the harbour. (went towards)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962818809466695,
+          "minimum_content_confidence_score": 0.9856529011622727,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 498,
+        "bottom_right_x": 668,
+        "bottom_right_y": 600,
+        "content": "Any good dictionary will list, under the verb, these compounds made with prepositions or adverbial particles. Two very useful works containing such idioms are Palmer's *Grammar of English Words* (Longman) and *The Advanced Learner's Dictionary* (Oxford).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998156622322496,
+          "minimum_content_confidence_score": 0.9973802781940314,
+          "block_type_confidence_score": 0.9999872447683118
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 599,
+        "bottom_right_x": 668,
+        "bottom_right_y": 661,
+        "content": "The following two lists contain the commonest English PREPOSITIONS; all those in LIST (1) should be known to students within their first two years of study.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998362055000289,
+          "minimum_content_confidence_score": 0.9974894530501612,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 670,
+        "bottom_right_x": 668,
+        "bottom_right_y": 831,
+        "content": "LIST (1): about, after, along, among, at, before, behind, beneath, between, by, down, for, from, in, in front of, into, like, near, next to, of, off, on, out of, over, past, round, since, through, till (until), to (towards), under, up, with, without.\nLIST (2): above, across, against, below, beside, beyond, concerning, despite, except, inside, in spite of, opposite, outside.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979621564715202,
+          "minimum_content_confidence_score": 0.9030378962669492,
+          "block_type_confidence_score": 0.9714765827814124
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 374,
+        "top_left_y": 845,
+        "bottom_right_x": 479,
+        "bottom_right_y": 860,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997728755465961,
+          "minimum_content_confidence_score": 0.9965202722921965,
+          "block_type_confidence_score": 0.999960304883893
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 870,
+        "bottom_right_x": 431,
+        "bottom_right_y": 890,
+        "content": "● Put in suitable PREPOSITIONS:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976011946711653,
+          "minimum_content_confidence_score": 0.9883931136938956,
+          "block_type_confidence_score": 0.9247800814305811
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 892,
+        "bottom_right_x": 637,
+        "bottom_right_y": 982,
+        "content": "1 We don't go — school — Sundays.\n2 Wait — me — the bus-stop!\n3 We arrived — Winchester — exactly six o'clock.\n4 Come — 10 — Friday morning.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997437654009969,
+          "minimum_content_confidence_score": 0.9938491971923615,
+          "block_type_confidence_score": 0.9999561329040609
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-028-left",
+    "pdf_page": 28,
+    "side": "left",
+    "reading_order": 55
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "A careful analysis of all sentences where we CANNOT use *could* as simple past tense of *can* shows the following idea to be common to all of them. They deal with THE ATTAINMENT OF SOMETHING THROUGH SOME CAPACITY. Mere capacity may have *could* or *was able to*.\n\nHe could (was able to) swim very well when he was young. (*Could* is more usual.)\n\nBut something attained through a capacity may not have *could*.\n\nHe was able to swim half-way before he collapsed. (*Could* is impossible here.)\n\n*Managed to* also expresses this idea.\n\nThe past of *can* meaning PERMISSION always has *could*.\n\nI could put it wherever I liked. (permission granted)\nI was able to put it on the top shelf. (capacity or ability to reach)\n\n* * *\n\n(17.2)\n\n- ● Say the following using the given time-expressions, first for the future and then for the past. (See the example for Exercise 17.1.) Distinguish when *can* may have more than one meaning.\n1 We can climb to the top of this mountain. tomorrow/yesterday.\n2 She can come. next week/whenever she wanted to.\n3 I can join the broken ends. when I get some glue/with glue yesterday.\n4 I can cover at least half of it. by the time you get back/before he got back.\n5 He can eat anything. when the doctor gives him permission/before he was ill.\n6 Mother says I can go out with you. tonight/Mother said — tonight.\n7 She can write with her left hand. if she practises for an hour/when she had to.\n8 You can do what you like. this afternoon/always.\n9 I can reach London. by the weekend/yesterday.\n10 My sister can make a very nice pudding. for dinner, tomorrow/when she had her own kitchen.\n11 My wife can leave hospital. in a week's time/a few days ago.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "44\n17 can",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1021,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726588883100642,
+      "minimum_page_confidence_score": 0.28769884405780966
+    },
+    "blocks": [
+      {
+        "top_left_x": 26,
+        "top_left_y": 11,
+        "bottom_right_x": 50,
+        "bottom_right_y": 30,
+        "content": "44",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995010006013881,
+          "minimum_content_confidence_score": 0.9995010006013881,
+          "block_type_confidence_score": 0.9999994498037452
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 11,
+        "bottom_right_x": 184,
+        "bottom_right_y": 30,
+        "content": "17 can",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9752917960877807,
+          "minimum_content_confidence_score": 0.9507187572356892,
+          "block_type_confidence_score": 0.999983439513019
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 66,
+        "bottom_right_x": 613,
+        "bottom_right_y": 167,
+        "content": "A careful analysis of all sentences where we CANNOT use *could* as simple past tense of *can* shows the following idea to be common to all of them. They deal with THE ATTAINMENT OF SOMETHING THROUGH SOME CAPACITY. Mere capacity may have *could* or *was able to*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941674073050898,
+          "minimum_content_confidence_score": 0.8497091746767589,
+          "block_type_confidence_score": 0.9999966621509202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 169,
+        "bottom_right_x": 613,
+        "bottom_right_y": 211,
+        "content": "He could (was able to) swim very well when he was young. (*Could* is more usual.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972774813937789,
+          "minimum_content_confidence_score": 0.9697393431170958,
+          "block_type_confidence_score": 0.9994015700906209
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 219,
+        "bottom_right_x": 613,
+        "bottom_right_y": 260,
+        "content": "But something attained through a capacity may not have *could*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999336565590486,
+          "minimum_content_confidence_score": 0.9996247956512178,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 263,
+        "bottom_right_x": 613,
+        "bottom_right_y": 304,
+        "content": "He was able to swim half-way before he collapsed. (*Could* is impossible here.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993242972937053,
+          "minimum_content_confidence_score": 0.9924182682749931,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 312,
+        "bottom_right_x": 445,
+        "bottom_right_y": 334,
+        "content": "*Managed to* also expresses this idea.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9685811626864358,
+          "minimum_content_confidence_score": 0.8148557175265422,
+          "block_type_confidence_score": 0.9999139382999274
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 332,
+        "bottom_right_x": 587,
+        "bottom_right_y": 354,
+        "content": "The past of *can* meaning PERMISSION always has *could*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997645207465803,
+          "minimum_content_confidence_score": 0.9990519936426198,
+          "block_type_confidence_score": 0.9999901057270286
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 356,
+        "bottom_right_x": 615,
+        "bottom_right_y": 417,
+        "content": "I could put it wherever I liked. (permission granted)\nI was able to put it on the top shelf. (capacity or ability to reach)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9817967622255414,
+          "minimum_content_confidence_score": 0.6481251075478709,
+          "block_type_confidence_score": 0.9818376709628108
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 430,
+        "bottom_right_x": 435,
+        "bottom_right_y": 445,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9949155193229146,
+          "minimum_content_confidence_score": 0.9902372844424323,
+          "block_type_confidence_score": 0.9999884368330701
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 456,
+        "bottom_right_x": 78,
+        "bottom_right_y": 477,
+        "content": "(17.2)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998347732403899,
+          "minimum_content_confidence_score": 0.9998347732403899,
+          "block_type_confidence_score": 0.9574408015681476
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 455,
+        "bottom_right_x": 619,
+        "bottom_right_y": 954,
+        "content": "- ● Say the following using the given time-expressions, first for the future and then for the past. (See the example for Exercise 17.1.) Distinguish when *can* may have more than one meaning.\n1 We can climb to the top of this mountain. tomorrow/yesterday.\n2 She can come. next week/whenever she wanted to.\n3 I can join the broken ends. when I get some glue/with glue yesterday.\n4 I can cover at least half of it. by the time you get back/before he got back.\n5 He can eat anything. when the doctor gives him permission/before he was ill.\n6 Mother says I can go out with you. tonight/Mother said — tonight.\n7 She can write with her left hand. if she practises for an hour/when she had to.\n8 You can do what you like. this afternoon/always.\n9 I can reach London. by the weekend/yesterday.\n10 My sister can make a very nice pudding. for dinner, tomorrow/when she had her own kitchen.\n11 My wife can leave hospital. in a week's time/a few days ago.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9914060809500763,
+          "minimum_content_confidence_score": 0.49644284157201163,
+          "block_type_confidence_score": 0.9958671186863315
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

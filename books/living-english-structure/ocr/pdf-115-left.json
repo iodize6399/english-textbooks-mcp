@@ -1,0 +1,162 @@
+{
+  "source": {
+    "id": "pdf-115-left",
+    "pdf_page": 115,
+    "side": "left",
+    "reading_order": 229
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "13 Julius Caesar, — was a great general, was also a writer.\n14 Grass, — cows and horses love, is always green in England.\n15 Air, — we breathe, is made up of many gases.\n16 Wackford Squeers, — everyone feared, was the cruel headmaster of Dotheboys Hall.\n17 Whisky, — is very expensive, is the national drink of Scotland.\n18 This book is about capital outlay, — is necessary for industrial development.\n19 Fear, — is an evil, may lead to sin.\n20 The author's last book, — was probably his best, came out in 1972.\n21 George Washington, — became President of the United States, never told a lie.\n22 Grammar, — students dislike very much, is good for them.\n23 Shakespeare, — is the world's greatest dramatist, was born in a little cottage.\n24 In Norway, — is a Baltic country, you can see the midnight sun.\n25 One should try to stop smoking, — is a bad habit.\n\n46.5\n\nElementary\nand\nIntermediate\nNON-DEFINING\nRELATIVE\n\nThe other cases are:\n\n|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  POSSESSIVE | —, whose —, | —, of which —, [—, whose —,]  |\n|  PREPOSITIONAL | —, to etc. whom —, [—, who(m) — to, etc.] | —, to etc. which —, [—, which — to, etc.]  |\n\nThe forms in square brackets are alternatives that occasionally occur, but which should not be taught to students. N.B. — The whom and which of the non-defining relative is NEVER omitted like the corresponding that of the defining relative.\n\n● Add relative pronouns to the following:\n1 The Pope, — many people had never heard before, spoke on the radio last night.\n2 He met Prince Henry's mother, from — he got the news of Henry's marriage.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "218\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9767032432665024,
+      "minimum_page_confidence_score": 0.14787281950338485
+    },
+    "blocks": [
+      {
+        "top_left_x": 33,
+        "top_left_y": 22,
+        "bottom_right_x": 66,
+        "bottom_right_y": 40,
+        "content": "218",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999812844913009,
+          "minimum_content_confidence_score": 0.9999812844913009,
+          "block_type_confidence_score": 0.9999982943947677
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 22,
+        "bottom_right_x": 233,
+        "bottom_right_y": 40,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996744231955383,
+          "minimum_content_confidence_score": 0.9993863959065167,
+          "block_type_confidence_score": 0.9991311705847662
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 75,
+        "bottom_right_x": 611,
+        "bottom_right_y": 576,
+        "content": "13 Julius Caesar, — was a great general, was also a writer.\n14 Grass, — cows and horses love, is always green in England.\n15 Air, — we breathe, is made up of many gases.\n16 Wackford Squeers, — everyone feared, was the cruel headmaster of Dotheboys Hall.\n17 Whisky, — is very expensive, is the national drink of Scotland.\n18 This book is about capital outlay, — is necessary for industrial development.\n19 Fear, — is an evil, may lead to sin.\n20 The author's last book, — was probably his best, came out in 1972.\n21 George Washington, — became President of the United States, never told a lie.\n22 Grammar, — students dislike very much, is good for them.\n23 Shakespeare, — is the world's greatest dramatist, was born in a little cottage.\n24 In Norway, — is a Baltic country, you can see the midnight sun.\n25 One should try to stop smoking, — is a bad habit.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999811345687848,
+          "minimum_content_confidence_score": 0.9850912169159894,
+          "block_type_confidence_score": 0.9913917786602873
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 595,
+        "bottom_right_x": 76,
+        "bottom_right_y": 615,
+        "content": "46.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997843555208018,
+          "minimum_content_confidence_score": 0.9997843555208018,
+          "block_type_confidence_score": 0.6083751522442271
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 616,
+        "bottom_right_x": 147,
+        "bottom_right_y": 715,
+        "content": "Elementary\nand\nIntermediate\nNON-DEFINING\nRELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.954507645978822,
+          "minimum_content_confidence_score": 0.5924119210931238,
+          "block_type_confidence_score": 0.9952234398928772
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 595,
+        "bottom_right_x": 326,
+        "bottom_right_y": 615,
+        "content": "The other cases are:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999964177840035,
+          "minimum_content_confidence_score": 0.9999929667012066,
+          "block_type_confidence_score": 0.9999412332751231
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 619,
+        "bottom_right_x": 617,
+        "bottom_right_y": 738,
+        "content": "|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  POSSESSIVE | —, whose —, | —, of which —, [—, whose —,]  |\n|  PREPOSITIONAL | —, to etc. whom —, [—, who(m) — to, etc.] | —, to etc. which —, [—, which — to, etc.]  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.983227001000129,
+          "minimum_content_confidence_score": 0.701899209655178,
+          "block_type_confidence_score": 0.9911074985639922
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 747,
+        "bottom_right_x": 620,
+        "bottom_right_y": 847,
+        "content": "The forms in square brackets are alternatives that occasionally occur, but which should not be taught to students. N.B. — The whom and which of the non-defining relative is NEVER omitted like the corresponding that of the defining relative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9939200816696433,
+          "minimum_content_confidence_score": 0.8388491365685173,
+          "block_type_confidence_score": 0.9999321745137005
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 872,
+        "bottom_right_x": 620,
+        "bottom_right_y": 984,
+        "content": "● Add relative pronouns to the following:\n1 The Pope, — many people had never heard before, spoke on the radio last night.\n2 He met Prince Henry's mother, from — he got the news of Henry's marriage.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971818522919751,
+          "minimum_content_confidence_score": 0.9031756657820583,
+          "block_type_confidence_score": 0.9986762664737685
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

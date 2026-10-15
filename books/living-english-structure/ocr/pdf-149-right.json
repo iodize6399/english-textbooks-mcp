@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-149-right",
+    "pdf_page": 149,
+    "side": "right",
+    "reading_order": 298
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 9,
+    "markdown": "20 What's that — remarkable-looking building over there?\n\nTAILPIECE. The correct use of *fairly* and *rather* involves a psychological choice rather than a grammatical one. Thus we see from the notes to Exercise 53.7 that we normally expect something to be *fairly easy* or *rather difficult* to do. But if our 'ideal' is the difficulty, as in Exercise 53.8, No. 2, it is quite natural to speak of a suitable sentence as *fairly difficult* and an unsuitable one as *rather easy*.\n\n## 54 Phrase Openings\n\n### 54.1 Intermediate\n\nWe include here many of those stock phrases that lead easily into our thoughts. They are commonly followed by an infinitive or a *that*-clause, and it is a very valuable conversational exercise for more advanced students to be given such an opening and be asked to finish the sentence.\n\nA WORD OF ADVICE TO TEACHERS. In exercises where a student has to make a sentence of his own (as, for example, in this exercise, or freely on opposites or derivatives, etc.), ALWAYS give the next question to the next student to think about. If necessary, keep yourself two students ahead of schedule, but at all costs avoid wasting time.\n\nExamples of phrase openings:\n\n*It's good for you to eat plenty of vegetables.*\n\n*It's wrong for a student to neglect his homework.*\n\n*It was the fault of the teacher that he didn't understand.*\n\n*The time has come for us to say goodbye.*\n\n*He was sometimes heard to swear.*\n\nHere are some openings to be completed by intermediate students; hundreds of others can be invented by the teacher when required.\n\n\\* \\* \\*\n\n● Complete the following skeleton sentences:\n\n1 It's silly to —\n\n2 We found it very boring to —\n\n3 It's unhealthy to —",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "54 Phrase Openings\n287",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9638578536770441,
+      "minimum_page_confidence_score": 0.2715239695618119
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 14,
+        "bottom_right_x": 323,
+        "bottom_right_y": 36,
+        "content": "54 Phrase Openings",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998529866546537,
+          "minimum_content_confidence_score": 0.9996274481277798,
+          "block_type_confidence_score": 0.9999845398502255
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 17,
+        "bottom_right_x": 658,
+        "bottom_right_y": 36,
+        "content": "287",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998668609494783,
+          "minimum_content_confidence_score": 0.9998668609494783,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 69,
+        "bottom_right_x": 630,
+        "bottom_right_y": 113,
+        "content": "20 What's that — remarkable-looking building over there?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981421629724224,
+          "minimum_content_confidence_score": 0.9911134706558787,
+          "block_type_confidence_score": 0.860569876870909
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 123,
+        "bottom_right_x": 659,
+        "bottom_right_y": 284,
+        "content": "TAILPIECE. The correct use of *fairly* and *rather* involves a psychological choice rather than a grammatical one. Thus we see from the notes to Exercise 53.7 that we normally expect something to be *fairly easy* or *rather difficult* to do. But if our 'ideal' is the difficulty, as in Exercise 53.8, No. 2, it is quite natural to speak of a suitable sentence as *fairly difficult* and an unsuitable one as *rather easy*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999418648754065,
+          "minimum_content_confidence_score": 0.9764894795386481,
+          "block_type_confidence_score": 0.9996093845982684
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 341,
+        "bottom_right_x": 377,
+        "bottom_right_y": 372,
+        "content": "## 54 Phrase Openings",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996856572668382,
+          "minimum_content_confidence_score": 0.9988260952901897,
+          "block_type_confidence_score": 0.9923122667717479
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 54,
+        "top_left_y": 421,
+        "bottom_right_x": 159,
+        "bottom_right_y": 462,
+        "content": "### 54.1 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9810784513659567,
+          "minimum_content_confidence_score": 0.9451546923102249,
+          "block_type_confidence_score": 0.7007296221531821
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 423,
+        "bottom_right_x": 657,
+        "bottom_right_y": 526,
+        "content": "We include here many of those stock phrases that lead easily into our thoughts. They are commonly followed by an infinitive or a *that*-clause, and it is a very valuable conversational exercise for more advanced students to be given such an opening and be asked to finish the sentence.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999124510741956,
+          "minimum_content_confidence_score": 0.9972957755720162,
+          "block_type_confidence_score": 0.9999879600069962
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 530,
+        "bottom_right_x": 657,
+        "bottom_right_y": 651,
+        "content": "A WORD OF ADVICE TO TEACHERS. In exercises where a student has to make a sentence of his own (as, for example, in this exercise, or freely on opposites or derivatives, etc.), ALWAYS give the next question to the next student to think about. If necessary, keep yourself two students ahead of schedule, but at all costs avoid wasting time.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999636830033388,
+          "minimum_content_confidence_score": 0.9994437658524599,
+          "block_type_confidence_score": 0.9999928474936721
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 650,
+        "bottom_right_x": 431,
+        "bottom_right_y": 670,
+        "content": "Examples of phrase openings:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999986934957435,
+          "minimum_content_confidence_score": 0.9999731310975191,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 673,
+        "bottom_right_x": 584,
+        "bottom_right_y": 695,
+        "content": "*It's good for you to eat plenty of vegetables.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.98676328100882,
+          "minimum_content_confidence_score": 0.9045701329312,
+          "block_type_confidence_score": 0.7771297356656431
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 694,
+        "bottom_right_x": 626,
+        "bottom_right_y": 714,
+        "content": "*It's wrong for a student to neglect his homework.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999650695925387,
+          "minimum_content_confidence_score": 0.9998578826834115,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 713,
+        "bottom_right_x": 656,
+        "bottom_right_y": 752,
+        "content": "*It was the fault of the teacher that he didn't understand.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999589054248205,
+          "minimum_content_confidence_score": 0.9997809524362374,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 752,
+        "bottom_right_x": 560,
+        "bottom_right_y": 774,
+        "content": "*The time has come for us to say goodbye.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999246590730798,
+          "minimum_content_confidence_score": 0.9997138305313679,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 221,
+        "top_left_y": 773,
+        "bottom_right_x": 497,
+        "bottom_right_y": 792,
+        "content": "*He was sometimes heard to swear.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999472994443486,
+          "minimum_content_confidence_score": 0.9998227672100933,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 802,
+        "bottom_right_x": 656,
+        "bottom_right_y": 862,
+        "content": "Here are some openings to be completed by intermediate students; hundreds of others can be invented by the teacher when required.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999915177207376,
+          "minimum_content_confidence_score": 0.9999578016931774,
+          "block_type_confidence_score": 0.9999865295319578
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 364,
+        "top_left_y": 870,
+        "bottom_right_x": 468,
+        "bottom_right_y": 884,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9590313941973245,
+          "minimum_content_confidence_score": 0.8780165019643658,
+          "block_type_confidence_score": 0.9999508881865387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 895,
+        "bottom_right_x": 537,
+        "bottom_right_y": 917,
+        "content": "● Complete the following skeleton sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978910097523648,
+          "minimum_content_confidence_score": 0.9874051408828006,
+          "block_type_confidence_score": 0.9680295299123607
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 917,
+        "bottom_right_x": 312,
+        "bottom_right_y": 940,
+        "content": "1 It's silly to —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9603509733616414,
+          "minimum_content_confidence_score": 0.8068116631831707,
+          "block_type_confidence_score": 0.9996122433731399
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 940,
+        "bottom_right_x": 459,
+        "bottom_right_y": 963,
+        "content": "2 We found it very boring to —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998284085451922,
+          "minimum_content_confidence_score": 0.9991251737748565,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 962,
+        "bottom_right_x": 364,
+        "bottom_right_y": 985,
+        "content": "3 It's unhealthy to —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997710945051361,
+          "minimum_content_confidence_score": 0.9994895681034318,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

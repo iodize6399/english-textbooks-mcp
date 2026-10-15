@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-061-left",
+    "pdf_page": 61,
+    "side": "left",
+    "reading_order": 121
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "# 28 The Future and Future Perfect\n\n## PRELIMINARY NOTE ON THE FUTURE FORMS\n\nConsider the following sentences:\n\nShe is going to know in a minute.\n\nYou are taking your medicine every three hours!\n\nI'm going to come with you if you like.\n\nSometimes the baby's going to cry for hours on end.\n\nI shall go at once because I can see you will be rude to me.\n\nAm I going to leave without paying?\n\nWill you leave without paying?\n\nAll these seem to be grammatically correct, but they would all sound wrong, or at best, unnatural in most contexts. Why? The problem of choosing the correct and natural future form is a very vexing one in modern English. The usual grammar-book rules for *shall* and *will* are already antiquated; even the increasingly popular *going to* sounds out of place sometimes, although wishful thinking has tried to make it the solution to all problems; and modern English uses *is doing* and *will be doing* very subtly. The ousting of *shall* and *should* (except in questions) by *will* and *would* is bringing about some simplification of speech and writing. Even *will I?* and *will we?* are frequently heard even in England. But custom has not yet decided in all cases, so that while different forms sometimes give a different sense, at other times no difference can be detected between them.\n\nHe'll buy one if you ask him. (indefinite)\n\nHe's going to buy one. (intention)\n\nBut there seems to be little difference between these:\n\nHe won't buy it unless it's cheap.\n\nHe's not going to buy it unless it's cheap.\n\nIn the following section on the expression of the FUTURE, some attempt has been made to analyse the customary speech-forms of well-educated people in natural conversation. The preference for particular forms in particular mental situations is noticed, and the exercises try to make these prominent. Notes and examples have had to be",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1012,
+      "width": 671
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726662944800851,
+      "minimum_page_confidence_score": 0.3896905086639657
+    },
+    "blocks": [
+      {
+        "top_left_x": 28,
+        "top_left_y": 78,
+        "bottom_right_x": 429,
+        "bottom_right_y": 107,
+        "content": "# 28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9711005981479502,
+          "minimum_content_confidence_score": 0.7981858140981776,
+          "block_type_confidence_score": 0.9524725881702153
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 77,
+        "top_left_y": 160,
+        "bottom_right_x": 523,
+        "bottom_right_y": 181,
+        "content": "## PRELIMINARY NOTE ON THE FUTURE FORMS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9427056550323133,
+          "minimum_content_confidence_score": 0.7766697467524736,
+          "block_type_confidence_score": 0.9971630223229029
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 79,
+        "top_left_y": 203,
+        "bottom_right_x": 358,
+        "bottom_right_y": 224,
+        "content": "Consider the following sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999806861565687,
+          "minimum_content_confidence_score": 0.9999474314675137,
+          "block_type_confidence_score": 0.9997384040577275
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 227,
+        "bottom_right_x": 398,
+        "bottom_right_y": 247,
+        "content": "She is going to know in a minute.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999726342093973,
+          "minimum_content_confidence_score": 0.9999033306101257,
+          "block_type_confidence_score": 0.9982991586266261
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 246,
+        "bottom_right_x": 522,
+        "bottom_right_y": 268,
+        "content": "You are taking your medicine every three hours!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999832987003712,
+          "minimum_content_confidence_score": 0.9999431404007152,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 268,
+        "bottom_right_x": 444,
+        "bottom_right_y": 289,
+        "content": "I'm going to come with you if you like.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9887148862653282,
+          "minimum_content_confidence_score": 0.8984954479573457,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 288,
+        "bottom_right_x": 551,
+        "bottom_right_y": 309,
+        "content": "Sometimes the baby's going to cry for hours on end.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998311501266952,
+          "minimum_content_confidence_score": 0.9986747846493358,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 309,
+        "bottom_right_x": 551,
+        "bottom_right_y": 348,
+        "content": "I shall go at once because I can see you will be rude to me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999776283492892,
+          "minimum_content_confidence_score": 0.9969544464947208,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 348,
+        "bottom_right_x": 425,
+        "bottom_right_y": 370,
+        "content": "Am I going to leave without paying?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998965183111581,
+          "minimum_content_confidence_score": 0.9994240741533471,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 370,
+        "bottom_right_x": 378,
+        "bottom_right_y": 391,
+        "content": "Will you leave without paying?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999901684633874,
+          "minimum_content_confidence_score": 0.9999660265080288,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 79,
+        "top_left_y": 400,
+        "bottom_right_x": 554,
+        "bottom_right_y": 726,
+        "content": "All these seem to be grammatically correct, but they would all sound wrong, or at best, unnatural in most contexts. Why? The problem of choosing the correct and natural future form is a very vexing one in modern English. The usual grammar-book rules for *shall* and *will* are already antiquated; even the increasingly popular *going to* sounds out of place sometimes, although wishful thinking has tried to make it the solution to all problems; and modern English uses *is doing* and *will be doing* very subtly. The ousting of *shall* and *should* (except in questions) by *will* and *would* is bringing about some simplification of speech and writing. Even *will I?* and *will we?* are frequently heard even in England. But custom has not yet decided in all cases, so that while different forms sometimes give a different sense, at other times no difference can be detected between them.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978904515377442,
+          "minimum_content_confidence_score": 0.8953671971678092,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 730,
+        "bottom_right_x": 471,
+        "bottom_right_y": 752,
+        "content": "He'll buy one if you ask him. (indefinite)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99993953716097,
+          "minimum_content_confidence_score": 0.9997110026984465,
+          "block_type_confidence_score": 0.9999897481064004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 752,
+        "bottom_right_x": 415,
+        "bottom_right_y": 772,
+        "content": "He's going to buy one. (intention)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999966190091433,
+          "minimum_content_confidence_score": 0.9999045504962881,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 81,
+        "top_left_y": 781,
+        "bottom_right_x": 517,
+        "bottom_right_y": 802,
+        "content": "But there seems to be little difference between these:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999769973001512,
+          "minimum_content_confidence_score": 0.9998416124324918,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 806,
+        "bottom_right_x": 397,
+        "bottom_right_y": 827,
+        "content": "He won't buy it unless it's cheap.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999612567673848,
+          "minimum_content_confidence_score": 0.999823944316098,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 827,
+        "bottom_right_x": 464,
+        "bottom_right_y": 847,
+        "content": "He's not going to buy it unless it's cheap.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999879796991618,
+          "minimum_content_confidence_score": 0.9999421400548534,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 81,
+        "top_left_y": 857,
+        "bottom_right_x": 556,
+        "bottom_right_y": 980,
+        "content": "In the following section on the expression of the FUTURE, some attempt has been made to analyse the customary speech-forms of well-educated people in natural conversation. The preference for particular forms in particular mental situations is noticed, and the exercises try to make these prominent. Notes and examples have had to be",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996888072401242,
+          "minimum_content_confidence_score": 0.9850012898283146,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

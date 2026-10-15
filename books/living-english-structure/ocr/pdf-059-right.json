@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-059-right",
+    "pdf_page": 59,
+    "side": "right",
+    "reading_order": 118
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "6 He (write) a lot of letters yesterday.\n7 We (not play) tennis together since last May.\n8 I (go) away last weekend.\n9 You (see) my fountain-pen? I (lose) it.\n10 I (learn) English for the last two years, and now I (study) Russian, too.\n11 When water (boil) the liquid (change) to a vapour that (be called) steam.\n12 He (study) chemistry for three years and then (give) it up.\n13 Cyril never (wash) behind his ears; he (say) the soap (get) into his eyes.\n14 Maisie (paint) her toe-nails and her hair (change) colour at least three times since last winter.\n15 My wife (not come) home yet. She never (come) home before midnight and last night she (not get) in till two o'clock.\n16 At present he (read) an English novel; it is the third English novel he (read) this year.\n17 When your train (leave)? You (pack) your bags yet? Here are some sandwiches I (make) you for the journey.\n18 She never (see) the sea. She (want) to go last year but she (have) no money.\n19 'You (speak) to my sister yesterday?' 'No, I (not see) her for a long time. I (can) not remember when I last (see) her.'\n20 While I (walk) through the park with Maisie last night, a man (snatch) her bag from her hand and (run) away. I (can) not run after him because it (be) too dark to leave her alone. The police (not catch) him yet.\n\n27.5\n\nIntermediate\n\nand\n\nAdvanced\n\nSIMPLE AND\n\nCONTINUOUS\n\nTENSE\n\nREVISION\n\n● Supply the most suitable tense (PRESENT, PAST, or PRESENT PERFECT):\n\n1 I (be born) in London but (spend) most of my childhood in the country.\n2 We still (live) there when my father (die).\n3 My elder brother (join) the air force when he (be) seventeen.\n4 He (learn) to fly night fighters when the war (break) out.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "27 Tense Revision (Present, Past, Present Perfect)\n107",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 686
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9760113521218379,
+      "minimum_page_confidence_score": 0.09187397791802651
+    },
+    "blocks": [
+      {
+        "top_left_x": 152,
+        "top_left_y": 12,
+        "bottom_right_x": 577,
+        "bottom_right_y": 34,
+        "content": "27 Tense Revision (Present, Past, Present Perfect)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999516335425443,
+          "minimum_content_confidence_score": 0.9997982694689527,
+          "block_type_confidence_score": 0.9997003950222341
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 633,
+        "top_left_y": 12,
+        "bottom_right_x": 667,
+        "bottom_right_y": 32,
+        "content": "107",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999960661089133,
+          "minimum_content_confidence_score": 0.9999960661089133,
+          "block_type_confidence_score": 0.9999996148625269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 66,
+        "bottom_right_x": 670,
+        "bottom_right_y": 765,
+        "content": "6 He (write) a lot of letters yesterday.\n7 We (not play) tennis together since last May.\n8 I (go) away last weekend.\n9 You (see) my fountain-pen? I (lose) it.\n10 I (learn) English for the last two years, and now I (study) Russian, too.\n11 When water (boil) the liquid (change) to a vapour that (be called) steam.\n12 He (study) chemistry for three years and then (give) it up.\n13 Cyril never (wash) behind his ears; he (say) the soap (get) into his eyes.\n14 Maisie (paint) her toe-nails and her hair (change) colour at least three times since last winter.\n15 My wife (not come) home yet. She never (come) home before midnight and last night she (not get) in till two o'clock.\n16 At present he (read) an English novel; it is the third English novel he (read) this year.\n17 When your train (leave)? You (pack) your bags yet? Here are some sandwiches I (make) you for the journey.\n18 She never (see) the sea. She (want) to go last year but she (have) no money.\n19 'You (speak) to my sister yesterday?' 'No, I (not see) her for a long time. I (can) not remember when I last (see) her.'\n20 While I (walk) through the park with Maisie last night, a man (snatch) her bag from her hand and (run) away. I (can) not run after him because it (be) too dark to leave her alone. The police (not catch) him yet.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999587415107757,
+          "minimum_content_confidence_score": 0.9045041953554273,
+          "block_type_confidence_score": 0.9924067692296662
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 783,
+        "bottom_right_x": 107,
+        "bottom_right_y": 803,
+        "content": "27.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990351687334091,
+          "minimum_content_confidence_score": 0.9990351687334091,
+          "block_type_confidence_score": 0.8923962748566311
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 803,
+        "bottom_right_x": 169,
+        "bottom_right_y": 823,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995837320429218,
+          "minimum_content_confidence_score": 0.9995837320429218,
+          "block_type_confidence_score": 0.9994686090767906
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 823,
+        "bottom_right_x": 98,
+        "bottom_right_y": 842,
+        "content": "and",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996750219076708,
+          "minimum_content_confidence_score": 0.9996750219076708,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 842,
+        "bottom_right_x": 145,
+        "bottom_right_y": 862,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998473162135255,
+          "minimum_content_confidence_score": 0.9998473162135255,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 862,
+        "bottom_right_x": 161,
+        "bottom_right_y": 882,
+        "content": "SIMPLE AND",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999430623202453,
+          "minimum_content_confidence_score": 0.9999320181124542,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 882,
+        "bottom_right_x": 168,
+        "bottom_right_y": 902,
+        "content": "CONTINUOUS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999791628863015,
+          "minimum_content_confidence_score": 0.9999791628863015,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 902,
+        "bottom_right_x": 115,
+        "bottom_right_y": 921,
+        "content": "TENSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999055006374874,
+          "minimum_content_confidence_score": 0.9999055006374874,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 921,
+        "bottom_right_x": 138,
+        "bottom_right_y": 942,
+        "content": "REVISION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989986945150707,
+          "minimum_content_confidence_score": 0.9989986945150707,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 783,
+        "bottom_right_x": 670,
+        "bottom_right_y": 823,
+        "content": "● Supply the most suitable tense (PRESENT, PAST, or PRESENT PERFECT):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9797891098880048,
+          "minimum_content_confidence_score": 0.8384187904793905,
+          "block_type_confidence_score": 0.9132042088938388
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 823,
+        "bottom_right_x": 658,
+        "bottom_right_y": 980,
+        "content": "1 I (be born) in London but (spend) most of my childhood in the country.\n2 We still (live) there when my father (die).\n3 My elder brother (join) the air force when he (be) seventeen.\n4 He (learn) to fly night fighters when the war (break) out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999068785155949,
+          "minimum_content_confidence_score": 0.9974528034291189,
+          "block_type_confidence_score": 0.9993366829674379
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

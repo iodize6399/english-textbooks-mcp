@@ -1,0 +1,96 @@
+{
+  "source": {
+    "id": "pdf-049-right",
+    "pdf_page": 49,
+    "side": "right",
+    "reading_order": 98
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "● Read the following: (a) in PAST SIMPLE TENSE; (b) in PAST SIMPLE TENSE, NEGATIVE:\n\n1 I break a cup.\n2 It begins to rain.\n3 We like oranges.\n4 You cut your finger.\n5 She comes early.\n6 Birds fly high.\n7 I lie on the bed.\n8 He teaches English.\n9 The river flows to the sea.\n10 I know his name.\n11 You lie to me.\n12 The prisoner runs away.\n13 He tears his coat.\n14 They have a car.\n15 We wake up at seven.\n16 Your dog bites me.\n17 It costs a lot of money.\n18 You hide the key.\n19 The river freezes in winter.\n20 They drink tea every day.\n21 I choose a book.\n22 The servant sweeps the room.\n23 He does his work well.\n24 That pudding smells nice.\n25 You find your bag.\n26 You wear a lovely dress.\n27 I say 'No.'\n28 Someone steals the money.\n29 We ring the bell.\n30 You ride a bicycle.\n31 The boy throws a ball.\n32 The girl catches it.\n33 I put the book on the table.\n34 Mother makes a cup of tea.\n35 She takes a plate from the cupboard.\n36 You spend too much money.\n37 She tells us a story.\n38 I try to be useful.\n39 The red light means 'stop'.\n40 The little boy falls down.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "24 Past Tense\n87",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9812500174412304,
+      "minimum_page_confidence_score": 0.1554475941879184
+    },
+    "blocks": [
+      {
+        "top_left_x": 143,
+        "top_left_y": 12,
+        "bottom_right_x": 272,
+        "bottom_right_y": 32,
+        "content": "24 Past Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997272418668254,
+          "minimum_content_confidence_score": 0.9923861064311558,
+          "block_type_confidence_score": 0.9999878959040649
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 629,
+        "top_left_y": 13,
+        "bottom_right_x": 654,
+        "bottom_right_y": 32,
+        "content": "87",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999486234366107,
+          "minimum_content_confidence_score": 0.9999486234366107,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 67,
+        "bottom_right_x": 654,
+        "bottom_right_y": 109,
+        "content": "● Read the following: (a) in PAST SIMPLE TENSE; (b) in PAST SIMPLE TENSE, NEGATIVE:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9899102371622791,
+          "minimum_content_confidence_score": 0.8566415049316842,
+          "block_type_confidence_score": 0.9435510984697356
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 111,
+        "bottom_right_x": 519,
+        "bottom_right_y": 984,
+        "content": "1 I break a cup.\n2 It begins to rain.\n3 We like oranges.\n4 You cut your finger.\n5 She comes early.\n6 Birds fly high.\n7 I lie on the bed.\n8 He teaches English.\n9 The river flows to the sea.\n10 I know his name.\n11 You lie to me.\n12 The prisoner runs away.\n13 He tears his coat.\n14 They have a car.\n15 We wake up at seven.\n16 Your dog bites me.\n17 It costs a lot of money.\n18 You hide the key.\n19 The river freezes in winter.\n20 They drink tea every day.\n21 I choose a book.\n22 The servant sweeps the room.\n23 He does his work well.\n24 That pudding smells nice.\n25 You find your bag.\n26 You wear a lovely dress.\n27 I say 'No.'\n28 Someone steals the money.\n29 We ring the bell.\n30 You ride a bicycle.\n31 The boy throws a ball.\n32 The girl catches it.\n33 I put the book on the table.\n34 Mother makes a cup of tea.\n35 She takes a plate from the cupboard.\n36 You spend too much money.\n37 She tells us a story.\n38 I try to be useful.\n39 The red light means 'stop'.\n40 The little boy falls down.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999921531568961,
+          "minimum_content_confidence_score": 0.9851766787430242,
+          "block_type_confidence_score": 0.9840570378645837
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

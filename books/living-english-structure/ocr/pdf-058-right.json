@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-058-right",
+    "pdf_page": 58,
+    "side": "right",
+    "reading_order": 116
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "21 Does John forget his books? regularly/yesterday.\n22 Do you have coffee after dinner? always/at the Smiths'.\n23 He sleeps in the garden. sometimes/last night.\n24 We don't see a policeman. often/all last week.\n25 That student doesn't come. always/last Wednesday.\n\n27.2\nIntermediate\nand Advanced\n\n● Read the following sentences twice; incorporate the given time adverbials to replace the one in italics in the sentence:\n\n1 He often cooks his own breakfast. yesterday/every morning since his wife left home.\n2 We are living in the country now. until 1972/since 1972.\n3 The fat lady next door frequently practises singing. for three hours yesterday/every day since we came to live here.\n4 Cyril doesn't often drink any beer. at the party last night/since I first met him.\n5 He was preparing for the examination last month. now/for the last fortnight.\n6 I've known all about it for years. at last/days ago.\n7 I was selling a lot of my old books last month. today/lately.\n8 You don't often come to see us nowadays. last year/since you left the district.\n9 Who are you laughing at now? just now/all this time.\n10 You look like a murderer in that hat. when you came in with that knife/ever since you grew that moustache.\n11 Then she had to go to the doctor's. in a minute/every morning this week.\n12 He has told me that time and time again. two years ago/every time he sees me.\n13 Maisie was hiding from me when I called on her yesterday evening. at this very moment, too/for weeks.\n14 That barber shaves the Prime Minister whenever",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "27 Tense Revision (Present, Past, Present Perfect)\n105",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1017,
+      "width": 697
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9777100067838248,
+      "minimum_page_confidence_score": 0.13917866879910687
+    },
+    "blocks": [
+      {
+        "top_left_x": 150,
+        "top_left_y": 18,
+        "bottom_right_x": 585,
+        "bottom_right_y": 41,
+        "content": "27 Tense Revision (Present, Past, Present Perfect)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999934217839223,
+          "minimum_content_confidence_score": 0.9996419258128362,
+          "block_type_confidence_score": 0.9992837417321697
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 643,
+        "top_left_y": 20,
+        "bottom_right_x": 677,
+        "bottom_right_y": 40,
+        "content": "105",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999586360869611,
+          "minimum_content_confidence_score": 0.9999586360869611,
+          "block_type_confidence_score": 0.9999996698821269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 74,
+        "bottom_right_x": 637,
+        "bottom_right_y": 256,
+        "content": "21 Does John forget his books? regularly/yesterday.\n22 Do you have coffee after dinner? always/at the Smiths'.\n23 He sleeps in the garden. sometimes/last night.\n24 We don't see a policeman. often/all last week.\n25 That student doesn't come. always/last Wednesday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978151653874252,
+          "minimum_content_confidence_score": 0.911935706565303,
+          "block_type_confidence_score": 0.9902804199392455
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 57,
+        "top_left_y": 275,
+        "bottom_right_x": 173,
+        "bottom_right_y": 336,
+        "content": "27.2\nIntermediate\nand Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9267992887157573,
+          "minimum_content_confidence_score": 0.7545851929187908,
+          "block_type_confidence_score": 0.6550528973277582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 157,
+        "top_left_y": 276,
+        "bottom_right_x": 677,
+        "bottom_right_y": 319,
+        "content": "● Read the following sentences twice; incorporate the given time adverbials to replace the one in italics in the sentence:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970666355728174,
+          "minimum_content_confidence_score": 0.9550243226534071,
+          "block_type_confidence_score": 0.9736788007287076
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 341,
+        "bottom_right_x": 677,
+        "bottom_right_y": 992,
+        "content": "1 He often cooks his own breakfast. yesterday/every morning since his wife left home.\n2 We are living in the country now. until 1972/since 1972.\n3 The fat lady next door frequently practises singing. for three hours yesterday/every day since we came to live here.\n4 Cyril doesn't often drink any beer. at the party last night/since I first met him.\n5 He was preparing for the examination last month. now/for the last fortnight.\n6 I've known all about it for years. at last/days ago.\n7 I was selling a lot of my old books last month. today/lately.\n8 You don't often come to see us nowadays. last year/since you left the district.\n9 Who are you laughing at now? just now/all this time.\n10 You look like a murderer in that hat. when you came in with that knife/ever since you grew that moustache.\n11 Then she had to go to the doctor's. in a minute/every morning this week.\n12 He has told me that time and time again. two years ago/every time he sees me.\n13 Maisie was hiding from me when I called on her yesterday evening. at this very moment, too/for weeks.\n14 That barber shaves the Prime Minister whenever",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985748292938744,
+          "minimum_content_confidence_score": 0.7908021689929561,
+          "block_type_confidence_score": 0.9998643582254791
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

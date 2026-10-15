@@ -1,0 +1,382 @@
+{
+  "source": {
+    "id": "pdf-168-left",
+    "pdf_page": 168,
+    "side": "left",
+    "reading_order": 335
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "subordinating conjunction *since*. It is not very common in informal speech.\n\nHe is not allowed to smoke, for he is only a boy.\n\n*Since* also implies that the reason is obvious or natural. A *since*-clause usually precedes the main clause; there is more interest in the main clause for the speaker or hearer than in the reason introduced by *since*.\n\nSince he is only a boy, he is not allowed to smoke.\n\n*As* also usually comes first in the sentence, and (like *since*) also throws the speaker's emphasis on to the main clause. The reason introduced by *as* is not necessarily obvious or natural.\n\nAs I'm very busy these days, I shan't be able to take my usual holiday.\n\n*Because* seldom comes first in a sentence. There is more interest in the reason introduced by *because* than in the main clause.\n\nI can't come just now, because I'm busy writing a book.\n\nA common meaning of a clause beginning *or else* is 'because otherwise'.\n\nCome early, or else you won't find a seat.\n\n= Come early, because you won't find a seat if you don't.\n\n#### J CONCESSION (and contrast)\n\nChief conjunctions: *although*, (*even*) *though*, (*even*) *if*, *as*, *whoever*, etc., *no matter who* (*when*, etc.).\n\n(Al)though it is late, we'll stay a little longer.\n\nLate though it is, we'll stay a little longer.\n\nBad as things are, we mustn't give up hope.\n\nEven if (though) things *are* bad, we . . .\n\nHowever bad things are, we . . .\n\nNo matter how bad things are, we . . .\n\nI shouldn't worry if he *has* forgotten you. (= *even though*)\n\nI'll buy one whatever it costs (*may cost*).\n\n#### K PURPOSE\n\nChief conjunctions: *that*, *in order that*, *so* (*that*), *lest*, *for fear* (*that*), *in case*.\n\nThe words *may*, *might*, *shall*, *should* commonly occur with the verb after these conjunctions. *Might* and *should* must",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "324\n58 Appendix on Clauses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9717515366755876,
+      "minimum_page_confidence_score": 0.30152477799071015
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 19,
+        "bottom_right_x": 50,
+        "bottom_right_y": 38,
+        "content": "324",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998753226267224,
+          "minimum_content_confidence_score": 0.9998753226267224,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 19,
+        "bottom_right_x": 312,
+        "bottom_right_y": 41,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991294078018979,
+          "minimum_content_confidence_score": 0.9976468751500633,
+          "block_type_confidence_score": 0.9999653395102215
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 75,
+        "bottom_right_x": 605,
+        "bottom_right_y": 115,
+        "content": "subordinating conjunction *since*. It is not very common in informal speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991482039571569,
+          "minimum_content_confidence_score": 0.9930507811176602,
+          "block_type_confidence_score": 0.9999774699527387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 118,
+        "bottom_right_x": 568,
+        "bottom_right_y": 141,
+        "content": "He is not allowed to smoke, for he is only a boy.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999981766238987,
+          "minimum_content_confidence_score": 0.9998855729068273,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 148,
+        "bottom_right_x": 606,
+        "bottom_right_y": 230,
+        "content": "*Since* also implies that the reason is obvious or natural. A *since*-clause usually precedes the main clause; there is more interest in the main clause for the speaker or hearer than in the reason introduced by *since*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997586279512549,
+          "minimum_content_confidence_score": 0.996322496801772,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 232,
+        "bottom_right_x": 587,
+        "bottom_right_y": 253,
+        "content": "Since he is only a boy, he is not allowed to smoke.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999787580806005,
+          "minimum_content_confidence_score": 0.9998845681860608,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 261,
+        "bottom_right_x": 606,
+        "bottom_right_y": 342,
+        "content": "*As* also usually comes first in the sentence, and (like *since*) also throws the speaker's emphasis on to the main clause. The reason introduced by *as* is not necessarily obvious or natural.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9968054840287152,
+          "minimum_content_confidence_score": 0.909532116154591,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 345,
+        "bottom_right_x": 606,
+        "bottom_right_y": 386,
+        "content": "As I'm very busy these days, I shan't be able to take my usual holiday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980373676083018,
+          "minimum_content_confidence_score": 0.9727097466179988,
+          "block_type_confidence_score": 0.9999872447683118
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 394,
+        "bottom_right_x": 607,
+        "bottom_right_y": 454,
+        "content": "*Because* seldom comes first in a sentence. There is more interest in the reason introduced by *because* than in the main clause.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999740397810917,
+          "minimum_content_confidence_score": 0.9997805473096045,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 454,
+        "bottom_right_x": 607,
+        "bottom_right_y": 494,
+        "content": "I can't come just now, because I'm busy writing a book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999895270894004,
+          "minimum_content_confidence_score": 0.9999718673999347,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 494,
+        "bottom_right_x": 606,
+        "bottom_right_y": 534,
+        "content": "A common meaning of a clause beginning *or else* is 'because otherwise'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9902731640634493,
+          "minimum_content_confidence_score": 0.9186494928773721,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 534,
+        "bottom_right_x": 520,
+        "bottom_right_y": 555,
+        "content": "Come early, or else you won't find a seat.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999848440848915,
+          "minimum_content_confidence_score": 0.9993874013262781,
+          "block_type_confidence_score": 0.9999288371183694
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 554,
+        "bottom_right_x": 608,
+        "bottom_right_y": 594,
+        "content": "= Come early, because you won't find a seat if you don't.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978385439139131,
+          "minimum_content_confidence_score": 0.9745298790550179,
+          "block_type_confidence_score": 0.998691009551506
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 614,
+        "bottom_right_x": 358,
+        "bottom_right_y": 634,
+        "content": "#### J CONCESSION (and contrast)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9442367795957383,
+          "minimum_content_confidence_score": 0.7402657147422186,
+          "block_type_confidence_score": 0.9393525499150529
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 633,
+        "bottom_right_x": 606,
+        "bottom_right_y": 674,
+        "content": "Chief conjunctions: *although*, (*even*) *though*, (*even*) *if*, *as*, *whoever*, etc., *no matter who* (*when*, etc.).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9850979099746423,
+          "minimum_content_confidence_score": 0.9221393850104569,
+          "block_type_confidence_score": 0.9999874831811497
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 676,
+        "bottom_right_x": 547,
+        "bottom_right_y": 698,
+        "content": "(Al)though it is late, we'll stay a little longer.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9828299098445322,
+          "minimum_content_confidence_score": 0.8466507958873113,
+          "block_type_confidence_score": 0.9999139382999274
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 698,
+        "bottom_right_x": 522,
+        "bottom_right_y": 719,
+        "content": "Late though it is, we'll stay a little longer.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997016821200465,
+          "minimum_content_confidence_score": 0.9976084344869086,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 719,
+        "bottom_right_x": 536,
+        "bottom_right_y": 739,
+        "content": "Bad as things are, we mustn't give up hope.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997143249377012,
+          "minimum_content_confidence_score": 0.9982816410728312,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 739,
+        "bottom_right_x": 500,
+        "bottom_right_y": 759,
+        "content": "Even if (though) things *are* bad, we . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9823985842353187,
+          "minimum_content_confidence_score": 0.8686765542707536,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 759,
+        "bottom_right_x": 440,
+        "bottom_right_y": 779,
+        "content": "However bad things are, we . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981647024576935,
+          "minimum_content_confidence_score": 0.9947005325510445,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 779,
+        "bottom_right_x": 493,
+        "bottom_right_y": 798,
+        "content": "No matter how bad things are, we . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988775046179453,
+          "minimum_content_confidence_score": 0.9932655130962237,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 798,
+        "bottom_right_x": 608,
+        "bottom_right_y": 837,
+        "content": "I shouldn't worry if he *has* forgotten you. (= *even though*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975443352422544,
+          "minimum_content_confidence_score": 0.9781480654223449,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 837,
+        "bottom_right_x": 511,
+        "bottom_right_y": 858,
+        "content": "I'll buy one whatever it costs (*may cost*).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992995331259956,
+          "minimum_content_confidence_score": 0.9957152350333197,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 877,
+        "bottom_right_x": 215,
+        "bottom_right_y": 896,
+        "content": "#### K PURPOSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999187305435577,
+          "minimum_content_confidence_score": 0.999820860535958,
+          "block_type_confidence_score": 0.9999954700677164
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 896,
+        "bottom_right_x": 608,
+        "bottom_right_y": 937,
+        "content": "Chief conjunctions: *that*, *in order that*, *so* (*that*), *lest*, *for fear* (*that*), *in case*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9933543146975258,
+          "minimum_content_confidence_score": 0.9684505851186194,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 937,
+        "bottom_right_x": 609,
+        "bottom_right_y": 976,
+        "content": "The words *may*, *might*, *shall*, *should* commonly occur with the verb after these conjunctions. *Might* and *should* must",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996410096011444,
+          "minimum_content_confidence_score": 0.9978086200126288,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

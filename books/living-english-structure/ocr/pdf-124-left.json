@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-124-left",
+    "pdf_page": 124,
+    "side": "left",
+    "reading_order": 247
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:27.117367+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "47.6\n\nIntermediate\nand\n\nAdvanced\n\nSee Exercise 47.3.\n\n* * *\n\n● Complete the following:\n1 Have you heard what . . .\n2 She asked the policeman where . . .\n3 I was surprised to see how tall . . .\n4 Children should learn to eat what . . .\n5 It is difficult to judge how heavy . . .\n6 Can you tell me who . . .\n7 My mother could never understand why . . .\n8 A baby always seems to know when . . .\n9 The soldier was shown how . . .\n10 She could not make up her mind which . . .\n11 The dressmaker asked her how long . . .\n12 I wonder how much longer . . .\n13 On reading the newspaper, I was surprised to see\nhow many . . .\n14 Can you remember where . . .\n15 Tell me whereabouts . . .\n16 The Prime Minister refused to state when . . .\n17 The policeman made a note of where . . .\n18 Can you tell me how . . .\n19 An employer is sure to ask his typist how\nmany . . .\n20 To this day she has never understood why . . .\n21 My friend Maisie does whatever . . .\n22 I am surprised how much more intelligent . . .\n23 Medical authorities do not agree as to whether . . .\n24 My mother was astonished when I told her how\nmuch . . .\n25 Cyril has become so fat he doesn't know how . . .\n26 The theory of evolution makes us realize how\nlittle . . .\n27 I never realized how few . . .\n28 The newsboy couldn't remember which . . .\n29 Anyone can see how thin . . .\n30 Music tries to express what . . .",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "236\n47 Relative and Interrogative Links",
+    "footer": null,
+    "dimensions": {
+      "dpi": 37,
+      "height": 1001,
+      "width": 719
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9761207837271891,
+      "minimum_page_confidence_score": 0.15616466149636088
+    },
+    "blocks": [
+      {
+        "top_left_x": 45,
+        "top_left_y": 23,
+        "bottom_right_x": 81,
+        "bottom_right_y": 43,
+        "content": "236",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999256189345929,
+          "minimum_content_confidence_score": 0.9999256189345929,
+          "block_type_confidence_score": 0.9999930675973957
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 138,
+        "top_left_y": 23,
+        "bottom_right_x": 448,
+        "bottom_right_y": 44,
+        "content": "47 Relative and Interrogative Links",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993097230098271,
+          "minimum_content_confidence_score": 0.9967172973201093,
+          "block_type_confidence_score": 0.9996198778948742
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 45,
+        "top_left_y": 80,
+        "bottom_right_x": 90,
+        "bottom_right_y": 102,
+        "content": "47.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971179585010291,
+          "minimum_content_confidence_score": 0.9971179585010291,
+          "block_type_confidence_score": 0.6463029259721049
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 45,
+        "top_left_y": 103,
+        "bottom_right_x": 153,
+        "bottom_right_y": 144,
+        "content": "Intermediate\nand",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8948472842986125,
+          "minimum_content_confidence_score": 0.6867094706113148,
+          "block_type_confidence_score": 0.9619971040462746
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 45,
+        "top_left_y": 145,
+        "bottom_right_x": 129,
+        "bottom_right_y": 165,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991581380819032,
+          "minimum_content_confidence_score": 0.9991581380819032,
+          "block_type_confidence_score": 0.9970304007181934
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 80,
+        "bottom_right_x": 331,
+        "bottom_right_y": 102,
+        "content": "See Exercise 47.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988131670685702,
+          "minimum_content_confidence_score": 0.9965188891617394,
+          "block_type_confidence_score": 0.9995380391031741
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 365,
+        "top_left_y": 116,
+        "bottom_right_x": 474,
+        "bottom_right_y": 131,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9895483970747323,
+          "minimum_content_confidence_score": 0.9772214861252659,
+          "block_type_confidence_score": 0.9998598295228305
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 145,
+        "bottom_right_x": 659,
+        "bottom_right_y": 951,
+        "content": "● Complete the following:\n1 Have you heard what . . .\n2 She asked the policeman where . . .\n3 I was surprised to see how tall . . .\n4 Children should learn to eat what . . .\n5 It is difficult to judge how heavy . . .\n6 Can you tell me who . . .\n7 My mother could never understand why . . .\n8 A baby always seems to know when . . .\n9 The soldier was shown how . . .\n10 She could not make up her mind which . . .\n11 The dressmaker asked her how long . . .\n12 I wonder how much longer . . .\n13 On reading the newspaper, I was surprised to see\nhow many . . .\n14 Can you remember where . . .\n15 Tell me whereabouts . . .\n16 The Prime Minister refused to state when . . .\n17 The policeman made a note of where . . .\n18 Can you tell me how . . .\n19 An employer is sure to ask his typist how\nmany . . .\n20 To this day she has never understood why . . .\n21 My friend Maisie does whatever . . .\n22 I am surprised how much more intelligent . . .\n23 Medical authorities do not agree as to whether . . .\n24 My mother was astonished when I told her how\nmuch . . .\n25 Cyril has become so fat he doesn't know how . . .\n26 The theory of evolution makes us realize how\nlittle . . .\n27 I never realized how few . . .\n28 The newsboy couldn't remember which . . .\n29 Anyone can see how thin . . .\n30 Music tries to express what . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970775565091955,
+          "minimum_content_confidence_score": 0.5295494560688547,
+          "block_type_confidence_score": 0.989809756997107
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

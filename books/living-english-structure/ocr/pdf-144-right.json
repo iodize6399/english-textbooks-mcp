@@ -1,0 +1,278 @@
+{
+  "source": {
+    "id": "pdf-144-right",
+    "pdf_page": 144,
+    "side": "right",
+    "reading_order": 288
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "50 When I was a child, people used to read to me out of a book of fairy tales someone had given me for my birthday. (2 PASSIVES)\n\n### *FINAL REMARKS ON THE PASSIVE VOICE*\n\nA great deal of harm has been done by teaching the PASSIVE VOICE as if it were merely another way of expressing a sentence in the ACTIVE VOICE. Students are asked to put such sentences as:\n\nJohn likes girls.\n\nHenry can read English and French, etc.\n\ninto the fantastic forms of\n\n‘Girls are liked by John.’\n\n‘English and French can be read by Henry’ etc.!\n\nWe ought to stress the fact that the passive voice has an important and special place in the language; most sentences that are good in the active voice are just grotesque curiosities when put into the passive voice. The proper uses of the passive voice have been carefully pointed out in the last four exercises. Most of the sentences fall more naturally into a passive form than the form given.\n\nThe agent with *by* is unnatural in English; MOST sentences needing it belong rightfully to the active voice, and should never be put into the passive voice, even as an academic exercise.\n\n## 53 Miscellaneous Exercises\n\nIn this section appear several exercises that are not easily brought into the general grammatical outline of the book. Some are on points of stress, intonation, etc., others on points of grammatical usage not dealt with under the main headings of this book; others on points of more importance in writing than in speech.\n\n### MUCH (MANY) – A LOT OF; FAR – A LONG WAY\n\nThere is a very strong tendency in English, where alternatives are available, to use the shorter forms in negatives and questions. Thus ‘He has much time’, although ap-",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "53 Miscellaneous Exercises\n277",
+    "footer": "• 11  \n• elementary\nL.S.S.—10",
+    "dimensions": {
+      "dpi": 34,
+      "height": 997,
+      "width": 645
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.96868107828064,
+      "minimum_page_confidence_score": 0.21187053682149817
+    },
+    "blocks": [
+      {
+        "top_left_x": 123,
+        "top_left_y": 18,
+        "bottom_right_x": 352,
+        "bottom_right_y": 37,
+        "content": "53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998959900420346,
+          "minimum_content_confidence_score": 0.9997612807981958,
+          "block_type_confidence_score": 0.9999727114209305
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 591,
+        "top_left_y": 18,
+        "bottom_right_x": 623,
+        "bottom_right_y": 37,
+        "content": "277",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998252697135925,
+          "minimum_content_confidence_score": 0.9998252697135925,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 70,
+        "bottom_right_x": 618,
+        "bottom_right_y": 135,
+        "content": "50 When I was a child, people used to read to me out of a book of fairy tales someone had given me for my birthday. (2 PASSIVES)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999207405455973,
+          "minimum_content_confidence_score": 0.999059965565255,
+          "block_type_confidence_score": 0.562046337775068
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 161,
+        "bottom_right_x": 555,
+        "bottom_right_y": 182,
+        "content": "### *FINAL REMARKS ON THE PASSIVE VOICE*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9810639486663383,
+          "minimum_content_confidence_score": 0.9236000908039134,
+          "block_type_confidence_score": 0.9990830492358638
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 198,
+        "bottom_right_x": 624,
+        "bottom_right_y": 276,
+        "content": "A great deal of harm has been done by teaching the PASSIVE VOICE as if it were merely another way of expressing a sentence in the ACTIVE VOICE. Students are asked to put such sentences as:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998908804967783,
+          "minimum_content_confidence_score": 0.9968066269081454,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 279,
+        "bottom_right_x": 326,
+        "bottom_right_y": 300,
+        "content": "John likes girls.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998075365916742,
+          "minimum_content_confidence_score": 0.9996563411416399,
+          "block_type_confidence_score": 0.9947617519446195
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 299,
+        "bottom_right_x": 525,
+        "bottom_right_y": 320,
+        "content": "Henry can read English and French, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998567668360778,
+          "minimum_content_confidence_score": 0.9993363325920389,
+          "block_type_confidence_score": 0.9999936819476216
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 327,
+        "bottom_right_x": 374,
+        "bottom_right_y": 348,
+        "content": "into the fantastic forms of",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997285054785623,
+          "minimum_content_confidence_score": 0.9990198691010683,
+          "block_type_confidence_score": 0.9999798540367254
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 350,
+        "bottom_right_x": 400,
+        "bottom_right_y": 371,
+        "content": "‘Girls are liked by John.’",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995365706301108,
+          "minimum_content_confidence_score": 0.9985921487812993,
+          "block_type_confidence_score": 0.9999918938339075
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 370,
+        "bottom_right_x": 587,
+        "bottom_right_y": 391,
+        "content": "‘English and French can be read by Henry’ etc.!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992176691543667,
+          "minimum_content_confidence_score": 0.9932681846459346,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 398,
+        "bottom_right_x": 624,
+        "bottom_right_y": 536,
+        "content": "We ought to stress the fact that the passive voice has an important and special place in the language; most sentences that are good in the active voice are just grotesque curiosities when put into the passive voice. The proper uses of the passive voice have been carefully pointed out in the last four exercises. Most of the sentences fall more naturally into a passive form than the form given.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999985948244339,
+          "minimum_content_confidence_score": 0.9998814008261862,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 535,
+        "bottom_right_x": 624,
+        "bottom_right_y": 611,
+        "content": "The agent with *by* is unnatural in English; MOST sentences needing it belong rightfully to the active voice, and should never be put into the passive voice, even as an academic exercise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9923991287613434,
+          "minimum_content_confidence_score": 0.7648505601059401,
+          "block_type_confidence_score": 0.9999964237340748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 656,
+        "bottom_right_x": 431,
+        "bottom_right_y": 684,
+        "content": "## 53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9754369270641513,
+          "minimum_content_confidence_score": 0.9147940095813261,
+          "block_type_confidence_score": 0.9995320841735236
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 720,
+        "bottom_right_x": 625,
+        "bottom_right_y": 836,
+        "content": "In this section appear several exercises that are not easily brought into the general grammatical outline of the book. Some are on points of stress, intonation, etc., others on points of grammatical usage not dealt with under the main headings of this book; others on points of more importance in writing than in speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999572035091346,
+          "minimum_content_confidence_score": 0.9987056341406878,
+          "block_type_confidence_score": 0.9999917746265009
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 862,
+        "bottom_right_x": 624,
+        "bottom_right_y": 885,
+        "content": "### MUCH (MANY) – A LOT OF; FAR – A LONG WAY",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9894845599393441,
+          "minimum_content_confidence_score": 0.905678913592591,
+          "block_type_confidence_score": 0.9980708693039606
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 898,
+        "bottom_right_x": 625,
+        "bottom_right_y": 960,
+        "content": "There is a very strong tendency in English, where alternatives are available, to use the shorter forms in negatives and questions. Thus ‘He has much time’, although ap-",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99959650441574,
+          "minimum_content_confidence_score": 0.9946146726825296,
+          "block_type_confidence_score": 0.9998572076678064
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 42,
+        "top_left_y": 897,
+        "bottom_right_x": 130,
+        "bottom_right_y": 938,
+        "content": "• 11  \n• elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8214939081303457,
+          "minimum_content_confidence_score": 0.2981621132692025,
+          "block_type_confidence_score": 0.9875310536712104
+        },
+        "type": "footer"
+      },
+      {
+        "top_left_x": 75,
+        "top_left_y": 960,
+        "bottom_right_x": 139,
+        "bottom_right_y": 975,
+        "content": "L.S.S.—10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.6873701513268624,
+          "minimum_content_confidence_score": 0.6873701513268624,
+          "block_type_confidence_score": 0.9999941129497733
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

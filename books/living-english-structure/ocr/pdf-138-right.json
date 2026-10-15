@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-138-right",
+    "pdf_page": 138,
+    "side": "right",
+    "reading_order": 276
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "19 Good Heavens! Look at the time! I've forgotten all about my cake in the oven. I hope it's not burnt to a cinder.\n20 To the bride and bridegroom! May you both be very happy together, and may all your troubles be 'little ones'!\n\n# REPORTED SPEECH (REVISION)\n\n# 51.17\nIntermediate\n\nSee previous exercises. It is convenient to refer to the 'changes' that occur when speech is reported, and the exercises in this book are in the form of 'translation' of direct to reported speech, but it is important to remember that the forms of reported speech are used in many circumstances besides the reporting of words spoken.\n\n* * *\n\n● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 I shouldn't do that if I were you. Isn't it very dangerous?\n2 When we've finished this game we'll have supper. Will you have time to play again afterwards?\n3 Don't you know how to behave? There must be no talking in lessons.\n4 Do as you are told! You are a naughty girl.\n5 What will you make your new curtains of? Flowered cotton would look very pretty.\n6 Please take me home. I don't feel very well.\n7 Are you cold? I can soon light a fire.\n8 I wonder where I left my scissors. Can you see them anywhere? (He wondered where . . .)\n9 Don't do that! Are you mad?\n10 What time does the concert start? I'm sure it's time to go.\n11 Is that the front-door bell? I'll answer it.\n12 This is my engagement ring. Do you like it?\n13 Come here! I want to speak to you.\n14 It's a lovely day today. I think I'll go for a walk.\n15 How can I help laughing? Maisie's hat is so funny.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n265",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9744255700486939,
+      "minimum_page_confidence_score": 0.26701608684737554
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 19,
+        "bottom_right_x": 315,
+        "bottom_right_y": 40,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991009347684865,
+          "minimum_content_confidence_score": 0.9973682467565168,
+          "block_type_confidence_score": 0.9998097442781291
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 615,
+        "top_left_y": 20,
+        "bottom_right_x": 648,
+        "bottom_right_y": 39,
+        "content": "265",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996913432273397,
+          "minimum_content_confidence_score": 0.9996913432273397,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 74,
+        "bottom_right_x": 644,
+        "bottom_right_y": 204,
+        "content": "19 Good Heavens! Look at the time! I've forgotten all about my cake in the oven. I hope it's not burnt to a cinder.\n20 To the bride and bridegroom! May you both be very happy together, and may all your troubles be 'little ones'!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984462252050679,
+          "minimum_content_confidence_score": 0.9396120143653304,
+          "block_type_confidence_score": 0.8932762409453386
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 234,
+        "bottom_right_x": 481,
+        "bottom_right_y": 258,
+        "content": "# REPORTED SPEECH (REVISION)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.951351204522091,
+          "minimum_content_confidence_score": 0.9009872015213428,
+          "block_type_confidence_score": 0.7979942383300264
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 49,
+        "top_left_y": 275,
+        "bottom_right_x": 153,
+        "bottom_right_y": 314,
+        "content": "# 51.17\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8898217750191637,
+          "minimum_content_confidence_score": 0.5831214426057005,
+          "block_type_confidence_score": 0.6451824076054242
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 276,
+        "bottom_right_x": 652,
+        "bottom_right_y": 397,
+        "content": "See previous exercises. It is convenient to refer to the 'changes' that occur when speech is reported, and the exercises in this book are in the form of 'translation' of direct to reported speech, but it is important to remember that the forms of reported speech are used in many circumstances besides the reporting of words spoken.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999953516639466,
+          "minimum_content_confidence_score": 0.9999457282089105,
+          "block_type_confidence_score": 0.9999469546810004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 358,
+        "top_left_y": 410,
+        "bottom_right_x": 463,
+        "bottom_right_y": 424,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982915456950076,
+          "minimum_content_confidence_score": 0.9955219000812505,
+          "block_type_confidence_score": 0.9999810460826691
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 436,
+        "bottom_right_x": 650,
+        "bottom_right_y": 957,
+        "content": "● Put the following into REPORTED SPEECH with the introducing verb in the PAST tense:\n1 I shouldn't do that if I were you. Isn't it very dangerous?\n2 When we've finished this game we'll have supper. Will you have time to play again afterwards?\n3 Don't you know how to behave? There must be no talking in lessons.\n4 Do as you are told! You are a naughty girl.\n5 What will you make your new curtains of? Flowered cotton would look very pretty.\n6 Please take me home. I don't feel very well.\n7 Are you cold? I can soon light a fire.\n8 I wonder where I left my scissors. Can you see them anywhere? (He wondered where . . .)\n9 Don't do that! Are you mad?\n10 What time does the concert start? I'm sure it's time to go.\n11 Is that the front-door bell? I'll answer it.\n12 This is my engagement ring. Do you like it?\n13 Come here! I want to speak to you.\n14 It's a lovely day today. I think I'll go for a walk.\n15 How can I help laughing? Maisie's hat is so funny.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996014816725133,
+          "minimum_content_confidence_score": 0.9612053207731646,
+          "block_type_confidence_score": 0.9992859697418347
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

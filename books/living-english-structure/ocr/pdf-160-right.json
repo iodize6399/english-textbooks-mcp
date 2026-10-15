@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-160-right",
+    "pdf_page": 160,
+    "side": "right",
+    "reading_order": 320
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "## 57 Accepted Phrases\n\nIt is impossible to give more than a random collection, graded (more according to value than difficulty) into elementary, intermediate or advanced. Any piece of modern reading will have several on every page; any conversation will produce dozens every five minutes. The idioms and sayings of the 'horse of another colour' variety may be useful passive knowledge for more advanced students, but far more useful practical work should first be done on the accepted phrases of everyday English.\n\nThe following three exercises are NOT intended to be done as a solid group; they should be split up and done piecemeal at odd times, the various phrases being added to and expanded at will.\n\nApart from the suggested sentence-making exercise, other work can be done, for example:\n\nWrite a continuous passage containing six of the following phrases.\n\nGive an English phrase for [foreign equivalent]\n\nUse the following phrase in your answer to my question [teacher asks question in the answer to which the required phrase can be logically introduced]. This exercise will need careful preparation on the part of the teacher.\n\nSimilarly, questions may be asked to ring the changes on a group of five or six idioms.\n\nHere is a simple example worked out in detail for part of an elementary 'conversation' lesson.\n\nThe following elementary phrases are learnt:\n\n(1) He's not back yet.\n(2) Here you are! (for offering things informally),\n(3) Never mind.\n(4) What's he like?\n(5) Have a good time.\n\nIndividual students are made to respond with one of these by such questions as the following:\n\nExcuse me, can you lend me a pencil? (2)\n\nI say, I'm going to a party tonight. (5)\n\nI've come to see X, where is he? (1)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": "L.E.S.—11",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1016,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9740047658426237,
+      "minimum_page_confidence_score": 0.3814887379108339
+    },
+    "blocks": [
+      {
+        "top_left_x": 115,
+        "top_left_y": 69,
+        "bottom_right_x": 365,
+        "bottom_right_y": 100,
+        "content": "## 57 Accepted Phrases",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999730173362289,
+          "minimum_content_confidence_score": 0.9999660664662312,
+          "block_type_confidence_score": 0.9668846431989163
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 150,
+        "bottom_right_x": 640,
+        "bottom_right_y": 331,
+        "content": "It is impossible to give more than a random collection, graded (more according to value than difficulty) into elementary, intermediate or advanced. Any piece of modern reading will have several on every page; any conversation will produce dozens every five minutes. The idioms and sayings of the 'horse of another colour' variety may be useful passive knowledge for more advanced students, but far more useful practical work should first be done on the accepted phrases of everyday English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999203431561481,
+          "minimum_content_confidence_score": 0.9982417794858229,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 328,
+        "bottom_right_x": 640,
+        "bottom_right_y": 409,
+        "content": "The following three exercises are NOT intended to be done as a solid group; they should be split up and done piecemeal at odd times, the various phrases being added to and expanded at will.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9919027034257815,
+          "minimum_content_confidence_score": 0.8256970083308866,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 408,
+        "bottom_right_x": 640,
+        "bottom_right_y": 450,
+        "content": "Apart from the suggested sentence-making exercise, other work can be done, for example:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999867418370982,
+          "minimum_content_confidence_score": 0.9998929025602407,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 452,
+        "bottom_right_x": 640,
+        "bottom_right_y": 492,
+        "content": "Write a continuous passage containing six of the following phrases.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999827711545628,
+          "minimum_content_confidence_score": 0.9999440939703319,
+          "block_type_confidence_score": 0.9324205307462077
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 491,
+        "bottom_right_x": 573,
+        "bottom_right_y": 514,
+        "content": "Give an English phrase for [foreign equivalent]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999882195051981,
+          "minimum_content_confidence_score": 0.9999678542721399,
+          "block_type_confidence_score": 0.9971624298249625
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 513,
+        "bottom_right_x": 640,
+        "bottom_right_y": 611,
+        "content": "Use the following phrase in your answer to my question [teacher asks question in the answer to which the required phrase can be logically introduced]. This exercise will need careful preparation on the part of the teacher.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999808008090736,
+          "minimum_content_confidence_score": 0.9997836819390714,
+          "block_type_confidence_score": 0.9999902249342363
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 620,
+        "bottom_right_x": 640,
+        "bottom_right_y": 661,
+        "content": "Similarly, questions may be asked to ring the changes on a group of five or six idioms.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999803767889941,
+          "minimum_content_confidence_score": 0.9998246738733153,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 660,
+        "bottom_right_x": 640,
+        "bottom_right_y": 702,
+        "content": "Here is a simple example worked out in detail for part of an elementary 'conversation' lesson.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999920567026539,
+          "minimum_content_confidence_score": 0.9999612584807916,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 701,
+        "bottom_right_x": 534,
+        "bottom_right_y": 722,
+        "content": "The following elementary phrases are learnt:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999780562294153,
+          "minimum_content_confidence_score": 0.9998713176065277,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 724,
+        "bottom_right_x": 608,
+        "bottom_right_y": 825,
+        "content": "(1) He's not back yet.\n(2) Here you are! (for offering things informally),\n(3) Never mind.\n(4) What's he like?\n(5) Have a good time.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989309228400214,
+          "minimum_content_confidence_score": 0.9771948251865978,
+          "block_type_confidence_score": 0.9999495770114563
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 833,
+        "bottom_right_x": 643,
+        "bottom_right_y": 875,
+        "content": "Individual students are made to respond with one of these by such questions as the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999939867977718,
+          "minimum_content_confidence_score": 0.9999738938465109,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 877,
+        "bottom_right_x": 549,
+        "bottom_right_y": 899,
+        "content": "Excuse me, can you lend me a pencil? (2)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998720522170584,
+          "minimum_content_confidence_score": 0.9989601469535717,
+          "block_type_confidence_score": 0.9992850173887515
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 898,
+        "bottom_right_x": 521,
+        "bottom_right_y": 919,
+        "content": "I say, I'm going to a party tonight. (5)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999963881316268,
+          "minimum_content_confidence_score": 0.9998306322920667,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 918,
+        "bottom_right_x": 501,
+        "bottom_right_y": 939,
+        "content": "I've come to see X, where is he? (1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99998749803839,
+          "minimum_content_confidence_score": 0.9999318575711916,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 72,
+        "top_left_y": 947,
+        "bottom_right_x": 137,
+        "bottom_right_y": 962,
+        "content": "L.E.S.—11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8498957297561641,
+          "minimum_content_confidence_score": 0.8498957297561641,
+          "block_type_confidence_score": 0.9999964237415606
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-064-right",
+    "pdf_page": 64,
+    "side": "right",
+    "reading_order": 128
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "I wonder when he'll do it; I know he's going to.\nI wonder when he's going to do it.\n\nI'm going to give you one of these pills.\nYou'll take one of them every three hours!\n\nWITH THINGS: going to has the meaning of probability or\ninevitability IN THE MIND OF THE SPEAKER.\n\nThis bus will take you to George Street.\nLook out! The bus is going to overturn!\n\nWhat's going to happen next?\nWhat'll happen if you light the wrong end?\n\nIf there's a slump, things will get much dearer.\nNow that there's a slump, things are going to get\nmuch dearer.\n\nMalted milk will do you good. (It says so on the tin.)\nThis lovely malted milk is going to do you good. (I\nfeel it in my bones.)\n\nWhat time will the sun rise?\nThe sun's going to shine in a minute. (The cloud has\nnearly gone.)\n\nIt will rain. (Sense incomplete; no meaning.)\n\nIt's going to rain. (It seems so to me because I can see\na storm coming up.)\n\nAs soon as the depression off Iceland gets further\nsouth, there will be a belt of rain across southern\nEngland.\n\nThis book will tell you all about it.\nThis book's going to be more difficult than I expected.\n\nNotice that these differences, which are more clearly\ndefined with persons than with things, are much less mark-\ned in the negative. Shan't, won't and not going to are more\neasily interchanged than their affirmative counterparts.\n\nI'm afraid I shan't have time to finish it. (OR: I'm not\ngoing to)\n\nI hope you're not going to buy any blue ones. (OR:\nyou won't)\n\nIt is clear that no hard-and-fast rule can be given, as the\ndifference is notional, not grammatical. In many cases\neither form is POSSIBLE, but the meaning will not always be\nthe same.\n\n* * *",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n117",
+    "footer": "L.S.S.—5",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1017,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9705535343041894,
+      "minimum_page_confidence_score": 0.2090185710427129
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 15,
+        "bottom_right_x": 424,
+        "bottom_right_y": 35,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999830931088615,
+          "minimum_content_confidence_score": 0.9999289563119074,
+          "block_type_confidence_score": 0.9998920698480857
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 15,
+        "bottom_right_x": 653,
+        "bottom_right_y": 33,
+        "content": "117",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999669801176596,
+          "minimum_content_confidence_score": 0.9999669801176596,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 70,
+        "bottom_right_x": 617,
+        "bottom_right_y": 112,
+        "content": "I wonder when he'll do it; I know he's going to.\nI wonder when he's going to do it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985204748634603,
+          "minimum_content_confidence_score": 0.9774202922284712,
+          "block_type_confidence_score": 0.9994462220492041
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 120,
+        "bottom_right_x": 575,
+        "bottom_right_y": 162,
+        "content": "I'm going to give you one of these pills.\nYou'll take one of them every three hours!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999810164886045,
+          "minimum_content_confidence_score": 0.9997615556234877,
+          "block_type_confidence_score": 0.999985218266486
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 170,
+        "bottom_right_x": 654,
+        "bottom_right_y": 212,
+        "content": "WITH THINGS: going to has the meaning of probability or\ninevitability IN THE MIND OF THE SPEAKER.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9620446003434971,
+          "minimum_content_confidence_score": 0.5045088243307816,
+          "block_type_confidence_score": 0.9901902960771622
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 215,
+        "bottom_right_x": 554,
+        "bottom_right_y": 256,
+        "content": "This bus will take you to George Street.\nLook out! The bus is going to overturn!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999901652441617,
+          "minimum_content_confidence_score": 0.9999536297383403,
+          "block_type_confidence_score": 0.99996864893943
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 265,
+        "bottom_right_x": 581,
+        "bottom_right_y": 305,
+        "content": "What's going to happen next?\nWhat'll happen if you light the wrong end?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999827776284521,
+          "minimum_content_confidence_score": 0.9998452902871714,
+          "block_type_confidence_score": 0.9997385232067433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 314,
+        "bottom_right_x": 654,
+        "bottom_right_y": 374,
+        "content": "If there's a slump, things will get much dearer.\nNow that there's a slump, things are going to get\nmuch dearer.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999613072002569,
+          "minimum_content_confidence_score": 0.9996066449357789,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 383,
+        "bottom_right_x": 656,
+        "bottom_right_y": 444,
+        "content": "Malted milk will do you good. (It says so on the tin.)\nThis lovely malted milk is going to do you good. (I\nfeel it in my bones.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999608479887506,
+          "minimum_content_confidence_score": 0.9993906755276802,
+          "block_type_confidence_score": 0.9999908209686689
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 452,
+        "bottom_right_x": 656,
+        "bottom_right_y": 513,
+        "content": "What time will the sun rise?\nThe sun's going to shine in a minute. (The cloud has\nnearly gone.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999881855754154,
+          "minimum_content_confidence_score": 0.9999108069800525,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 522,
+        "bottom_right_x": 591,
+        "bottom_right_y": 543,
+        "content": "It will rain. (Sense incomplete; no meaning.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999600528771377,
+          "minimum_content_confidence_score": 0.9998747128218177,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 552,
+        "bottom_right_x": 656,
+        "bottom_right_y": 592,
+        "content": "It's going to rain. (It seems so to me because I can see\na storm coming up.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995246304431209,
+          "minimum_content_confidence_score": 0.9957823577054246,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 591,
+        "bottom_right_x": 657,
+        "bottom_right_y": 652,
+        "content": "As soon as the depression off Iceland gets further\nsouth, there will be a belt of rain across southern\nEngland.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995911618833072,
+          "minimum_content_confidence_score": 0.9914046671661497,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 661,
+        "bottom_right_x": 656,
+        "bottom_right_y": 701,
+        "content": "This book will tell you all about it.\nThis book's going to be more difficult than I expected.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999951973350867,
+          "minimum_content_confidence_score": 0.999969840959284,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 710,
+        "bottom_right_x": 657,
+        "bottom_right_y": 790,
+        "content": "Notice that these differences, which are more clearly\ndefined with persons than with things, are much less mark-\ned in the negative. Shan't, won't and not going to are more\neasily interchanged than their affirmative counterparts.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9925174262678965,
+          "minimum_content_confidence_score": 0.7159039396130287,
+          "block_type_confidence_score": 0.9999893904859
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 793,
+        "bottom_right_x": 657,
+        "bottom_right_y": 834,
+        "content": "I'm afraid I shan't have time to finish it. (OR: I'm not\ngoing to)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9911871437393361,
+          "minimum_content_confidence_score": 0.8686231742274346,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 833,
+        "bottom_right_x": 657,
+        "bottom_right_y": 873,
+        "content": "I hope you're not going to buy any blue ones. (OR:\nyou won't)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998111816244785,
+          "minimum_content_confidence_score": 0.9982343150605447,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 883,
+        "bottom_right_x": 659,
+        "bottom_right_y": 962,
+        "content": "It is clear that no hard-and-fast rule can be given, as the\ndifference is notional, not grammatical. In many cases\neither form is POSSIBLE, but the meaning will not always be\nthe same.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999544426112502,
+          "minimum_content_confidence_score": 0.9995006433265753,
+          "block_type_confidence_score": 0.999984264621273
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 363,
+        "top_left_y": 962,
+        "bottom_right_x": 471,
+        "bottom_right_y": 976,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955795417244057,
+          "minimum_content_confidence_score": 0.9895731933567764,
+          "block_type_confidence_score": 0.9705946632609922
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 91,
+        "top_left_y": 986,
+        "bottom_right_x": 148,
+        "bottom_right_y": 1001,
+        "content": "L.S.S.—5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.5700051062308897,
+          "minimum_content_confidence_score": 0.5700051062308897,
+          "block_type_confidence_score": 0.9997886301661663
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

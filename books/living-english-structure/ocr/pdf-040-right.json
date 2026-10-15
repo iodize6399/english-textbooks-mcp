@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-040-right",
+    "pdf_page": 40,
+    "side": "right",
+    "reading_order": 80
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "the pictures; such people lose a lot of pleasure in life and generally get bored very quickly.\n\n9 These boys play in the garden every morning and usually break something or tear their clothes or cut themselves when they fall. Small boys cry when they hurt themselves, but as they grow older they hide their feelings and become less noisy.\n10 My friends tell me that professors are people who think a lot, but say little, and that school-teachers are people who say a lot but think little.\n11 Housewives have to work very hard. They cook the meals, lay the table and wash up, clean the house and mend the clothes. Sometimes they also do the washing and ironing and look after the garden.\n12 My friends go to the office every day, and play cards every evening. On Saturdays they go to the cinema, and Sundays they spend by the river.\n13 Dogs make better pets than cats because they are more friendly. They understand and obey their masters, but cats like to live their own life.\n14 They go to France on business several times a year. They take a train to Dover and cross the Channel by hovercraft. At Calais they hire a car, drive to the place they want to reach, and find a good hotel there.\n15 Babies are a great nuisance; they need attention all the time. If they do not disturb you by crying, they have to be fed, bathed or looked after. They do not even thank the people who take care of them.\n\n21.6\nIntermediate\n\nThe auxiliary verbs (except do, be, and have) take no -s in the third person singular.\n\n* * *\n\n● Read quickly in the singular:\n1 They know English well and can answer all my questions.\n2 My friends do not understand when they speak quickly.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "21 The Present Tense\n69",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1003,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9751744655406688,
+      "minimum_page_confidence_score": 0.2726435887787475
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 20,
+        "bottom_right_x": 329,
+        "bottom_right_y": 40,
+        "content": "21 The Present Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999481097952927,
+          "minimum_content_confidence_score": 0.999897815781329,
+          "block_type_confidence_score": 0.9999576376941502
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 628,
+        "top_left_y": 20,
+        "bottom_right_x": 651,
+        "bottom_right_y": 38,
+        "content": "69",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998684102614147,
+          "minimum_content_confidence_score": 0.9998684102614147,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 75,
+        "bottom_right_x": 630,
+        "bottom_right_y": 120,
+        "content": "the pictures; such people lose a lot of pleasure in life and generally get bored very quickly.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9900813377608839,
+          "minimum_content_confidence_score": 0.8622113853445547,
+          "block_type_confidence_score": 0.9990824543176812
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 118,
+        "bottom_right_x": 653,
+        "bottom_right_y": 750,
+        "content": "9 These boys play in the garden every morning and usually break something or tear their clothes or cut themselves when they fall. Small boys cry when they hurt themselves, but as they grow older they hide their feelings and become less noisy.\n10 My friends tell me that professors are people who think a lot, but say little, and that school-teachers are people who say a lot but think little.\n11 Housewives have to work very hard. They cook the meals, lay the table and wash up, clean the house and mend the clothes. Sometimes they also do the washing and ironing and look after the garden.\n12 My friends go to the office every day, and play cards every evening. On Saturdays they go to the cinema, and Sundays they spend by the river.\n13 Dogs make better pets than cats because they are more friendly. They understand and obey their masters, but cats like to live their own life.\n14 They go to France on business several times a year. They take a train to Dover and cross the Channel by hovercraft. At Calais they hire a car, drive to the place they want to reach, and find a good hotel there.\n15 Babies are a great nuisance; they need attention all the time. If they do not disturb you by crying, they have to be fed, bathed or looked after. They do not even thank the people who take care of them.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997364154156619,
+          "minimum_content_confidence_score": 0.9570837014754116,
+          "block_type_confidence_score": 0.9740379869234528
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 45,
+        "top_left_y": 771,
+        "bottom_right_x": 150,
+        "bottom_right_y": 811,
+        "content": "21.6\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.895159718150912,
+          "minimum_content_confidence_score": 0.6893343292484178,
+          "block_type_confidence_score": 0.543747705144933
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 771,
+        "bottom_right_x": 653,
+        "bottom_right_y": 812,
+        "content": "The auxiliary verbs (except do, be, and have) take no -s in the third person singular.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944332096586148,
+          "minimum_content_confidence_score": 0.9273683844372842,
+          "block_type_confidence_score": 0.9999154877575644
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 357,
+        "top_left_y": 826,
+        "bottom_right_x": 462,
+        "bottom_right_y": 840,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967419072615459,
+          "minimum_content_confidence_score": 0.9917690789207267,
+          "block_type_confidence_score": 0.9999922514562126
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 851,
+        "bottom_right_x": 609,
+        "bottom_right_y": 963,
+        "content": "● Read quickly in the singular:\n1 They know English well and can answer all my questions.\n2 My friends do not understand when they speak quickly.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985581786595731,
+          "minimum_content_confidence_score": 0.9602957705908717,
+          "block_type_confidence_score": 0.9999524377560001
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

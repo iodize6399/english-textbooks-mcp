@@ -1,0 +1,201 @@
+{
+  "source": {
+    "id": "pdf-098-left",
+    "pdf_page": 98,
+    "side": "left",
+    "reading_order": 195
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "16 I can't insist on (you, leave) early, but if you're set on (stay) any longer, you risk (lose) the last train home.\n17 I didn't mind (they, come) late to the lecture, but I objected to (they, make) so much noise.\n18 Last week you mentioned (get) us a different reading-book; we've nearly finished (read) this one.\n19 This change of timetable will mean (we, leave) much later every day instead of (get) home before evening.\n20 We've gone on (write) to this office regularly for weeks and can't help (wonder) why we never get an answer.\n21 Your friend's idea is worth (go into) more carefully.\n22 I know you won't mind (I, point out) that very small children need (look after) more than older ones.\n23 Please excuse (we, come) a little late without (inform) you beforehand.\n24 Your doctor advised (go) to bed early, so I really can't understand (you, want) to stay up late.\n25 My wife hates (I, read) a newspaper at breakfast.\n\n# 39.5\nIntermediate\n\nSee previous exercise.\n\nLIST 4. OBJECTIVE CASE PLUS -ing (PRESENT PARTICIPLE)\nThis should not be confused with the true GERUND; the 'subject' of the -ing form is never in the POSSESSIVE case with this group of verbs.\n\n|  *feel | *see  |\n| --- | --- |\n|  *hear | *watch  |\n|  *listen to | hark at  |\n|  *notice | smell  |\n|  *observe | look at  |\n|  *perceive | have (rare in present tense)  |\n\ncan imagine\n\nhe kept me waiting, etc.\n\nwe caught them stealing apples, etc.\n\nwe'll set/start/get them working, etc.\n\n* These eight verbs can also be followed by the infinitive.\n(See next two exercises for difference between -ing form and infinitive.)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "184\n39 -ing form - Gerund and Present Participle",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9718968742517898,
+      "minimum_page_confidence_score": 0.20484256064329853
+    },
+    "blocks": [
+      {
+        "top_left_x": 20,
+        "top_left_y": 15,
+        "bottom_right_x": 52,
+        "bottom_right_y": 34,
+        "content": "184",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999193018268759,
+          "minimum_content_confidence_score": 0.9999193018268759,
+          "block_type_confidence_score": 0.9999935077455215
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 14,
+        "bottom_right_x": 481,
+        "bottom_right_y": 35,
+        "content": "39 -ing form - Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9547242720008662,
+          "minimum_content_confidence_score": 0.6495780911641861,
+          "block_type_confidence_score": 0.9986157736676794
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 67,
+        "bottom_right_x": 606,
+        "bottom_right_y": 571,
+        "content": "16 I can't insist on (you, leave) early, but if you're set on (stay) any longer, you risk (lose) the last train home.\n17 I didn't mind (they, come) late to the lecture, but I objected to (they, make) so much noise.\n18 Last week you mentioned (get) us a different reading-book; we've nearly finished (read) this one.\n19 This change of timetable will mean (we, leave) much later every day instead of (get) home before evening.\n20 We've gone on (write) to this office regularly for weeks and can't help (wonder) why we never get an answer.\n21 Your friend's idea is worth (go into) more carefully.\n22 I know you won't mind (I, point out) that very small children need (look after) more than older ones.\n23 Please excuse (we, come) a little late without (inform) you beforehand.\n24 Your doctor advised (go) to bed early, so I really can't understand (you, want) to stay up late.\n25 My wife hates (I, read) a newspaper at breakfast.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976548849361622,
+          "minimum_content_confidence_score": 0.7973864928505409,
+          "block_type_confidence_score": 0.9668977939201046
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 589,
+        "bottom_right_x": 127,
+        "bottom_right_y": 630,
+        "content": "# 39.5\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9164630700590072,
+          "minimum_content_confidence_score": 0.8354817728721556,
+          "block_type_confidence_score": 0.5475183864563361
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 589,
+        "bottom_right_x": 327,
+        "bottom_right_y": 611,
+        "content": "See previous exercise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999740970842906,
+          "minimum_content_confidence_score": 0.9999552985160037,
+          "block_type_confidence_score": 0.9999258573209157
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 610,
+        "bottom_right_x": 612,
+        "bottom_right_y": 690,
+        "content": "LIST 4. OBJECTIVE CASE PLUS -ing (PRESENT PARTICIPLE)\nThis should not be confused with the true GERUND; the 'subject' of the -ing form is never in the POSSESSIVE case with this group of verbs.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991965725404234,
+          "minimum_content_confidence_score": 0.9844409869464814,
+          "block_type_confidence_score": 0.9138683750123583
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 693,
+        "bottom_right_x": 589,
+        "bottom_right_y": 813,
+        "content": "|  *feel | *see  |\n| --- | --- |\n|  *hear | *watch  |\n|  *listen to | hark at  |\n|  *notice | smell  |\n|  *observe | look at  |\n|  *perceive | have (rare in present tense)  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990036402878384,
+          "minimum_content_confidence_score": 0.9932259432610151,
+          "block_type_confidence_score": 0.8370064141659196
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 254,
+        "top_left_y": 813,
+        "bottom_right_x": 351,
+        "bottom_right_y": 832,
+        "content": "can imagine",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999443342857905,
+          "minimum_content_confidence_score": 0.9999004701515762,
+          "block_type_confidence_score": 0.999337159139401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 254,
+        "top_left_y": 832,
+        "bottom_right_x": 443,
+        "bottom_right_y": 852,
+        "content": "he kept me waiting, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999822678941508,
+          "minimum_content_confidence_score": 0.9999709667652017,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 254,
+        "top_left_y": 852,
+        "bottom_right_x": 534,
+        "bottom_right_y": 873,
+        "content": "we caught them stealing apples, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999873458084704,
+          "minimum_content_confidence_score": 0.9999680267769369,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 254,
+        "top_left_y": 873,
+        "bottom_right_x": 540,
+        "bottom_right_y": 893,
+        "content": "we'll set/start/get them working, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987575799330946,
+          "minimum_content_confidence_score": 0.9939372951191238,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 901,
+        "bottom_right_x": 613,
+        "bottom_right_y": 962,
+        "content": "* These eight verbs can also be followed by the infinitive.\n(See next two exercises for difference between -ing form and infinitive.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9808386540098308,
+          "minimum_content_confidence_score": 0.6222251152854781,
+          "block_type_confidence_score": 0.9889905551202411
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

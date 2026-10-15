@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-070-right",
+    "pdf_page": 70,
+    "side": "right",
+    "reading_order": 140
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "● Read the following sentences, adding yesterday or tomorrow, etc.: first in the PAST throughout; and then in the FUTURE throughout:\n\n1 He must be very careful.\n2 John can do it very easily.\n3 You needn't go away early.\n4 Cyril must mend his own jeans.\n5 I can finish the work before breakfast.\n6 I must always shave before breakfast.\n7 I needn't wake up before seven o'clock.\n8 He must change his wet clothes.\n9 He can swim much better than you.\n10 Maisie must walk all the way back alone.\n11 You needn't spend so much as that.\n12 They can sleep all day long, but must get up before supper.\n13 You needn't work so hard after your illness.\n14 I must repeat it several times, and then I can remember it.\n15 I must pay him £50 down, but I can't.\n16 Can you carry the box without help?\n17 We must work harder.\n18 We must decide immediately.\n19 Must you go? Can't you stay?\n20 You needn't answer all the questions.\n\n28.17\n\nElementary\n\nNO FUTURE\n\nAFTER\n\nTEMPORAL\n\nCONJUNCTIONS\n\nAlthough the main clause is future, the presence of temporal conjunctions such as when, until, as soon as, before, after, while is sufficient to indicate futurity, and such clauses remain in the present tense.\n\n* * *\n\n● Notice the tenses used in the following sentences, and add the missing time conjunction (not if):\n1 He will stay here — you come.\n2 I'll come and see you — I have time.\n3 We shall be ready — you are.\n4 — you come tomorrow, I will give you a new book.\n5 — they show me their homework, I will correct it.\n6 We shall go — he is ready.\n7 She will speak to you — you come in.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n129",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 998,
+      "width": 696
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9722179481519868,
+      "minimum_page_confidence_score": 0.18248496830150865
+    },
+    "blocks": [
+      {
+        "top_left_x": 153,
+        "top_left_y": 13,
+        "bottom_right_x": 439,
+        "bottom_right_y": 33,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999248237985774,
+          "minimum_content_confidence_score": 0.9996177227945009,
+          "block_type_confidence_score": 0.9998211816918474
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 631,
+        "top_left_y": 12,
+        "bottom_right_x": 663,
+        "bottom_right_y": 30,
+        "content": "129",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998872407290764,
+          "minimum_content_confidence_score": 0.9998872407290764,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 157,
+        "top_left_y": 68,
+        "bottom_right_x": 664,
+        "bottom_right_y": 130,
+        "content": "● Read the following sentences, adding yesterday or tomorrow, etc.: first in the PAST throughout; and then in the FUTURE throughout:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9742576192167922,
+          "minimum_content_confidence_score": 0.5528255327369292,
+          "block_type_confidence_score": 0.8519028320366373
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 132,
+        "bottom_right_x": 608,
+        "bottom_right_y": 612,
+        "content": "1 He must be very careful.\n2 John can do it very easily.\n3 You needn't go away early.\n4 Cyril must mend his own jeans.\n5 I can finish the work before breakfast.\n6 I must always shave before breakfast.\n7 I needn't wake up before seven o'clock.\n8 He must change his wet clothes.\n9 He can swim much better than you.\n10 Maisie must walk all the way back alone.\n11 You needn't spend so much as that.\n12 They can sleep all day long, but must get up before supper.\n13 You needn't work so hard after your illness.\n14 I must repeat it several times, and then I can remember it.\n15 I must pay him £50 down, but I can't.\n16 Can you carry the box without help?\n17 We must work harder.\n18 We must decide immediately.\n19 Must you go? Can't you stay?\n20 You needn't answer all the questions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999115481478551,
+          "minimum_content_confidence_score": 0.9882225325361296,
+          "block_type_confidence_score": 0.9993721614829648
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 631,
+        "bottom_right_x": 115,
+        "bottom_right_y": 651,
+        "content": "28.17",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997693707477067,
+          "minimum_content_confidence_score": 0.997693707477067,
+          "block_type_confidence_score": 0.7503881610191547
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 653,
+        "bottom_right_x": 157,
+        "bottom_right_y": 672,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999799136745493,
+          "minimum_content_confidence_score": 0.9999799136745493,
+          "block_type_confidence_score": 0.9980411826624552
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 675,
+        "bottom_right_x": 155,
+        "bottom_right_y": 691,
+        "content": "NO FUTURE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999288229666796,
+          "minimum_content_confidence_score": 0.9998752034468528,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 694,
+        "bottom_right_x": 115,
+        "bottom_right_y": 710,
+        "content": "AFTER",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999879601132282,
+          "minimum_content_confidence_score": 0.9999879601132282,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 714,
+        "bottom_right_x": 148,
+        "bottom_right_y": 730,
+        "content": "TEMPORAL",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999839413886153,
+          "minimum_content_confidence_score": 0.999839413886153,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 63,
+        "top_left_y": 733,
+        "bottom_right_x": 183,
+        "bottom_right_y": 750,
+        "content": "CONJUNCTIONS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993416943412823,
+          "minimum_content_confidence_score": 0.9993416943412823,
+          "block_type_confidence_score": 0.9999938011552557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 631,
+        "bottom_right_x": 669,
+        "bottom_right_y": 711,
+        "content": "Although the main clause is future, the presence of temporal conjunctions such as when, until, as soon as, before, after, while is sufficient to indicate futurity, and such clauses remain in the present tense.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998465240138347,
+          "minimum_content_confidence_score": 0.9970904793882642,
+          "block_type_confidence_score": 0.99991262722786
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 374,
+        "top_left_y": 726,
+        "bottom_right_x": 479,
+        "bottom_right_y": 739,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984192767650346,
+          "minimum_content_confidence_score": 0.9963340935019026,
+          "block_type_confidence_score": 0.9999858142961154
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 160,
+        "top_left_y": 751,
+        "bottom_right_x": 668,
+        "bottom_right_y": 969,
+        "content": "● Notice the tenses used in the following sentences, and add the missing time conjunction (not if):\n1 He will stay here — you come.\n2 I'll come and see you — I have time.\n3 We shall be ready — you are.\n4 — you come tomorrow, I will give you a new book.\n5 — they show me their homework, I will correct it.\n6 We shall go — he is ready.\n7 She will speak to you — you come in.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999503210634443,
+          "minimum_content_confidence_score": 0.9986790010576436,
+          "block_type_confidence_score": 0.9958852073668437
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

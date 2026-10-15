@@ -1,0 +1,133 @@
+{
+  "source": {
+    "id": "pdf-001-right",
+    "pdf_page": 1,
+    "side": "right",
+    "reading_order": 2
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "# Living\n\n# English\n\n# Structure\n\nW. Stannard Allen\n\n![img-0.jpeg](img-0.jpeg)",
+    "images": [
+      {
+        "id": "img-0.jpeg",
+        "top_left_x": 540,
+        "top_left_y": 837,
+        "bottom_right_x": 678,
+        "bottom_right_y": 974,
+        "image_base64": "data:image/jpeg;base64,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",
+        "image_annotation": null
+      }
+    ],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": "www.longman.com",
+    "dimensions": {
+      "dpi": 155,
+      "height": 1019,
+      "width": 722
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9384156121634118,
+      "minimum_page_confidence_score": 0.2092719056253848
+    },
+    "blocks": [
+      {
+        "top_left_x": 113,
+        "top_left_y": 49,
+        "bottom_right_x": 305,
+        "bottom_right_y": 125,
+        "content": "# Living",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998510756620109,
+          "minimum_content_confidence_score": 0.9997770091546289,
+          "block_type_confidence_score": 0.5614276214995367
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 173,
+        "bottom_right_x": 337,
+        "bottom_right_y": 253,
+        "content": "# English",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9898327556726283,
+          "minimum_content_confidence_score": 0.9796674186902515,
+          "block_type_confidence_score": 0.9964048641117761
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 297,
+        "bottom_right_x": 391,
+        "bottom_right_y": 359,
+        "content": "# Structure",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994953305265173,
+          "minimum_content_confidence_score": 0.9990888798598818,
+          "block_type_confidence_score": 0.9999250229763097
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 816,
+        "bottom_right_x": 406,
+        "bottom_right_y": 856,
+        "content": "W. Stannard Allen",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998701156234872,
+          "minimum_content_confidence_score": 0.999754635972121,
+          "block_type_confidence_score": 0.8146195924276841
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 540,
+        "top_left_y": 837,
+        "bottom_right_x": 678,
+        "bottom_right_y": 974,
+        "content": "![img-0.jpeg](img-0.jpeg)",
+        "confidence_scores": {
+          "average_content_confidence_score": null,
+          "minimum_content_confidence_score": null,
+          "block_type_confidence_score": 0.776632504826842
+        },
+        "type": "image",
+        "image_id": "img-0.jpeg"
+      },
+      {
+        "top_left_x": 530,
+        "top_left_y": 974,
+        "bottom_right_x": 690,
+        "bottom_right_y": 997,
+        "content": "www.longman.com",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971243739214674,
+          "minimum_content_confidence_score": 0.9971243739214674,
+          "block_type_confidence_score": 0.8652841914066903
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

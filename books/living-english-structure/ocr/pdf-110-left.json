@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-110-left",
+    "pdf_page": 110,
+    "side": "left",
+    "reading_order": 219
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "Go quickly. – Where to?\n\nOpen it. – What with?\n\nThese are normally spoken with a falling intonation.\n\nThe preposition is always at the end in this pattern; *whom* is never heard.\n\nFor TYPE (2) see Exercise 45.2.\n\nThe remarks below should be addressed to the student, who should make an appropriate response. Some of the prepositions are suggested.\n\n\\* \\* \\*\n\n(45.1) ● Respond as above to the following:\n\n1. 1 Listen.\n2. 2 Send it at once.\n3. 3 Look.\n4. 4 Cut the string.\n5. 5 Go on, have another dance! (with)\n6. 6 Don't you ever sit and think? (about)\n7. 7 Sharpen my pencil, will you? (with or for)\n8. 8 Mother has given all my clothes away.\n9. 9 I've just bought a birthday present. (for)\n10. 10 Address this envelope.\n11. 11 Play with me. (at)\n12. 12 I've just received a big parcel.\n13. 13 John's just arrived by air.\n14. 14 I've been to the pictures. (with)\n15. 15 Tell me a story. (about)\n16. 16 Take it away. (to)\n17. 17 I'm thinking. (with)\n18. 18 I've been punched on the nose.\n19. 19 He's married at last.\n20. 20 I'm writing a book.\n\n#### 45.2\n\n#### Intermediate\n\nSee also Exercise 45.1.\n\nTYPE (2) is a response of surprise, consternation or mere misunderstanding of the complete sense. In Exercise 45.1 the sense was always incomplete, so the emphasis always fell on the PREPOSITION in the final position as the active agent.\n\nWrite a letter! Who *to*?\n\n– The whole idea of 'to what person' is missing, and comes naturally in the strongest position, i.e. the end.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "208\n45 Interrogative Responses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1005,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9696272141805334,
+      "minimum_page_confidence_score": 0.19594274864077688
+    },
+    "blocks": [
+      {
+        "top_left_x": 18,
+        "top_left_y": 21,
+        "bottom_right_x": 51,
+        "bottom_right_y": 40,
+        "content": "208",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998736541243901,
+          "minimum_content_confidence_score": 0.9998736541243901,
+          "block_type_confidence_score": 0.9999928475236153
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 21,
+        "bottom_right_x": 335,
+        "bottom_right_y": 41,
+        "content": "45 Interrogative Responses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992081541817601,
+          "minimum_content_confidence_score": 0.9979075213497016,
+          "block_type_confidence_score": 0.998823015377313
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 75,
+        "bottom_right_x": 386,
+        "bottom_right_y": 97,
+        "content": "Go quickly. – Where to?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.984844744288204,
+          "minimum_content_confidence_score": 0.9251352127354706,
+          "block_type_confidence_score": 0.9958136832688723
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 97,
+        "bottom_right_x": 366,
+        "bottom_right_y": 116,
+        "content": "Open it. – What with?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998524812844906,
+          "minimum_content_confidence_score": 0.999642590528965,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 124,
+        "bottom_right_x": 568,
+        "bottom_right_y": 146,
+        "content": "These are normally spoken with a falling intonation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999343138346882,
+          "minimum_content_confidence_score": 0.9997608041913689,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 146,
+        "bottom_right_x": 606,
+        "bottom_right_y": 185,
+        "content": "The preposition is always at the end in this pattern; *whom* is never heard.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957531756343362,
+          "minimum_content_confidence_score": 0.9410161769303775,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 185,
+        "bottom_right_x": 396,
+        "bottom_right_y": 205,
+        "content": "For TYPE (2) see Exercise 45.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9475371297517415,
+          "minimum_content_confidence_score": 0.7767802794514417,
+          "block_type_confidence_score": 0.9999728210205924
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 205,
+        "bottom_right_x": 606,
+        "bottom_right_y": 266,
+        "content": "The remarks below should be addressed to the student, who should make an appropriate response. Some of the prepositions are suggested.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999787102006988,
+          "minimum_content_confidence_score": 0.9998637511810924,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 325,
+        "top_left_y": 279,
+        "bottom_right_x": 427,
+        "bottom_right_y": 292,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9901457925740719,
+          "minimum_content_confidence_score": 0.9710766430279101,
+          "block_type_confidence_score": 0.9999696025551995
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 304,
+        "bottom_right_x": 435,
+        "bottom_right_y": 326,
+        "content": "(45.1) ● Respond as above to the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9898485239548916,
+          "minimum_content_confidence_score": 0.9241030209094891,
+          "block_type_confidence_score": 0.9545825531992448
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 328,
+        "bottom_right_x": 523,
+        "bottom_right_y": 764,
+        "content": "1. 1 Listen.\n2. 2 Send it at once.\n3. 3 Look.\n4. 4 Cut the string.\n5. 5 Go on, have another dance! (with)\n6. 6 Don't you ever sit and think? (about)\n7. 7 Sharpen my pencil, will you? (with or for)\n8. 8 Mother has given all my clothes away.\n9. 9 I've just bought a birthday present. (for)\n10. 10 Address this envelope.\n11. 11 Play with me. (at)\n12. 12 I've just received a big parcel.\n13. 13 John's just arrived by air.\n14. 14 I've been to the pictures. (with)\n15. 15 Tell me a story. (about)\n16. 16 Take it away. (to)\n17. 17 I'm thinking. (with)\n18. 18 I've been punched on the nose.\n19. 19 He's married at last.\n20. 20 I'm writing a book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988699479421356,
+          "minimum_content_confidence_score": 0.9011698888243708,
+          "block_type_confidence_score": 0.9999808076722754
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 783,
+        "bottom_right_x": 62,
+        "bottom_right_y": 802,
+        "content": "#### 45.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7683268739158235,
+          "minimum_content_confidence_score": 0.537705835704323,
+          "block_type_confidence_score": 0.8517813812360026
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 804,
+        "bottom_right_x": 123,
+        "bottom_right_y": 823,
+        "content": "#### Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7541805288963197,
+          "minimum_content_confidence_score": 0.5247723607365015,
+          "block_type_confidence_score": 0.962665007636565
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 783,
+        "bottom_right_x": 331,
+        "bottom_right_y": 804,
+        "content": "See also Exercise 45.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996673393695996,
+          "minimum_content_confidence_score": 0.9987050396797716,
+          "block_type_confidence_score": 0.9997683108334782
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 804,
+        "bottom_right_x": 608,
+        "bottom_right_y": 903,
+        "content": "TYPE (2) is a response of surprise, consternation or mere misunderstanding of the complete sense. In Exercise 45.1 the sense was always incomplete, so the emphasis always fell on the PREPOSITION in the final position as the active agent.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994507625755593,
+          "minimum_content_confidence_score": 0.9807313321611114,
+          "block_type_confidence_score": 0.9999854566779314
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 906,
+        "bottom_right_x": 379,
+        "bottom_right_y": 927,
+        "content": "Write a letter! Who *to*?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9669752188709048,
+          "minimum_content_confidence_score": 0.839454615619579,
+          "block_type_confidence_score": 0.9963983546250139
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 927,
+        "bottom_right_x": 608,
+        "bottom_right_y": 986,
+        "content": "– The whole idea of 'to what person' is missing, and comes naturally in the strongest position, i.e. the end.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.958316297577254,
+          "minimum_content_confidence_score": 0.5271385615601155,
+          "block_type_confidence_score": 0.9959111004522575
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

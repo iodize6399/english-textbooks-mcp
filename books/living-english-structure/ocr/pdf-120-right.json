@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-120-right",
+    "pdf_page": 120,
+    "side": "right",
+    "reading_order": 240
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "we can say 'The pen I wrote the letter with has a steel nib.')\n\nPARTITIVE USE OF *of*\n\nI have two friends, both of whom are on holiday at the moment.\n\nThe train ran into a bus-load of children, many of whom were British.\n\nOVERHEARD IN A CLASSROOM\n\nTEACHER: A preposition is a bad word to end a sentence with.\n\nPUPIL: Please, teacher, you've just ended a sentence with 'with'.\n\nTEACHER: Ah, but what did I end the sentence with 'with' for? Do you know?\n\nPUPIL: No, teacher; and I don't know what you ended that one with 'with with for' for!\n\n\\* \\* \\*\n\n(46.10)\n\n- ● Add relatives WHERE NECESSARY, or combine sentences with relatives; use a contact-clause wherever possible:\n- 1 The best play — Shakespeare wrote, but — few people have read, is probably *King Lear*.\n- 2 It was the sergeant-major — told me to fetch the rifle — I had been practising with.\n- 3 The gentleman is the Finance Minister. You trod on his foot\n- 4 The building is the Finance Ministry. I live opposite it.\n- 5 The old man has died. You were talking to me about him and told me to go and see him.\n- 6 He's the person — I meet at the club every day and — I've invited home to dinner tonight.\n- 7 I gave him the one — I wanted to keep, fool — I was.\n- 8 We ate some fish. They must have been very ancient.\n- 9 Miss Harland had several new friends. All of them were atheists. Her father was the vicar of Nether Pudding.\n- 10 The house is mine. In its windows there is a light. (This makes a clumsy relative, what other way can you find?)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n229",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1023,
+      "width": 689
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.975791830577951,
+      "minimum_page_confidence_score": 0.3019696321320773
+    },
+    "blocks": [
+      {
+        "top_left_x": 142,
+        "top_left_y": 17,
+        "bottom_right_x": 259,
+        "bottom_right_y": 37,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983588837202795,
+          "minimum_content_confidence_score": 0.9967537673504306,
+          "block_type_confidence_score": 0.9999812938659169
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 631,
+        "top_left_y": 17,
+        "bottom_right_x": 665,
+        "bottom_right_y": 35,
+        "content": "229",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998638815258633,
+          "minimum_content_confidence_score": 0.9998638815258633,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 74,
+        "bottom_right_x": 666,
+        "bottom_right_y": 115,
+        "content": "we can say 'The pen I wrote the letter with has a steel nib.')",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972609684523105,
+          "minimum_content_confidence_score": 0.968285586803966,
+          "block_type_confidence_score": 0.9999480274500657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 115,
+        "bottom_right_x": 348,
+        "bottom_right_y": 135,
+        "content": "PARTITIVE USE OF *of*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9633496638375303,
+          "minimum_content_confidence_score": 0.8548054135893338,
+          "block_type_confidence_score": 0.8663064321759518
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 138,
+        "bottom_right_x": 668,
+        "bottom_right_y": 179,
+        "content": "I have two friends, both of whom are on holiday at the moment.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999156317529732,
+          "minimum_content_confidence_score": 0.9990277216158232,
+          "block_type_confidence_score": 0.9998163322194643
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 217,
+        "top_left_y": 179,
+        "bottom_right_x": 668,
+        "bottom_right_y": 220,
+        "content": "The train ran into a bus-load of children, many of whom were British.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999922159629953,
+          "minimum_content_confidence_score": 0.9999710065649499,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 233,
+        "bottom_right_x": 415,
+        "bottom_right_y": 251,
+        "content": "OVERHEARD IN A CLASSROOM",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996362766471066,
+          "minimum_content_confidence_score": 0.9986197024527284,
+          "block_type_confidence_score": 0.6791290468829944
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 256,
+        "bottom_right_x": 668,
+        "bottom_right_y": 295,
+        "content": "TEACHER: A preposition is a bad word to end a sentence with.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999839881295597,
+          "minimum_content_confidence_score": 0.9999340556700448,
+          "block_type_confidence_score": 0.9999345583805643
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 295,
+        "bottom_right_x": 668,
+        "bottom_right_y": 336,
+        "content": "PUPIL: Please, teacher, you've just ended a sentence with 'with'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996503707153718,
+          "minimum_content_confidence_score": 0.9967156050399959,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 336,
+        "bottom_right_x": 668,
+        "bottom_right_y": 378,
+        "content": "TEACHER: Ah, but what did I end the sentence with 'with' for? Do you know?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999909667468153,
+          "minimum_content_confidence_score": 0.9999638214973938,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 378,
+        "bottom_right_x": 668,
+        "bottom_right_y": 418,
+        "content": "PUPIL: No, teacher; and I don't know what you ended that one with 'with with for' for!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998238708693597,
+          "minimum_content_confidence_score": 0.9849744046071247,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 366,
+        "top_left_y": 433,
+        "bottom_right_x": 473,
+        "bottom_right_y": 447,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9922532611022943,
+          "minimum_content_confidence_score": 0.9776638832599335,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 459,
+        "bottom_right_x": 110,
+        "bottom_right_y": 481,
+        "content": "(46.10)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996944202459308,
+          "minimum_content_confidence_score": 0.996944202459308,
+          "block_type_confidence_score": 0.9977437022731137
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 459,
+        "bottom_right_x": 668,
+        "bottom_right_y": 995,
+        "content": "- ● Add relatives WHERE NECESSARY, or combine sentences with relatives; use a contact-clause wherever possible:\n- 1 The best play — Shakespeare wrote, but — few people have read, is probably *King Lear*.\n- 2 It was the sergeant-major — told me to fetch the rifle — I had been practising with.\n- 3 The gentleman is the Finance Minister. You trod on his foot\n- 4 The building is the Finance Ministry. I live opposite it.\n- 5 The old man has died. You were talking to me about him and told me to go and see him.\n- 6 He's the person — I meet at the club every day and — I've invited home to dinner tonight.\n- 7 I gave him the one — I wanted to keep, fool — I was.\n- 8 We ate some fish. They must have been very ancient.\n- 9 Miss Harland had several new friends. All of them were atheists. Her father was the vicar of Nether Pudding.\n- 10 The house is mine. In its windows there is a light. (This makes a clumsy relative, what other way can you find?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957811369918352,
+          "minimum_content_confidence_score": 0.6041350160029441,
+          "block_type_confidence_score": 0.9971862556241288
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

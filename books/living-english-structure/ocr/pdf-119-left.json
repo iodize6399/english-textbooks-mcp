@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-119-left",
+    "pdf_page": 119,
+    "side": "left",
+    "reading_order": 237
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "Dr Johnson refers to end-prepositions, *that*, and contact-clauses as 'colloquial barbarisms'. Dryden writes of himself, 'I am often put to a stand in considering whether what I write be the idiom of the tongue, . . . and have no other way to clear my doubts but by translating my English into Latin.' Addison has an enlightening essay in the *Spectator* in which he reverses historical development by maligning the 'Jacksprat' *that*, which he asserts has been damaging poor *who* and *which*. All this classical imitation caused a great deal of confusion, and introduced several erroneous ideas and clumsy forms. *That* fell into disuse in written English, but lived happily on in speech. Oddly enough the pendulum swung the other way when things with an archaic flavour became popular through the later Romantics, especially through the works of De Quincey. Partly because of this contrived lapse from use in the written language, and partly because we have come to feel it as a 'neuter' word, it is rarely heard for persons in the subjective case; and as it is the custom to make a contact-clause with the objective and prepositional cases, we don't hear it there either. We have had to borrow *whose* for the possessive.\n\nEND-PREPOSITION. The defining relative with *that* or as a contact-clause frequently requires the preposition at the end of the clause. This valuable idiomatic device in the English language should not be forced into the background in favour of the unnatural Latin-English form with the preposition in front of the word it governs. Many hideous phrases are written, and sometimes even spoken, in a misguided effort to avoid what is really a sound English construction. Such phrases as *it's worth waiting for*; *it depends on who you're dealing with*; *we've done the best we could think of*; *that was all it amounted to*, etc., can scarcely be expressed in any other way. Students should beware of trying to use the Latin construction with phrasal verbs i.e. strongly associated verbs and particles (*laugh at, wonder at, take care of, do without*), and when such combinations form one semantic whole (*give up, take over*, etc.) where the particle has an adverbial force. A lieutenant once dared to correct a telegram from a superior officer on this point. He received a further telegram reading: 'Insolence is something up with which I will not put.'\n\nOTHER USES OF *that* AS DEFINING RELATIVE\n\nDOUBLE CONTROL. *Which* and *who* are definitely at a disadvantage here, and may cause one to make stupid mistakes, especially when writing with the erroneous idea that",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "226\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9845948402389525,
+      "minimum_page_confidence_score": 0.35187966639008633
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 16,
+        "bottom_right_x": 54,
+        "bottom_right_y": 34,
+        "content": "226",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992676380495942,
+          "minimum_content_confidence_score": 0.9992676380495942,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 16,
+        "bottom_right_x": 223,
+        "bottom_right_y": 34,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979140933197927,
+          "minimum_content_confidence_score": 0.9978365171224867,
+          "block_type_confidence_score": 0.9999947181556506
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 70,
+        "bottom_right_x": 607,
+        "bottom_right_y": 509,
+        "content": "Dr Johnson refers to end-prepositions, *that*, and contact-clauses as 'colloquial barbarisms'. Dryden writes of himself, 'I am often put to a stand in considering whether what I write be the idiom of the tongue, . . . and have no other way to clear my doubts but by translating my English into Latin.' Addison has an enlightening essay in the *Spectator* in which he reverses historical development by maligning the 'Jacksprat' *that*, which he asserts has been damaging poor *who* and *which*. All this classical imitation caused a great deal of confusion, and introduced several erroneous ideas and clumsy forms. *That* fell into disuse in written English, but lived happily on in speech. Oddly enough the pendulum swung the other way when things with an archaic flavour became popular through the later Romantics, especially through the works of De Quincey. Partly because of this contrived lapse from use in the written language, and partly because we have come to feel it as a 'neuter' word, it is rarely heard for persons in the subjective case; and as it is the custom to make a contact-clause with the objective and prepositional cases, we don't hear it there either. We have had to borrow *whose* for the possessive.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999017413419283,
+          "minimum_content_confidence_score": 0.8996841184003765,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 509,
+        "bottom_right_x": 609,
+        "bottom_right_y": 908,
+        "content": "END-PREPOSITION. The defining relative with *that* or as a contact-clause frequently requires the preposition at the end of the clause. This valuable idiomatic device in the English language should not be forced into the background in favour of the unnatural Latin-English form with the preposition in front of the word it governs. Many hideous phrases are written, and sometimes even spoken, in a misguided effort to avoid what is really a sound English construction. Such phrases as *it's worth waiting for*; *it depends on who you're dealing with*; *we've done the best we could think of*; *that was all it amounted to*, etc., can scarcely be expressed in any other way. Students should beware of trying to use the Latin construction with phrasal verbs i.e. strongly associated verbs and particles (*laugh at, wonder at, take care of, do without*), and when such combinations form one semantic whole (*give up, take over*, etc.) where the particle has an adverbial force. A lieutenant once dared to correct a telegram from a superior officer on this point. He received a further telegram reading: 'Insolence is something up with which I will not put.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976299538210064,
+          "minimum_content_confidence_score": 0.8221831601423499,
+          "block_type_confidence_score": 0.9999905825550351
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 913,
+        "bottom_right_x": 478,
+        "bottom_right_y": 930,
+        "content": "OTHER USES OF *that* AS DEFINING RELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998466864303571,
+          "minimum_content_confidence_score": 0.999423716964206,
+          "block_type_confidence_score": 0.8801323117252086
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 930,
+        "bottom_right_x": 609,
+        "bottom_right_y": 991,
+        "content": "DOUBLE CONTROL. *Which* and *who* are definitely at a disadvantage here, and may cause one to make stupid mistakes, especially when writing with the erroneous idea that",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999420914205936,
+          "minimum_content_confidence_score": 0.9910763519650837,
+          "block_type_confidence_score": 0.9999954700677164
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

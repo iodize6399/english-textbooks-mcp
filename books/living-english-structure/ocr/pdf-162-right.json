@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-162-right",
+    "pdf_page": 162,
+    "side": "right",
+    "reading_order": 324
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "29 I've been looking forward to — ing —.\n30 It won't work. It won't do.\n31 Put in a good word for —.\n32 A change for the worse (better).\n33 Live beyond his means; within his means.\n34 Getting on for fifty; in his thirties, teens.\n35 Have no right to; every right to —.\n36 Few and far between.\n37 What's come over you? What's up (with you)?\n38 I'll just have a word with — about —.\n39 Hope for the best; fear the worst (has happened).\n40 Let him off (lightly).\n41 Keep doing something; keep it up.\n42 It doesn't pay to —.\n43 Burst into flames, tears. Burst out laughing.\n44 Cope with (a situation or person).\n45 From time to time; now and then; now and again; off and on.\n46 He means well.\n47 I don't know what he sees in her.\n48 A trying time; she's very trying.\n49 Somehow, (somewhere, someone, etc.) or other.\n50 I'll see about rooms. I'll see about it, see to it.\n51 She doesn't charge much; charge it up to me.\n52 Have a good time!\n53 Thanks to you —.\n54 Without fail. For sure, certain.\n55 Can't go into that now.\n56 Do so by all means.\n57 Flat on his face, back. Head over heels; headlong.\n58 Do nothing of the sort, kind.\n59 To see the sights; go sightseeing.\n60 It is all fixed up.\n61 At short notice. I'll need plenty of notice.\n62 Think the matter over, talk the matter over.\n63 No sooner said than done.\n64 Up to something, up to some mischief.\n65 Sooner or later.\n66 By and by.\n67 Come across, upon.\n68 What do you take me for?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "57 Accepted Phrases\n313",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9868565797929919,
+      "minimum_page_confidence_score": 0.2780086066398643
+    },
+    "blocks": [
+      {
+        "top_left_x": 144,
+        "top_left_y": 23,
+        "bottom_right_x": 327,
+        "bottom_right_y": 44,
+        "content": "57 Accepted Phrases",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9708157121274467,
+          "minimum_content_confidence_score": 0.912544971995505,
+          "block_type_confidence_score": 0.9998206318085451
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 623,
+        "top_left_y": 22,
+        "bottom_right_x": 658,
+        "bottom_right_y": 41,
+        "content": "313",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998088248530639,
+          "minimum_content_confidence_score": 0.9998088248530639,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 77,
+        "bottom_right_x": 642,
+        "bottom_right_y": 993,
+        "content": "29 I've been looking forward to — ing —.\n30 It won't work. It won't do.\n31 Put in a good word for —.\n32 A change for the worse (better).\n33 Live beyond his means; within his means.\n34 Getting on for fifty; in his thirties, teens.\n35 Have no right to; every right to —.\n36 Few and far between.\n37 What's come over you? What's up (with you)?\n38 I'll just have a word with — about —.\n39 Hope for the best; fear the worst (has happened).\n40 Let him off (lightly).\n41 Keep doing something; keep it up.\n42 It doesn't pay to —.\n43 Burst into flames, tears. Burst out laughing.\n44 Cope with (a situation or person).\n45 From time to time; now and then; now and again; off and on.\n46 He means well.\n47 I don't know what he sees in her.\n48 A trying time; she's very trying.\n49 Somehow, (somewhere, someone, etc.) or other.\n50 I'll see about rooms. I'll see about it, see to it.\n51 She doesn't charge much; charge it up to me.\n52 Have a good time!\n53 Thanks to you —.\n54 Without fail. For sure, certain.\n55 Can't go into that now.\n56 Do so by all means.\n57 Flat on his face, back. Head over heels; headlong.\n58 Do nothing of the sort, kind.\n59 To see the sights; go sightseeing.\n60 It is all fixed up.\n61 At short notice. I'll need plenty of notice.\n62 Think the matter over, talk the matter over.\n63 No sooner said than done.\n64 Up to something, up to some mischief.\n65 Sooner or later.\n66 By and by.\n67 Come across, upon.\n68 What do you take me for?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997613433592684,
+          "minimum_content_confidence_score": 0.5272542152120488,
+          "block_type_confidence_score": 0.8354013146678085
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

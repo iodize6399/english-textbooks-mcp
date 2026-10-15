@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-102-right",
+    "pdf_page": 102,
+    "side": "right",
+    "reading_order": 204
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "38 A child can't learn (spell) without (be) helped.\n39 On (hear) Maisie (speak), everybody took her (be) a foreigner.\n40 I dislike (be) looked at while (attempt) (learn) (ski).\n41 I want (you, wait) before (decide) (accept) his offer.\n42 Can you imagine (he, study) (be) an acrobat?\n43 At all costs we must avoid (treat) him in a way that might mean (he, turn) elsewhere for business.\n44 I'm sorry (disturb) you with my sneezes; I've felt this cold (come on) for weeks.\n45 They refused (allow) us (go in) without (sign) the book.\n46 Why do you keep (object) to (have) the party at the Station Restaurant? Has anyone mentioned (go) there?\n47 I usually manage (escape) (be) asked to these meetings, but this time I forgot (think up) a good excuse in time.\n48 Forgive (I, ring) you up so late, but I couldn't allow your birthday (pass) without (congratulate) you.\n49 'Did you remember (post) my letter on your way home?' 'I remember (go) into the post office for some stamps, but even then I'm afraid I forgot (post) it.'\n50 I should like you (know) that it's no use (blame) me for your delay. I can't help (you, not be) allowed (leave) for America without first (finish) (write) your doctor's thesis.\n\n## 41 Perfect Infinitive of Imaginary Past\n\n41.1\nIntermediate\n\nThe form to have eaten takes the place of the infinitive when certain constructions, notably is to, ought to, like, are used for imagined action in the past.\n\nHe is to come tomorrow.\n\nHe was to have come yesterday . . . (but he didn't).\n\nNote that I should like to go has the past forms:\n\n(1) I should like to have gone.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "41 Perfect Infinitive of Imaginary Past\n193",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 675
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9720180093564893,
+      "minimum_page_confidence_score": 0.23118590915759385
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 14,
+        "bottom_right_x": 466,
+        "bottom_right_y": 37,
+        "content": "41 Perfect Infinitive of Imaginary Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996896937702487,
+          "minimum_content_confidence_score": 0.9986064284849194,
+          "block_type_confidence_score": 0.9996568637667695
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 16,
+        "bottom_right_x": 653,
+        "bottom_right_y": 36,
+        "content": "193",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999611392834032,
+          "minimum_content_confidence_score": 0.9999611392834032,
+          "block_type_confidence_score": 0.999999339764625
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 69,
+        "bottom_right_x": 654,
+        "bottom_right_y": 705,
+        "content": "38 A child can't learn (spell) without (be) helped.\n39 On (hear) Maisie (speak), everybody took her (be) a foreigner.\n40 I dislike (be) looked at while (attempt) (learn) (ski).\n41 I want (you, wait) before (decide) (accept) his offer.\n42 Can you imagine (he, study) (be) an acrobat?\n43 At all costs we must avoid (treat) him in a way that might mean (he, turn) elsewhere for business.\n44 I'm sorry (disturb) you with my sneezes; I've felt this cold (come on) for weeks.\n45 They refused (allow) us (go in) without (sign) the book.\n46 Why do you keep (object) to (have) the party at the Station Restaurant? Has anyone mentioned (go) there?\n47 I usually manage (escape) (be) asked to these meetings, but this time I forgot (think up) a good excuse in time.\n48 Forgive (I, ring) you up so late, but I couldn't allow your birthday (pass) without (congratulate) you.\n49 'Did you remember (post) my letter on your way home?' 'I remember (go) into the post office for some stamps, but even then I'm afraid I forgot (post) it.'\n50 I should like you (know) that it's no use (blame) me for your delay. I can't help (you, not be) allowed (leave) for America without first (finish) (write) your doctor's thesis.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977641293407378,
+          "minimum_content_confidence_score": 0.5916757312085994,
+          "block_type_confidence_score": 0.9324402189626723
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 132,
+        "top_left_y": 761,
+        "bottom_right_x": 593,
+        "bottom_right_y": 792,
+        "content": "## 41 Perfect Infinitive of Imaginary Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996797692349702,
+          "minimum_content_confidence_score": 0.9981342857852682,
+          "block_type_confidence_score": 0.9991408820917874
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 841,
+        "bottom_right_x": 157,
+        "bottom_right_y": 882,
+        "content": "41.1\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9397546381066855,
+          "minimum_content_confidence_score": 0.8475800267938134,
+          "block_type_confidence_score": 0.5091560503610152
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 842,
+        "bottom_right_x": 658,
+        "bottom_right_y": 906,
+        "content": "The form to have eaten takes the place of the infinitive when certain constructions, notably is to, ought to, like, are used for imagined action in the past.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9862110086579753,
+          "minimum_content_confidence_score": 0.6511782163286126,
+          "block_type_confidence_score": 0.9998570884900959
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 908,
+        "bottom_right_x": 429,
+        "bottom_right_y": 928,
+        "content": "He is to come tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999993035930056,
+          "minimum_content_confidence_score": 0.9999798423243067,
+          "block_type_confidence_score": 0.9999737746439785
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 927,
+        "bottom_right_x": 639,
+        "bottom_right_y": 950,
+        "content": "He was to have come yesterday . . . (but he didn't).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992776536090533,
+          "minimum_content_confidence_score": 0.9916170224721297,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 957,
+        "bottom_right_x": 584,
+        "bottom_right_y": 979,
+        "content": "Note that I should like to go has the past forms:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999986632193327,
+          "minimum_content_confidence_score": 0.999950226159101,
+          "block_type_confidence_score": 0.9999781851762466
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 977,
+        "bottom_right_x": 445,
+        "bottom_right_y": 999,
+        "content": "(1) I should like to have gone.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997369913405484,
+          "minimum_content_confidence_score": 0.9981927349369154,
+          "block_type_confidence_score": 0.59258136511019
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-103-left",
+    "pdf_page": 103,
+    "side": "left",
+    "reading_order": 205
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "(2) I should have liked to go.\n(3) I should have liked to have gone.\n\nThe type (3) is very clumsy, but strangely enough quite commonly heard. The other two are logically preferable, and the first is the more frequently heard. (See also notes to Exercise 41.2.)\n\nMust, meaning 'is (logically) so', makes its past by adding a perfect infinitive.\n\nHe must be a fool. (= he certainly is!)\n\nHe must have been a fool. (= he certainly was!)\n\n* * *\n\n(41.1)\n\n● Put into the imaginary past:\n1 You ought to get here earlier.\n2 They are to arrive at seven o'clock.\n3 I suppose I ought to be more careful.\n4 I should like to see the Pyramids of Egypt on my way home.\n5 Maisie ought not to eat so many chocolates.\n6 I am to stay away for a whole week.\n7 Would you like to win the first prize?\n8 How much ought I to give him?\n9 Most of us would like to go there again.\n10 Is he to repair this one, too?\n11 I should like to see Cyril in yellow swimming shorts.\n12 This must be the book you're talking about.\n13 He is to visit Paris before returning to America.\n14 They would like to get here before us.\n15 Your wife ought to tell you all about it.\n16 You should not give the baby a penknife to play with.\n17 Lady Billingham is to open the new hospital.\n18 Your grandfather must be a kind old gentleman to give you such lovely presents.\n19 I ought to send my aunt a Christmas present.\n20 We would like to spend a holiday together.\n\n41.2\n\nAdvanced\n\nSee Exercise 41.1.\n\nSome people assert that there is a difference of meaning between\n\n(1) I should like to have gone; and\n(2) I should have liked to go.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "194\n41 Perfect Infinitive of Imaginary Past",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9724185497397725,
+      "minimum_page_confidence_score": 0.24393653571674082
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 29,
+        "bottom_right_x": 50,
+        "bottom_right_y": 48,
+        "content": "194",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999308633958958,
+          "minimum_content_confidence_score": 0.9999308633958958,
+          "block_type_confidence_score": 0.9999849799874619
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 29,
+        "bottom_right_x": 424,
+        "bottom_right_y": 48,
+        "content": "41 Perfect Infinitive of Imaginary Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996814214198615,
+          "minimum_content_confidence_score": 0.9990098697163077,
+          "block_type_confidence_score": 0.9964646264165811
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 85,
+        "bottom_right_x": 452,
+        "bottom_right_y": 125,
+        "content": "(2) I should have liked to go.\n(3) I should have liked to have gone.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973934396150872,
+          "minimum_content_confidence_score": 0.9604594044651391,
+          "block_type_confidence_score": 0.9924215624365396
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 123,
+        "bottom_right_x": 604,
+        "bottom_right_y": 204,
+        "content": "The type (3) is very clumsy, but strangely enough quite commonly heard. The other two are logically preferable, and the first is the more frequently heard. (See also notes to Exercise 41.2.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999312173388623,
+          "minimum_content_confidence_score": 0.9985616659952713,
+          "block_type_confidence_score": 0.9999878408000585
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 203,
+        "bottom_right_x": 604,
+        "bottom_right_y": 243,
+        "content": "Must, meaning 'is (logically) so', makes its past by adding a perfect infinitive.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997539605823716,
+          "minimum_content_confidence_score": 0.9985567742457007,
+          "block_type_confidence_score": 0.9999041649148056
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 247,
+        "bottom_right_x": 491,
+        "bottom_right_y": 267,
+        "content": "He must be a fool. (= he certainly is!)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999823233751183,
+          "minimum_content_confidence_score": 0.9989593141706729,
+          "block_type_confidence_score": 0.9993209684310809
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 266,
+        "bottom_right_x": 572,
+        "bottom_right_y": 287,
+        "content": "He must have been a fool. (= he certainly was!)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999170733125217,
+          "minimum_content_confidence_score": 0.9993665657281368,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 322,
+        "top_left_y": 301,
+        "bottom_right_x": 425,
+        "bottom_right_y": 314,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988780063170514,
+          "minimum_content_confidence_score": 0.9979353941690206,
+          "block_type_confidence_score": 0.9999367038714213
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 327,
+        "bottom_right_x": 69,
+        "bottom_right_y": 349,
+        "content": "(41.1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996495146452726,
+          "minimum_content_confidence_score": 0.9996495146452726,
+          "block_type_confidence_score": 0.9592556313873566
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 327,
+        "bottom_right_x": 604,
+        "bottom_right_y": 874,
+        "content": "● Put into the imaginary past:\n1 You ought to get here earlier.\n2 They are to arrive at seven o'clock.\n3 I suppose I ought to be more careful.\n4 I should like to see the Pyramids of Egypt on my way home.\n5 Maisie ought not to eat so many chocolates.\n6 I am to stay away for a whole week.\n7 Would you like to win the first prize?\n8 How much ought I to give him?\n9 Most of us would like to go there again.\n10 Is he to repair this one, too?\n11 I should like to see Cyril in yellow swimming shorts.\n12 This must be the book you're talking about.\n13 He is to visit Paris before returning to America.\n14 They would like to get here before us.\n15 Your wife ought to tell you all about it.\n16 You should not give the baby a penknife to play with.\n17 Lady Billingham is to open the new hospital.\n18 Your grandfather must be a kind old gentleman to give you such lovely presents.\n19 I ought to send my aunt a Christmas present.\n20 We would like to spend a holiday together.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999413255609128,
+          "minimum_content_confidence_score": 0.884961079629512,
+          "block_type_confidence_score": 0.9989562212157144
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 893,
+        "bottom_right_x": 66,
+        "bottom_right_y": 913,
+        "content": "41.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999200482578826,
+          "minimum_content_confidence_score": 0.9999200482578826,
+          "block_type_confidence_score": 0.9600006963513308
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 914,
+        "bottom_right_x": 103,
+        "bottom_right_y": 933,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997401912653588,
+          "minimum_content_confidence_score": 0.9997401912653588,
+          "block_type_confidence_score": 0.996823775503456
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 893,
+        "bottom_right_x": 295,
+        "bottom_right_y": 913,
+        "content": "See Exercise 41.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999769346032075,
+          "minimum_content_confidence_score": 0.9999651921008026,
+          "block_type_confidence_score": 0.9997700981527674
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 914,
+        "bottom_right_x": 612,
+        "bottom_right_y": 952,
+        "content": "Some people assert that there is a difference of meaning between",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999984882929618,
+          "minimum_content_confidence_score": 0.9999237118751575,
+          "block_type_confidence_score": 0.9999094091471806
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 952,
+        "bottom_right_x": 447,
+        "bottom_right_y": 993,
+        "content": "(1) I should like to have gone; and\n(2) I should have liked to go.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999796278427561,
+          "minimum_content_confidence_score": 0.99982899181408,
+          "block_type_confidence_score": 0.9998349223959241
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

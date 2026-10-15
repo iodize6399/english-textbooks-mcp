@@ -1,0 +1,43 @@
+{
+  "source": {
+    "id": "pdf-001-left",
+    "pdf_page": 1,
+    "side": "left",
+    "reading_order": 1
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 155,
+      "height": 1019,
+      "width": 722
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9968272106900609,
+      "minimum_page_confidence_score": 0.9968272106900609
+    },
+    "blocks": []
+  }
+}

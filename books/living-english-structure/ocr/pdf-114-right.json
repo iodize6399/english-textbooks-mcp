@@ -1,0 +1,162 @@
+{
+  "source": {
+    "id": "pdf-114-right",
+    "pdf_page": 114,
+    "side": "right",
+    "reading_order": 228
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "(1) Parenthetic. (2) Connective (= and ...).\n\nForms to be used:\n\n|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  SUBJECT | —, *who* —, | —, *which* —,  |\n|  OBJECT | —, *whom* —, | —, *which* —,  |\n\nN.B. — The non-defining objective case *whom* and *which*, unlike the defining objective case *that*, can NEVER be omitted in this kind of relative clause.\n\nThe punctuation referred to above is reflected in speech. The first comma represents the introduction of a separate intonation pattern or 'tune'. The need for students to make this difference in intonation — if only mentally while reading — justifies the inclusion of these exercises in a book largely devoted to spoken English. But notice that the 1st person is avoided in the following exercises since we are usually speaking informally when we are using the 1st person, whereas the non-defining relative is generally a formal construction.\n\n\\* \\* \\*\n\n- ● Add the necessary relative pronoun to the following:\n- 1 Louis XIV, — we mentioned last week, became king in 1643.\n- 2 The princess, — had been married for ten years, had just had her ninth baby.\n- 3 The author, — has been to Paris, has just returned.\n- 4 See page 33 for a map of the area, — we also printed in our last number.\n- 5 The London train, — should arrive at 2.30, is late.\n- 6 Budapest, — is on the Danube, is a beautiful city.\n- 7 Bernard Shaw, — had a long beard, was a very clever writer.\n- 8 Flies, — come mostly in the summer, carry disease.\n- 9 The B.B.C., — is world-famous, spends millions of pounds every year.\n- 10 Love, — is a wonderful feeling, comes to everyone at some time in his life.\n- 11 Oxford University, — is one of the oldest in the world, has many different colleges.\n- 12 Swimming, — is a good sport, makes people strong.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n217",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 671
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9761298684992037,
+      "minimum_page_confidence_score": 0.2564603537025992
+    },
+    "blocks": [
+      {
+        "top_left_x": 142,
+        "top_left_y": 16,
+        "bottom_right_x": 256,
+        "bottom_right_y": 36,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994238337279876,
+          "minimum_content_confidence_score": 0.9988586345904478,
+          "block_type_confidence_score": 0.9999527416395921
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 18,
+        "bottom_right_x": 654,
+        "bottom_right_y": 37,
+        "content": "217",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999841454156853,
+          "minimum_content_confidence_score": 0.9999841454156853,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 72,
+        "bottom_right_x": 543,
+        "bottom_right_y": 95,
+        "content": "(1) Parenthetic. (2) Connective (= and ...).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9508177533694011,
+          "minimum_content_confidence_score": 0.6663057169880254,
+          "block_type_confidence_score": 0.956181823625415
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 93,
+        "bottom_right_x": 336,
+        "bottom_right_y": 112,
+        "content": "Forms to be used:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999516086396547,
+          "minimum_content_confidence_score": 0.9998263422211666,
+          "block_type_confidence_score": 0.9999785427891018
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 118,
+        "bottom_right_x": 580,
+        "bottom_right_y": 179,
+        "content": "|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  SUBJECT | —, *who* —, | —, *which* —,  |\n|  OBJECT | —, *whom* —, | —, *which* —,  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9888533287805943,
+          "minimum_content_confidence_score": 0.9299102545789625,
+          "block_type_confidence_score": 0.9835125863738932
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 180,
+        "bottom_right_x": 654,
+        "bottom_right_y": 240,
+        "content": "N.B. — The non-defining objective case *whom* and *which*, unlike the defining objective case *that*, can NEVER be omitted in this kind of relative clause.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9919901666239231,
+          "minimum_content_confidence_score": 0.8148915828649016,
+          "block_type_confidence_score": 0.9999618544824983
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 239,
+        "bottom_right_x": 656,
+        "bottom_right_y": 438,
+        "content": "The punctuation referred to above is reflected in speech. The first comma represents the introduction of a separate intonation pattern or 'tune'. The need for students to make this difference in intonation — if only mentally while reading — justifies the inclusion of these exercises in a book largely devoted to spoken English. But notice that the 1st person is avoided in the following exercises since we are usually speaking informally when we are using the 1st person, whereas the non-defining relative is generally a formal construction.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982437532862986,
+          "minimum_content_confidence_score": 0.8531475007024781,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 452,
+        "bottom_right_x": 467,
+        "bottom_right_y": 467,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9764231846319328,
+          "minimum_content_confidence_score": 0.9299110627979835,
+          "block_type_confidence_score": 0.9999918938339075
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 478,
+        "bottom_right_x": 648,
+        "bottom_right_y": 980,
+        "content": "- ● Add the necessary relative pronoun to the following:\n- 1 Louis XIV, — we mentioned last week, became king in 1643.\n- 2 The princess, — had been married for ten years, had just had her ninth baby.\n- 3 The author, — has been to Paris, has just returned.\n- 4 See page 33 for a map of the area, — we also printed in our last number.\n- 5 The London train, — should arrive at 2.30, is late.\n- 6 Budapest, — is on the Danube, is a beautiful city.\n- 7 Bernard Shaw, — had a long beard, was a very clever writer.\n- 8 Flies, — come mostly in the summer, carry disease.\n- 9 The B.B.C., — is world-famous, spends millions of pounds every year.\n- 10 Love, — is a wonderful feeling, comes to everyone at some time in his life.\n- 11 Oxford University, — is one of the oldest in the world, has many different colleges.\n- 12 Swimming, — is a good sport, makes people strong.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983964764086029,
+          "minimum_content_confidence_score": 0.8631865176608883,
+          "block_type_confidence_score": 0.9998394508693633
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1136 @@
+{
+  "source": {
+    "id": "pdf-174-left",
+    "pdf_page": 174,
+    "side": "left",
+    "reading_order": 347
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "Numbers refer to exercises.\n\nReported speech—cont.\n\nimperatives 51.1-3\n\nlate response device 51.12\n\nmixed statements & questions\netc 51.13-16\n\nmust 51.6\n\npast perfect tense in — 29.2\n51.5\n\nquestions 51.7-11 §58\n\nshall questions 51.9\n\nstatements 51.4-6 §58\n\nYes or No 51.14\n\nresist\n\ncan't — + —ing 39.4\n\nResult\n\nadverb clause of — §58\n\nrisk + —ing 39.4\n\nround wh— 46.10\n\n's 7.1\n\n-s (3rd sing. Present simple)\n21.4-6\n\nsame\n\nconnective relative — 46.10\n\nSarcastic question tags 32.4\n\nsay 6.1 51.1 51.13\n\nscarcely 25.1 §58\n\n— any 11.3\n\n— ever 25.2\n\nschool 1.8\n\nsea 1.8\n\nsee\n\n— & continuous tenses 21.10\n\n— + —ing 39.5\n\nseeing (that) §58\n\nseem 21.10\n\nseldom 25.2\n\n-self 4.1\n\n(all) by —self 4.1\n\nSeparated pronoun 6.3\n\nshall 14.1-3 §28 (preliminary)\n28.2-4\n\n— questions in reported speech\n51.9\n\nshan't 14.1-3\n\nShort form\n\n— negative 18.1\n\n— responses 19.1-20 23.2 24.3\n\nshould 14.1-3 §28 (preliminary)\n\n— in doubtful conditional\n31.11\n\nsince 23.3 23.7-8 26.1-2\n\n(conj.) §58\n\nsmell\n\n— & continuous tenses 21.10\n\n— + —ing 39.5\n\nso\n\nnot — . . . as §58\n\n— = also 19.11\n\n— + as 46.10\n\n— expressing surprise 19.5\n\n— in predicate (I think so etc.)\n34.1-2\n\n— (that) clause §58\n\nsome\n\n= a certain quantity or number\n1.4 1.7\n\n— & any 11.1-4\n\n— not used 1.8\n\nsometimes 25.1\n\nsoon\n\nas — as (ever) §58\n\n(just) as — 53.5\n\nsorry (for) §58\n\nSpecial finites 14.1-3\n\nstand\n\ncan't — + —ing 39.4\n\nwon't — + —ing 39.4\n\nstart (v.) 39.4\n\nstop + —ing 39.4\n\nStrong verbs 24.1\n\nstudy (v.) 39.4\n\nSubjunctive 31.1 (footnote)\n\n31.4 31.10\n\nsuch\n\nconnective relative — 46.10\n\nsuch as 6.4\n\nsuggest + —ing 39.4\n\nSuperlative\n\nthat-clause after — 46.3",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "336\nIndex",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1007,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9781826803539347,
+      "minimum_page_confidence_score": 0.17240010492722066
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 18,
+        "bottom_right_x": 54,
+        "bottom_right_y": 37,
+        "content": "336",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998344457103422,
+          "minimum_content_confidence_score": 0.9998344457103422,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 18,
+        "bottom_right_x": 198,
+        "bottom_right_y": 37,
+        "content": "Index",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999789004002659,
+          "minimum_content_confidence_score": 0.9999789004002659,
+          "block_type_confidence_score": 0.998854316233742
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 73,
+        "bottom_right_x": 230,
+        "bottom_right_y": 93,
+        "content": "Numbers refer to exercises.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998834477005913,
+          "minimum_content_confidence_score": 0.9997230343320066,
+          "block_type_confidence_score": 0.8476416883383273
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 112,
+        "bottom_right_x": 210,
+        "bottom_right_y": 133,
+        "content": "Reported speech—cont.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9936185340948237,
+          "minimum_content_confidence_score": 0.9875647388818768,
+          "block_type_confidence_score": 0.9351652389429367
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 133,
+        "bottom_right_x": 195,
+        "bottom_right_y": 152,
+        "content": "imperatives 51.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997738490225767,
+          "minimum_content_confidence_score": 0.9996487436158858,
+          "block_type_confidence_score": 0.9240623033012846
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 152,
+        "bottom_right_x": 254,
+        "bottom_right_y": 172,
+        "content": "late response device 51.12",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997694824059198,
+          "minimum_content_confidence_score": 0.9991479036050905,
+          "block_type_confidence_score": 0.9999645960934689
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 172,
+        "bottom_right_x": 274,
+        "bottom_right_y": 212,
+        "content": "mixed statements & questions\netc 51.13-16",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9897233009309351,
+          "minimum_content_confidence_score": 0.9396148566355766,
+          "block_type_confidence_score": 0.9947709529665117
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 212,
+        "bottom_right_x": 128,
+        "bottom_right_y": 231,
+        "content": "must 51.6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999426421779365,
+          "minimum_content_confidence_score": 0.9998937958019426,
+          "block_type_confidence_score": 0.9999927282861518
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 231,
+        "bottom_right_x": 269,
+        "bottom_right_y": 270,
+        "content": "past perfect tense in — 29.2\n51.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992955513298856,
+          "minimum_content_confidence_score": 0.9961406503343092,
+          "block_type_confidence_score": 0.9999895096921129
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 270,
+        "bottom_right_x": 223,
+        "bottom_right_y": 291,
+        "content": "questions 51.7-11 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999743249738974,
+          "minimum_content_confidence_score": 0.9992663752003035,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 291,
+        "bottom_right_x": 204,
+        "bottom_right_y": 311,
+        "content": "shall questions 51.9",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999806812467279,
+          "minimum_content_confidence_score": 0.9999566825156253,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 311,
+        "bottom_right_x": 223,
+        "bottom_right_y": 331,
+        "content": "statements 51.4-6 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999872346518522,
+          "minimum_content_confidence_score": 0.9999811654375532,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 331,
+        "bottom_right_x": 179,
+        "bottom_right_y": 351,
+        "content": "Yes or No 51.14",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999783195570405,
+          "minimum_content_confidence_score": 0.9999513649749275,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 351,
+        "bottom_right_x": 65,
+        "bottom_right_y": 370,
+        "content": "resist",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999789004334617,
+          "minimum_content_confidence_score": 0.9999789004334617,
+          "block_type_confidence_score": 0.9999940395710211
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 370,
+        "bottom_right_x": 219,
+        "bottom_right_y": 391,
+        "content": "can't — + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9923626338125265,
+          "minimum_content_confidence_score": 0.9830039744362022,
+          "block_type_confidence_score": 0.9999740130508765
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 391,
+        "bottom_right_x": 75,
+        "bottom_right_y": 409,
+        "content": "Result",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999924898711537,
+          "minimum_content_confidence_score": 0.9999924898711537,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 409,
+        "bottom_right_x": 233,
+        "bottom_right_y": 430,
+        "content": "adverb clause of — §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998132927403537,
+          "minimum_content_confidence_score": 0.9992543706939088,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 430,
+        "bottom_right_x": 171,
+        "bottom_right_y": 450,
+        "content": "risk + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992234027913587,
+          "minimum_content_confidence_score": 0.997229287266507,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 450,
+        "bottom_right_x": 169,
+        "bottom_right_y": 470,
+        "content": "round wh— 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9877427914029879,
+          "minimum_content_confidence_score": 0.963285473093656,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 488,
+        "bottom_right_x": 76,
+        "bottom_right_y": 508,
+        "content": "'s 7.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979349901498505,
+          "minimum_content_confidence_score": 0.9959032081649091,
+          "block_type_confidence_score": 0.9999946356109105
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 508,
+        "bottom_right_x": 238,
+        "bottom_right_y": 547,
+        "content": "-s (3rd sing. Present simple)\n21.4-6",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994232914542173,
+          "minimum_content_confidence_score": 0.9968208000707108,
+          "block_type_confidence_score": 0.9991931278156385
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 547,
+        "bottom_right_x": 62,
+        "bottom_right_y": 568,
+        "content": "same",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998177622073363,
+          "minimum_content_confidence_score": 0.9998177622073363,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 568,
+        "bottom_right_x": 269,
+        "bottom_right_y": 588,
+        "content": "connective relative — 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997916303973461,
+          "minimum_content_confidence_score": 0.9994010007184146,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 588,
+        "bottom_right_x": 250,
+        "bottom_right_y": 609,
+        "content": "Sarcastic question tags 32.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999469594614506,
+          "minimum_content_confidence_score": 0.9998591944242008,
+          "block_type_confidence_score": 0.9999942779868433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 609,
+        "bottom_right_x": 182,
+        "bottom_right_y": 628,
+        "content": "say 6.1 51.1 51.13",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999670720952677,
+          "minimum_content_confidence_score": 0.9999529155295337,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 628,
+        "bottom_right_x": 169,
+        "bottom_right_y": 648,
+        "content": "scarcely 25.1 §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999680060196915,
+          "minimum_content_confidence_score": 0.9991228821366152,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 648,
+        "bottom_right_x": 141,
+        "bottom_right_y": 667,
+        "content": "— any 11.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999537974094602,
+          "minimum_content_confidence_score": 0.9987784068287274,
+          "block_type_confidence_score": 0.9986709162630645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 667,
+        "bottom_right_x": 146,
+        "bottom_right_y": 687,
+        "content": "— ever 25.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999746814014898,
+          "minimum_content_confidence_score": 0.9999344391863586,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 687,
+        "bottom_right_x": 112,
+        "bottom_right_y": 707,
+        "content": "school 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999925941873611,
+          "minimum_content_confidence_score": 0.9999899865198352,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 707,
+        "bottom_right_x": 90,
+        "bottom_right_y": 727,
+        "content": "sea 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999392250274415,
+          "minimum_content_confidence_score": 0.9998829501824777,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 727,
+        "bottom_right_x": 48,
+        "bottom_right_y": 746,
+        "content": "see",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998698403965215,
+          "minimum_content_confidence_score": 0.9998698403965215,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 746,
+        "bottom_right_x": 281,
+        "bottom_right_y": 767,
+        "content": "— & continuous tenses 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999291978874055,
+          "minimum_content_confidence_score": 0.9998158265757376,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 767,
+        "bottom_right_x": 177,
+        "bottom_right_y": 786,
+        "content": "— + —ing 39.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999180033509676,
+          "minimum_content_confidence_score": 0.9998407617436356,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 786,
+        "bottom_right_x": 159,
+        "bottom_right_y": 806,
+        "content": "seeing (that) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999756254678717,
+          "minimum_content_confidence_score": 0.9999651413267814,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 806,
+        "bottom_right_x": 120,
+        "bottom_right_y": 826,
+        "content": "seem 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999657399270128,
+          "minimum_content_confidence_score": 0.9999383740404717,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 826,
+        "bottom_right_x": 126,
+        "bottom_right_y": 846,
+        "content": "seldom 25.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999959527548921,
+          "minimum_content_confidence_score": 0.9999229889877463,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 846,
+        "bottom_right_x": 96,
+        "bottom_right_y": 865,
+        "content": "-self 4.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994490333209115,
+          "minimum_content_confidence_score": 0.9989128483050512,
+          "block_type_confidence_score": 0.9999870063564401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 865,
+        "bottom_right_x": 184,
+        "bottom_right_y": 886,
+        "content": "(all) by —self 4.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9926579108553766,
+          "minimum_content_confidence_score": 0.9707070158399015,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 886,
+        "bottom_right_x": 212,
+        "bottom_right_y": 905,
+        "content": "Separated pronoun 6.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999526555724066,
+          "minimum_content_confidence_score": 0.9999428159061098,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 18,
+        "top_left_y": 905,
+        "bottom_right_x": 274,
+        "bottom_right_y": 943,
+        "content": "shall 14.1-3 §28 (preliminary)\n28.2-4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998567975465202,
+          "minimum_content_confidence_score": 0.9992803749349437,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 37,
+        "top_left_y": 943,
+        "bottom_right_x": 286,
+        "bottom_right_y": 983,
+        "content": "— questions in reported speech\n51.9",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996283508396481,
+          "minimum_content_confidence_score": 0.9974981116872662,
+          "block_type_confidence_score": 0.9999918938339075
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 73,
+        "bottom_right_x": 434,
+        "bottom_right_y": 93,
+        "content": "shan't 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999415033173431,
+          "minimum_content_confidence_score": 0.9998853737802655,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 93,
+        "bottom_right_x": 411,
+        "bottom_right_y": 113,
+        "content": "Short form",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885560917554,
+          "minimum_content_confidence_score": 0.9999812844913009,
+          "block_type_confidence_score": 0.999985933501902
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 113,
+        "bottom_right_x": 478,
+        "bottom_right_y": 133,
+        "content": "— negative 18.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999800211391058,
+          "minimum_content_confidence_score": 0.9999597088831099,
+          "block_type_confidence_score": 0.999991059383269
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 133,
+        "bottom_right_x": 598,
+        "bottom_right_y": 152,
+        "content": "— responses 19.1-20 23.2 24.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749972991353,
+          "minimum_content_confidence_score": 0.9999201361521574,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 152,
+        "bottom_right_x": 590,
+        "bottom_right_y": 172,
+        "content": "should 14.1-3 §28 (preliminary)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997022146910728,
+          "minimum_content_confidence_score": 0.9988824711017007,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 172,
+        "bottom_right_x": 547,
+        "bottom_right_y": 212,
+        "content": "— in doubtful conditional\n31.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999885787247019,
+          "minimum_content_confidence_score": 0.9997550849126202,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 212,
+        "bottom_right_x": 526,
+        "bottom_right_y": 231,
+        "content": "since 23.3 23.7-8 26.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999849682035342,
+          "minimum_content_confidence_score": 0.9999578016931774,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 231,
+        "bottom_right_x": 436,
+        "bottom_right_y": 252,
+        "content": "(conj.) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998947423259243,
+          "minimum_content_confidence_score": 0.9997939549787327,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 252,
+        "bottom_right_x": 365,
+        "bottom_right_y": 270,
+        "content": "smell",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999715813297395,
+          "minimum_content_confidence_score": 0.9999715813297395,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 270,
+        "bottom_right_x": 584,
+        "bottom_right_y": 291,
+        "content": "— & continuous tenses 21.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999941576741487,
+          "minimum_content_confidence_score": 0.9999854907710143,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 291,
+        "bottom_right_x": 478,
+        "bottom_right_y": 311,
+        "content": "— + —ing 39.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999968119935791,
+          "minimum_content_confidence_score": 0.9999211632572401,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 311,
+        "bottom_right_x": 340,
+        "bottom_right_y": 331,
+        "content": "so",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999667417142571,
+          "minimum_content_confidence_score": 0.9999667417142571,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 331,
+        "bottom_right_x": 482,
+        "bottom_right_y": 351,
+        "content": "not — . . . as §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9441926552587103,
+          "minimum_content_confidence_score": 0.6155450184488059,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 351,
+        "bottom_right_x": 476,
+        "bottom_right_y": 370,
+        "content": "— = also 19.11",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988192317596568,
+          "minimum_content_confidence_score": 0.9953878248491539,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 370,
+        "bottom_right_x": 464,
+        "bottom_right_y": 391,
+        "content": "— + as 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998825844953706,
+          "minimum_content_confidence_score": 0.9997668809890766,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 391,
+        "bottom_right_x": 562,
+        "bottom_right_y": 409,
+        "content": "— expressing surprise 19.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995983785635558,
+          "minimum_content_confidence_score": 0.9984259387346539,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 409,
+        "bottom_right_x": 578,
+        "bottom_right_y": 450,
+        "content": "— in predicate (I think so etc.)\n34.1-2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992920937977361,
+          "minimum_content_confidence_score": 0.9947517439091251,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 450,
+        "bottom_right_x": 503,
+        "bottom_right_y": 470,
+        "content": "— (that) clause §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999493635374959,
+          "minimum_content_confidence_score": 0.9998767836781238,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 470,
+        "bottom_right_x": 363,
+        "bottom_right_y": 488,
+        "content": "some",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999510073827051,
+          "minimum_content_confidence_score": 0.9999510073827051,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 488,
+        "bottom_right_x": 590,
+        "bottom_right_y": 528,
+        "content": "= a certain quantity or number\n1.4 1.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989536071781419,
+          "minimum_content_confidence_score": 0.9912534254395304,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 528,
+        "bottom_right_x": 476,
+        "bottom_right_y": 547,
+        "content": "— & any 11.1-4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997172033959473,
+          "minimum_content_confidence_score": 0.9989136350976727,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 547,
+        "bottom_right_x": 472,
+        "bottom_right_y": 568,
+        "content": "— not used 1.8",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999906719911393,
+          "minimum_content_confidence_score": 0.9999831917733143,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 568,
+        "bottom_right_x": 451,
+        "bottom_right_y": 588,
+        "content": "sometimes 25.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999696099234132,
+          "minimum_content_confidence_score": 0.9999423192779126,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 588,
+        "bottom_right_x": 359,
+        "bottom_right_y": 607,
+        "content": "soon",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998123997851859,
+          "minimum_content_confidence_score": 0.9998123997851859,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 607,
+        "bottom_right_x": 494,
+        "bottom_right_y": 628,
+        "content": "as — as (ever) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998529991475287,
+          "minimum_content_confidence_score": 0.9996830038060242,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 628,
+        "bottom_right_x": 476,
+        "bottom_right_y": 648,
+        "content": "(just) as — 53.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998138413138811,
+          "minimum_content_confidence_score": 0.9993244208322567,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 648,
+        "bottom_right_x": 446,
+        "bottom_right_y": 667,
+        "content": "sorry (for) §58",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989694989186781,
+          "minimum_content_confidence_score": 0.9970696440381936,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 667,
+        "bottom_right_x": 495,
+        "bottom_right_y": 687,
+        "content": "Special finites 14.1-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9776225567923073,
+          "minimum_content_confidence_score": 0.9328770027028175,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 687,
+        "bottom_right_x": 367,
+        "bottom_right_y": 707,
+        "content": "stand",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999431404007152,
+          "minimum_content_confidence_score": 0.9999431404007152,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 707,
+        "bottom_right_x": 522,
+        "bottom_right_y": 727,
+        "content": "can't — + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999449456185276,
+          "minimum_content_confidence_score": 0.9998427876608137,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 727,
+        "bottom_right_x": 526,
+        "bottom_right_y": 746,
+        "content": "won't — + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999974132656997,
+          "minimum_content_confidence_score": 0.9999423060344126,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 746,
+        "bottom_right_x": 441,
+        "bottom_right_y": 767,
+        "content": "start (v.) 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999123728708987,
+          "minimum_content_confidence_score": 0.9997529017479533,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 767,
+        "bottom_right_x": 474,
+        "bottom_right_y": 786,
+        "content": "stop + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998712261224063,
+          "minimum_content_confidence_score": 0.9997301829845089,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 786,
+        "bottom_right_x": 471,
+        "bottom_right_y": 806,
+        "content": "Strong verbs 24.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999977255921718,
+          "minimum_content_confidence_score": 0.9999445707518435,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 806,
+        "bottom_right_x": 446,
+        "bottom_right_y": 826,
+        "content": "study (v.) 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999356319915303,
+          "minimum_content_confidence_score": 0.9998506677711141,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 826,
+        "bottom_right_x": 549,
+        "bottom_right_y": 845,
+        "content": "Subjunctive 31.1 (footnote)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997830884610735,
+          "minimum_content_confidence_score": 0.9936453332995715,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 845,
+        "bottom_right_x": 426,
+        "bottom_right_y": 865,
+        "content": "31.4 31.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999932498416155,
+          "minimum_content_confidence_score": 0.9999930561178091,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 865,
+        "bottom_right_x": 357,
+        "bottom_right_y": 885,
+        "content": "such",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999663841092601,
+          "minimum_content_confidence_score": 0.9999663841092601,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 885,
+        "bottom_right_x": 570,
+        "bottom_right_y": 905,
+        "content": "connective relative — 46.10",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999582614450085,
+          "minimum_content_confidence_score": 0.9998993025907846,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 905,
+        "bottom_right_x": 420,
+        "bottom_right_y": 925,
+        "content": "such as 6.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999994238295819,
+          "minimum_content_confidence_score": 0.99998843691049,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 925,
+        "bottom_right_x": 499,
+        "bottom_right_y": 943,
+        "content": "suggest + —ing 39.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999803990720248,
+          "minimum_content_confidence_score": 0.9993146589532793,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 319,
+        "top_left_y": 943,
+        "bottom_right_x": 411,
+        "bottom_right_y": 964,
+        "content": "Superlative",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999260026279339,
+          "minimum_content_confidence_score": 0.9999260026279339,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 338,
+        "top_left_y": 964,
+        "bottom_right_x": 540,
+        "bottom_right_y": 983,
+        "content": "that-clause after — 46.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975766809411942,
+          "minimum_content_confidence_score": 0.9903618921713088,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

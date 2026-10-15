@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-055-right",
+    "pdf_page": 55,
+    "side": "right",
+    "reading_order": 110
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "15 You (wear) your new hat when I (meet) you yesterday.\n16 When I (have) a dog I always (take) him out for a walk in the evening.\n17 When the phone (ring), I (have) a bath.\n18 I (lay) the table for dinner while you (wash) your hands.\n19 When we (live) in that house we (have) three servants.\n20 Large crowds (wait) at the station when the Prime Minister (arrive).\n\n26.5\n\nIntermediate\n\nSee Exercises 26.3, 4.\n\nSeeing that in general the continuous tenses are used to express our interest in the action in progress (i.e. not in its completion, but only in the fact of its taking place), a sentence like:\n\nHe was reading a book while I was mending his socks, tells us of two past actions in progress at the same time, but tells us nothing of their beginning or end. Certain verbs (Exercises 21.9, 10) are rare in the continuous forms.\n\n* * *\n\n● Put the verbs in the following sentences into a suitable past tense; notice where sensible alternatives are possible:\n1 I (speak) to her several times, but she always (read) and (not hear) me.\n2 He (lose) his watch while he (see) the sights of the city.\n3 He (teach) English for two months when he (live) in Germany and (work) as a journalist.\n4 I (open) the door just as Cyril (ring) the bell.\n5 The house (burn) fast, so we (break) a window to get out.\n6 Maisie (cook) fish when I first (ask) her to marry me.\n7 We (walk) to the station when it (begin) to rain.\n8 We (run) under a bridge when the storm (break).\n9 My sister (drop) two cups while she (wash up) last night; neither of them (break).\n10 She (put) on her raincoat when it (start) to rain.\n11 When the teacher (come) in, the boys (play).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "26 Past Tense (Continued)\n99",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9728152402431025,
+      "minimum_page_confidence_score": 0.17244789423820805
+    },
+    "blocks": [
+      {
+        "top_left_x": 154,
+        "top_left_y": 21,
+        "bottom_right_x": 387,
+        "bottom_right_y": 42,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994936938568729,
+          "minimum_content_confidence_score": 0.9983104451352479,
+          "block_type_confidence_score": 0.9996500487942979
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 640,
+        "top_left_y": 22,
+        "bottom_right_x": 665,
+        "bottom_right_y": 40,
+        "content": "99",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999775891557117,
+          "minimum_content_confidence_score": 0.9999775891557117,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 76,
+        "bottom_right_x": 660,
+        "bottom_right_y": 317,
+        "content": "15 You (wear) your new hat when I (meet) you yesterday.\n16 When I (have) a dog I always (take) him out for a walk in the evening.\n17 When the phone (ring), I (have) a bath.\n18 I (lay) the table for dinner while you (wash) your hands.\n19 When we (live) in that house we (have) three servants.\n20 Large crowds (wait) at the station when the Prime Minister (arrive).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988955933702028,
+          "minimum_content_confidence_score": 0.9203627548368959,
+          "block_type_confidence_score": 0.9990811453826183
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 333,
+        "bottom_right_x": 104,
+        "bottom_right_y": 355,
+        "content": "26.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982994155504628,
+          "minimum_content_confidence_score": 0.9982994155504628,
+          "block_type_confidence_score": 0.589434209411397
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 356,
+        "bottom_right_x": 166,
+        "bottom_right_y": 375,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999791785459583,
+          "minimum_content_confidence_score": 0.9999791785459583,
+          "block_type_confidence_score": 0.9989084012990082
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 335,
+        "bottom_right_x": 365,
+        "bottom_right_y": 358,
+        "content": "See Exercises 26.3, 4.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999784441491564,
+          "minimum_content_confidence_score": 0.9999588363915877,
+          "block_type_confidence_score": 0.9987854230053542
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 357,
+        "bottom_right_x": 667,
+        "bottom_right_y": 435,
+        "content": "Seeing that in general the continuous tenses are used to express our interest in the action in progress (i.e. not in its completion, but only in the fact of its taking place), a sentence like:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999780379209544,
+          "minimum_content_confidence_score": 0.9997631872423239,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 439,
+        "bottom_right_x": 667,
+        "bottom_right_y": 520,
+        "content": "He was reading a book while I was mending his socks, tells us of two past actions in progress at the same time, but tells us nothing of their beginning or end. Certain verbs (Exercises 21.9, 10) are rare in the continuous forms.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990429434019565,
+          "minimum_content_confidence_score": 0.9602902045263186,
+          "block_type_confidence_score": 0.9999717481958249
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 370,
+        "top_left_y": 533,
+        "bottom_right_x": 477,
+        "bottom_right_y": 547,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99874308863864,
+          "minimum_content_confidence_score": 0.9971947904326849,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 560,
+        "bottom_right_x": 667,
+        "bottom_right_y": 975,
+        "content": "● Put the verbs in the following sentences into a suitable past tense; notice where sensible alternatives are possible:\n1 I (speak) to her several times, but she always (read) and (not hear) me.\n2 He (lose) his watch while he (see) the sights of the city.\n3 He (teach) English for two months when he (live) in Germany and (work) as a journalist.\n4 I (open) the door just as Cyril (ring) the bell.\n5 The house (burn) fast, so we (break) a window to get out.\n6 Maisie (cook) fish when I first (ask) her to marry me.\n7 We (walk) to the station when it (begin) to rain.\n8 We (run) under a bridge when the storm (break).\n9 My sister (drop) two cups while she (wash up) last night; neither of them (break).\n10 She (put) on her raincoat when it (start) to rain.\n11 When the teacher (come) in, the boys (play).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995392569956556,
+          "minimum_content_confidence_score": 0.9302202414387828,
+          "block_type_confidence_score": 0.9999464778947144
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

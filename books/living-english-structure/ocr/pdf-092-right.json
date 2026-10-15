@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-092-right",
+    "pdf_page": 92,
+    "side": "right",
+    "reading_order": 184
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:14.317939+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "23 Milk must be kept in a cool place. If it isn't, it will turn sour.\n24 Sit down. If you don't, you'll be tired.\n25 Help me with my homework. If you don't, I won't help you.\n\n## 38 Infinitive\n\n### 38.1 Intermediate\n\nFrequently a clause having the same subject as the main sentence can be more concisely expressed by using an infinitive.\n\nI was glad when I heard of your success.\n\nI was glad to hear of your success.\n\nNotice also its use after a superlative.\n\nHe was the first man to climb Mount Everest.\n\n* * *\n\n- ● Reword the following sentences using the infinitive:\n1 He was sorry when he heard of your disappointment.\n2 He hopes that he will know by tomorrow.\n3 It seems that it is improbable.\n4 Do you understand what you have to do?\n5 We should be sorry if we heard bad reports of him.\n6 The candidate did not expect that he would pass his examination.\n7 Elsie was told that she must not dirty her dress.\n8 The boys only laughed when they saw the little girl cry.\n9 She asked if she might leave the room.\n10 I hope that I shall live to see my son a successful doctor.\n11 That was the first picture that came by satellite.\n12 My friend was delighted when she learned of the arrival of our baby.\n13 Do not promise that you will do it, if you are not sure that you can.\n14 The doctor warned Cyril that he should not touch alcohol.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "38 Infinitive\n173",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1016,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9632556890198309,
+      "minimum_page_confidence_score": 0.32250400668004253
+    },
+    "blocks": [
+      {
+        "top_left_x": 149,
+        "top_left_y": 17,
+        "bottom_right_x": 261,
+        "bottom_right_y": 38,
+        "content": "38 Infinitive",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996877703354818,
+          "minimum_content_confidence_score": 0.9993899647872885,
+          "block_type_confidence_score": 0.9999614335654662
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 625,
+        "top_left_y": 20,
+        "bottom_right_x": 658,
+        "bottom_right_y": 40,
+        "content": "173",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927282861518,
+          "minimum_content_confidence_score": 0.9999927282861518,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 71,
+        "bottom_right_x": 633,
+        "bottom_right_y": 185,
+        "content": "23 Milk must be kept in a cool place. If it isn't, it will turn sour.\n24 Sit down. If you don't, you'll be tired.\n25 Help me with my homework. If you don't, I won't help you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976635456821625,
+          "minimum_content_confidence_score": 0.9523227188876727,
+          "block_type_confidence_score": 0.8807661514134872
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 236,
+        "bottom_right_x": 286,
+        "bottom_right_y": 264,
+        "content": "## 38 Infinitive",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9901469078259714,
+          "minimum_content_confidence_score": 0.9706861984014472,
+          "block_type_confidence_score": 0.9979122447159408
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 54,
+        "top_left_y": 309,
+        "bottom_right_x": 158,
+        "bottom_right_y": 351,
+        "content": "### 38.1 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.975967357807158,
+          "minimum_content_confidence_score": 0.928131658679459,
+          "block_type_confidence_score": 0.6194815510158126
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 311,
+        "bottom_right_x": 657,
+        "bottom_right_y": 374,
+        "content": "Frequently a clause having the same subject as the main sentence can be more concisely expressed by using an infinitive.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999776252733603,
+          "minimum_content_confidence_score": 0.9998741308286652,
+          "block_type_confidence_score": 0.9999656689032875
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 376,
+        "bottom_right_x": 554,
+        "bottom_right_y": 400,
+        "content": "I was glad when I heard of your success.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999983187872074,
+          "minimum_content_confidence_score": 0.9999350351575294,
+          "block_type_confidence_score": 0.998804331650258
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 398,
+        "bottom_right_x": 502,
+        "bottom_right_y": 419,
+        "content": "I was glad to hear of your success.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9370570577335176,
+          "minimum_content_confidence_score": 0.5310909261334346,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 425,
+        "bottom_right_x": 490,
+        "bottom_right_y": 449,
+        "content": "Notice also its use after a superlative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999966300281845,
+          "minimum_content_confidence_score": 0.9998544666422595,
+          "block_type_confidence_score": 0.9999885560391694
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 450,
+        "bottom_right_x": 604,
+        "bottom_right_y": 473,
+        "content": "He was the first man to climb Mount Everest.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999886083423285,
+          "minimum_content_confidence_score": 0.9999192902901594,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 362,
+        "top_left_y": 486,
+        "bottom_right_x": 466,
+        "bottom_right_y": 499,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983479492153976,
+          "minimum_content_confidence_score": 0.9969552758653477,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 509,
+        "bottom_right_x": 653,
+        "bottom_right_y": 993,
+        "content": "- ● Reword the following sentences using the infinitive:\n1 He was sorry when he heard of your disappointment.\n2 He hopes that he will know by tomorrow.\n3 It seems that it is improbable.\n4 Do you understand what you have to do?\n5 We should be sorry if we heard bad reports of him.\n6 The candidate did not expect that he would pass his examination.\n7 Elsie was told that she must not dirty her dress.\n8 The boys only laughed when they saw the little girl cry.\n9 She asked if she might leave the room.\n10 I hope that I shall live to see my son a successful doctor.\n11 That was the first picture that came by satellite.\n12 My friend was delighted when she learned of the arrival of our baby.\n13 Do not promise that you will do it, if you are not sure that you can.\n14 The doctor warned Cyril that he should not touch alcohol.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942331936492718,
+          "minimum_content_confidence_score": 0.5913101645864898,
+          "block_type_confidence_score": 0.9998592336474077
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

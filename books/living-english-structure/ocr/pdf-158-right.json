@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-158-right",
+    "pdf_page": 158,
+    "side": "right",
+    "reading_order": 316
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "40 I expect the bill will add — — about £5. We can each put — £2 and square — later.41 His surprise — her turning — — such lovely clothes left him entirely bereft — speech.42 I'm not going to put — — any more interruptions. Shut — or get — — the hall!43 You've knocked your drink —? Soak it — — this cloth.44 If you go — — your glasses, you'll trip — or get run —.45 Do not bicker — trifles or squabble — yourselves.46 A very good price was bid — my old oak chest — the auction sale.47 The loudspeaker was blaring — pop music — the hour.48 You cannot blame me — the mistakes — others — this affair.49 CALLER: Smith & Co.? I'm trying to get hold — Mr John Smith. OPERATOR: Just hold —, please, and I'll put you —.50 The band struck — but was horribly — — tune; the players had forgotten to tune —.51 Oil does not blend — water any more than iron floats — it.52 There is no need to boast — your deficiencies — those subjects.53 His genius borders — lunacy.54 Don't bother — minor details; concentrate — the general outline.55 He is always bragging — us — his superior education.56 Who will broach the scheme — the director?57 The old lady was brooding — the loss — her cat, the only creature she had ever doted —.58 You'll never guess who I bumped — last night — the dark.59 I don't want to burden you — my worries — the future.60 You can't hang — here, sir. Move —, please.61 — speaking rudely — the judge, my sentence was increased — fifteen days — contempt — court.62 Why does everybody cavil — my excellent",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "56 Prepositions and Adverbial Particles\n305",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1013,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9844478825904898,
+      "minimum_page_confidence_score": 0.19484514943775869
+    },
+    "blocks": [
+      {
+        "top_left_x": 145,
+        "top_left_y": 17,
+        "bottom_right_x": 474,
+        "bottom_right_y": 39,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994618035419356,
+          "minimum_content_confidence_score": 0.998624009457825,
+          "block_type_confidence_score": 0.9996698895325674
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 622,
+        "top_left_y": 18,
+        "bottom_right_x": 654,
+        "bottom_right_y": 38,
+        "content": "305",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992564489050645,
+          "minimum_content_confidence_score": 0.9992564489050645,
+          "block_type_confidence_score": 0.9999977442014452
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 71,
+        "bottom_right_x": 654,
+        "bottom_right_y": 990,
+        "content": "40 I expect the bill will add — — about £5. We can each put — £2 and square — later.41 His surprise — her turning — — such lovely clothes left him entirely bereft — speech.42 I'm not going to put — — any more interruptions. Shut — or get — — the hall!43 You've knocked your drink —? Soak it — — this cloth.44 If you go — — your glasses, you'll trip — or get run —.45 Do not bicker — trifles or squabble — yourselves.46 A very good price was bid — my old oak chest — the auction sale.47 The loudspeaker was blaring — pop music — the hour.48 You cannot blame me — the mistakes — others — this affair.49 CALLER: Smith & Co.? I'm trying to get hold — Mr John Smith. OPERATOR: Just hold —, please, and I'll put you —.50 The band struck — but was horribly — — tune; the players had forgotten to tune —.51 Oil does not blend — water any more than iron floats — it.52 There is no need to boast — your deficiencies — those subjects.53 His genius borders — lunacy.54 Don't bother — minor details; concentrate — the general outline.55 He is always bragging — us — his superior education.56 Who will broach the scheme — the director?57 The old lady was brooding — the loss — her cat, the only creature she had ever doted —.58 You'll never guess who I bumped — last night — the dark.59 I don't want to burden you — my worries — the future.60 You can't hang — here, sir. Move —, please.61 — speaking rudely — the judge, my sentence was increased — fifteen days — contempt — court.62 Why does everybody cavil — my excellent",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991571524164493,
+          "minimum_content_confidence_score": 0.930732969831132,
+          "block_type_confidence_score": 0.8668290416539701
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "source": {
+    "id": "pdf-110-right",
+    "pdf_page": 110,
+    "side": "right",
+    "reading_order": 220
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "In TYPE (2) we question THE WHOLE IDEA, and repeat it with the accent on the QUESTION-WORD, which now takes the final position. Notice the changed intonation.\n\nTYPE (1): Open the bottle. — What *with*? (falling intonation)\n\nTYPE (2): Open the bottle *with this pin*. — With *what*? (rising intonation)\n\n*Why, when, where*, and the *how* compounds behave similarly. *Whom* does not occur.\n\nThe statements below are to be addressed to the student, who should make a suitable response.\n\n\\* \\* \\*\n\n- ● Respond, as TYPE (2) above, to the following; the key words are in **bold type**:\n  1. 1 These chocolates are **for** you.\n  2. 2 He gave it **to** your mother-in-law.\n  3. 3 Clean it **with** your handkerchief.\n  4. 4 I came here **on** a tricycle.\n  5. 5 I'm going to tea **with** the King.\n  6. 6 Have you seen the new play **by** my great-aunt Gertrude?\n  7. 7 Cyril has fallen **on** a cactus!\n  8. 8 An army marches **on** its stomach.\n  9. 9 Will you finish off this letter to the Home Needleworkers' Socialist Association?\n  10. 10 In our play I act the part of a Grand Duchess.\n  11. 11 I'm waiting **for** my grandmother.\n  12. 12 He couldn't come **because** he was drunk.\n  13. 13 I'm going for a walk **with** your friend Maisie.\n  14. 14 You can cook a kipper **on** a candle.\n  15. 15 Send this parcel **to** my great-uncle's youngest brother-in-law.\n  16. 16 I've had measles sixteen times.\n  17. 17 So I told her **about** your affair **with** that pretty dancer! (two possible responses)\n  18. 18 I like my breakfast **at half past five**.\n  19. 19 Mix it **with** lemonade.\n  20. 20 I bought the whole set **for** five pence!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "45 Interrogative Responses\n209",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1005,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9747995743751292,
+      "minimum_page_confidence_score": 0.14751301594909944
+    },
+    "blocks": [
+      {
+        "top_left_x": 131,
+        "top_left_y": 14,
+        "bottom_right_x": 360,
+        "bottom_right_y": 35,
+        "content": "45 Interrogative Responses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997959355406536,
+          "minimum_content_confidence_score": 0.9994673159861138,
+          "block_type_confidence_score": 0.9999687503723391
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 614,
+        "top_left_y": 16,
+        "bottom_right_x": 647,
+        "bottom_right_y": 34,
+        "content": "209",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999694833531786,
+          "minimum_content_confidence_score": 0.9999694833531786,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 70,
+        "bottom_right_x": 647,
+        "bottom_right_y": 132,
+        "content": "In TYPE (2) we question THE WHOLE IDEA, and repeat it with the accent on the QUESTION-WORD, which now takes the final position. Notice the changed intonation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9932943119974132,
+          "minimum_content_confidence_score": 0.8864344032305451,
+          "block_type_confidence_score": 0.9999877215940446
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 134,
+        "bottom_right_x": 647,
+        "bottom_right_y": 175,
+        "content": "TYPE (1): Open the bottle. — What *with*? (falling intonation)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9273944369605015,
+          "minimum_content_confidence_score": 0.5101218211919041,
+          "block_type_confidence_score": 0.997665384773824
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 174,
+        "bottom_right_x": 647,
+        "bottom_right_y": 215,
+        "content": "TYPE (2): Open the bottle *with this pin*. — With *what*? (rising intonation)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9931774553929967,
+          "minimum_content_confidence_score": 0.9575937058644809,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 223,
+        "bottom_right_x": 647,
+        "bottom_right_y": 266,
+        "content": "*Why, when, where*, and the *how* compounds behave similarly. *Whom* does not occur.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9897091607512534,
+          "minimum_content_confidence_score": 0.9298642460317394,
+          "block_type_confidence_score": 0.9999866487378297
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 172,
+        "top_left_y": 268,
+        "bottom_right_x": 647,
+        "bottom_right_y": 309,
+        "content": "The statements below are to be addressed to the student, who should make a suitable response.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999731815097216,
+          "minimum_content_confidence_score": 0.9997479359074758,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 354,
+        "top_left_y": 322,
+        "bottom_right_x": 459,
+        "bottom_right_y": 336,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9674598201577798,
+          "minimum_content_confidence_score": 0.9027371983583273,
+          "block_type_confidence_score": 0.9999911785905904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 135,
+        "top_left_y": 348,
+        "bottom_right_x": 647,
+        "bottom_right_y": 915,
+        "content": "- ● Respond, as TYPE (2) above, to the following; the key words are in **bold type**:\n  1. 1 These chocolates are **for** you.\n  2. 2 He gave it **to** your mother-in-law.\n  3. 3 Clean it **with** your handkerchief.\n  4. 4 I came here **on** a tricycle.\n  5. 5 I'm going to tea **with** the King.\n  6. 6 Have you seen the new play **by** my great-aunt Gertrude?\n  7. 7 Cyril has fallen **on** a cactus!\n  8. 8 An army marches **on** its stomach.\n  9. 9 Will you finish off this letter to the Home Needleworkers' Socialist Association?\n  10. 10 In our play I act the part of a Grand Duchess.\n  11. 11 I'm waiting **for** my grandmother.\n  12. 12 He couldn't come **because** he was drunk.\n  13. 13 I'm going for a walk **with** your friend Maisie.\n  14. 14 You can cook a kipper **on** a candle.\n  15. 15 Send this parcel **to** my great-uncle's youngest brother-in-law.\n  16. 16 I've had measles sixteen times.\n  17. 17 So I told her **about** your affair **with** that pretty dancer! (two possible responses)\n  18. 18 I like my breakfast **at half past five**.\n  19. 19 Mix it **with** lemonade.\n  20. 20 I bought the whole set **for** five pence!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9878531323001325,
+          "minimum_content_confidence_score": 0.5258484860977387,
+          "block_type_confidence_score": 0.9996173654488727
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

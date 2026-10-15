@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-027-right",
+    "pdf_page": 27,
+    "side": "right",
+    "reading_order": 54
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "10 I can go swimming. when it is warmer/whenever I liked.\n11 She can play the piano. when her arm is better/a few years ago.\n12 We can't find it. until tomorrow/when we looked for it.\n13 John can stay up late. tonight/even when he was a small boy.\n14 I can meet you. on Saturday/whenever I liked.\n15 My sister can sew very well. soon/before she lost her eyesight.\n16 We can speak English. soon/when we were in London.\n17 I can't have a car. until I am older/until I was twenty-one.\n18 He can find a good answer. if you ask him tonight/whenever I asked him a question.\n19 My father can help me. when he comes home/ when he had time.\n20 We can see the sea. a little farther on/from the top of the hill.\n21 You can borrow the book. tomorrow/whenever you wanted to.\n22 Jill can climb trees. when she is a bit older/when she was younger.\n23 We can't understand. until you explain it again/ when he spoke so quickly.\n24 She can bring a friend. with her this afternoon/any time she liked.\n25 They can build better houses. in the year 2050/in 1850.\n\n(Notice that in some of these can may mean either 'may' or 'know how to'.)\n\n17.2\n\nAdvanced\n\nSee Exercise 17.1.\n\nSeeing in a grammar book that could can be past or conditional of can, students are always puzzled by having such sentences as:\n\n'I could pass my examination ten years ago.'\n\n'I could go to the country yesterday and had a good time, . . .' etc.\n\ncorrected to was able to.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "17 can\n43",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.976026566452516,
+      "minimum_page_confidence_score": 0.3007368263619756
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 16,
+        "bottom_right_x": 207,
+        "bottom_right_y": 35,
+        "content": "17 can",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8136097196124343,
+          "minimum_content_confidence_score": 0.6272604455393191,
+          "block_type_confidence_score": 0.9999950482682162
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 626,
+        "top_left_y": 16,
+        "bottom_right_x": 650,
+        "bottom_right_y": 34,
+        "content": "43",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999871628071919,
+          "minimum_content_confidence_score": 0.999871628071919,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 71,
+        "bottom_right_x": 645,
+        "bottom_right_y": 746,
+        "content": "10 I can go swimming. when it is warmer/whenever I liked.\n11 She can play the piano. when her arm is better/a few years ago.\n12 We can't find it. until tomorrow/when we looked for it.\n13 John can stay up late. tonight/even when he was a small boy.\n14 I can meet you. on Saturday/whenever I liked.\n15 My sister can sew very well. soon/before she lost her eyesight.\n16 We can speak English. soon/when we were in London.\n17 I can't have a car. until I am older/until I was twenty-one.\n18 He can find a good answer. if you ask him tonight/whenever I asked him a question.\n19 My father can help me. when he comes home/ when he had time.\n20 We can see the sea. a little farther on/from the top of the hill.\n21 You can borrow the book. tomorrow/whenever you wanted to.\n22 Jill can climb trees. when she is a bit older/when she was younger.\n23 We can't understand. until you explain it again/ when he spoke so quickly.\n24 She can bring a friend. with her this afternoon/any time she liked.\n25 They can build better houses. in the year 2050/in 1850.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973851718012141,
+          "minimum_content_confidence_score": 0.8165343035624066,
+          "block_type_confidence_score": 0.9820072039627094
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 750,
+        "bottom_right_x": 650,
+        "bottom_right_y": 791,
+        "content": "(Notice that in some of these can may mean either 'may' or 'know how to'.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9965353261085431,
+          "minimum_content_confidence_score": 0.9520415997647846,
+          "block_type_confidence_score": 0.9838653319007262
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 810,
+        "bottom_right_x": 89,
+        "bottom_right_y": 829,
+        "content": "17.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979718268863663,
+          "minimum_content_confidence_score": 0.9979718268863663,
+          "block_type_confidence_score": 0.528277993082787
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 830,
+        "bottom_right_x": 126,
+        "bottom_right_y": 850,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997162432278512,
+          "minimum_content_confidence_score": 0.9997162432278512,
+          "block_type_confidence_score": 0.9965533016475899
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 810,
+        "bottom_right_x": 322,
+        "bottom_right_y": 829,
+        "content": "See Exercise 17.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999800200529242,
+          "minimum_content_confidence_score": 0.9999532721416701,
+          "block_type_confidence_score": 0.9997399529669438
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 830,
+        "bottom_right_x": 652,
+        "bottom_right_y": 890,
+        "content": "Seeing in a grammar book that could can be past or conditional of can, students are always puzzled by having such sentences as:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99968905061889,
+          "minimum_content_confidence_score": 0.9947445294983365,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 212,
+        "top_left_y": 894,
+        "bottom_right_x": 585,
+        "bottom_right_y": 914,
+        "content": "'I could pass my examination ten years ago.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999186839112114,
+          "minimum_content_confidence_score": 0.9994763670903546,
+          "block_type_confidence_score": 0.9991732524101283
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 212,
+        "top_left_y": 913,
+        "bottom_right_x": 652,
+        "bottom_right_y": 954,
+        "content": "'I could go to the country yesterday and had a good time, . . .' etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9938561226042938,
+          "minimum_content_confidence_score": 0.9460014223515981,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 175,
+        "top_left_y": 960,
+        "bottom_right_x": 377,
+        "bottom_right_y": 980,
+        "content": "corrected to was able to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999391026623142,
+          "minimum_content_confidence_score": 0.9997983385620595,
+          "block_type_confidence_score": 0.9999227583468039
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

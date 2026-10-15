@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-016-right",
+    "pdf_page": 16,
+    "side": "right",
+    "reading_order": 32
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "6 The story is short; we can read it in one lesson.  \n 7 The moon is very bright; I can read a book by it.  \n 8 The wind is very strong; it will blow the roof off.  \n 9 That man is quite stupid; he believes me.  \n 10 I have enough money; I can pay the bill.\n\n## 11 *some* and *any*\n\n### 11.1 Elementary\n\nThe rough-and-ready rule of *some* in affirmative statements, and *any* in negatives and questions makes a useful preliminary exercise.\n\n\\* \\* \\*\n\n- ● Make the following sentences (a) negative, (b) interrogative:\n- 1 I have some books.\n- 2 He bought some ties.\n- 3 There is some news.\n- 4 They want some paper.\n- 5 You ate some apples.\n- 6 You asked some questions.\n- 7 We shall have some rain.\n- 8 The boy has some more cake.\n- 9 I have seen you somewhere before.\n- 10 He knows something.\n- 11 They found it somewhere.\n- 12 You have some.\n- 13 You saw someone there.\n- 14 He has sent me some letters.\n- 15 He gave you some ink.\n- 16 He put some more sugar in his tea.\n- 17 There are some pictures in this book.\n- 18 He told someone else.\n- 19 I saw somebody at the window.\n- 20 She wants some more like that.\n\n### 11.2 Elementary\n\n- ● Add *some* or *any* as required:\n- 1 There isn't — boot-polish in this tin.\n- 2 'Please give me — more pudding.' 'I'm sorry but there isn't —.'",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "11^{}[] *some*^{}[] and^{}[] *any*\n21",
+    "footer": "L.S.—2",
+    "dimensions": {
+      "dpi": 34,
+      "height": 996,
+      "width": 652
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.962697788186059,
+      "minimum_page_confidence_score": 0.1192873218980412
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 18,
+        "bottom_right_x": 287,
+        "bottom_right_y": 38,
+        "content": "11^{}[] *some*^{}[] and^{}[] *any*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.955600624849223,
+          "minimum_content_confidence_score": 0.8745230335856702,
+          "block_type_confidence_score": 0.9995672368761154
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 615,
+        "top_left_y": 20,
+        "bottom_right_x": 637,
+        "bottom_right_y": 38,
+        "content": "21",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997684299860583,
+          "minimum_content_confidence_score": 0.9997684299860583,
+          "block_type_confidence_score": 0.9999997432416243
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 71,
+        "bottom_right_x": 623,
+        "bottom_right_y": 180,
+        "content": "6 The story is short; we can read it in one lesson.  \n 7 The moon is very bright; I can read a book by it.  \n 8 The wind is very strong; it will blow the roof off.  \n 9 That man is quite stupid; he believes me.  \n 10 I have enough money; I can pay the bill.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9902182505984027,
+          "minimum_content_confidence_score": 0.49700780488869534,
+          "block_type_confidence_score": 0.9668742769115134
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 129,
+        "top_left_y": 233,
+        "bottom_right_x": 336,
+        "bottom_right_y": 265,
+        "content": "## 11 *some* and *any*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977398373376257,
+          "minimum_content_confidence_score": 0.993416374782392,
+          "block_type_confidence_score": 0.9999665033109116
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 48,
+        "top_left_y": 311,
+        "bottom_right_x": 140,
+        "bottom_right_y": 352,
+        "content": "### 11.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9912308551786317,
+          "minimum_content_confidence_score": 0.9777143212191219,
+          "block_type_confidence_score": 0.996808732166762
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 313,
+        "bottom_right_x": 636,
+        "bottom_right_y": 374,
+        "content": "The rough-and-ready rule of *some* in affirmative statements, and *any* in negatives and questions makes a useful preliminary exercise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999025581316948,
+          "minimum_content_confidence_score": 0.9994057508156697,
+          "block_type_confidence_score": 0.9999911785905904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 349,
+        "top_left_y": 387,
+        "bottom_right_x": 452,
+        "bottom_right_y": 401,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994726592872402,
+          "minimum_content_confidence_score": 0.9992433584377715,
+          "block_type_confidence_score": 0.999929671466158
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 409,
+        "bottom_right_x": 636,
+        "bottom_right_y": 858,
+        "content": "- ● Make the following sentences (a) negative, (b) interrogative:\n- 1 I have some books.\n- 2 He bought some ties.\n- 3 There is some news.\n- 4 They want some paper.\n- 5 You ate some apples.\n- 6 You asked some questions.\n- 7 We shall have some rain.\n- 8 The boy has some more cake.\n- 9 I have seen you somewhere before.\n- 10 He knows something.\n- 11 They found it somewhere.\n- 12 You have some.\n- 13 You saw someone there.\n- 14 He has sent me some letters.\n- 15 He gave you some ink.\n- 16 He put some more sugar in his tea.\n- 17 There are some pictures in this book.\n- 18 He told someone else.\n- 19 I saw somebody at the window.\n- 20 She wants some more like that.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9951973964936346,
+          "minimum_content_confidence_score": 0.5310726295777027,
+          "block_type_confidence_score": 0.9999803308534772
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 43,
+        "top_left_y": 873,
+        "bottom_right_x": 134,
+        "bottom_right_y": 914,
+        "content": "### 11.2 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989552583150808,
+          "minimum_content_confidence_score": 0.9982310885130065,
+          "block_type_confidence_score": 0.9997491274096325
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 875,
+        "bottom_right_x": 581,
+        "bottom_right_y": 964,
+        "content": "- ● Add *some* or *any* as required:\n- 1 There isn't — boot-polish in this tin.\n- 2 'Please give me — more pudding.' 'I'm sorry but there isn't —.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9943399185515699,
+          "minimum_content_confidence_score": 0.9353492832943725,
+          "block_type_confidence_score": 0.9997328041863884
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 78,
+        "top_left_y": 966,
+        "bottom_right_x": 134,
+        "bottom_right_y": 980,
+        "content": "L.S.—2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.47502801968745234,
+          "minimum_content_confidence_score": 0.47502801968745234,
+          "block_type_confidence_score": 0.9995777314198269
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

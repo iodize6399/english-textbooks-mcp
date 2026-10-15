@@ -1,0 +1,83 @@
+{
+  "source": {
+    "id": "pdf-125-left",
+    "pdf_page": 125,
+    "side": "left",
+    "reading_order": 249
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:30.025220+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "catch — variety of cold there is going.7 Please take — one you want and bring it back — you like.8 — told you to keep off meat was quite right; I think you should go on doing — he tells you to.9 Of course you can dance with — you like, but don't expect me to introduce you to the glamorous Laura, Lorna or — her name is.10 I'll come — I can and I'll bring — you like with me.11 Eat — one you like and leave the others for — comes in later.12 — told you that Maisie wears a ginger wig is an out-and-out liar, — you may care to say in his favour.13 Well I must say this hat fits me, — it is; I nearly always find a substitute — I lose my own.14 — it is you've found, you must give it back to — it belongs to.15 — I try to cook anything, the steak or chop (or — it may be) is never quite to the liking of — has to eat it.16 — one of you children disturbs me again, I shall punish severely, — it may be. You always make a noise — I try to do my work.17 — the weather, we go hiking at the weekend with — likes to join us.18 — she does an exercise she makes mistakes, — hard she tries.19 — has time this afternoon, will they please pick some roses, or — there is in the garden, for the table.20 — travels will find there's no place like home, — he may go; — humble it may be, there will be a yearning in his heart — he thinks of it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "238\n48^{}[] **Emphatic Connectives**",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1007,
+      "width": 689
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9885677202759545,
+      "minimum_page_confidence_score": 0.3768493964250432
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 19,
+        "bottom_right_x": 56,
+        "bottom_right_y": 38,
+        "content": "238",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999207321075279,
+          "minimum_content_confidence_score": 0.9999207321075279,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 19,
+        "bottom_right_x": 330,
+        "bottom_right_y": 39,
+        "content": "48^{}[] **Emphatic Connectives**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9796311481083461,
+          "minimum_content_confidence_score": 0.9432438205136005,
+          "block_type_confidence_score": 0.9994580264858153
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 74,
+        "bottom_right_x": 622,
+        "bottom_right_y": 857,
+        "content": "catch — variety of cold there is going.7 Please take — one you want and bring it back — you like.8 — told you to keep off meat was quite right; I think you should go on doing — he tells you to.9 Of course you can dance with — you like, but don't expect me to introduce you to the glamorous Laura, Lorna or — her name is.10 I'll come — I can and I'll bring — you like with me.11 Eat — one you like and leave the others for — comes in later.12 — told you that Maisie wears a ginger wig is an out-and-out liar, — you may care to say in his favour.13 Well I must say this hat fits me, — it is; I nearly always find a substitute — I lose my own.14 — it is you've found, you must give it back to — it belongs to.15 — I try to cook anything, the steak or chop (or — it may be) is never quite to the liking of — has to eat it.16 — one of you children disturbs me again, I shall punish severely, — it may be. You always make a noise — I try to do my work.17 — the weather, we go hiking at the weekend with — likes to join us.18 — she does an exercise she makes mistakes, — hard she tries.19 — has time this afternoon, will they please pick some roses, or — there is in the garden, for the table.20 — travels will find there's no place like home, — he may go; — humble it may be, there will be a yearning in his heart — he thinks of it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996921523521802,
+          "minimum_content_confidence_score": 0.9449303694111715,
+          "block_type_confidence_score": 0.9859272266351892
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

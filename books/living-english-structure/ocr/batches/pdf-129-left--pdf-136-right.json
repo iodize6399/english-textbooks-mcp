@@ -1,0 +1,120 @@
+{
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "source_pages": [
+    {
+      "id": "pdf-129-left",
+      "pdf_page": 129,
+      "side": "left",
+      "reading_order": 257
+    },
+    {
+      "id": "pdf-129-right",
+      "pdf_page": 129,
+      "side": "right",
+      "reading_order": 258
+    },
+    {
+      "id": "pdf-130-left",
+      "pdf_page": 130,
+      "side": "left",
+      "reading_order": 259
+    },
+    {
+      "id": "pdf-130-right",
+      "pdf_page": 130,
+      "side": "right",
+      "reading_order": 260
+    },
+    {
+      "id": "pdf-131-left",
+      "pdf_page": 131,
+      "side": "left",
+      "reading_order": 261
+    },
+    {
+      "id": "pdf-131-right",
+      "pdf_page": 131,
+      "side": "right",
+      "reading_order": 262
+    },
+    {
+      "id": "pdf-132-left",
+      "pdf_page": 132,
+      "side": "left",
+      "reading_order": 263
+    },
+    {
+      "id": "pdf-132-right",
+      "pdf_page": 132,
+      "side": "right",
+      "reading_order": 264
+    },
+    {
+      "id": "pdf-133-left",
+      "pdf_page": 133,
+      "side": "left",
+      "reading_order": 265
+    },
+    {
+      "id": "pdf-133-right",
+      "pdf_page": 133,
+      "side": "right",
+      "reading_order": 266
+    },
+    {
+      "id": "pdf-134-left",
+      "pdf_page": 134,
+      "side": "left",
+      "reading_order": 267
+    },
+    {
+      "id": "pdf-134-right",
+      "pdf_page": 134,
+      "side": "right",
+      "reading_order": 268
+    },
+    {
+      "id": "pdf-135-left",
+      "pdf_page": 135,
+      "side": "left",
+      "reading_order": 269
+    },
+    {
+      "id": "pdf-135-right",
+      "pdf_page": 135,
+      "side": "right",
+      "reading_order": 270
+    },
+    {
+      "id": "pdf-136-left",
+      "pdf_page": 136,
+      "side": "left",
+      "reading_order": 271
+    },
+    {
+      "id": "pdf-136-right",
+      "pdf_page": 136,
+      "side": "right",
+      "reading_order": 272
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "usage_info": {
+    "pages_processed": 16,
+    "doc_size_bytes": 1287016
+  },
+  "request_id": null
+}

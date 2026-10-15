@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-033-left",
+    "pdf_page": 33,
+    "side": "left",
+    "reading_order": 65
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "14 You didn't catch any fish.\n15 They weren't all Americans.\n16 You can't see from there.\n17 He doesn't like dogs.\n18 You won't know how to do it.\n19 She hasn't given you a clean plate!\n20 You didn't pay him for it!\n\n19.10 See Exercise 19.9.\n\nIntermediate Remember the opposite of needn't is must.\nDISAGREEMENT The teacher reads the statement; the student responds.\n\nWITH\nNEGATIVE\n\n● Disagree with the following remarks:\n1 He didn't say a word about it!\n2 I'm not a half-wit, you know.\n3 He couldn't have seen me!\n4 She needn't come tomorrow.\n5 You didn't have a very good trip.\n6 There used not to be a house here. (There never used to be . . .)\n7 The trams don't run after midnight.\n8 Cyril doesn't like you any more.\n9 Maisie won't have anything to do with you.\n10 You can't eat it all at once.\n11 The situation couldn't be much worse.\n12 You needn't have given it back to him! (See Exercise 16.5 for needn't have.)\n13 I'm not going to bed yet!\n14 It can't possibly happen to me.\n15 You needn't pay for it.\n16 The train never used to stop here!\n17 Why have you thrown the best one away?\n18 Surely he didn't forget you!\n19 I'm sure she won't listen to me now.\n20 But really, I can't possibly go any further.\n\n19.11 Affirmative addition is made by using the appropriate\nElementary auxiliary, introduced by so; INVERSION takes place.\n\nADDITIONS\nTO REMARKS\n\nJohn likes fish. – So do I.\nHe must go. – So must the others.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "54\n19 Short-form Responses using Auxiliary Verbs",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9705053641223779,
+      "minimum_page_confidence_score": 0.07761013809773878
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 29,
+        "bottom_right_x": 49,
+        "bottom_right_y": 48,
+        "content": "54",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998998742228323,
+          "minimum_content_confidence_score": 0.9998998742228323,
+          "block_type_confidence_score": 0.9999475706056222
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 27,
+        "bottom_right_x": 501,
+        "bottom_right_y": 48,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998490405632228,
+          "minimum_content_confidence_score": 0.9997039717801272,
+          "block_type_confidence_score": 0.9922986897754451
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 83,
+        "bottom_right_x": 468,
+        "bottom_right_y": 236,
+        "content": "14 You didn't catch any fish.\n15 They weren't all Americans.\n16 You can't see from there.\n17 He doesn't like dogs.\n18 You won't know how to do it.\n19 She hasn't given you a clean plate!\n20 You didn't pay him for it!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998785850219446,
+          "minimum_content_confidence_score": 0.9969537355066804,
+          "block_type_confidence_score": 0.9819283496351152
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 256,
+        "bottom_right_x": 298,
+        "bottom_right_y": 277,
+        "content": "19.10 See Exercise 19.9.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953306805108985,
+          "minimum_content_confidence_score": 0.9868941304328319,
+          "block_type_confidence_score": 0.6703645325049439
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 277,
+        "bottom_right_x": 591,
+        "bottom_right_y": 316,
+        "content": "Intermediate Remember the opposite of needn't is must.\nDISAGREEMENT The teacher reads the statement; the student responds.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9806310013535438,
+          "minimum_content_confidence_score": 0.6643899344552754,
+          "block_type_confidence_score": 0.9982947629486912
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 320,
+        "bottom_right_x": 105,
+        "bottom_right_y": 356,
+        "content": "WITH\nNEGATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979903490905797,
+          "minimum_content_confidence_score": 0.9940095947820706,
+          "block_type_confidence_score": 0.9927378467252103
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 356,
+        "bottom_right_x": 596,
+        "bottom_right_y": 858,
+        "content": "● Disagree with the following remarks:\n1 He didn't say a word about it!\n2 I'm not a half-wit, you know.\n3 He couldn't have seen me!\n4 She needn't come tomorrow.\n5 You didn't have a very good trip.\n6 There used not to be a house here. (There never used to be . . .)\n7 The trams don't run after midnight.\n8 Cyril doesn't like you any more.\n9 Maisie won't have anything to do with you.\n10 You can't eat it all at once.\n11 The situation couldn't be much worse.\n12 You needn't have given it back to him! (See Exercise 16.5 for needn't have.)\n13 I'm not going to bed yet!\n14 It can't possibly happen to me.\n15 You needn't pay for it.\n16 The train never used to stop here!\n17 Why have you thrown the best one away?\n18 Surely he didn't forget you!\n19 I'm sure she won't listen to me now.\n20 But really, I can't possibly go any further.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9961100739137364,
+          "minimum_content_confidence_score": 0.6448057462279345,
+          "block_type_confidence_score": 0.9940070036291814
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 34,
+        "top_left_y": 876,
+        "bottom_right_x": 620,
+        "bottom_right_y": 918,
+        "content": "19.11 Affirmative addition is made by using the appropriate\nElementary auxiliary, introduced by so; INVERSION takes place.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9735076039222803,
+          "minimum_content_confidence_score": 0.6022164710405415,
+          "block_type_confidence_score": 0.9967042703618127
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 34,
+        "top_left_y": 919,
+        "bottom_right_x": 134,
+        "bottom_right_y": 956,
+        "content": "ADDITIONS\nTO REMARKS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997248177044766,
+          "minimum_content_confidence_score": 0.9990797175241422,
+          "block_type_confidence_score": 0.9998859297211151
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 919,
+        "bottom_right_x": 473,
+        "bottom_right_y": 961,
+        "content": "John likes fish. – So do I.\nHe must go. – So must the others.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9717335048766691,
+          "minimum_content_confidence_score": 0.548679843305943,
+          "block_type_confidence_score": 0.9945695083633669
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

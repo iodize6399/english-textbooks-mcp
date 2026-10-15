@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-118-left",
+    "pdf_page": 118,
+    "side": "left",
+    "reading_order": 235
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "happy week trying to grow mint in the stony soil of his country estate.\n\n14 My friend the Prime Minister at once cut the import tax on mint by half, in honour of which Ruritanian flags were flown throughout Rusticaria; and peach-trees began to flourish miraculously throughout Urticaria, whose government were willing to sell their produce to their neighbours at any price.\n15 So my friend has brought peace to the Ruritanians, who now consume even more of their national drink, fresh mint tea, which they get from the gratified Rusticarians, and enjoy their national delicacy, pickled peach-stones, which they get from the thankful Urticarians, who would otherwise have half their crops rotting on the trees.\n\n# **46.9**\n**Intermediate**\n**and**\n**Advanced**\n**CONNECTIVE**\n**RELATIVE**\n\nThe only form of NON-DEFINING RELATIVE found with any frequency in the spoken language is the *who*, *which*, etc., replacing *and*. It forms a stronger link with the first part of the sentence when we wish to avoid a repetition of either the subject or object or the whole idea of the first part.\n\nIt was invented by the Earl of Sandwich, and he gave his name to the thing we eat today.\n\nIt was invented by the Earl of Sandwich, who gave his name to the thing we eat today.\n\nHe bored a hole in my tooth, and it was very unpleasant.\n\nHe bored a hole in my tooth, which was very unpleasant.\n\nSometimes, however, the non-defining clause is a mere trick of style, as in a number of cases in Exercise 46.8, not to be recommended to students for imitation:\n\nIt crashed into a bus-load of children, who were all killed (or all of whom were killed).\n\n– Better as: They were all killed.\n\n* * *\n\n● Reconstruct the following sentences, using a relative pronoun as a connective:\n1 He walked along the wall on his hands, and that was a very difficult thing to do.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "224\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 670
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9732354097979924,
+      "minimum_page_confidence_score": 0.3171295571465003
+    },
+    "blocks": [
+      {
+        "top_left_x": 18,
+        "top_left_y": 16,
+        "bottom_right_x": 51,
+        "bottom_right_y": 35,
+        "content": "224",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99983230066441,
+          "minimum_content_confidence_score": 0.99983230066441,
+          "block_type_confidence_score": 0.9999991747059936
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 16,
+        "bottom_right_x": 219,
+        "bottom_right_y": 35,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993410824222413,
+          "minimum_content_confidence_score": 0.9987443882222686,
+          "block_type_confidence_score": 0.9999536218224655
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 70,
+        "bottom_right_x": 583,
+        "bottom_right_y": 115,
+        "content": "happy week trying to grow mint in the stony soil of his country estate.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9823628492652646,
+          "minimum_content_confidence_score": 0.7544192693251203,
+          "block_type_confidence_score": 0.9999270492388316
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 114,
+        "bottom_right_x": 597,
+        "bottom_right_y": 420,
+        "content": "14 My friend the Prime Minister at once cut the import tax on mint by half, in honour of which Ruritanian flags were flown throughout Rusticaria; and peach-trees began to flourish miraculously throughout Urticaria, whose government were willing to sell their produce to their neighbours at any price.\n15 So my friend has brought peace to the Ruritanians, who now consume even more of their national drink, fresh mint tea, which they get from the gratified Rusticarians, and enjoy their national delicacy, pickled peach-stones, which they get from the thankful Urticarians, who would otherwise have half their crops rotting on the trees.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991112160938445,
+          "minimum_content_confidence_score": 0.9235787382002315,
+          "block_type_confidence_score": 0.8519307854350539
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 16,
+        "top_left_y": 439,
+        "bottom_right_x": 119,
+        "bottom_right_y": 560,
+        "content": "# **46.9**\n**Intermediate**\n**and**\n**Advanced**\n**CONNECTIVE**\n**RELATIVE**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9131080402677573,
+          "minimum_content_confidence_score": 0.6009226672058875,
+          "block_type_confidence_score": 0.5508302375386909
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 439,
+        "bottom_right_x": 602,
+        "bottom_right_y": 540,
+        "content": "The only form of NON-DEFINING RELATIVE found with any frequency in the spoken language is the *who*, *which*, etc., replacing *and*. It forms a stronger link with the first part of the sentence when we wish to avoid a repetition of either the subject or object or the whole idea of the first part.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976998772766861,
+          "minimum_content_confidence_score": 0.902918791471084,
+          "block_type_confidence_score": 0.9999946356109105
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 542,
+        "bottom_right_x": 602,
+        "bottom_right_y": 584,
+        "content": "It was invented by the Earl of Sandwich, and he gave his name to the thing we eat today.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999633129387825,
+          "minimum_content_confidence_score": 0.9997644652012432,
+          "block_type_confidence_score": 0.9953677461070746
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 586,
+        "bottom_right_x": 602,
+        "bottom_right_y": 627,
+        "content": "It was invented by the Earl of Sandwich, who gave his name to the thing we eat today.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999890444558779,
+          "minimum_content_confidence_score": 0.9998882544632334,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 629,
+        "bottom_right_x": 602,
+        "bottom_right_y": 671,
+        "content": "He bored a hole in my tooth, and it was very unpleasant.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998558336248023,
+          "minimum_content_confidence_score": 0.9989139393749963,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 673,
+        "bottom_right_x": 602,
+        "bottom_right_y": 713,
+        "content": "He bored a hole in my tooth, which was very unpleasant.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999919548585968,
+          "minimum_content_confidence_score": 0.9999431404007152,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 722,
+        "bottom_right_x": 602,
+        "bottom_right_y": 783,
+        "content": "Sometimes, however, the non-defining clause is a mere trick of style, as in a number of cases in Exercise 46.8, not to be recommended to students for imitation:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999897444811691,
+          "minimum_content_confidence_score": 0.999952580919674,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 785,
+        "bottom_right_x": 602,
+        "bottom_right_y": 826,
+        "content": "It crashed into a bus-load of children, who were all killed (or all of whom were killed).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976497562128328,
+          "minimum_content_confidence_score": 0.9605737720876858,
+          "block_type_confidence_score": 0.9999508881865387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 826,
+        "bottom_right_x": 454,
+        "bottom_right_y": 846,
+        "content": "– Better as: They were all killed.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9498785887108941,
+          "minimum_content_confidence_score": 0.651010428878764,
+          "block_type_confidence_score": 0.9625695654791
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 321,
+        "top_left_y": 861,
+        "bottom_right_x": 421,
+        "bottom_right_y": 874,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955211044294329,
+          "minimum_content_confidence_score": 0.9919927344098314,
+          "block_type_confidence_score": 0.9999593512842658
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 886,
+        "bottom_right_x": 600,
+        "bottom_right_y": 974,
+        "content": "● Reconstruct the following sentences, using a relative pronoun as a connective:\n1 He walked along the wall on his hands, and that was a very difficult thing to do.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971283914725044,
+          "minimum_content_confidence_score": 0.9228924699487965,
+          "block_type_confidence_score": 0.9995642415933003
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

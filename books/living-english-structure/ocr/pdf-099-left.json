@@ -1,0 +1,343 @@
+{
+  "source": {
+    "id": "pdf-099-left",
+    "pdf_page": 99,
+    "side": "left",
+    "reading_order": 197
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "be followed by either the *-ing* form or the infinitive, but as the meaning may also be different, we shall mention the more important constructions in these notes.\n\nLIST 4 of Exercise 39.5 gives the first 8 verbs as having both PRESENT PARTICIPLE and INFINITIVE constructions. The *-ing* form describes the action in progress (like a CONTINUOUS tense); the infinitive is used for a complete act.\n\nI saw him crossing the road. (On the way to the other side.)\n\nI saw him cross the road. (From one side to the other.)\n\nI heard him singing in his bath. (Noticed this act in progress.)\n\nI heard him sing at the concert. (I heard his whole performance.)\n\nI watched John and Bill playing chess for a while, then I went home. (The game still continued.)\n\nI watched John take Bill's queen, then I went home.\n\nThe verbs of LIST 2 may be followed by a GERUND or an INFINITIVE, usually with a difference of meaning. The basic difference is often that the GERUND is more general in meaning; the INFINITIVE suggests some special occasion (or series of occasions) with a subject more or less implied.\n\nRiding is pleasanter than walking. (Comparing two activities.)\n\nYou'll find it better to take a bus than (to) walk. (Talking of some person's actions for some certain journey.)\n\nI hate telling lies. (The act of lying in general.)\n\nI hate to tell you this, but . . . (This particular thing that I must now tell you.)\n\nI prefer staying quietly at home to going to a cinema. (In general.)\n\nCome and see a film tonight. – No, thanks; I prefer to stay at home. (On this occasion.)\n\nHere are some more comparisons between these two constructions:\n\n*like, don't like.* With an INFINITIVE the affirmative means 'I prefer, want'; the negative means 'I am unwilling'.\n\nI like to feel independent.\n\nWhat would you like to eat?\n\nJohn always likes to get to school in good time.\n\nI shouldn't like to work as hard as he does.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "186\n40 Infinitive and Gerund",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1014,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.97518572229627,
+      "minimum_page_confidence_score": 0.30710345462368155
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 23,
+        "bottom_right_x": 57,
+        "bottom_right_y": 42,
+        "content": "186",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999823839714983,
+          "minimum_content_confidence_score": 0.999823839714983,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 23,
+        "bottom_right_x": 320,
+        "bottom_right_y": 42,
+        "content": "40 Infinitive and Gerund",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986123083702396,
+          "minimum_content_confidence_score": 0.9969135692409253,
+          "block_type_confidence_score": 0.999955547235486
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 77,
+        "bottom_right_x": 612,
+        "bottom_right_y": 138,
+        "content": "be followed by either the *-ing* form or the infinitive, but as the meaning may also be different, we shall mention the more important constructions in these notes.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972435241985311,
+          "minimum_content_confidence_score": 0.9288024521957788,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 138,
+        "bottom_right_x": 612,
+        "bottom_right_y": 217,
+        "content": "LIST 4 of Exercise 39.5 gives the first 8 verbs as having both PRESENT PARTICIPLE and INFINITIVE constructions. The *-ing* form describes the action in progress (like a CONTINUOUS tense); the infinitive is used for a complete act.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9968490021933817,
+          "minimum_content_confidence_score": 0.912970650310412,
+          "block_type_confidence_score": 0.9998843803602065
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 220,
+        "bottom_right_x": 612,
+        "bottom_right_y": 261,
+        "content": "I saw him crossing the road. (On the way to the other side.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999810676406344,
+          "minimum_content_confidence_score": 0.9999333684925351,
+          "block_type_confidence_score": 0.9796563204851568
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 261,
+        "bottom_right_x": 612,
+        "bottom_right_y": 281,
+        "content": "I saw him cross the road. (From one side to the other.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999977690346238,
+          "minimum_content_confidence_score": 0.9998469586985235,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 281,
+        "bottom_right_x": 612,
+        "bottom_right_y": 324,
+        "content": "I heard him singing in his bath. (Noticed this act in progress.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998198499748026,
+          "minimum_content_confidence_score": 0.9982467687696134,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 324,
+        "bottom_right_x": 612,
+        "bottom_right_y": 364,
+        "content": "I heard him sing at the concert. (I heard his whole performance.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999632978772847,
+          "minimum_content_confidence_score": 0.9996629897405469,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 364,
+        "bottom_right_x": 612,
+        "bottom_right_y": 408,
+        "content": "I watched John and Bill playing chess for a while, then I went home. (The game still continued.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992170600368974,
+          "minimum_content_confidence_score": 0.9862192084650507,
+          "block_type_confidence_score": 0.9999909401759619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 408,
+        "bottom_right_x": 604,
+        "bottom_right_y": 428,
+        "content": "I watched John take Bill's queen, then I went home.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9834461556729679,
+          "minimum_content_confidence_score": 0.8346331807945604,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 437,
+        "bottom_right_x": 614,
+        "bottom_right_y": 538,
+        "content": "The verbs of LIST 2 may be followed by a GERUND or an INFINITIVE, usually with a difference of meaning. The basic difference is often that the GERUND is more general in meaning; the INFINITIVE suggests some special occasion (or series of occasions) with a subject more or less implied.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999021601131456,
+          "minimum_content_confidence_score": 0.9986700662692901,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 539,
+        "bottom_right_x": 614,
+        "bottom_right_y": 581,
+        "content": "Riding is pleasanter than walking. (Comparing two activities.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989260573272271,
+          "minimum_content_confidence_score": 0.9921025322308059,
+          "block_type_confidence_score": 0.9999827149515604
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 583,
+        "bottom_right_x": 614,
+        "bottom_right_y": 645,
+        "content": "You'll find it better to take a bus than (to) walk. (Talking of some person's actions for some certain journey.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999197161576776,
+          "minimum_content_confidence_score": 0.999276730996917,
+          "block_type_confidence_score": 0.9999934435319415
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 647,
+        "bottom_right_x": 566,
+        "bottom_right_y": 668,
+        "content": "I hate telling lies. (The act of lying in general.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999207126861058,
+          "minimum_content_confidence_score": 0.9997629489238792,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 668,
+        "bottom_right_x": 614,
+        "bottom_right_y": 708,
+        "content": "I hate to tell you this, but . . . (This particular thing that I must now tell you.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978903021495524,
+          "minimum_content_confidence_score": 0.9618392577822699,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 711,
+        "bottom_right_x": 614,
+        "bottom_right_y": 751,
+        "content": "I prefer staying quietly at home to going to a cinema. (In general.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998691925839513,
+          "minimum_content_confidence_score": 0.9993983552908139,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 751,
+        "bottom_right_x": 614,
+        "bottom_right_y": 792,
+        "content": "Come and see a film tonight. – No, thanks; I prefer to stay at home. (On this occasion.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.972981366328677,
+          "minimum_content_confidence_score": 0.5138412752759423,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 795,
+        "bottom_right_x": 614,
+        "bottom_right_y": 834,
+        "content": "Here are some more comparisons between these two constructions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998269816473851,
+          "minimum_content_confidence_score": 0.9991430062228635,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 834,
+        "bottom_right_x": 614,
+        "bottom_right_y": 895,
+        "content": "*like, don't like.* With an INFINITIVE the affirmative means 'I prefer, want'; the negative means 'I am unwilling'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982544980236404,
+          "minimum_content_confidence_score": 0.9751143901689866,
+          "block_type_confidence_score": 0.9999543449247886
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 898,
+        "bottom_right_x": 399,
+        "bottom_right_y": 919,
+        "content": "I like to feel independent.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999780562761481,
+          "minimum_content_confidence_score": 0.9999084556470166,
+          "block_type_confidence_score": 0.9999927282861518
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 919,
+        "bottom_right_x": 425,
+        "bottom_right_y": 939,
+        "content": "What would you like to eat?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999848170423472,
+          "minimum_content_confidence_score": 0.9999788768921432,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 939,
+        "bottom_right_x": 576,
+        "bottom_right_y": 959,
+        "content": "John always likes to get to school in good time.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999524751504788,
+          "minimum_content_confidence_score": 0.9996328510281546,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 959,
+        "bottom_right_x": 544,
+        "bottom_right_y": 979,
+        "content": "I shouldn't like to work as hard as he does.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999892590532937,
+          "minimum_content_confidence_score": 0.9999693840412118,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

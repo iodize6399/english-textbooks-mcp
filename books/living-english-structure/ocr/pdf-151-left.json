@@ -1,0 +1,201 @@
+{
+  "source": {
+    "id": "pdf-151-left",
+    "pdf_page": 151,
+    "side": "left",
+    "reading_order": 301
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "14 In view of the great —\n15 It was as though —\n16 Let's assume that —\n17 The members have agreed in principle —\n18 He didn't even have the grace to —\n19 That's why —\n20 What matters to us is —\n21 Nor is this the only —\n22 Never before —\n23 In neither case —\n24 It should be the first duty of —\n25 Allowing for —\n\n## 55 The Comparison Game\n\n### 55.1 Elementary\n\nA simple free-construction exercise can be made by taking objects of a similar nature and asking the following two questions:\n\n1 How is X like Y?\n2 How does X differ from Y?\n\nThe student then makes a few sentences on those points of similarity or difference he can find.\n\n* * *\n\n● Using the following pairs of words, make a few sentences on:\n\n(1) How is X like Y?\n(2) How does X differ from Y?\n\n|  1 | chair | table  |\n| --- | --- | --- |\n|  2 | pen | pencil  |\n|  3 | glass | cup  |\n|  4 | house | flat  |\n|  5 | dress | suit  |\n|  6 | orange | apple  |\n|  7 | car | bus  |\n|  8 | king | president  |\n|  9 | newspaper | magazine  |\n|  10 | cow | sheep  |\n|  11 | butcher | grocer  |\n|  12 | arm | leg  |",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "290\n55 The Comparison Game",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 1006,
+      "width": 658
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9757119010026426,
+      "minimum_page_confidence_score": 0.21308819923991593
+    },
+    "blocks": [
+      {
+        "top_left_x": 28,
+        "top_left_y": 27,
+        "bottom_right_x": 60,
+        "bottom_right_y": 46,
+        "content": "290",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999266916589424,
+          "minimum_content_confidence_score": 0.9999266916589424,
+          "block_type_confidence_score": 0.9999760673502817
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 27,
+        "bottom_right_x": 331,
+        "bottom_right_y": 46,
+        "content": "55 The Comparison Game",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999541977944711,
+          "minimum_content_confidence_score": 0.9998967754092747,
+          "block_type_confidence_score": 0.9950366666669136
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 81,
+        "bottom_right_x": 507,
+        "bottom_right_y": 336,
+        "content": "14 In view of the great —\n15 It was as though —\n16 Let's assume that —\n17 The members have agreed in principle —\n18 He didn't even have the grace to —\n19 That's why —\n20 What matters to us is —\n21 Nor is this the only —\n22 Never before —\n23 In neither case —\n24 It should be the first duty of —\n25 Allowing for —",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99984286326895,
+          "minimum_content_confidence_score": 0.9901192032776398,
+          "block_type_confidence_score": 0.9769183086983351
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 374,
+        "bottom_right_x": 404,
+        "bottom_right_y": 403,
+        "content": "## 55 The Comparison Game",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993123207301504,
+          "minimum_content_confidence_score": 0.996822353946352,
+          "block_type_confidence_score": 0.9992660905701204
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 448,
+        "bottom_right_x": 120,
+        "bottom_right_y": 489,
+        "content": "### 55.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.965243308370511,
+          "minimum_content_confidence_score": 0.8963869736784941,
+          "block_type_confidence_score": 0.5865210352650949
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 448,
+        "bottom_right_x": 602,
+        "bottom_right_y": 508,
+        "content": "A simple free-construction exercise can be made by taking objects of a similar nature and asking the following two questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999363032575579,
+          "minimum_content_confidence_score": 0.9988960307486042,
+          "block_type_confidence_score": 0.9999961853172863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 511,
+        "bottom_right_x": 437,
+        "bottom_right_y": 550,
+        "content": "1 How is X like Y?\n2 How does X differ from Y?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996888691849917,
+          "minimum_content_confidence_score": 0.9962347004445847,
+          "block_type_confidence_score": 0.9998982056286041
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 559,
+        "bottom_right_x": 603,
+        "bottom_right_y": 599,
+        "content": "The student then makes a few sentences on those points of similarity or difference he can find.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999987614040753,
+          "minimum_content_confidence_score": 0.9998547049825197,
+          "block_type_confidence_score": 0.9999935627400018
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 335,
+        "top_left_y": 610,
+        "bottom_right_x": 423,
+        "bottom_right_y": 624,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993263900375943,
+          "minimum_content_confidence_score": 0.9987265611808922,
+          "block_type_confidence_score": 0.9999896288992495
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 637,
+        "bottom_right_x": 602,
+        "bottom_right_y": 676,
+        "content": "● Using the following pairs of words, make a few sentences on:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9927362070630412,
+          "minimum_content_confidence_score": 0.9128762585045045,
+          "block_type_confidence_score": 0.817481456966134
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 676,
+        "bottom_right_x": 467,
+        "bottom_right_y": 715,
+        "content": "(1) How is X like Y?\n(2) How does X differ from Y?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999453964475012,
+          "minimum_content_confidence_score": 0.9993374311709208,
+          "block_type_confidence_score": 0.9953070428096906
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 718,
+        "bottom_right_x": 375,
+        "bottom_right_y": 974,
+        "content": "|  1 | chair | table  |\n| --- | --- | --- |\n|  2 | pen | pencil  |\n|  3 | glass | cup  |\n|  4 | house | flat  |\n|  5 | dress | suit  |\n|  6 | orange | apple  |\n|  7 | car | bus  |\n|  8 | king | president  |\n|  9 | newspaper | magazine  |\n|  10 | cow | sheep  |\n|  11 | butcher | grocer  |\n|  12 | arm | leg  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992611275009141,
+          "minimum_content_confidence_score": 0.9992611275009141,
+          "block_type_confidence_score": 0.8504401396402139
+        },
+        "type": "table",
+        "table_id": null
+      }
+    ]
+  }
+}

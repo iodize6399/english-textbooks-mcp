@@ -1,0 +1,330 @@
+{
+  "source": {
+    "id": "pdf-078-left",
+    "pdf_page": 78,
+    "side": "left",
+    "reading_order": 155
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "# 31 Conditions and Unreal Past\n\n### 31.1 Elementary\n\nLike clauses beginning with *when*, *as soon as*, etc., *if*-clauses also have no *shall*, *will*, *should*, *would*, in them. English can express THREE important ideas with *if*.\n\n(1) He *will come* if you *call* him. – something will happen if a certain CONDITION is fulfilled.\n\n(2) He *would come* if you *called* him. – the probable result of a certain condition that we suppose or imagine. The *if*-clause names action that is not taking place at this moment, but I can imagine the probable result. We include here all the unreal *ifs*, like: *if you were a fish, the cat would eat you*.\n\n(3) He *would have come* if you *had called* him – but he didn't come! Why? Because you didn't call him.\n\nAll No. (3) types are impossible ideas, because we know the condition was not fulfilled, but we like to imagine the result if . . .\n\nSo we have:\n\nTYPE (1) Main clause – FUTURE; *if*-clause – PRESENT. (Likely or probable.)\n\nTYPE (2) Main clause – *would*; *if*-clause – PAST. (Unlikely or improbable; imaginary.)\n\nTYPE (3) Main clause – *would have*: *if*-clause – PAST PERFECT. (Impossible.)\n\n*Unless* is usually close in meaning to *if not* but it cannot be universally substituted for *if not*. It is not an equivalent in TYPE (3) conditions, and even in TYPE (1) conditions there may be a difference, e.g.\n\nYou will hurt yourself *if you are not careful*.\n\n– so be careful\n\nYou will hurt yourself *unless you are careful*.\n\n– so it would be better not to do it at all\n\nNOTE: *I should* has largely been replaced by *I would*.\n\n\\* \\* \\*\n\n● Read the following sentences, notice carefully the tenses of the two verbs, and say what kind of condition each sentence is:\n\n1 If I come, I shall see you.\n\n2 You will spoil it if you aren't careful.\n\n3 We would answer if we could.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9683575036955484,
+      "minimum_page_confidence_score": 0.2652046885110837
+    },
+    "blocks": [
+      {
+        "top_left_x": 99,
+        "top_left_y": 75,
+        "bottom_right_x": 456,
+        "bottom_right_y": 103,
+        "content": "# 31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9418625759708265,
+          "minimum_content_confidence_score": 0.6513531517164267,
+          "block_type_confidence_score": 0.9971636150533656
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 20,
+        "top_left_y": 155,
+        "bottom_right_x": 114,
+        "bottom_right_y": 198,
+        "content": "### 31.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8407011455788233,
+          "minimum_content_confidence_score": 0.5604491267186452,
+          "block_type_confidence_score": 0.7231007548730287
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 155,
+        "bottom_right_x": 606,
+        "bottom_right_y": 217,
+        "content": "Like clauses beginning with *when*, *as soon as*, etc., *if*-clauses also have no *shall*, *will*, *should*, *would*, in them. English can express THREE important ideas with *if*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99378889496625,
+          "minimum_content_confidence_score": 0.954072086966481,
+          "block_type_confidence_score": 0.9999942779868433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 216,
+        "bottom_right_x": 608,
+        "bottom_right_y": 256,
+        "content": "(1) He *will come* if you *call* him. – something will happen if a certain CONDITION is fulfilled.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9871362649342105,
+          "minimum_content_confidence_score": 0.86500122209365,
+          "block_type_confidence_score": 0.9859203896204514
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 255,
+        "bottom_right_x": 609,
+        "bottom_right_y": 376,
+        "content": "(2) He *would come* if you *called* him. – the probable result of a certain condition that we suppose or imagine. The *if*-clause names action that is not taking place at this moment, but I can imagine the probable result. We include here all the unreal *ifs*, like: *if you were a fish, the cat would eat you*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972523064895874,
+          "minimum_content_confidence_score": 0.9082148090561308,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 375,
+        "bottom_right_x": 609,
+        "bottom_right_y": 415,
+        "content": "(3) He *would have come* if you *had called* him – but he didn't come! Why? Because you didn't call him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996006102016254,
+          "minimum_content_confidence_score": 0.9351677206289687,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 414,
+        "bottom_right_x": 609,
+        "bottom_right_y": 475,
+        "content": "All No. (3) types are impossible ideas, because we know the condition was not fulfilled, but we like to imagine the result if . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9827245198558549,
+          "minimum_content_confidence_score": 0.5960152908535075,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 475,
+        "bottom_right_x": 251,
+        "bottom_right_y": 494,
+        "content": "So we have:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997929818131999,
+          "minimum_content_confidence_score": 0.9995223182587862,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 493,
+        "bottom_right_x": 609,
+        "bottom_right_y": 535,
+        "content": "TYPE (1) Main clause – FUTURE; *if*-clause – PRESENT. (Likely or probable.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991821181334367,
+          "minimum_content_confidence_score": 0.9947908790352614,
+          "block_type_confidence_score": 0.9977823906846339
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 533,
+        "bottom_right_x": 610,
+        "bottom_right_y": 574,
+        "content": "TYPE (2) Main clause – *would*; *if*-clause – PAST. (Unlikely or improbable; imaginary.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995786402848518,
+          "minimum_content_confidence_score": 0.9958083382148268,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 573,
+        "bottom_right_x": 610,
+        "bottom_right_y": 614,
+        "content": "TYPE (3) Main clause – *would have*: *if*-clause – PAST PERFECT. (Impossible.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997253333389004,
+          "minimum_content_confidence_score": 0.9691638862036723,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 613,
+        "bottom_right_x": 612,
+        "bottom_right_y": 695,
+        "content": "*Unless* is usually close in meaning to *if not* but it cannot be universally substituted for *if not*. It is not an equivalent in TYPE (3) conditions, and even in TYPE (1) conditions there may be a difference, e.g.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992069375991559,
+          "minimum_content_confidence_score": 0.9785806676630672,
+          "block_type_confidence_score": 0.9999895096921129
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 696,
+        "bottom_right_x": 545,
+        "bottom_right_y": 717,
+        "content": "You will hurt yourself *if you are not careful*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975511663539626,
+          "minimum_content_confidence_score": 0.9866911037162116,
+          "block_type_confidence_score": 0.9997646170668943
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 206,
+        "top_left_y": 717,
+        "bottom_right_x": 328,
+        "bottom_right_y": 736,
+        "content": "– so be careful",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994660146435138,
+          "minimum_content_confidence_score": 0.9990455685702576,
+          "block_type_confidence_score": 0.9890079284806537
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 736,
+        "bottom_right_x": 549,
+        "bottom_right_y": 758,
+        "content": "You will hurt yourself *unless you are careful*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998859987483006,
+          "minimum_content_confidence_score": 0.9995335133475861,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 206,
+        "top_left_y": 758,
+        "bottom_right_x": 536,
+        "bottom_right_y": 777,
+        "content": "– so it would be better not to do it at all",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999822511328983,
+          "minimum_content_confidence_score": 0.9988093265363653,
+          "block_type_confidence_score": 0.999985218266486
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 780,
+        "bottom_right_x": 570,
+        "bottom_right_y": 801,
+        "content": "NOTE: *I should* has largely been replaced by *I would*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981120972415531,
+          "minimum_content_confidence_score": 0.98455904280523,
+          "block_type_confidence_score": 0.9999175139789379
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 814,
+        "bottom_right_x": 434,
+        "bottom_right_y": 828,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969335440189729,
+          "minimum_content_confidence_score": 0.9922530587262336,
+          "block_type_confidence_score": 0.9999046416627282
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 839,
+        "bottom_right_x": 615,
+        "bottom_right_y": 900,
+        "content": "● Read the following sentences, notice carefully the tenses of the two verbs, and say what kind of condition each sentence is:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997201641290455,
+          "minimum_content_confidence_score": 0.9954896477664198,
+          "block_type_confidence_score": 0.5309315013836066
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 904,
+        "bottom_right_x": 387,
+        "bottom_right_y": 925,
+        "content": "1 If I come, I shall see you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9522998098249575,
+          "minimum_content_confidence_score": 0.6206419200900893,
+          "block_type_confidence_score": 0.9996236787289411
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 925,
+        "bottom_right_x": 490,
+        "bottom_right_y": 947,
+        "content": "2 You will spoil it if you aren't careful.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995919244340625,
+          "minimum_content_confidence_score": 0.9972412684770436,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 947,
+        "bottom_right_x": 426,
+        "bottom_right_y": 968,
+        "content": "3 We would answer if we could.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996017480453767,
+          "minimum_content_confidence_score": 0.9977183069799944,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

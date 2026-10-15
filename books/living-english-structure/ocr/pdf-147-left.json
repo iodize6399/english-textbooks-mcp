@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-147-left",
+    "pdf_page": 147,
+    "side": "left",
+    "reading_order": 293
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "You're surely not going out in this rain!\n\nSurely you're not going out in this rain. (= I should be very surprised if you did.)\n\nI'm certainly not going out in this rain.\n\nIt's worth going to see, surely. (= I believe it is, don't you?)\n\nIt's certainly worth going to see. (= There is no doubt in my mind.)\n\nHe surely won't forget to bring it. (= I hope not.)\n\nHe'll certainly not forget to bring it. (= I know he won't.)\n\n* * *\n\n(53.6) ● Reconstruct the following sentences, using *certainly* or *surely* according to the sense:\n\n1 I know he'll be there.\n2 I expect he'll be there, don't you?\n3 I doubt very much if he believes you.\n4 I know he doesn't believe you.\n5 I can't believe it'll last much longer.\n6 You haven't forgotten me, have you?\n7 Of course I haven't.\n8 I've a strong feeling that's Mr Pubsey over there.\n9 I'm quite sure that you can't convince me.\n10 I assure you I'm not going to try.\n11 I've a strong suspicion I've met you before somewhere.\n12 Of course I'm not going to tell you!\n13 I doubt very much whether you want another one, do you?\n14 It's quite definite I can't buy it at that price.\n15 You're not going to buy it at that price, are you?\n16 Of course I've never been drunk!\n17 I don't believe he lives as far along as this.\n18 Quite definitely my children are not going out as late as that.\n19 I've a strong feeling that your room was arranged quite differently last time.\n20 Do you mean to say he's going to marry the butcher's daughter!\n21 I'm sure you are mistaken; at least I hope so.\n22 There is no doubt that she led him on.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "282\n53 Miscellaneous Exercises",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1021,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9768124843934477,
+      "minimum_page_confidence_score": 0.27462893016097406
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 16,
+        "bottom_right_x": 56,
+        "bottom_right_y": 36,
+        "content": "282",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999071445894133,
+          "minimum_content_confidence_score": 0.9999071445894133,
+          "block_type_confidence_score": 0.9999941679687032
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 16,
+        "bottom_right_x": 349,
+        "bottom_right_y": 37,
+        "content": "53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994372596632157,
+          "minimum_content_confidence_score": 0.9985006910789727,
+          "block_type_confidence_score": 0.9983233901510146
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 74,
+        "bottom_right_x": 524,
+        "bottom_right_y": 95,
+        "content": "You're surely not going out in this rain!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986921960375702,
+          "minimum_content_confidence_score": 0.9896632258729475,
+          "block_type_confidence_score": 0.9945315400949268
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 95,
+        "bottom_right_x": 623,
+        "bottom_right_y": 136,
+        "content": "Surely you're not going out in this rain. (= I should be very surprised if you did.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9899526622709361,
+          "minimum_content_confidence_score": 0.834681880166682,
+          "block_type_confidence_score": 0.9999624504845601
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 136,
+        "bottom_right_x": 515,
+        "bottom_right_y": 156,
+        "content": "I'm certainly not going out in this rain.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999860726889195,
+          "minimum_content_confidence_score": 0.9999675761227764,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 159,
+        "bottom_right_x": 623,
+        "bottom_right_y": 200,
+        "content": "It's worth going to see, surely. (= I believe it is, don't you?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997260267949053,
+          "minimum_content_confidence_score": 0.996864496467038,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 200,
+        "bottom_right_x": 625,
+        "bottom_right_y": 241,
+        "content": "It's certainly worth going to see. (= There is no doubt in my mind.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999805924799848,
+          "minimum_content_confidence_score": 0.999900231778581,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 244,
+        "bottom_right_x": 605,
+        "bottom_right_y": 267,
+        "content": "He surely won't forget to bring it. (= I hope not.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999536053385717,
+          "minimum_content_confidence_score": 0.999804654149025,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 267,
+        "bottom_right_x": 625,
+        "bottom_right_y": 307,
+        "content": "He'll certainly not forget to bring it. (= I know he won't.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999798040301314,
+          "minimum_content_confidence_score": 0.999921924012059,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 334,
+        "top_left_y": 321,
+        "bottom_right_x": 440,
+        "bottom_right_y": 335,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8401474996811534,
+          "minimum_content_confidence_score": 0.5265669194640112,
+          "block_type_confidence_score": 0.9999815229018083
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 346,
+        "bottom_right_x": 623,
+        "bottom_right_y": 389,
+        "content": "(53.6) ● Reconstruct the following sentences, using *certainly* or *surely* according to the sense:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9844416989906636,
+          "minimum_content_confidence_score": 0.8888188512976457,
+          "block_type_confidence_score": 0.9802069335284067
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 391,
+        "bottom_right_x": 611,
+        "bottom_right_y": 996,
+        "content": "1 I know he'll be there.\n2 I expect he'll be there, don't you?\n3 I doubt very much if he believes you.\n4 I know he doesn't believe you.\n5 I can't believe it'll last much longer.\n6 You haven't forgotten me, have you?\n7 Of course I haven't.\n8 I've a strong feeling that's Mr Pubsey over there.\n9 I'm quite sure that you can't convince me.\n10 I assure you I'm not going to try.\n11 I've a strong suspicion I've met you before somewhere.\n12 Of course I'm not going to tell you!\n13 I doubt very much whether you want another one, do you?\n14 It's quite definite I can't buy it at that price.\n15 You're not going to buy it at that price, are you?\n16 Of course I've never been drunk!\n17 I don't believe he lives as far along as this.\n18 Quite definitely my children are not going out as late as that.\n19 I've a strong feeling that your room was arranged quite differently last time.\n20 Do you mean to say he's going to marry the butcher's daughter!\n21 I'm sure you are mistaken; at least I hope so.\n22 There is no doubt that she led him on.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998642459043287,
+          "minimum_content_confidence_score": 0.9855939375460908,
+          "block_type_confidence_score": 0.999361446246347
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

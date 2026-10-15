@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-073-left",
+    "pdf_page": 73,
+    "side": "left",
+    "reading_order": 145
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "28.22 ● Complete the following sentences:\n\nIntermediate 1 Come and visit us when . . .\n\n2 I shall not move from here until ...\n3 You will have to explain everything before ...\n4 I'll put him to bed without his supper as soon as ...\n5 He won't stop running until ...\n6 I hope you will hide the strawberries and cream before ...\n7 Cyril will be terribly angry when ...\n8 When he writes to me again, I ...\n9 She will never understand until ...\n10 Will you stay and talk to me until ...\n11 Will you buy me a pound of tea when ...\n12 I'll keep you in this room until ...\n13 I'll come and see you again when ...\n14 They won't give me any more cucumbers until ...\n15 Your electricity will be cut off until ...\n16 The pears will all be eaten before ...\n17 The doctor will send you the bill when ...\n18 When my newspaper comes ...\n19 Will you always love me, even when ...\n20 I'll leave it out in the sun until ...\n\n28.23\nAdvanced\n\nThe ideas behind shall/will tenses are expressed after TEMPORAL CONJUNCTIONS by PRESENT tenses (SIMPLE or PERFECT).\n\nThe ideas behind should/would tenses are expressed after TEMPORAL CONJUNCTIONS by PAST tenses (SIMPLE or PERFECT).\n\nYou will come as soon as you can, won't you?\n\nYou will come as soon as you have finished dinner, won't you?\n\nYou would come as soon as I needed you, wouldn't you?\n\nI should/would have come after I had finished, if I had had the time.\n\nNotice that after (or when in the sense of 'after') most frequently has a perfect tense with it.\n\n* * *",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "134\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9683437886596697,
+      "minimum_page_confidence_score": 0.1058030423384153
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 14,
+        "bottom_right_x": 48,
+        "bottom_right_y": 33,
+        "content": "134",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998236013675309,
+          "minimum_content_confidence_score": 0.9998236013675309,
+          "block_type_confidence_score": 0.9999623687870226
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 13,
+        "bottom_right_x": 386,
+        "bottom_right_y": 33,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999648564057396,
+          "minimum_content_confidence_score": 0.9998691253359875,
+          "block_type_confidence_score": 0.9975652787670782
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 17,
+        "top_left_y": 68,
+        "bottom_right_x": 419,
+        "bottom_right_y": 90,
+        "content": "28.22 ● Complete the following sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.938917015273485,
+          "minimum_content_confidence_score": 0.633843928036733,
+          "block_type_confidence_score": 0.576826085549954
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 17,
+        "top_left_y": 93,
+        "bottom_right_x": 393,
+        "bottom_right_y": 113,
+        "content": "Intermediate 1 Come and visit us when . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9439937957647752,
+          "minimum_content_confidence_score": 0.5300167403774818,
+          "block_type_confidence_score": 0.6790219067720586
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 115,
+        "bottom_right_x": 594,
+        "bottom_right_y": 571,
+        "content": "2 I shall not move from here until ...\n3 You will have to explain everything before ...\n4 I'll put him to bed without his supper as soon as ...\n5 He won't stop running until ...\n6 I hope you will hide the strawberries and cream before ...\n7 Cyril will be terribly angry when ...\n8 When he writes to me again, I ...\n9 She will never understand until ...\n10 Will you stay and talk to me until ...\n11 Will you buy me a pound of tea when ...\n12 I'll keep you in this room until ...\n13 I'll come and see you again when ...\n14 They won't give me any more cucumbers until ...\n15 Your electricity will be cut off until ...\n16 The pears will all be eaten before ...\n17 The doctor will send you the bill when ...\n18 When my newspaper comes ...\n19 Will you always love me, even when ...\n20 I'll leave it out in the sun until ...",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9899409392892797,
+          "minimum_content_confidence_score": 0.56708942522936,
+          "block_type_confidence_score": 0.9999884368330701
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 591,
+        "bottom_right_x": 98,
+        "bottom_right_y": 633,
+        "content": "28.23\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9434628142471518,
+          "minimum_content_confidence_score": 0.8304824700077525,
+          "block_type_confidence_score": 0.931523234040163
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 590,
+        "bottom_right_x": 606,
+        "bottom_right_y": 651,
+        "content": "The ideas behind shall/will tenses are expressed after TEMPORAL CONJUNCTIONS by PRESENT tenses (SIMPLE or PERFECT).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9642721934530716,
+          "minimum_content_confidence_score": 0.7620999982426256,
+          "block_type_confidence_score": 0.9999673377228697
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 651,
+        "bottom_right_x": 606,
+        "bottom_right_y": 713,
+        "content": "The ideas behind should/would tenses are expressed after TEMPORAL CONJUNCTIONS by PAST tenses (SIMPLE or PERFECT).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997122961401163,
+          "minimum_content_confidence_score": 0.9754502729946224,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 715,
+        "bottom_right_x": 562,
+        "bottom_right_y": 736,
+        "content": "You will come as soon as you can, won't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999988501691427,
+          "minimum_content_confidence_score": 0.9999537504718086,
+          "block_type_confidence_score": 0.9992768037955121
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 736,
+        "bottom_right_x": 606,
+        "bottom_right_y": 775,
+        "content": "You will come as soon as you have finished dinner, won't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994794939276507,
+          "minimum_content_confidence_score": 0.9938959164632709,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 775,
+        "bottom_right_x": 606,
+        "bottom_right_y": 815,
+        "content": "You would come as soon as I needed you, wouldn't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999909249228239,
+          "minimum_content_confidence_score": 0.9999542257282243,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 815,
+        "bottom_right_x": 606,
+        "bottom_right_y": 854,
+        "content": "I should/would have come after I had finished, if I had had the time.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999903386437776,
+          "minimum_content_confidence_score": 0.9999718673999347,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 858,
+        "bottom_right_x": 606,
+        "bottom_right_y": 899,
+        "content": "Notice that after (or when in the sense of 'after') most frequently has a perfect tense with it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999812344327464,
+          "minimum_content_confidence_score": 0.9998741308286652,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 325,
+        "top_left_y": 911,
+        "bottom_right_x": 431,
+        "bottom_right_y": 926,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9616506001497119,
+          "minimum_content_confidence_score": 0.885931960170605,
+          "block_type_confidence_score": 0.7534826287862687
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

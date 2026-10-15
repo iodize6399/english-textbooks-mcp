@@ -1,0 +1,408 @@
+{
+  "source": {
+    "id": "pdf-022-left",
+    "pdf_page": 22,
+    "side": "left",
+    "reading_order": 43
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "Similarly have trouble, bother, difficulty, a good (bad) trip or journey, a lesson, the opportunity of, occasion to.\n\nHave WITH or WITHOUT do; as have to, replacing must.\n\nHave you to work hard?\n\nDo you have to work hard?\n\nFor have got see Exercises 33.1, 2.\n\nDare. Question and negative form WITHOUT do. In the affirmative it is followed by infinitive WITH to.\n\nDare he go alone?\n\nHe dared to call me a fool.\n\nBut note the expression I dare say . . .\n\nNeed. Questions and negatives are usually made WITHOUT do and WITHOUT the infinitive particle to. In the affirmative need is followed by the infinitive WITH to.\n\nQ. Need he run so fast?\n\nA. Yes, he must. (Yes, he needs to.)\n\nHe needs to speak more slowly. (= must)\n\nSee Exercises 16.1-5.\n\nUsed to. Should logically be used WITHOUT do, but forms WITH do are undoubtedly the most widespread, especially as responses and question-tags.\n\n(a) Used you¹ to live here? Did you use to² live here?\n\n(b) You used to² live here, use(d)n't³ you? didn't you?\n\n(c) You used to² pay me every week. Used⁴ I? Did I?\n\nThe most usual negative form seems to be with never, which conveniently avoids the difficulty.\n\nYou never used to treat me like this.\n\nTENTATIVE ADVICE: In (b) and (c) above (responses, §19, and question-tags, §32), we prefer forms WITH do; in (a) we prefer forms WITH do in spoken English, WITHOUT do in written English. Never is a useful device for negatives.\n\n* * *\n\n(14.3) ● Answer these questions in the negative:\n\n1 You never used to smoke so much, did you?\n\n2 Have you any more like this?\n\n1 ['ju:stju]\n2 ['ju:sta]\n3 ['ju:snt]\n4 [ju:st]",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "32\n14 Negatives and Questions of Auxiliary Verbs",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1024,
+      "width": 710
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9747617574573245,
+      "minimum_page_confidence_score": 0.3012906901314725
+    },
+    "blocks": [
+      {
+        "top_left_x": 30,
+        "top_left_y": 13,
+        "bottom_right_x": 53,
+        "bottom_right_y": 33,
+        "content": "32",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999607816804097,
+          "minimum_content_confidence_score": 0.9999607816804097,
+          "block_type_confidence_score": 0.9999996148625269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 14,
+        "bottom_right_x": 513,
+        "bottom_right_y": 36,
+        "content": "14 Negatives and Questions of Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999726050292742,
+          "minimum_content_confidence_score": 0.9998686725106554,
+          "block_type_confidence_score": 0.9949103379459775
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 71,
+        "bottom_right_x": 630,
+        "bottom_right_y": 115,
+        "content": "Similarly have trouble, bother, difficulty, a good (bad) trip or journey, a lesson, the opportunity of, occasion to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9804236574116969,
+          "minimum_content_confidence_score": 0.6508477859942606,
+          "block_type_confidence_score": 0.9997646170668943
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 123,
+        "bottom_right_x": 611,
+        "bottom_right_y": 145,
+        "content": "Have WITH or WITHOUT do; as have to, replacing must.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9798062339470945,
+          "minimum_content_confidence_score": 0.8679432334292803,
+          "block_type_confidence_score": 0.9999231159180111
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 148,
+        "bottom_right_x": 405,
+        "bottom_right_y": 168,
+        "content": "Have you to work hard?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999882266102629,
+          "minimum_content_confidence_score": 0.9999717481958249,
+          "block_type_confidence_score": 0.9994401491348515
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 169,
+        "bottom_right_x": 432,
+        "bottom_right_y": 190,
+        "content": "Do you have to work hard?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999977813950416,
+          "minimum_content_confidence_score": 0.9999920130413283,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 195,
+        "bottom_right_x": 442,
+        "bottom_right_y": 216,
+        "content": "For have got see Exercises 33.1, 2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999634142239847,
+          "minimum_content_confidence_score": 0.999881162465012,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 220,
+        "bottom_right_x": 632,
+        "bottom_right_y": 263,
+        "content": "Dare. Question and negative form WITHOUT do. In the affirmative it is followed by infinitive WITH to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999866017555571,
+          "minimum_content_confidence_score": 0.9984915396005973,
+          "block_type_confidence_score": 0.9999578016931774
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 196,
+        "top_left_y": 267,
+        "bottom_right_x": 353,
+        "bottom_right_y": 287,
+        "content": "Dare he go alone?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999481854808262,
+          "minimum_content_confidence_score": 0.9998729390465786,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 196,
+        "top_left_y": 287,
+        "bottom_right_x": 424,
+        "bottom_right_y": 308,
+        "content": "He dared to call me a fool.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927056993839,
+          "minimum_content_confidence_score": 0.9999684105356298,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 314,
+        "bottom_right_x": 474,
+        "bottom_right_y": 335,
+        "content": "But note the expression I dare say . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.976221802484057,
+          "minimum_content_confidence_score": 0.7632068522652178,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 339,
+        "bottom_right_x": 632,
+        "bottom_right_y": 402,
+        "content": "Need. Questions and negatives are usually made WITHOUT do and WITHOUT the infinitive particle to. In the affirmative need is followed by the infinitive WITH to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993739815309174,
+          "minimum_content_confidence_score": 0.9849459088908293,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 405,
+        "bottom_right_x": 402,
+        "bottom_right_y": 425,
+        "content": "Q. Need he run so fast?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999991224982407,
+          "minimum_content_confidence_score": 0.9999843242513565,
+          "block_type_confidence_score": 0.9998591144694557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 426,
+        "bottom_right_x": 509,
+        "bottom_right_y": 447,
+        "content": "A. Yes, he must. (Yes, he needs to.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999951115295184,
+          "minimum_content_confidence_score": 0.9999786861448655,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 447,
+        "bottom_right_x": 583,
+        "bottom_right_y": 467,
+        "content": "He needs to speak more slowly. (= must)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998277789811821,
+          "minimum_content_confidence_score": 0.9986703218228135,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 472,
+        "bottom_right_x": 336,
+        "bottom_right_y": 492,
+        "content": "See Exercises 16.1-5.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9933789594429244,
+          "minimum_content_confidence_score": 0.9801523753330735,
+          "block_type_confidence_score": 0.9999421868356455
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 498,
+        "bottom_right_x": 634,
+        "bottom_right_y": 560,
+        "content": "Used to. Should logically be used WITHOUT do, but forms WITH do are undoubtedly the most widespread, especially as responses and question-tags.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999772902751598,
+          "minimum_content_confidence_score": 0.9998042966492776,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 199,
+        "top_left_y": 565,
+        "bottom_right_x": 634,
+        "bottom_right_y": 585,
+        "content": "(a) Used you¹ to live here? Did you use to² live here?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998767498011802,
+          "minimum_content_confidence_score": 0.9986643814158501,
+          "block_type_confidence_score": 0.9840716997334052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 199,
+        "top_left_y": 585,
+        "bottom_right_x": 634,
+        "bottom_right_y": 607,
+        "content": "(b) You used to² live here, use(d)n't³ you? didn't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995400933930121,
+          "minimum_content_confidence_score": 0.9958468371125173,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 199,
+        "top_left_y": 607,
+        "bottom_right_x": 634,
+        "bottom_right_y": 628,
+        "content": "(c) You used to² pay me every week. Used⁴ I? Did I?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999471777611898,
+          "minimum_content_confidence_score": 0.999610639652718,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 637,
+        "bottom_right_x": 634,
+        "bottom_right_y": 679,
+        "content": "The most usual negative form seems to be with never, which conveniently avoids the difficulty.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999915500924064,
+          "minimum_content_confidence_score": 0.9999593512842658,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 682,
+        "bottom_right_x": 505,
+        "bottom_right_y": 703,
+        "content": "You never used to treat me like this.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999997091812107,
+          "minimum_content_confidence_score": 0.9999880792130387,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 712,
+        "bottom_right_x": 637,
+        "bottom_right_y": 795,
+        "content": "TENTATIVE ADVICE: In (b) and (c) above (responses, §19, and question-tags, §32), we prefer forms WITH do; in (a) we prefer forms WITH do in spoken English, WITHOUT do in written English. Never is a useful device for negatives.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999736452412762,
+          "minimum_content_confidence_score": 0.9994567009528892,
+          "block_type_confidence_score": 0.999407404376887
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 308,
+        "top_left_y": 811,
+        "bottom_right_x": 424,
+        "bottom_right_y": 826,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9859246954085591,
+          "minimum_content_confidence_score": 0.9586312287811093,
+          "block_type_confidence_score": 0.9944425264602237
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 35,
+        "top_left_y": 834,
+        "bottom_right_x": 491,
+        "bottom_right_y": 857,
+        "content": "(14.3) ● Answer these questions in the negative:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9893805825175479,
+          "minimum_content_confidence_score": 0.9157446113911215,
+          "block_type_confidence_score": 0.9960039248629508
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 859,
+        "bottom_right_x": 578,
+        "bottom_right_y": 883,
+        "content": "1 You never used to smoke so much, did you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999736183122797,
+          "minimum_content_confidence_score": 0.9997712896958857,
+          "block_type_confidence_score": 0.9770219652229213
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 134,
+        "top_left_y": 883,
+        "bottom_right_x": 440,
+        "bottom_right_y": 905,
+        "content": "2 Have you any more like this?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999964890304966,
+          "minimum_content_confidence_score": 0.9999870063564401,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 165,
+        "top_left_y": 915,
+        "bottom_right_x": 246,
+        "bottom_right_y": 993,
+        "content": "1 ['ju:stju]\n2 ['ju:sta]\n3 ['ju:snt]\n4 [ju:st]",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9469287281600163,
+          "minimum_content_confidence_score": 0.8776538435627883,
+          "block_type_confidence_score": 0.9023932528410274
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

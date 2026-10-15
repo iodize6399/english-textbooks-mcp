@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-015-right",
+    "pdf_page": 15,
+    "side": "right",
+    "reading_order": 30
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "10 — makes tea sweet?\n11 — wants a piece of bread?\n12 — piece of bread is yours?\n13 — is the name of your baker?\n14 — is his shop, the one at the end of the road, or\nthe one near the post office?\n15 — understands this exercise?\n16 — of you understand this exercise?\n17 — is the answer to my question?\n18 — knows the answer?\n19 — teaches you English?\n20 — are you learning now?\n\n## 9 Telling the Time\n\n### 9.1 Elementary\n\n*Half past; (a) quarter to; ten (minutes) past.* The word *minutes* is usually omitted if a multiple of five is used.\n\n* * *\n\n● Say the following times:\n\n11.09 - 9.30 - 10.15 - 3.45 - 6.10 - 7.25 - 11.35 -\n12.45 - 1.05 - 2.50 - 6.45 - 6.40 - 4.56 - 12.00.\n\n## 10 *too* and *enough*\n\n### 10.1 Elementary\n\n*Too.* An adverb of excess; with *to* + infinitive and/or *for* + (pro)noun.\n\nThis soup is very hot; I can't drink it.\n\nThis soup is too hot (for me) to drink.*\n\nThat's a lot of money; a book like that shouldn't cost so much.\n\nThat's too much money for a book like that.\n\n(* Expect the mistake: 'This soup is too hot for me to drink it.' The infinitive, even of a transitive verb, has no",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "9 Telling the Time\n19",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1018,
+      "width": 706
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9586827558759015,
+      "minimum_page_confidence_score": 0.24062955344873957
+    },
+    "blocks": [
+      {
+        "top_left_x": 161,
+        "top_left_y": 8,
+        "bottom_right_x": 331,
+        "bottom_right_y": 30,
+        "content": "9 Telling the Time",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990707344726961,
+          "minimum_content_confidence_score": 0.9965678638404686,
+          "block_type_confidence_score": 0.9866804807571352
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 654,
+        "top_left_y": 12,
+        "bottom_right_x": 678,
+        "bottom_right_y": 31,
+        "content": "19",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999865295319578,
+          "minimum_content_confidence_score": 0.9999865295319578,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 64,
+        "bottom_right_x": 654,
+        "bottom_right_y": 335,
+        "content": "10 — makes tea sweet?\n11 — wants a piece of bread?\n12 — piece of bread is yours?\n13 — is the name of your baker?\n14 — is his shop, the one at the end of the road, or\nthe one near the post office?\n15 — understands this exercise?\n16 — of you understand this exercise?\n17 — is the answer to my question?\n18 — knows the answer?\n19 — teaches you English?\n20 — are you learning now?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.994236990711553,
+          "minimum_content_confidence_score": 0.5309064383562212,
+          "block_type_confidence_score": 0.9998543474648758
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 393,
+        "bottom_right_x": 381,
+        "bottom_right_y": 425,
+        "content": "## 9 Telling the Time",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992045278384755,
+          "minimum_content_confidence_score": 0.9968231832070906,
+          "block_type_confidence_score": 0.9969750632793185
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 475,
+        "bottom_right_x": 150,
+        "bottom_right_y": 518,
+        "content": "### 9.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8977206315060379,
+          "minimum_content_confidence_score": 0.6932721250796904,
+          "block_type_confidence_score": 0.676527765045202
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 477,
+        "bottom_right_x": 674,
+        "bottom_right_y": 522,
+        "content": "*Half past; (a) quarter to; ten (minutes) past.* The word *minutes* is usually omitted if a multiple of five is used.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.991400033563134,
+          "minimum_content_confidence_score": 0.9247390940107073,
+          "block_type_confidence_score": 0.9990831682195428
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 370,
+        "top_left_y": 535,
+        "bottom_right_x": 479,
+        "bottom_right_y": 549,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9942420512042628,
+          "minimum_content_confidence_score": 0.9883118329926566,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 559,
+        "bottom_right_x": 390,
+        "bottom_right_y": 582,
+        "content": "● Say the following times:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9587516037410435,
+          "minimum_content_confidence_score": 0.7951524643974455,
+          "block_type_confidence_score": 0.6496004704793404
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 583,
+        "bottom_right_x": 661,
+        "bottom_right_y": 631,
+        "content": "11.09 - 9.30 - 10.15 - 3.45 - 6.10 - 7.25 - 11.35 -\n12.45 - 1.05 - 2.50 - 6.45 - 6.40 - 4.56 - 12.00.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9822215484242226,
+          "minimum_content_confidence_score": 0.54972838148896,
+          "block_type_confidence_score": 0.9344139749586013
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 689,
+        "bottom_right_x": 373,
+        "bottom_right_y": 722,
+        "content": "## 10 *too* and *enough*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9551718306030276,
+          "minimum_content_confidence_score": 0.7851206903195938,
+          "block_type_confidence_score": 0.9995626932181356
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 770,
+        "bottom_right_x": 148,
+        "bottom_right_y": 813,
+        "content": "### 10.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998382474880984,
+          "minimum_content_confidence_score": 0.9995715070757905,
+          "block_type_confidence_score": 0.999781179641505
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 772,
+        "bottom_right_x": 672,
+        "bottom_right_y": 815,
+        "content": "*Too.* An adverb of excess; with *to* + infinitive and/or *for* + (pro)noun.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9894883581794299,
+          "minimum_content_confidence_score": 0.8828708196092531,
+          "block_type_confidence_score": 0.9998578035420218
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 818,
+        "bottom_right_x": 544,
+        "bottom_right_y": 841,
+        "content": "This soup is very hot; I can't drink it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997523184891173,
+          "minimum_content_confidence_score": 0.998013694034565,
+          "block_type_confidence_score": 0.999940398906774
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 839,
+        "bottom_right_x": 560,
+        "bottom_right_y": 861,
+        "content": "This soup is too hot (for me) to drink.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995771851215688,
+          "minimum_content_confidence_score": 0.9980564899919958,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 865,
+        "bottom_right_x": 672,
+        "bottom_right_y": 906,
+        "content": "That's a lot of money; a book like that shouldn't cost so much.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.963889019665567,
+          "minimum_content_confidence_score": 0.5307604191204802,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 220,
+        "top_left_y": 907,
+        "bottom_right_x": 605,
+        "bottom_right_y": 929,
+        "content": "That's too much money for a book like that.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999974370119173,
+          "minimum_content_confidence_score": 0.9999948939186728,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 936,
+        "bottom_right_x": 670,
+        "bottom_right_y": 981,
+        "content": "(* Expect the mistake: 'This soup is too hot for me to drink it.' The infinitive, even of a transitive verb, has no",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980533465080349,
+          "minimum_content_confidence_score": 0.967685253997869,
+          "block_type_confidence_score": 0.9912598673874216
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

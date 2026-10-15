@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-005-left",
+    "pdf_page": 5,
+    "side": "left",
+    "reading_order": 9
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:05.087310+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "people over considerable periods. A great deal of thought has been given to the use of tenses and auxiliary verbs, and a proportionately large amount of space devoted to them. The division of the exercises into Elementary, Intermediate, and Advanced is a rough guide to their suitability for various classes. The approximate grading is as follows:\n\n**Elementary:** Up to 1½ or 2 years of English.\n\n**Intermediate:** Up to about the standard demanded for the University of Cambridge Lower Certificate in English.*\n\n**Advanced:** Up to and beyond the University of Cambridge Proficiency in English examination.\n\nPeople may ask why the book has not been divided accordingly into three parts. But the only advantage of this would be an apparent tidiness, for experience has shown that grouping the exercises by subject is far more practical. An immediate advantage of this is that most cross-references in the notes will be found within a page or two of the exercise being done; whereas with a 'tidy' division of the book into three graded sections such important references would send the teacher and students flying from one end of the book to the other; or in order to avoid this, the notes would have to be duplicated wastefully in each section. A less apparent advantage is a psychological one for the student. Any teacher of foreign adults knows that their standard can only be very roughly graded. An 'intermediate' students' class, for instance, finds it very comforting if the 'elementary' exercise on a point they are not very familiar with is found only a page or so back; and it is very encouraging to be told that one has done an exercise very well, and instead of leaving out the next exercise, marked 'advanced', to be allowed to have a shot at that also.\n\nThe vocabulary is graded as well as the structures used, but advanced exercises do not necessarily contain difficult words. Emphasis is on form throughout, and as much variety as possible has been introduced without concealing the structure to be practised among a welter of unnecessarily complicated words. The material is arranged in rough structural groups, the subject-matter and grading of the exercises being linked together within each group. The index at the back is very full, and for the sake of simplicity references are all to exercise numbers instead of pages.\n\nThe purpose of this book is to provide ample material for",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "viii\nIntroduction",
+    "footer": "* From 1975 the First Certificate in English.",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1000,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9811666634789837,
+      "minimum_page_confidence_score": 0.3333513675489546
+    },
+    "blocks": [
+      {
+        "top_left_x": 18,
+        "top_left_y": 13,
+        "bottom_right_x": 47,
+        "bottom_right_y": 31,
+        "content": "viii",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995657614105848,
+          "minimum_content_confidence_score": 0.9995657614105848,
+          "block_type_confidence_score": 0.9999984044335105
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 13,
+        "bottom_right_x": 245,
+        "bottom_right_y": 31,
+        "content": "Introduction",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999196593968471,
+          "minimum_content_confidence_score": 0.9999196593968471,
+          "block_type_confidence_score": 0.9845471902275115
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 68,
+        "bottom_right_x": 607,
+        "bottom_right_y": 188,
+        "content": "people over considerable periods. A great deal of thought has been given to the use of tenses and auxiliary verbs, and a proportionately large amount of space devoted to them. The division of the exercises into Elementary, Intermediate, and Advanced is a rough guide to their suitability for various classes. The approximate grading is as follows:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999313428484858,
+          "minimum_content_confidence_score": 0.9990846822338182,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 198,
+        "bottom_right_x": 529,
+        "bottom_right_y": 220,
+        "content": "**Elementary:** Up to 1½ or 2 years of English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9887903325679646,
+          "minimum_content_confidence_score": 0.9032570140535897,
+          "block_type_confidence_score": 0.9739467234850777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 219,
+        "bottom_right_x": 606,
+        "bottom_right_y": 260,
+        "content": "**Intermediate:** Up to about the standard demanded for the University of Cambridge Lower Certificate in English.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964499743995726,
+          "minimum_content_confidence_score": 0.9485842837099053,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 259,
+        "bottom_right_x": 606,
+        "bottom_right_y": 299,
+        "content": "**Advanced:** Up to and beyond the University of Cambridge Proficiency in English examination.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999184594486782,
+          "minimum_content_confidence_score": 0.9992847923891911,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 308,
+        "bottom_right_x": 609,
+        "bottom_right_y": 725,
+        "content": "People may ask why the book has not been divided accordingly into three parts. But the only advantage of this would be an apparent tidiness, for experience has shown that grouping the exercises by subject is far more practical. An immediate advantage of this is that most cross-references in the notes will be found within a page or two of the exercise being done; whereas with a 'tidy' division of the book into three graded sections such important references would send the teacher and students flying from one end of the book to the other; or in order to avoid this, the notes would have to be duplicated wastefully in each section. A less apparent advantage is a psychological one for the student. Any teacher of foreign adults knows that their standard can only be very roughly graded. An 'intermediate' students' class, for instance, finds it very comforting if the 'elementary' exercise on a point they are not very familiar with is found only a page or so back; and it is very encouraging to be told that one has done an exercise very well, and instead of leaving out the next exercise, marked 'advanced', to be allowed to have a shot at that also.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995243012851253,
+          "minimum_content_confidence_score": 0.9372749260599093,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 734,
+        "bottom_right_x": 609,
+        "bottom_right_y": 935,
+        "content": "The vocabulary is graded as well as the structures used, but advanced exercises do not necessarily contain difficult words. Emphasis is on form throughout, and as much variety as possible has been introduced without concealing the structure to be practised among a welter of unnecessarily complicated words. The material is arranged in rough structural groups, the subject-matter and grading of the exercises being linked together within each group. The index at the back is very full, and for the sake of simplicity references are all to exercise numbers instead of pages.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999410857598159,
+          "minimum_content_confidence_score": 0.9988664894254264,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 941,
+        "bottom_right_x": 609,
+        "bottom_right_y": 963,
+        "content": "The purpose of this book is to provide ample material for",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999905501515957,
+          "minimum_content_confidence_score": 0.9999650728993075,
+          "block_type_confidence_score": 0.9999855758836753
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 963,
+        "bottom_right_x": 382,
+        "bottom_right_y": 983,
+        "content": "* From 1975 the First Certificate in English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9664552906208066,
+          "minimum_content_confidence_score": 0.7451106829641715,
+          "block_type_confidence_score": 0.8809868180238783
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

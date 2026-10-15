@@ -1,0 +1,227 @@
+{
+  "source": {
+    "id": "pdf-008-left",
+    "pdf_page": 8,
+    "side": "left",
+    "reading_order": 15
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:05.087310+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "18 I like — music very much.\n19 — house made of — stone can be very pretty.\n20 There is — pencil and — writing-paper.\n\n1.5\nIntermediate\n\nSome nouns are COUNTABLE or UNCOUNTABLE according to context.\n\n* * *\n\n● Say which of the following words take the indefinite article; notice which words can be either countable or uncountable; make sentences with these.\n\n|  air | darkness | breath | literature  |\n| --- | --- | --- | --- |\n|  soup | bacon | class | artist  |\n|  marmalade | sunshine | book | foreigner  |\n|  friendship | camel | sleep | beef  |\n|  daytime | pin | music | tennis  |\n|  shop | dirt | hair | mutton  |\n|  smoke | butter | mountain | help  |\n|  news | truth | apple | dress  |\n|  corner | poetry | television | step  |\n|  fish | vacuum | poem | rain  |\n|  cheese | drink | ice | sand  |\n|  glass | clothing | grass | ink  |\n|  sea | onion | coffee | stupidity  |\n|  storm | sky | garlic |   |\n\nCan you suggest why garlic is an apparent exception. Why is it so rarely a countable? Consider other words like it; mint, celery, rhubarb, etc. What have they in common?\n\n1.6\nIntermediate\n\nExclamations with What a — ! (countables singular)\nWhat — ! (plural, and uncountables)\n\n* * *\n\n● Complete the following exclamations:\n\n1 — good idea!\n2 — grand ideas you have!\n3 — horrible song!\n4 — awful news!\n5 — charming girl!\n6 — lovely eyes she has!\n7 — silly mistake to make!\n8 — hard sentences these are!\n9 — clever student you are!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "4\n1 Countables and Uncountables",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1021,
+      "width": 692
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9750540322676762,
+      "minimum_page_confidence_score": 0.16766723757465993
+    },
+    "blocks": [
+      {
+        "top_left_x": 15,
+        "top_left_y": 18,
+        "bottom_right_x": 31,
+        "bottom_right_y": 37,
+        "content": "4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999948861828418,
+          "minimum_content_confidence_score": 0.999948861828418,
+          "block_type_confidence_score": 0.9974967127863149
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 18,
+        "bottom_right_x": 376,
+        "bottom_right_y": 37,
+        "content": "1 Countables and Uncountables",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997461272448609,
+          "minimum_content_confidence_score": 0.9994140692053488,
+          "block_type_confidence_score": 0.970874093907246
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 105,
+        "top_left_y": 72,
+        "bottom_right_x": 558,
+        "bottom_right_y": 138,
+        "content": "18 I like — music very much.\n19 — house made of — stone can be very pretty.\n20 There is — pencil and — writing-paper.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999473330060547,
+          "minimum_content_confidence_score": 0.9996451207300605,
+          "block_type_confidence_score": 0.9396957984397966
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 15,
+        "top_left_y": 156,
+        "bottom_right_x": 120,
+        "bottom_right_y": 197,
+        "content": "1.5\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9190327215665808,
+          "minimum_content_confidence_score": 0.7659849165547424,
+          "block_type_confidence_score": 0.48213483327726153
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 156,
+        "bottom_right_x": 605,
+        "bottom_right_y": 197,
+        "content": "Some nouns are COUNTABLE or UNCOUNTABLE according to context.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9920950109742468,
+          "minimum_content_confidence_score": 0.9436724195242591,
+          "block_type_confidence_score": 0.9998336115147581
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 322,
+        "top_left_y": 212,
+        "bottom_right_x": 426,
+        "bottom_right_y": 226,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973113195428235,
+          "minimum_content_confidence_score": 0.993312794482489,
+          "block_type_confidence_score": 0.999937061454891
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 236,
+        "bottom_right_x": 607,
+        "bottom_right_y": 297,
+        "content": "● Say which of the following words take the indefinite article; notice which words can be either countable or uncountable; make sentences with these.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9828664656801364,
+          "minimum_content_confidence_score": 0.5899369663728777,
+          "block_type_confidence_score": 0.5618844193363267
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 300,
+        "bottom_right_x": 585,
+        "bottom_right_y": 606,
+        "content": "|  air | darkness | breath | literature  |\n| --- | --- | --- | --- |\n|  soup | bacon | class | artist  |\n|  marmalade | sunshine | book | foreigner  |\n|  friendship | camel | sleep | beef  |\n|  daytime | pin | music | tennis  |\n|  shop | dirt | hair | mutton  |\n|  smoke | butter | mountain | help  |\n|  news | truth | apple | dress  |\n|  corner | poetry | television | step  |\n|  fish | vacuum | poem | rain  |\n|  cheese | drink | ice | sand  |\n|  glass | clothing | grass | ink  |\n|  sea | onion | coffee | stupidity  |\n|  storm | sky | garlic |   |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991169665569712,
+          "minimum_content_confidence_score": 0.9991169665569712,
+          "block_type_confidence_score": 0.9974466361470575
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 609,
+        "bottom_right_x": 610,
+        "bottom_right_y": 670,
+        "content": "Can you suggest why garlic is an apparent exception. Why is it so rarely a countable? Consider other words like it; mint, celery, rhubarb, etc. What have they in common?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.987750027008804,
+          "minimum_content_confidence_score": 0.6368923586148436,
+          "block_type_confidence_score": 0.9998668609494783
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 688,
+        "bottom_right_x": 124,
+        "bottom_right_y": 729,
+        "content": "1.6\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976203455240071,
+          "minimum_content_confidence_score": 0.992871209011431,
+          "block_type_confidence_score": 0.9998149022336376
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 688,
+        "bottom_right_x": 610,
+        "bottom_right_y": 729,
+        "content": "Exclamations with What a — ! (countables singular)\nWhat — ! (plural, and uncountables)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9901634173342888,
+          "minimum_content_confidence_score": 0.8600356494416241,
+          "block_type_confidence_score": 0.999517197164605
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 327,
+        "top_left_y": 743,
+        "bottom_right_x": 430,
+        "bottom_right_y": 756,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999655102204388,
+          "minimum_content_confidence_score": 0.9999518417671817,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 769,
+        "bottom_right_x": 456,
+        "bottom_right_y": 790,
+        "content": "● Complete the following exclamations:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999969148838208,
+          "minimum_content_confidence_score": 0.9999414716651684,
+          "block_type_confidence_score": 0.9988133699508351
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 792,
+        "bottom_right_x": 402,
+        "bottom_right_y": 989,
+        "content": "1 — good idea!\n2 — grand ideas you have!\n3 — horrible song!\n4 — awful news!\n5 — charming girl!\n6 — lovely eyes she has!\n7 — silly mistake to make!\n8 — hard sentences these are!\n9 — clever student you are!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999647098730706,
+          "minimum_content_confidence_score": 0.9996322554043741,
+          "block_type_confidence_score": 0.9999139382999274
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

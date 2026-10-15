@@ -1,0 +1,227 @@
+{
+  "source": {
+    "id": "pdf-109-left",
+    "pdf_page": 109,
+    "side": "left",
+    "reading_order": 217
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "13 He has given the book to his wife.\n14 If you want to know, that is my dog.\n15 Clumsy Clara must have broken it.\n16 You ought to have finished the work last week.\n17 I don't buy a car because I can't afford one.\n18 Oregon is an American state.\n19 I am going to London with my parents.\n20 I gave £5 for this dog.\n21 She says she has two brothers.\n22 Everybody says he is a good writer.\n23 She is a very charming girl.\n24 Well, I really want both of them.\n25 It took them about four months to make this film.\n\n44.10\nAdvanced\n\nSee Notes to Exercise 44.9.\n\nAdvanced students might like to see the full table of positionals in literary English.\n\n|  here | there | where? (= place)  |\n| --- | --- | --- |\n|  hither | thither | whither? (= to)  |\n|  hence | thence | whence? (= from)  |\n\nIn the modern spoken language, and to a large extent in modern literary English, only the top three remain, being modified by *from* to express direction away; *to* can be used with *where* but is not strictly necessary.\n\nNotice the use of *Whereabouts*? when asking for approximate position.\n\nNote the colloquial form: *How (What) about —ing*\n\nHow about going to the pictures?\n\n— Is it a good idea?\n\n* * *\n\n● Write questions to which the following statements might be the answer. The point of the question appears in **bold type**:\n1 I am taking this garden roller home for my uncle.\n2 My brother is as strong as a horse.\n3 He stole the money for the sake of his starving father.\n4 That magnificent car is my brother's.\n5 They make false teeth by means of a mould.\n6 Iraq produces 5 per cent of England's oil needs.\n7 The human heart is about as big as a clenched fist.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "206\n44 Interrogatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1007,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9715439210256527,
+      "minimum_page_confidence_score": 0.18860449060313805
+    },
+    "blocks": [
+      {
+        "top_left_x": 28,
+        "top_left_y": 23,
+        "bottom_right_x": 62,
+        "bottom_right_y": 42,
+        "content": "206",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998165705506343,
+          "minimum_content_confidence_score": 0.9998165705506343,
+          "block_type_confidence_score": 0.9999951583057622
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 23,
+        "bottom_right_x": 266,
+        "bottom_right_y": 43,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996662921142648,
+          "minimum_content_confidence_score": 0.9994605986182376,
+          "block_type_confidence_score": 0.9991497715421167
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 78,
+        "bottom_right_x": 596,
+        "bottom_right_y": 361,
+        "content": "13 He has given the book to his wife.\n14 If you want to know, that is my dog.\n15 Clumsy Clara must have broken it.\n16 You ought to have finished the work last week.\n17 I don't buy a car because I can't afford one.\n18 Oregon is an American state.\n19 I am going to London with my parents.\n20 I gave £5 for this dog.\n21 She says she has two brothers.\n22 Everybody says he is a good writer.\n23 She is a very charming girl.\n24 Well, I really want both of them.\n25 It took them about four months to make this film.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990484113605885,
+          "minimum_content_confidence_score": 0.9035624680091997,
+          "block_type_confidence_score": 0.982002605538255
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 381,
+        "bottom_right_x": 107,
+        "bottom_right_y": 421,
+        "content": "44.10\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987443837727746,
+          "minimum_content_confidence_score": 0.9971616000498337,
+          "block_type_confidence_score": 0.583746355950542
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 381,
+        "bottom_right_x": 374,
+        "bottom_right_y": 401,
+        "content": "See Notes to Exercise 44.9.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999877381575575,
+          "minimum_content_confidence_score": 0.9999670620505962,
+          "block_type_confidence_score": 0.9999064294658246
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 400,
+        "bottom_right_x": 617,
+        "bottom_right_y": 443,
+        "content": "Advanced students might like to see the full table of positionals in literary English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9891191798599104,
+          "minimum_content_confidence_score": 0.8479418483832788,
+          "block_type_confidence_score": 0.9999920130413283
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 444,
+        "bottom_right_x": 582,
+        "bottom_right_y": 505,
+        "content": "|  here | there | where? (= place)  |\n| --- | --- | --- |\n|  hither | thither | whither? (= to)  |\n|  hence | thence | whence? (= from)  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998825876371413,
+          "minimum_content_confidence_score": 0.999503501528654,
+          "block_type_confidence_score": 0.9577172463681484
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 514,
+        "bottom_right_x": 617,
+        "bottom_right_y": 595,
+        "content": "In the modern spoken language, and to a large extent in modern literary English, only the top three remain, being modified by *from* to express direction away; *to* can be used with *where* but is not strictly necessary.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960138127791186,
+          "minimum_content_confidence_score": 0.8602189216442458,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 594,
+        "bottom_right_x": 617,
+        "bottom_right_y": 635,
+        "content": "Notice the use of *Whereabouts*? when asking for approximate position.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9968502948915742,
+          "minimum_content_confidence_score": 0.9703426869697643,
+          "block_type_confidence_score": 0.9999846222381212
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 634,
+        "bottom_right_x": 563,
+        "bottom_right_y": 654,
+        "content": "Note the colloquial form: *How (What) about —ing*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9974229151079045,
+          "minimum_content_confidence_score": 0.990244249457844,
+          "block_type_confidence_score": 0.999890577847346
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 656,
+        "bottom_right_x": 469,
+        "bottom_right_y": 678,
+        "content": "How about going to the pictures?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999433982450586,
+          "minimum_content_confidence_score": 0.9997846352038625,
+          "block_type_confidence_score": 0.9998669801283535
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 209,
+        "top_left_y": 677,
+        "bottom_right_x": 373,
+        "bottom_right_y": 698,
+        "content": "— Is it a good idea?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9571321493479905,
+          "minimum_content_confidence_score": 0.7543449651945802,
+          "block_type_confidence_score": 0.9398980556560077
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 343,
+        "top_left_y": 708,
+        "bottom_right_x": 434,
+        "bottom_right_y": 723,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979307380638978,
+          "minimum_content_confidence_score": 0.9968416622303735,
+          "block_type_confidence_score": 0.9999806884689187
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 736,
+        "bottom_right_x": 619,
+        "bottom_right_y": 976,
+        "content": "● Write questions to which the following statements might be the answer. The point of the question appears in **bold type**:\n1 I am taking this garden roller home for my uncle.\n2 My brother is as strong as a horse.\n3 He stole the money for the sake of his starving father.\n4 That magnificent car is my brother's.\n5 They make false teeth by means of a mould.\n6 Iraq produces 5 per cent of England's oil needs.\n7 The human heart is about as big as a clenched fist.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.990827989512149,
+          "minimum_content_confidence_score": 0.793329783941104,
+          "block_type_confidence_score": 0.996779831178758
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

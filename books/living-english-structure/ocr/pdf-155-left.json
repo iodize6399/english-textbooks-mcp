@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-155-left",
+    "pdf_page": 155,
+    "side": "left",
+    "reading_order": 309
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "13 When you grow —, you will be allowed to go —  \n— yourself — night, but not — then.14 If you don't want to sit here — the dark, you had  \nbetter put the light —.15 Cats sleep — day and wake — — night.16 He hid a banknote — the pages — a novel —  \nDickens.17 Most — us stayed — your party till it was — 2  \no'clock — the morning, — your sister, who left —  \nmidnight.18 The enemy took — positions exactly — ours.19 People say it is lucky to put — an article of  \nclothing — —.20 The fire has gone —, my family has gone —, and  \nnow the light has gone —; so I must sit here all —  \nmyself — the dark — anyone to talk —.21 If you happen to come — my lost papers while  \nyou're looking — your book, please let me  \nknow — once — telephone.22 These nails may come — handy — hanging —  \npictures.23 My watch has run — because I forgot to wind it —  \n— going — bed last night.24 — lack of help the plans fell —.25 Today's examinations have tired me — so I think  \nI'll turn — early tonight.\n\nNOTE: It is possible for the same verb-adverb compound to have more than one meaning according to context:\n\nThis box is heavy; I must put it down. (*place on ground*)\n\nShall I put his name down, too? (*make note of*)\n\nThe riot was put down by the police. (*suppress*)\n\nI should put him down as a student. (*reckon, consider*)\n\nHe said nothing; we put it down to shyness. (*attribute*)\n\nYou can't get through this door with your umbrella up; you'll have to put it down. (*shut*)\n\nAn amusing contrast between preposition and adverb particle is found in this well-known children's riddle:\n\nQUEST. What can go up a chimney down, but can't go down it up?\n\nANS. An umbrella.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "298\n56 Prepositions and Adverbial Particles",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 999,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.977728568118951,
+      "minimum_page_confidence_score": 0.2257451965098768
+    },
+    "blocks": [
+      {
+        "top_left_x": 18,
+        "top_left_y": 19,
+        "bottom_right_x": 51,
+        "bottom_right_y": 37,
+        "content": "298",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997542508559912,
+          "minimum_content_confidence_score": 0.9997542508559912,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 19,
+        "bottom_right_x": 430,
+        "bottom_right_y": 39,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989041453214668,
+          "minimum_content_confidence_score": 0.9965148137962591,
+          "block_type_confidence_score": 0.9934521168142753
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 73,
+        "bottom_right_x": 605,
+        "bottom_right_y": 641,
+        "content": "13 When you grow —, you will be allowed to go —  \n— yourself — night, but not — then.14 If you don't want to sit here — the dark, you had  \nbetter put the light —.15 Cats sleep — day and wake — — night.16 He hid a banknote — the pages — a novel —  \nDickens.17 Most — us stayed — your party till it was — 2  \no'clock — the morning, — your sister, who left —  \nmidnight.18 The enemy took — positions exactly — ours.19 People say it is lucky to put — an article of  \nclothing — —.20 The fire has gone —, my family has gone —, and  \nnow the light has gone —; so I must sit here all —  \nmyself — the dark — anyone to talk —.21 If you happen to come — my lost papers while  \nyou're looking — your book, please let me  \nknow — once — telephone.22 These nails may come — handy — hanging —  \npictures.23 My watch has run — because I forgot to wind it —  \n— going — bed last night.24 — lack of help the plans fell —.25 Today's examinations have tired me — so I think  \nI'll turn — early tonight.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9947314235466322,
+          "minimum_content_confidence_score": 0.3716868886066565,
+          "block_type_confidence_score": 0.9820019159593563
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 650,
+        "bottom_right_x": 607,
+        "bottom_right_y": 691,
+        "content": "NOTE: It is possible for the same verb-adverb compound to have more than one meaning according to context:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999363574061641,
+          "minimum_content_confidence_score": 0.9892973058407898,
+          "block_type_confidence_score": 0.9999917746265009
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 693,
+        "bottom_right_x": 609,
+        "bottom_right_y": 735,
+        "content": "This box is heavy; I must put it down. (*place on ground*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991067228544833,
+          "minimum_content_confidence_score": 0.9920811800356625,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 734,
+        "bottom_right_x": 570,
+        "bottom_right_y": 755,
+        "content": "Shall I put his name down, too? (*make note of*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999932761494535,
+          "minimum_content_confidence_score": 0.9996759816070968,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 755,
+        "bottom_right_x": 566,
+        "bottom_right_y": 775,
+        "content": "The riot was put down by the police. (*suppress*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998193009552764,
+          "minimum_content_confidence_score": 0.9986885064754808,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 775,
+        "bottom_right_x": 609,
+        "bottom_right_y": 795,
+        "content": "I should put him down as a student. (*reckon, consider*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998731295944108,
+          "minimum_content_confidence_score": 0.9990287962965457,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 795,
+        "bottom_right_x": 609,
+        "bottom_right_y": 815,
+        "content": "He said nothing; we put it down to shyness. (*attribute*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998577698961467,
+          "minimum_content_confidence_score": 0.9992999600729552,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 815,
+        "bottom_right_x": 609,
+        "bottom_right_y": 855,
+        "content": "You can't get through this door with your umbrella up; you'll have to put it down. (*shut*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9775538469070132,
+          "minimum_content_confidence_score": 0.7401796528054432,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 863,
+        "bottom_right_x": 609,
+        "bottom_right_y": 903,
+        "content": "An amusing contrast between preposition and adverb particle is found in this well-known children's riddle:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995914923959827,
+          "minimum_content_confidence_score": 0.9945539943015668,
+          "block_type_confidence_score": 0.9999941587791524
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 906,
+        "bottom_right_x": 609,
+        "bottom_right_y": 946,
+        "content": "QUEST. What can go up a chimney down, but can't go down it up?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998758057204821,
+          "minimum_content_confidence_score": 0.999196354905773,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 947,
+        "bottom_right_x": 300,
+        "bottom_right_y": 966,
+        "content": "ANS. An umbrella.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997651051278321,
+          "minimum_content_confidence_score": 0.9996807482729823,
+          "block_type_confidence_score": 0.9999825957461574
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

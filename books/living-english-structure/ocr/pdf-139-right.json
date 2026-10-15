@@ -1,0 +1,96 @@
+{
+  "source": {
+    "id": "pdf-139-right",
+    "pdf_page": 139,
+    "side": "right",
+    "reading_order": 278
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "tomorrow. I do hope it won't rain. (He wondered who . . .)\n\n9 Do as I tell you or you will be punished. I'll teach you who is master in this house!\n10 When you have cleaned the sitting-room, will you please light a fire there? It's rather chilly today. (It is better to do the request before the subordinate clause.)\n11 I'm glad I've found you out, you dirty little thief!\n12 Listen! Can you hear someone coming?\n13 Please excuse me. I'm too tired to go out tonight.\n14 Have you ever been to the Lake District? It is most delightful walking country.\n15 The lawn-mower is broken again. Go and ask if you can borrow Mr Jennings's.\n16 Are there any ripe blackberries on that bush? If so, we can take some home for a pie.\n17 That picture is crooked. Would you mind putting it straight?\n18 I'm going to the library this morning. Shall I change your book for you?\n19 Stop! Wait for me! I won't be a moment!\n20 I'm so sorry! Did I hurt you?\n21 I must go home in an hour's time. I must always be in before eight o'clock.\n22 Make me another suit like this. Don't forget to put in a good lining. I hope to call for it in a week.\n23 If you can supply me with these goods, please let me know.\n24 I've always thought your sister was married. I must have confused her with someone else. I must go now, but you must introduce me to her one day.\n25 How many pieces of watermelon can you eat? What! Only five? What a tiny appetite you have!",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n267",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9825264472597925,
+      "minimum_page_confidence_score": 0.28191914265259416
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 24,
+        "bottom_right_x": 317,
+        "bottom_right_y": 46,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9728439586799399,
+          "minimum_content_confidence_score": 0.918658108539606,
+          "block_type_confidence_score": 0.9999036752479332
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 616,
+        "top_left_y": 24,
+        "bottom_right_x": 649,
+        "bottom_right_y": 43,
+        "content": "267",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999573248944438,
+          "minimum_content_confidence_score": 0.9999573248944438,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 79,
+        "bottom_right_x": 566,
+        "bottom_right_y": 124,
+        "content": "tomorrow. I do hope it won't rain. (He wondered who . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9821326485840449,
+          "minimum_content_confidence_score": 0.8654369847949701,
+          "block_type_confidence_score": 0.9999313401638235
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 123,
+        "bottom_right_x": 651,
+        "bottom_right_y": 840,
+        "content": "9 Do as I tell you or you will be punished. I'll teach you who is master in this house!\n10 When you have cleaned the sitting-room, will you please light a fire there? It's rather chilly today. (It is better to do the request before the subordinate clause.)\n11 I'm glad I've found you out, you dirty little thief!\n12 Listen! Can you hear someone coming?\n13 Please excuse me. I'm too tired to go out tonight.\n14 Have you ever been to the Lake District? It is most delightful walking country.\n15 The lawn-mower is broken again. Go and ask if you can borrow Mr Jennings's.\n16 Are there any ripe blackberries on that bush? If so, we can take some home for a pie.\n17 That picture is crooked. Would you mind putting it straight?\n18 I'm going to the library this morning. Shall I change your book for you?\n19 Stop! Wait for me! I won't be a moment!\n20 I'm so sorry! Did I hurt you?\n21 I must go home in an hour's time. I must always be in before eight o'clock.\n22 Make me another suit like this. Don't forget to put in a good lining. I hope to call for it in a week.\n23 If you can supply me with these goods, please let me know.\n24 I've always thought your sister was married. I must have confused her with someone else. I must go now, but you must introduce me to her one day.\n25 How many pieces of watermelon can you eat? What! Only five? What a tiny appetite you have!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993601630525237,
+          "minimum_content_confidence_score": 0.9127032390064501,
+          "block_type_confidence_score": 0.9796587236866112
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

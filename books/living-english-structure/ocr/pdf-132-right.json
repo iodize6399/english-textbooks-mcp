@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-132-right",
+    "pdf_page": 132,
+    "side": "right",
+    "reading_order": 264
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "I shall expect you to be able to repeat it next lesson by heart. You will have to learn it all again if you can't.\n\n19¹ I waited for you yesterday till six o'clock, but you didn't come. I thought you would come later, so I left a message with the porter.\n20¹ I don't believe a word you are saying. I think it would be better for everybody if you spoke the truth. This is not the first time you have deceived me, and I hope it won't occur again.\n\n# REPORTED SPEECH (QUESTIONS)\n\n# 51.7 Elementary\n\nThe word-order of REPORTED QUESTIONS is the same as a simple STATEMENT; there is no inversion as in a simple question. In questions introduced by a question-word (who, what, how, when, etc.), this word serves as a link between the introducing verb and the reported question. See also Exercise 47.3.\n\n'What is your name?' ('My name is X')\nHe asked me what my name was.\n\n* * *\n\n● Put the following sentences into REPORTED SPEECH with the introducing verb in the PAST tense. Vary the introducing verb: he asked, enquired, wondered, wanted to know, etc.\n1 Where are you going? (He asked me . . .)\n2 How did you do that? (They wanted to know . . .)\n3 Who will come to the pictures with me?\n4 When will my dress be finished?\n5 Why are you so sad?\n6 What is the matter?\n7 Which book are you taking?\n8 Where ought we to meet tonight?\n9 Who showed you my work?\n10 How could you be so unkind?\n11 When did they tell you that?\n12 Why has she not eaten anything?\n13 What am I to do?\n14 What is the time?\n\n¹ In the second part of these two sentences it is quite convenient to use the verb think (appearing in the words spoken) as introducing verb for that part of the report.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "51 Reported Speech\n253",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1017,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9723958335148932,
+      "minimum_page_confidence_score": 0.21933392498857776
+    },
+    "blocks": [
+      {
+        "top_left_x": 137,
+        "top_left_y": 22,
+        "bottom_right_x": 313,
+        "bottom_right_y": 44,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996632240684811,
+          "minimum_content_confidence_score": 0.999109227905749,
+          "block_type_confidence_score": 0.9999206165946336
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 614,
+        "top_left_y": 22,
+        "bottom_right_x": 647,
+        "bottom_right_y": 41,
+        "content": "253",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998384974941088,
+          "minimum_content_confidence_score": 0.9998384974941088,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 77,
+        "bottom_right_x": 597,
+        "bottom_right_y": 144,
+        "content": "I shall expect you to be able to repeat it next lesson by heart. You will have to learn it all again if you can't.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986115204258433,
+          "minimum_content_confidence_score": 0.969576258753663,
+          "block_type_confidence_score": 0.9999907017622996
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 143,
+        "bottom_right_x": 647,
+        "bottom_right_y": 296,
+        "content": "19¹ I waited for you yesterday till six o'clock, but you didn't come. I thought you would come later, so I left a message with the porter.\n20¹ I don't believe a word you are saying. I think it would be better for everybody if you spoke the truth. This is not the first time you have deceived me, and I hope it won't occur again.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999850057962857,
+          "minimum_content_confidence_score": 0.9915694354853184,
+          "block_type_confidence_score": 0.8518987698570675
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 323,
+        "bottom_right_x": 498,
+        "bottom_right_y": 344,
+        "content": "# REPORTED SPEECH (QUESTIONS)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.953066141385672,
+          "minimum_content_confidence_score": 0.8807761391677362,
+          "block_type_confidence_score": 0.777146573365006
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 361,
+        "bottom_right_x": 142,
+        "bottom_right_y": 402,
+        "content": "# 51.7 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9130050966397909,
+          "minimum_content_confidence_score": 0.7509569412633607,
+          "block_type_confidence_score": 0.8329622598284918
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 361,
+        "bottom_right_x": 649,
+        "bottom_right_y": 481,
+        "content": "The word-order of REPORTED QUESTIONS is the same as a simple STATEMENT; there is no inversion as in a simple question. In questions introduced by a question-word (who, what, how, when, etc.), this word serves as a link between the introducing verb and the reported question. See also Exercise 47.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999171647570465,
+          "minimum_content_confidence_score": 0.9970883054488839,
+          "block_type_confidence_score": 0.9999897481064004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 213,
+        "top_left_y": 484,
+        "bottom_right_x": 554,
+        "bottom_right_y": 524,
+        "content": "'What is your name?' ('My name is X')\nHe asked me what my name was.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989089459301335,
+          "minimum_content_confidence_score": 0.9940570498197602,
+          "block_type_confidence_score": 0.9997385232067433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 357,
+        "top_left_y": 538,
+        "bottom_right_x": 461,
+        "bottom_right_y": 552,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982853436874694,
+          "minimum_content_confidence_score": 0.9966934938646947,
+          "block_type_confidence_score": 0.9999961853172863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 563,
+        "bottom_right_x": 651,
+        "bottom_right_y": 929,
+        "content": "● Put the following sentences into REPORTED SPEECH with the introducing verb in the PAST tense. Vary the introducing verb: he asked, enquired, wondered, wanted to know, etc.\n1 Where are you going? (He asked me . . .)\n2 How did you do that? (They wanted to know . . .)\n3 Who will come to the pictures with me?\n4 When will my dress be finished?\n5 Why are you so sad?\n6 What is the matter?\n7 Which book are you taking?\n8 Where ought we to meet tonight?\n9 Who showed you my work?\n10 How could you be so unkind?\n11 When did they tell you that?\n12 Why has she not eaten anything?\n13 What am I to do?\n14 What is the time?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998456615314661,
+          "minimum_content_confidence_score": 0.887573966989349,
+          "block_type_confidence_score": 0.9996006891901057
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 933,
+        "bottom_right_x": 653,
+        "bottom_right_y": 990,
+        "content": "¹ In the second part of these two sentences it is quite convenient to use the verb think (appearing in the words spoken) as introducing verb for that part of the report.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9920229637443965,
+          "minimum_content_confidence_score": 0.746539877325541,
+          "block_type_confidence_score": 0.6931312718784213
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

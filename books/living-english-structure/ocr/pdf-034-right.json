@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-034-right",
+    "pdf_page": 34,
+    "side": "right",
+    "reading_order": 68
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "15 Cyril didn't understand any of your jokes. (I)\n16 I can't eat any more. (my small brother)\n17 The ant works very hard. (I)\n18 Jean gave them a beautiful wedding present. (James)\n19 Alexander was a famous general. (Hannibal)\n20 The maid never finishes her work properly. (the cook)\n\n19.14\n\nElementary\n\nCONTRARY\n\nADDITIONS\n\nTO REMARKS\n\nHere the appropriate auxiliary is introduced by *but*.\n\nHe can read French. – But I can't.\n\nThe stress is generally on the SUBJECT of the addition.\n\nNotice that in all these additions to remarks, the added section may be spoken by the original speaker or by a second person.\n\n* * *\n\n● Read the following remarks and add a contrary statement, either freely or using the suggestion in brackets:\n\n1 She wants to go to the pictures. (I)\n2 We can come tomorrow. (they)\n3 I have a lot of time. (he)\n4 My wife likes playing bridge. (I)\n5 My knife cuts very well. (my friend's)\n6 Her dress looked lovely. (she)\n7 You were very late. (your mother)\n8 The others went for a swim. (I)\n9 The king spoke to us. (the queen)\n10 Your room is quite large. (mine)\n11 I know her very well. (he)\n12 He was pleased to see me. (you)\n13 I can write with my left hand. (you)\n14 Trees grow very well here. (grass)\n15 He's a very good student. (you)\n16 The door is open. (window)\n17 I left early. (my brother)\n18 The buses were full. (trams)\n19 He always makes mistakes. (you)\n20 A cat can climb trees. (a dog)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "19 Short-form Responses using Auxiliary Verbs\n57",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1006,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.968140682054042,
+      "minimum_page_confidence_score": 0.22770230528230428
+    },
+    "blocks": [
+      {
+        "top_left_x": 140,
+        "top_left_y": 24,
+        "bottom_right_x": 540,
+        "bottom_right_y": 46,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999891382895539,
+          "minimum_content_confidence_score": 0.9996561568403759,
+          "block_type_confidence_score": 0.9997135874949921
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 630,
+        "top_left_y": 26,
+        "bottom_right_x": 656,
+        "bottom_right_y": 45,
+        "content": "57",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999158453261717,
+          "minimum_content_confidence_score": 0.9999158453261717,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 138,
+        "top_left_y": 80,
+        "bottom_right_x": 618,
+        "bottom_right_y": 256,
+        "content": "15 Cyril didn't understand any of your jokes. (I)\n16 I can't eat any more. (my small brother)\n17 The ant works very hard. (I)\n18 Jean gave them a beautiful wedding present. (James)\n19 Alexander was a famous general. (Hannibal)\n20 The maid never finishes her work properly. (the cook)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997586389414227,
+          "minimum_content_confidence_score": 0.9378913550092458,
+          "block_type_confidence_score": 0.9988165810665972
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 274,
+        "bottom_right_x": 100,
+        "bottom_right_y": 294,
+        "content": "19.14",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952844899513755,
+          "minimum_content_confidence_score": 0.9952844899513755,
+          "block_type_confidence_score": 0.81163726259119
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 295,
+        "bottom_right_x": 142,
+        "bottom_right_y": 315,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999863745707119,
+          "minimum_content_confidence_score": 0.9999863745707119,
+          "block_type_confidence_score": 0.9995323223642104
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 317,
+        "bottom_right_x": 135,
+        "bottom_right_y": 334,
+        "content": "CONTRARY",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985833000918052,
+          "minimum_content_confidence_score": 0.9985833000918052,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 337,
+        "bottom_right_x": 135,
+        "bottom_right_y": 354,
+        "content": "ADDITIONS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999657881375944,
+          "minimum_content_confidence_score": 0.9999657881375944,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 46,
+        "top_left_y": 357,
+        "bottom_right_x": 148,
+        "bottom_right_y": 374,
+        "content": "TO REMARKS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996890219336233,
+          "minimum_content_confidence_score": 0.9995604008183697,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 275,
+        "bottom_right_x": 606,
+        "bottom_right_y": 298,
+        "content": "Here the appropriate auxiliary is introduced by *but*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9772898297722403,
+          "minimum_content_confidence_score": 0.8183726390409477,
+          "block_type_confidence_score": 0.9999046416627282
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 214,
+        "top_left_y": 300,
+        "bottom_right_x": 501,
+        "bottom_right_y": 319,
+        "content": "He can read French. – But I can't.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9454856466350278,
+          "minimum_content_confidence_score": 0.5668932434157083,
+          "block_type_confidence_score": 0.9999142958679805
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 329,
+        "bottom_right_x": 615,
+        "bottom_right_y": 351,
+        "content": "The stress is generally on the SUBJECT of the addition.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998983906788187,
+          "minimum_content_confidence_score": 0.9901085992640468,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 350,
+        "bottom_right_x": 656,
+        "bottom_right_y": 409,
+        "content": "Notice that in all these additions to remarks, the added section may be spoken by the original speaker or by a second person.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994954696459852,
+          "minimum_content_confidence_score": 0.9886109383899292,
+          "block_type_confidence_score": 0.9999825957461574
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 358,
+        "top_left_y": 425,
+        "bottom_right_x": 464,
+        "bottom_right_y": 438,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9910274411201789,
+          "minimum_content_confidence_score": 0.9771182434184085,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 449,
+        "bottom_right_x": 654,
+        "bottom_right_y": 489,
+        "content": "● Read the following remarks and add a contrary statement, either freely or using the suggestion in brackets:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980452418683412,
+          "minimum_content_confidence_score": 0.9652085258623536,
+          "block_type_confidence_score": 0.5926178524150955
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 138,
+        "top_left_y": 505,
+        "bottom_right_x": 522,
+        "bottom_right_y": 943,
+        "content": "1 She wants to go to the pictures. (I)\n2 We can come tomorrow. (they)\n3 I have a lot of time. (he)\n4 My wife likes playing bridge. (I)\n5 My knife cuts very well. (my friend's)\n6 Her dress looked lovely. (she)\n7 You were very late. (your mother)\n8 The others went for a swim. (I)\n9 The king spoke to us. (the queen)\n10 Your room is quite large. (mine)\n11 I know her very well. (he)\n12 He was pleased to see me. (you)\n13 I can write with my left hand. (you)\n14 Trees grow very well here. (grass)\n15 He's a very good student. (you)\n16 The door is open. (window)\n17 I left early. (my brother)\n18 The buses were full. (trams)\n19 He always makes mistakes. (you)\n20 A cat can climb trees. (a dog)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999780767345339,
+          "minimum_content_confidence_score": 0.9985695112466125,
+          "block_type_confidence_score": 0.9996920580589
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-041-left",
+    "pdf_page": 41,
+    "side": "left",
+    "reading_order": 81
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "3 Must they leave before supper or have they time to stay until my friends come?\n4 They may go to London but they are not certain yet.\n5 These books cost more than my friends want to pay.\n6 Those ladies play tennis well, but they cannot swim.\n7 Where have they been today and where do they go tomorrow?\n8 When will these girls finish the exercises they were doing last week?\n9 My children get up very early and must walk to school every day.\n10 Little boys sometimes push little girls and pull their hair.\n11 Our fathers work in an office and do not come home for lunch.\n12 They cannot speak French and have never learnt English.\n13 If your friends are tired, they ought to spend a holiday by the sea.\n14 Why do they open all the windows and let the flies come in?\n15 They think that their friends may come later.\n16 Their teachers tell them that they make too many mistakes in their homework.\n17 If students read their homework when they have finished it, they will generally find many mistakes themselves.\n18 They go to work by car and come home on foot.\n19 They do not believe her stories because they know they are not true.\n20 Can the police find the books they have lost?\n\n# PRESENT TENSE\n\n# 21.7 Elementary\n\nMake sure the fundamental distinction between the PRESENT SIMPLE and CONTINUOUS is well understood.\nPRESENT SIMPLE. Habitual actions and general truths; not necessarily NOW.\nPRESENT CONTINUOUS, the REAL PRESENT = NOW at this moment.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "70\n21 The Present Tense",
+    "footer": "* * *",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9768910396263775,
+      "minimum_page_confidence_score": 0.31316097550647687
+    },
+    "blocks": [
+      {
+        "top_left_x": 15,
+        "top_left_y": 12,
+        "bottom_right_x": 38,
+        "bottom_right_y": 31,
+        "content": "70",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998628089343713,
+          "minimum_content_confidence_score": 0.9998628089343713,
+          "block_type_confidence_score": 0.9999346984022518
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 12,
+        "bottom_right_x": 290,
+        "bottom_right_y": 31,
+        "content": "21 The Present Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995923586146982,
+          "minimum_content_confidence_score": 0.9991305288036075,
+          "block_type_confidence_score": 0.9887954020745061
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 104,
+        "top_left_y": 65,
+        "bottom_right_x": 600,
+        "bottom_right_y": 784,
+        "content": "3 Must they leave before supper or have they time to stay until my friends come?\n4 They may go to London but they are not certain yet.\n5 These books cost more than my friends want to pay.\n6 Those ladies play tennis well, but they cannot swim.\n7 Where have they been today and where do they go tomorrow?\n8 When will these girls finish the exercises they were doing last week?\n9 My children get up very early and must walk to school every day.\n10 Little boys sometimes push little girls and pull their hair.\n11 Our fathers work in an office and do not come home for lunch.\n12 They cannot speak French and have never learnt English.\n13 If your friends are tired, they ought to spend a holiday by the sea.\n14 Why do they open all the windows and let the flies come in?\n15 They think that their friends may come later.\n16 Their teachers tell them that they make too many mistakes in their homework.\n17 If students read their homework when they have finished it, they will generally find many mistakes themselves.\n18 They go to work by car and come home on foot.\n19 They do not believe her stories because they know they are not true.\n20 Can the police find the books they have lost?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970388659287975,
+          "minimum_content_confidence_score": 0.6972515948329581,
+          "block_type_confidence_score": 0.9924193317264233
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 803,
+        "bottom_right_x": 300,
+        "bottom_right_y": 823,
+        "content": "# PRESENT TENSE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9613004062759454,
+          "minimum_content_confidence_score": 0.9046482681716913,
+          "block_type_confidence_score": 0.7223511361988844
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 15,
+        "top_left_y": 826,
+        "bottom_right_x": 108,
+        "bottom_right_y": 868,
+        "content": "# 21.7 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9018851359096706,
+          "minimum_content_confidence_score": 0.7269839311115501,
+          "block_type_confidence_score": 0.7496013405837427
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 826,
+        "bottom_right_x": 602,
+        "bottom_right_y": 946,
+        "content": "Make sure the fundamental distinction between the PRESENT SIMPLE and CONTINUOUS is well understood.\nPRESENT SIMPLE. Habitual actions and general truths; not necessarily NOW.\nPRESENT CONTINUOUS, the REAL PRESENT = NOW at this moment.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99614256107788,
+          "minimum_content_confidence_score": 0.880647343886446,
+          "block_type_confidence_score": 0.9976394003187178
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 320,
+        "top_left_y": 961,
+        "bottom_right_x": 422,
+        "bottom_right_y": 975,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975132816754417,
+          "minimum_content_confidence_score": 0.9930854863530633,
+          "block_type_confidence_score": 0.9361889937347098
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

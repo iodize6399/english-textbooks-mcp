@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-019-right",
+    "pdf_page": 19,
+    "side": "right",
+    "reading_order": 38
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "7 They're dirty; I want neither of them.\n8 I spoke to no one except you.\n9 My friend Cyril would talk to nobody like her.\n10 We had no money for our fare.\n11 Why do you think an Englishman speaks no language but his own?\n12 I've read no poetry since I was at school.\n13 I've been nowhere this summer. I've had no time.\n14 I'll speak neither to him nor to his wife.\n15 We met nobody on the way, and we saw nothing unusual.\n16 My car needs no new tyres.\n17 I've been nowhere else.\n18 He could remember neither the words nor the music.\n19 I wonder why he told me nothing else.\n20 I have no more money, so I can buy nothing else.\n\n12.4 Intermediate Read note to Exercise 12.2. Short negative answers in no-form.\n\nWhat are you doing? – Nothing.\n\nWhich of the two do you want? – Neither.\n\n* * *\n\n● Answer the following questions in the negative; respond quickly:\n1 Which of these two books have you read?\n2 Who did you meet in the park last night?\n3 Where have you been?\n4 What have you done with it?\n5 What are you whispering to Maisie about?\n6 How many glasses did you break at the party?\n7 What were you doing in the garden just now?\n8 Who made that dirty mark on the ceiling?\n9 What did you see when you opened the door?\n10 Which shoe of this pair is too tight?\n11 How many exercises have you done for me this week?\n12 Where did Cyril take you?\n13 What are you doing next weekend?\n14 Which of these two umbrellas is mine?\n15 How many letters did you get this morning?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "12 no = not . . . any\n27",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 995,
+      "width": 671
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9741329062110904,
+      "minimum_page_confidence_score": 0.12999486686741446
+    },
+    "blocks": [
+      {
+        "top_left_x": 144,
+        "top_left_y": 19,
+        "bottom_right_x": 320,
+        "bottom_right_y": 39,
+        "content": "12 no = not . . . any",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9222257291616931,
+          "minimum_content_confidence_score": 0.6908594984453335,
+          "block_type_confidence_score": 0.9999597831813587
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 19,
+        "bottom_right_x": 642,
+        "bottom_right_y": 37,
+        "content": "27",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99998879445232,
+          "minimum_content_confidence_score": 0.99998879445232,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 72,
+        "bottom_right_x": 635,
+        "bottom_right_y": 433,
+        "content": "7 They're dirty; I want neither of them.\n8 I spoke to no one except you.\n9 My friend Cyril would talk to nobody like her.\n10 We had no money for our fare.\n11 Why do you think an Englishman speaks no language but his own?\n12 I've read no poetry since I was at school.\n13 I've been nowhere this summer. I've had no time.\n14 I'll speak neither to him nor to his wife.\n15 We met nobody on the way, and we saw nothing unusual.\n16 My car needs no new tyres.\n17 I've been nowhere else.\n18 He could remember neither the words nor the music.\n19 I wonder why he told me nothing else.\n20 I have no more money, so I can buy nothing else.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996652044113847,
+          "minimum_content_confidence_score": 0.9663183882068606,
+          "block_type_confidence_score": 0.9902861481779522
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 57,
+        "top_left_y": 452,
+        "bottom_right_x": 646,
+        "bottom_right_y": 491,
+        "content": "12.4 Intermediate Read note to Exercise 12.2. Short negative answers in no-form.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9697843554013942,
+          "minimum_content_confidence_score": 0.6791283789757705,
+          "block_type_confidence_score": 0.6160246615482481
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 494,
+        "bottom_right_x": 482,
+        "bottom_right_y": 515,
+        "content": "What are you doing? – Nothing.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9360051756565916,
+          "minimum_content_confidence_score": 0.6161705958895048,
+          "block_type_confidence_score": 0.999594137937033
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 514,
+        "bottom_right_x": 567,
+        "bottom_right_y": 534,
+        "content": "Which of the two do you want? – Neither.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999761848644153,
+          "minimum_content_confidence_score": 0.9999021387495836,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 358,
+        "top_left_y": 547,
+        "bottom_right_x": 461,
+        "bottom_right_y": 561,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998124697434397,
+          "minimum_content_confidence_score": 0.9963426138255441,
+          "block_type_confidence_score": 0.9999862911193472
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 571,
+        "bottom_right_x": 645,
+        "bottom_right_y": 953,
+        "content": "● Answer the following questions in the negative; respond quickly:\n1 Which of these two books have you read?\n2 Who did you meet in the park last night?\n3 Where have you been?\n4 What have you done with it?\n5 What are you whispering to Maisie about?\n6 How many glasses did you break at the party?\n7 What were you doing in the garden just now?\n8 Who made that dirty mark on the ceiling?\n9 What did you see when you opened the door?\n10 Which shoe of this pair is too tight?\n11 How many exercises have you done for me this week?\n12 Where did Cyril take you?\n13 What are you doing next weekend?\n14 Which of these two umbrellas is mine?\n15 How many letters did you get this morning?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970664886025912,
+          "minimum_content_confidence_score": 0.7017387851936104,
+          "block_type_confidence_score": 0.9998132339339738
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

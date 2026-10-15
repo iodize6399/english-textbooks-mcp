@@ -1,0 +1,109 @@
+{
+  "source": {
+    "id": "pdf-101-right",
+    "pdf_page": 101,
+    "side": "right",
+    "reading_order": 202
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:23.313148+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "Are you opposed to (Do you object to) my leaving early?\n\n* * *\n\n- Put the verbs between brackets into their correct form (notice any alternatives that might give a different meaning):\n1 Have you ever watched people (try) (catch) fish?\n2 If you dislike (peel) onions, try (hold) them under water while (do) so.\n3 There'll be an opportunity (ask) questions before (leave) the hall after (hear) the lecture.\n4 His ideas are well worth (listen to) in spite of (they, sound) so unpractical.\n5 I hoped (arrange) (come) early (help) (put) the room in order for the party.\n6 I know you will pardon (I, say) so, but you keep (give) us too many hard words (spell) in English.\n7 I've had occasion (complain) of (he, come) late again.\n8 It's silly (risk) (get) your feet wet.\n9 Stop (make) a fool of yourself by (keep on) (repeat) the same question.\n10 I must remember (remind) Cyril that the garden needs (water).\n11 I remember (allow) them (play) in my garden without first (ask) for permission.\n12 We mustn't risk (be) late for the concert. I put off (go) last week, and I don't want (miss) (hear) him again.\n13 I appreciate (you, not want) (mention) (he, have) been to prison before (come) to work for us.\n14 Is it any use (I, ask) you (insist) on (John, be) present without (wait) for any further invitation?\n15 I recollect (my grandfather, say) that if a job was worth (do) at all it was worth (do) well.\n16 He likes (read) crime stories so I can't understand (he, be) unable to resist (look at) the end of the book first.\n17 I don't mind (the children, play) in the garden, but I won't have (they, walk) over my flowers.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "40 Infinitive and Gerund\n191",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1019,
+      "width": 696
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9817911344991354,
+      "minimum_page_confidence_score": 0.2782759194946611
+    },
+    "blocks": [
+      {
+        "top_left_x": 149,
+        "top_left_y": 20,
+        "bottom_right_x": 365,
+        "bottom_right_y": 40,
+        "content": "40 Infinitive and Gerund",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980790987843048,
+          "minimum_content_confidence_score": 0.9926282080110869,
+          "block_type_confidence_score": 0.9999543369747688
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 642,
+        "top_left_y": 19,
+        "bottom_right_x": 673,
+        "bottom_right_y": 38,
+        "content": "191",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996790724053007,
+          "minimum_content_confidence_score": 0.9996790724053007,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 225,
+        "top_left_y": 75,
+        "bottom_right_x": 676,
+        "bottom_right_y": 117,
+        "content": "Are you opposed to (Do you object to) my leaving early?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996370195702695,
+          "minimum_content_confidence_score": 0.9961537786705075,
+          "block_type_confidence_score": 0.9900015673720948
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 374,
+        "top_left_y": 133,
+        "bottom_right_x": 481,
+        "bottom_right_y": 146,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8712827266503358,
+          "minimum_content_confidence_score": 0.6172761398797725,
+          "block_type_confidence_score": 0.9999953508594287
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 157,
+        "bottom_right_x": 679,
+        "bottom_right_y": 984,
+        "content": "- Put the verbs between brackets into their correct form (notice any alternatives that might give a different meaning):\n1 Have you ever watched people (try) (catch) fish?\n2 If you dislike (peel) onions, try (hold) them under water while (do) so.\n3 There'll be an opportunity (ask) questions before (leave) the hall after (hear) the lecture.\n4 His ideas are well worth (listen to) in spite of (they, sound) so unpractical.\n5 I hoped (arrange) (come) early (help) (put) the room in order for the party.\n6 I know you will pardon (I, say) so, but you keep (give) us too many hard words (spell) in English.\n7 I've had occasion (complain) of (he, come) late again.\n8 It's silly (risk) (get) your feet wet.\n9 Stop (make) a fool of yourself by (keep on) (repeat) the same question.\n10 I must remember (remind) Cyril that the garden needs (water).\n11 I remember (allow) them (play) in my garden without first (ask) for permission.\n12 We mustn't risk (be) late for the concert. I put off (go) last week, and I don't want (miss) (hear) him again.\n13 I appreciate (you, not want) (mention) (he, have) been to prison before (come) to work for us.\n14 Is it any use (I, ask) you (insist) on (John, be) present without (wait) for any further invitation?\n15 I recollect (my grandfather, say) that if a job was worth (do) at all it was worth (do) well.\n16 He likes (read) crime stories so I can't understand (he, be) unable to resist (look at) the end of the book first.\n17 I don't mind (the children, play) in the garden, but I won't have (they, walk) over my flowers.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9974539545181207,
+          "minimum_content_confidence_score": 0.5621269794372451,
+          "block_type_confidence_score": 0.9902765620892156
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

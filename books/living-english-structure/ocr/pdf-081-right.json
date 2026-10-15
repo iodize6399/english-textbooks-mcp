@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-081-right",
+    "pdf_page": 81,
+    "side": "right",
+    "reading_order": 162
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:09.402870+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "11 Flowers will not grow well unless . . .\n12 A violinist must practise if . . .\n13 You could live more cheaply if . . .\n14 I don't like tea unless . . .\n15 I should have won the prize if . . .\n16 The soup will get cold unless . . .\n17 We would have gone to the cinema with you if . . .\n18 You would be ill if . . .\n19 I cannot wake at six o'clock unless . . .\n20 She will play the piano for you if . . .\n21 My friend would have helped you if . . .\n22 The photograph would have been better if . . .\n23 If I had plenty of money, . . .\n24 Get ready quickly if . . .\n25 I don't like meat unless . . .\n\n31.9\n\nIntermediate\n\n● Complete the following conditionals:\n1 If your message had not come, . . .\n2 If you had worked harder, . . .\n3 Why didn't you do it if . . .\n4 He will not come unless . . .\n5 I should not have lost my money if . . .\n6 If you don't visit me soon, I . . .\n7 If I met your friend Maisie in the street, . . .\n8 If I had been in love with him (her), . . .\n9 You would be very angry with us if . . .\n10 You would not have been angry with us if . . .\n11 If I were you, . . .\n12 If I had known he was here, . . .\n13 If he wants to see me, . . .\n14 If I know the details before next week, . . .\n15 We shall be very disappointed if . . .\n16 He wouldn't have listened to me if . . .\n17 Come before seven o'clock if . . .\n18 I shall not pay you unless . . .\n19 Unless someone tells me the way, . . .\n20 If the Seine overflowed its banks, . . .\n21 Unless you go to France, . . .\n22 If she were a good girl, . . .\n23 If you had been a faithful wife, . . .\n24 I would not have liked your friend Cyril if . . .\n25 If our teacher were not so severe, . . .",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "31 Conditions and Unreal Past\n151",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9810643075217451,
+      "minimum_page_confidence_score": 0.07871627057885028
+    },
+    "blocks": [
+      {
+        "top_left_x": 142,
+        "top_left_y": 22,
+        "bottom_right_x": 404,
+        "bottom_right_y": 43,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998926119844537,
+          "minimum_content_confidence_score": 0.9997100478977962,
+          "block_type_confidence_score": 0.9989601371937991
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 21,
+        "bottom_right_x": 651,
+        "bottom_right_y": 40,
+        "content": "151",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999221623902257,
+          "minimum_content_confidence_score": 0.9999221623902257,
+          "block_type_confidence_score": 0.9999996148625269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 77,
+        "bottom_right_x": 647,
+        "bottom_right_y": 404,
+        "content": "11 Flowers will not grow well unless . . .\n12 A violinist must practise if . . .\n13 You could live more cheaply if . . .\n14 I don't like tea unless . . .\n15 I should have won the prize if . . .\n16 The soup will get cold unless . . .\n17 We would have gone to the cinema with you if . . .\n18 You would be ill if . . .\n19 I cannot wake at six o'clock unless . . .\n20 She will play the piano for you if . . .\n21 My friend would have helped you if . . .\n22 The photograph would have been better if . . .\n23 If I had plenty of money, . . .\n24 Get ready quickly if . . .\n25 I don't like meat unless . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981939138355,
+          "minimum_content_confidence_score": 0.773696881880981,
+          "block_type_confidence_score": 0.9913750244994615
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 423,
+        "bottom_right_x": 95,
+        "bottom_right_y": 444,
+        "content": "31.9",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984974067283992,
+          "minimum_content_confidence_score": 0.9984974067283992,
+          "block_type_confidence_score": 0.8030986588764832
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 445,
+        "bottom_right_x": 157,
+        "bottom_right_y": 465,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997675015650002,
+          "minimum_content_confidence_score": 0.9997675015650002,
+          "block_type_confidence_score": 0.9987132439227534
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 423,
+        "bottom_right_x": 608,
+        "bottom_right_y": 993,
+        "content": "● Complete the following conditionals:\n1 If your message had not come, . . .\n2 If you had worked harder, . . .\n3 Why didn't you do it if . . .\n4 He will not come unless . . .\n5 I should not have lost my money if . . .\n6 If you don't visit me soon, I . . .\n7 If I met your friend Maisie in the street, . . .\n8 If I had been in love with him (her), . . .\n9 You would be very angry with us if . . .\n10 You would not have been angry with us if . . .\n11 If I were you, . . .\n12 If I had known he was here, . . .\n13 If he wants to see me, . . .\n14 If I know the details before next week, . . .\n15 We shall be very disappointed if . . .\n16 He wouldn't have listened to me if . . .\n17 Come before seven o'clock if . . .\n18 I shall not pay you unless . . .\n19 Unless someone tells me the way, . . .\n20 If the Seine overflowed its banks, . . .\n21 Unless you go to France, . . .\n22 If she were a good girl, . . .\n23 If you had been a faithful wife, . . .\n24 I would not have liked your friend Cyril if . . .\n25 If our teacher were not so severe, . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992130488059217,
+          "minimum_content_confidence_score": 0.7780647683356434,
+          "block_type_confidence_score": 0.9994310994614197
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

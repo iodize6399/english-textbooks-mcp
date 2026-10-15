@@ -1,0 +1,317 @@
+{
+  "source": {
+    "id": "pdf-105-left",
+    "pdf_page": 105,
+    "side": "left",
+    "reading_order": 209
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "(43.1)\n\n● Make short sentences in the PAST, FUTURE OF IMPERATIVE form with have a plus:\ndrink; look; rest; ride; walk; talk; smoke; swim;\nwash; bath.\n\n43.2\nIntermediate\n\nSee Exercise 43.1.\n\n● Make short sentences with have a plus:\nsit down; lie down; go; dance; chance; throw.\nIn some of these expressions take is sometimes heard.\nTake a walk, look, bath, etc.\n\n## 44 Interrogatives\n\n44.1\nElementary\n\nSee also preliminary Exercise 8.1.\n\nSUBJECTIVE CASE:\nWho for persons in general – pronoun\nWhat for things in general – pronoun\nWhat for persons or things in general – adjective\nWhich for restricted persons or things – pronoun and adjective\n\nWho broke my pencil? (of all possible people)\n\nWhat has happened? (of all possible things)\n\nWhat books are these?\n\nWhat people live in this country?\n\nWhich of you can answer my question? (limited choice)\n\nWhich house is it, No. 32 or No. 34? (limited choice)\n\nOf course there are occasions when the general and restricted interrogatives seem equally good, and the choice then depends on the speaker's point of view.\n\n*    *    *\n\n● Add the question-word to the following questions:\n\n1 — went with you to London?\n2 — of these books is your favourite?\n3 — girl won the beauty competition?\n4 — is my place?\n5 — came in just now?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "198\n44 Interrogatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9642847198786155,
+      "minimum_page_confidence_score": 0.14966816495645957
+    },
+    "blocks": [
+      {
+        "top_left_x": 32,
+        "top_left_y": 18,
+        "bottom_right_x": 65,
+        "bottom_right_y": 38,
+        "content": "198",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999111969660766,
+          "minimum_content_confidence_score": 0.9999111969660766,
+          "block_type_confidence_score": 0.9999605533589266
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 18,
+        "bottom_right_x": 270,
+        "bottom_right_y": 40,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998781406558115,
+          "minimum_content_confidence_score": 0.999809684221268,
+          "block_type_confidence_score": 0.9973633907349824
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 29,
+        "top_left_y": 73,
+        "bottom_right_x": 80,
+        "bottom_right_y": 96,
+        "content": "(43.1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998263209287056,
+          "minimum_content_confidence_score": 0.9998263209287056,
+          "block_type_confidence_score": 0.9387473694980263
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 74,
+        "bottom_right_x": 618,
+        "bottom_right_y": 162,
+        "content": "● Make short sentences in the PAST, FUTURE OF IMPERATIVE form with have a plus:\ndrink; look; rest; ride; walk; talk; smoke; swim;\nwash; bath.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9533862539154627,
+          "minimum_content_confidence_score": 0.5962647660392975,
+          "block_type_confidence_score": 0.8174860737384737
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 180,
+        "bottom_right_x": 130,
+        "bottom_right_y": 221,
+        "content": "43.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9592872501646884,
+          "minimum_content_confidence_score": 0.8778811217508069,
+          "block_type_confidence_score": 0.9817163310879731
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 180,
+        "bottom_right_x": 299,
+        "bottom_right_y": 201,
+        "content": "See Exercise 43.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999111442777449,
+          "minimum_content_confidence_score": 0.9997998282724677,
+          "block_type_confidence_score": 0.999917156409734
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 121,
+        "top_left_y": 241,
+        "bottom_right_x": 579,
+        "bottom_right_y": 333,
+        "content": "● Make short sentences with have a plus:\nsit down; lie down; go; dance; chance; throw.\nIn some of these expressions take is sometimes heard.\nTake a walk, look, bath, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998615556234867,
+          "minimum_content_confidence_score": 0.996913689569918,
+          "block_type_confidence_score": 0.9932690417079858
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 387,
+        "bottom_right_x": 312,
+        "bottom_right_y": 418,
+        "content": "## 44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.987435691121231,
+          "minimum_content_confidence_score": 0.9623126125931212,
+          "block_type_confidence_score": 0.9982713592501825
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 463,
+        "bottom_right_x": 119,
+        "bottom_right_y": 505,
+        "content": "44.1\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9901038168480246,
+          "minimum_content_confidence_score": 0.9703459787444225,
+          "block_type_confidence_score": 0.9975010770357644
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 464,
+        "bottom_right_x": 425,
+        "bottom_right_y": 485,
+        "content": "See also preliminary Exercise 8.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997980045397228,
+          "minimum_content_confidence_score": 0.9990666703134237,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 487,
+        "bottom_right_x": 616,
+        "bottom_right_y": 605,
+        "content": "SUBJECTIVE CASE:\nWho for persons in general – pronoun\nWhat for things in general – pronoun\nWhat for persons or things in general – adjective\nWhich for restricted persons or things – pronoun and adjective",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969308389601167,
+          "minimum_content_confidence_score": 0.8926522930832042,
+          "block_type_confidence_score": 0.9705131388242656
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 608,
+        "bottom_right_x": 566,
+        "bottom_right_y": 628,
+        "content": "Who broke my pencil? (of all possible people)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999831201471243,
+          "minimum_content_confidence_score": 0.9999053275468267,
+          "block_type_confidence_score": 0.9859145957329081
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 628,
+        "bottom_right_x": 545,
+        "bottom_right_y": 649,
+        "content": "What has happened? (of all possible things)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999969968027884,
+          "minimum_content_confidence_score": 0.9999892712787918,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 649,
+        "bottom_right_x": 380,
+        "bottom_right_y": 666,
+        "content": "What books are these?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999719542114123,
+          "minimum_content_confidence_score": 0.9999058172122675,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 668,
+        "bottom_right_x": 463,
+        "bottom_right_y": 688,
+        "content": "What people live in this country?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999977659380934,
+          "minimum_content_confidence_score": 0.9999945164027223,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 689,
+        "bottom_right_x": 614,
+        "bottom_right_y": 727,
+        "content": "Which of you can answer my question? (limited choice)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999798332863296,
+          "minimum_content_confidence_score": 0.9998895797984529,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 728,
+        "bottom_right_x": 614,
+        "bottom_right_y": 749,
+        "content": "Which house is it, No. 32 or No. 34? (limited choice)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999957085119399,
+          "minimum_content_confidence_score": 0.9999894302376734,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 756,
+        "bottom_right_x": 616,
+        "bottom_right_y": 819,
+        "content": "Of course there are occasions when the general and restricted interrogatives seem equally good, and the choice then depends on the speaker's point of view.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995541462437132,
+          "minimum_content_confidence_score": 0.9924174801534813,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 829,
+        "bottom_right_x": 436,
+        "bottom_right_y": 846,
+        "content": "*    *    *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.873309877137059,
+          "minimum_content_confidence_score": 0.6205299889393389,
+          "block_type_confidence_score": 0.9943775746666943
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 856,
+        "bottom_right_x": 569,
+        "bottom_right_y": 878,
+        "content": "● Add the question-word to the following questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998985024301592,
+          "minimum_content_confidence_score": 0.9992527589054115,
+          "block_type_confidence_score": 0.9964021419027582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 880,
+        "bottom_right_x": 477,
+        "bottom_right_y": 991,
+        "content": "1 — went with you to London?\n2 — of these books is your favourite?\n3 — girl won the beauty competition?\n4 — is my place?\n5 — came in just now?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999047231797551,
+          "minimum_content_confidence_score": 0.9975313246513968,
+          "block_type_confidence_score": 0.9998149022336376
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

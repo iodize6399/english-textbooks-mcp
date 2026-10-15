@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-025-right",
+    "pdf_page": 25,
+    "side": "right",
+    "reading_order": 50
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "- ● Read each of the following sentences as it stands, then in the negative (i.e. remove the idea of compulsion):\n- 1 You must answer in English.\n- 2 He will have to pay me back before Christmas.\n- 3 We had to bend it to get it into the box.\n- 4 They must brush their own shoes.\n- 5 They have to brush their own shoes every day.\n- 6 You'll have to buy us some more.\n- 7 You must ring him up before tomorrow.\n- 8 She'll have to carry both of them.\n- 9 We must change our clothes for dinner.\n- 10 We had to cook them first.\n- 11 You must cut it in three equal pieces.\n- 12 You must write yours now, and she'll have to write hers when she comes in.\n- 13 She had to drink it without sugar.\n- 14 We had to pay them for it, and we shall have to pay them some more next week.\n- 15 You must put all the eggs in one basket.\n- 16 Grandfather had to finish reading it in bed.\n- 17 You must give it back to me before you go.\n- 18 She'll have to go back before nightfall.\n- 19 They had to light a fire to cook their supper.\n- 20 You must listen to this talk on potato-planting.\n- 21 We shall have to wait (a) long (time) for our holidays.$^{1}$\n- 22 Last year we even had to book accommodation.\n- 23 In any case we have to get train tickets, because we are taking our bicycles.\n- 24 We shall have to take a lot of food with us.$^{2}$\n- 25 We must even take a cooking stove.\n\n## 16.5\n\n### Intermediate and\n\n### Advanced\n\n### DIDN'T NEED\n\n### TO GO AND\n\n### NEEDN'T\n\n### HAVE GONE\n\nSee Exercises 16.3 and 16.4.\n\n*didn't need to:* It wasn't necessary, so probably not done.  \n*needn't have:* It wasn't necessary. but done nevertheless.  \nBoth are opposites of *I had to*, with the above difference of meaning.\n\nMy tea was already sweetened, so I *needn't have put* any sugar in.\n\nBut I did, and made it too sweet.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "16^{}[] *must, have to, need*\n39",
+    "footer": "$^{1}$ See Exercise 53.2 (*a long time*).\n$^{2}$ See Exercise 53.1 (*a lot of*).",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1018,
+      "width": 691
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9698524698117204,
+      "minimum_page_confidence_score": 0.1527546887796797
+    },
+    "blocks": [
+      {
+        "top_left_x": 154,
+        "top_left_y": 19,
+        "bottom_right_x": 349,
+        "bottom_right_y": 41,
+        "content": "16^{}[] *must, have to, need*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.971959869221663,
+          "minimum_content_confidence_score": 0.8866008860842172,
+          "block_type_confidence_score": 0.9997575113947812
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 643,
+        "top_left_y": 22,
+        "bottom_right_x": 667,
+        "bottom_right_y": 41,
+        "content": "39",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997998876514271,
+          "minimum_content_confidence_score": 0.9997998876514271,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 74,
+        "bottom_right_x": 667,
+        "bottom_right_y": 752,
+        "content": "- ● Read each of the following sentences as it stands, then in the negative (i.e. remove the idea of compulsion):\n- 1 You must answer in English.\n- 2 He will have to pay me back before Christmas.\n- 3 We had to bend it to get it into the box.\n- 4 They must brush their own shoes.\n- 5 They have to brush their own shoes every day.\n- 6 You'll have to buy us some more.\n- 7 You must ring him up before tomorrow.\n- 8 She'll have to carry both of them.\n- 9 We must change our clothes for dinner.\n- 10 We had to cook them first.\n- 11 You must cut it in three equal pieces.\n- 12 You must write yours now, and she'll have to write hers when she comes in.\n- 13 She had to drink it without sugar.\n- 14 We had to pay them for it, and we shall have to pay them some more next week.\n- 15 You must put all the eggs in one basket.\n- 16 Grandfather had to finish reading it in bed.\n- 17 You must give it back to me before you go.\n- 18 She'll have to go back before nightfall.\n- 19 They had to light a fire to cook their supper.\n- 20 You must listen to this talk on potato-planting.\n- 21 We shall have to wait (a) long (time) for our holidays.$^{1}$\n- 22 Last year we even had to book accommodation.\n- 23 In any case we have to get train tickets, because we are taking our bicycles.\n- 24 We shall have to take a lot of food with us.$^{2}$\n- 25 We must even take a cooking stove.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980854769376196,
+          "minimum_content_confidence_score": 0.5563635152007451,
+          "block_type_confidence_score": 0.9991739664931895
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 781,
+        "bottom_right_x": 104,
+        "bottom_right_y": 800,
+        "content": "## 16.5",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.777088051470737,
+          "minimum_content_confidence_score": 0.5548215407590616,
+          "block_type_confidence_score": 0.9947405189994519
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 801,
+        "bottom_right_x": 166,
+        "bottom_right_y": 840,
+        "content": "### Intermediate and",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9401138141161188,
+          "minimum_content_confidence_score": 0.9021493759774223,
+          "block_type_confidence_score": 0.6224513902109451
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 841,
+        "bottom_right_x": 142,
+        "bottom_right_y": 860,
+        "content": "### Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.933991967061993,
+          "minimum_content_confidence_score": 0.8784336204386003,
+          "block_type_confidence_score": 0.9933060898817914
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 860,
+        "bottom_right_x": 177,
+        "bottom_right_y": 877,
+        "content": "### DIDN'T NEED",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9741833066215181,
+          "minimum_content_confidence_score": 0.9285647014873716,
+          "block_type_confidence_score": 0.9890088615406144
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 878,
+        "bottom_right_x": 161,
+        "bottom_right_y": 897,
+        "content": "### TO GO AND",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997085555817325,
+          "minimum_content_confidence_score": 0.9994328855961183,
+          "block_type_confidence_score": 0.9984986705837912
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 898,
+        "bottom_right_x": 142,
+        "bottom_right_y": 916,
+        "content": "### NEEDN'T",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99924480280842,
+          "minimum_content_confidence_score": 0.9984983078189141,
+          "block_type_confidence_score": 0.9999885560391694
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 62,
+        "top_left_y": 917,
+        "bottom_right_x": 166,
+        "bottom_right_y": 936,
+        "content": "### HAVE GONE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998759494157762,
+          "minimum_content_confidence_score": 0.9998154980680914,
+          "block_type_confidence_score": 0.9999810460826691
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 783,
+        "bottom_right_x": 421,
+        "bottom_right_y": 803,
+        "content": "See Exercises 16.3 and 16.4.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990316015817392,
+          "minimum_content_confidence_score": 0.9957769204057932,
+          "block_type_confidence_score": 0.9963880581741608
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 803,
+        "bottom_right_x": 667,
+        "bottom_right_y": 882,
+        "content": "*didn't need to:* It wasn't necessary, so probably not done.  \n*needn't have:* It wasn't necessary. but done nevertheless.  \nBoth are opposites of *I had to*, with the above difference of meaning.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9777794343620619,
+          "minimum_content_confidence_score": 0.5615640360862538,
+          "block_type_confidence_score": 0.9999815229018083
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 228,
+        "top_left_y": 886,
+        "bottom_right_x": 670,
+        "bottom_right_y": 926,
+        "content": "My tea was already sweetened, so I *needn't have put* any sugar in.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9626612298641031,
+          "minimum_content_confidence_score": 0.7283055537405903,
+          "block_type_confidence_score": 0.9999934435319415
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 246,
+        "top_left_y": 926,
+        "bottom_right_x": 522,
+        "bottom_right_y": 947,
+        "content": "But I did, and made it too sweet.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999103815935263,
+          "minimum_content_confidence_score": 0.9996575932736863,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 953,
+        "bottom_right_x": 437,
+        "bottom_right_y": 973,
+        "content": "$^{1}$ See Exercise 53.2 (*a long time*).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9844586143739041,
+          "minimum_content_confidence_score": 0.8980717768304436,
+          "block_type_confidence_score": 0.9999285375337106
+        },
+        "type": "footer"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 971,
+        "bottom_right_x": 411,
+        "bottom_right_y": 992,
+        "content": "$^{2}$ See Exercise 53.1 (*a lot of*).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999175689471255,
+          "minimum_content_confidence_score": 0.9995197905726784,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

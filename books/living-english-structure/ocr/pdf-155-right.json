@@ -1,0 +1,109 @@
+{
+  "source": {
+    "id": "pdf-155-right",
+    "pdf_page": 155,
+    "side": "right",
+    "reading_order": 310
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "# 56.3\n\nIntermediate ● Fill in the blank spaces:\n\n1 He orders me — as if I were his wife!\n2 I came — it quite — chance as I was looking — some old papers.\n3 Lean it — the wall if you don't want it to fall —.\n4 Do you think there is enough food to go —?\n5 I don't get — very well — him.\n6 That machine digs — earth — high ground and carries it — to build the motorway — — low ground.\n7 What do you think — dividing it — the rest — them?\n8 I wouldn't dream — being so rude as to answer you —.\n9 I don't like people who show —, especially — public.\n10 She bought a beautiful cloth, measuring three feet — two feet, all embroidered — hand.\n11 We were — a loss to know what you meant — your remark.\n12 If you leave your things — all — the place again, I shall punish you — your untidiness.\n13 I don't understand; what are you getting —?\n14 You shouldn't look — — people who aren't as well — as you are.\n15 I know her — sight, but not to speak —.\n16 The entertainer took — Tom Jones and made fun — Sacha Distel, but Maisie didn't catch —.\n17 Cyril wants to take me — — his car, but it isn't — — much, and he usually runs — — fuel.\n18 He shook me — the hand and helped me — with my coat.\n19 Everyone was afraid to go out — dark until the rebellion had died —.\n20 This is no time for playing —, it is a serious matter. You are always — — some mischief.\n21 It was thanks — you that he was successful — carrying — his project.\n22 It's no use keeping — telling me to give — smoking; I can't cure myself — a habit so easily.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "56 Prepositions and Adverbial Particles\n299",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 999,
+      "width": 683
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9837966193768866,
+      "minimum_page_confidence_score": 0.3745198399211061
+    },
+    "blocks": [
+      {
+        "top_left_x": 148,
+        "top_left_y": 11,
+        "bottom_right_x": 478,
+        "bottom_right_y": 31,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995350597083223,
+          "minimum_content_confidence_score": 0.9989059017328672,
+          "block_type_confidence_score": 0.9999775527714226
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 626,
+        "top_left_y": 11,
+        "bottom_right_x": 659,
+        "bottom_right_y": 29,
+        "content": "299",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998673888585888,
+          "minimum_content_confidence_score": 0.998673888585888,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 57,
+        "top_left_y": 64,
+        "bottom_right_x": 98,
+        "bottom_right_y": 85,
+        "content": "# 56.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9848358059032168,
+          "minimum_content_confidence_score": 0.970687433296243,
+          "block_type_confidence_score": 0.5173812835313859
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 57,
+        "top_left_y": 85,
+        "bottom_right_x": 386,
+        "bottom_right_y": 106,
+        "content": "Intermediate ● Fill in the blank spaces:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9669932568406735,
+          "minimum_content_confidence_score": 0.7703716649684497,
+          "block_type_confidence_score": 0.7974353887165221
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 108,
+        "bottom_right_x": 659,
+        "bottom_right_y": 958,
+        "content": "1 He orders me — as if I were his wife!\n2 I came — it quite — chance as I was looking — some old papers.\n3 Lean it — the wall if you don't want it to fall —.\n4 Do you think there is enough food to go —?\n5 I don't get — very well — him.\n6 That machine digs — earth — high ground and carries it — to build the motorway — — low ground.\n7 What do you think — dividing it — the rest — them?\n8 I wouldn't dream — being so rude as to answer you —.\n9 I don't like people who show —, especially — public.\n10 She bought a beautiful cloth, measuring three feet — two feet, all embroidered — hand.\n11 We were — a loss to know what you meant — your remark.\n12 If you leave your things — all — the place again, I shall punish you — your untidiness.\n13 I don't understand; what are you getting —?\n14 You shouldn't look — — people who aren't as well — as you are.\n15 I know her — sight, but not to speak —.\n16 The entertainer took — Tom Jones and made fun — Sacha Distel, but Maisie didn't catch —.\n17 Cyril wants to take me — — his car, but it isn't — — much, and he usually runs — — fuel.\n18 He shook me — the hand and helped me — with my coat.\n19 Everyone was afraid to go out — dark until the rebellion had died —.\n20 This is no time for playing —, it is a serious matter. You are always — — some mischief.\n21 It was thanks — you that he was successful — carrying — his project.\n22 It's no use keeping — telling me to give — smoking; I can't cure myself — a habit so easily.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987627633580912,
+          "minimum_content_confidence_score": 0.8777588579700945,
+          "block_type_confidence_score": 0.9977922413248966
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

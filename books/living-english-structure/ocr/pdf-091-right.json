@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-091-right",
+    "pdf_page": 91,
+    "side": "right",
+    "reading_order": 182
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:14.317939+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "# **37.2**Intermediate\n\n*How else and when else* are less frequently met with than the forms in the previous exercise, and so are not so important for elementary students.\n\nSince *else* is felt to be firmly tied to the word preceding it, the correct possessive form 'anyone's else' sounds unnatural; the accepted form in current English is *anyone else's*.\n\nThe same applies to the interrogatives with *else*. One still hears occasionally, 'What could I do else?' but it seems to be dying out. Perhaps for the sake of clarity, the teacher should insist on *What else could I do?* and for the possessive: *Who else's can it be?*\n\n\\* \\* \\*\n\n- ● Say the following sentences, using *else*:\n- 1 Have you decided on any other thing yet?\n- 2 I think this is some other person's hat.\n- 3 At what other time could we meet?\n- 4 If you can't find my umbrella, any other person's will do.\n- 5 In what other way can you possibly do it?\n- 6 What other thing is there to talk about?\n- 7 No other person's room has been paid for.\n- 8 If it wasn't your own father, what other person's could it be?\n- 9 Cyril is dancing with some other person's partner.\n- 10 In what other way can it possibly be mended?\n- 11 I wonder if any other person's signature would do instead?\n- 12 I wonder what other person's would do instead?\n- 13 Can you tell me any other place to visit?\n- 14 I'm afraid Maisie has gone out with some other person.\n- 15 I jammed the brakes on and swerved to the left. What other thing could I do?\n- 16 Hurry up! All the other people's glasses are empty.\n- 17 What other person do you want some scandal about?\n- 18 I'm afraid you must put on some other thing if you want to bathe here.\n- 19 You must have mistaken me for some other person. I've never lived in any other place but here.\n- 20 Isn't there any other person's time you can waste instead of mine?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "37^{}[] *else and or else*\n171",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1002,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9776542647037654,
+      "minimum_page_confidence_score": 0.2605012525073358
+    },
+    "blocks": [
+      {
+        "top_left_x": 150,
+        "top_left_y": 21,
+        "bottom_right_x": 313,
+        "bottom_right_y": 40,
+        "content": "37^{}[] *else and or else*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9236734854249635,
+          "minimum_content_confidence_score": 0.6782811316614892,
+          "block_type_confidence_score": 0.9999981293366762
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 627,
+        "top_left_y": 22,
+        "bottom_right_x": 658,
+        "bottom_right_y": 41,
+        "content": "171",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999640000901282,
+          "minimum_content_confidence_score": 0.9999640000901282,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 60,
+        "top_left_y": 74,
+        "bottom_right_x": 162,
+        "bottom_right_y": 114,
+        "content": "# **37.2**Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.798981280769117,
+          "minimum_content_confidence_score": 0.7057831978596429,
+          "block_type_confidence_score": 0.9982597172238065
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 75,
+        "bottom_right_x": 660,
+        "bottom_right_y": 136,
+        "content": "*How else and when else* are less frequently met with than the forms in the previous exercise, and so are not so important for elementary students.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9925517742323803,
+          "minimum_content_confidence_score": 0.8665757164442927,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 135,
+        "bottom_right_x": 660,
+        "bottom_right_y": 214,
+        "content": "Since *else* is felt to be firmly tied to the word preceding it, the correct possessive form 'anyone's else' sounds unnatural; the accepted form in current English is *anyone else's*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9932068559283134,
+          "minimum_content_confidence_score": 0.8697214127670464,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 215,
+        "bottom_right_x": 660,
+        "bottom_right_y": 314,
+        "content": "The same applies to the interrogatives with *else*. One still hears occasionally, 'What could I do else?' but it seems to be dying out. Perhaps for the sake of clarity, the teacher should insist on *What else could I do?* and for the possessive: *Who else's can it be?*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996244235785019,
+          "minimum_content_confidence_score": 0.9947485172992686,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 368,
+        "top_left_y": 329,
+        "bottom_right_x": 472,
+        "bottom_right_y": 343,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984813808544234,
+          "minimum_content_confidence_score": 0.9968676497270414,
+          "block_type_confidence_score": 0.9999846222381212
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 354,
+        "bottom_right_x": 660,
+        "bottom_right_y": 986,
+        "content": "- ● Say the following sentences, using *else*:\n- 1 Have you decided on any other thing yet?\n- 2 I think this is some other person's hat.\n- 3 At what other time could we meet?\n- 4 If you can't find my umbrella, any other person's will do.\n- 5 In what other way can you possibly do it?\n- 6 What other thing is there to talk about?\n- 7 No other person's room has been paid for.\n- 8 If it wasn't your own father, what other person's could it be?\n- 9 Cyril is dancing with some other person's partner.\n- 10 In what other way can it possibly be mended?\n- 11 I wonder if any other person's signature would do instead?\n- 12 I wonder what other person's would do instead?\n- 13 Can you tell me any other place to visit?\n- 14 I'm afraid Maisie has gone out with some other person.\n- 15 I jammed the brakes on and swerved to the left. What other thing could I do?\n- 16 Hurry up! All the other people's glasses are empty.\n- 17 What other person do you want some scandal about?\n- 18 I'm afraid you must put on some other thing if you want to bathe here.\n- 19 You must have mistaken me for some other person. I've never lived in any other place but here.\n- 20 Isn't there any other person's time you can waste instead of mine?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967551822240227,
+          "minimum_content_confidence_score": 0.7048404541205738,
+          "block_type_confidence_score": 0.999792023058635
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

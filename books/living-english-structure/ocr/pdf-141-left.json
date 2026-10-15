@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-141-left",
+    "pdf_page": 141,
+    "side": "left",
+    "reading_order": 281
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "The form *A book was given (to) me* would be used when we need to stress this new subject.\n\n* * *\n\n(52.2)\n\n● Put the following sentences into the PASSIVE VOICE with a PERSONAL SUBJECT:\n1 They gave my little sister a ticket, too.\n2 People will show the visitors the new buildings.\n3 Someone has already paid the electrician for his work.\n4 They promise us higher wages.\n5 Somebody will tell you what time the train leaves.\n6 Someone ordered the prisoners to stand up.\n7 Somebody recommended me to another doctor.\n8 Someone taught him French and gave him a dictionary.\n9 They will allow each boy a second plate of ice-cream.\n10 The authorities refused Cyril a passport.\n11 They will ask us all several questions.\n12 When we first met, they had already offered me a job at the bank.\n13 Someone will read you another chapter next time.\n14 They requested the stranger to leave the meeting.\n15 This is the third time they have written to us about this.\n16 They still deny women the right to vote in some countries.\n17 They have made my uncle a captain.\n18 They asked the rest of us to be there at eight o'clock.\n19 The others told the new students where to sit.\n20 Someone is showing Maisie how to bath a baby.\n\n52.3\n\nElementary\n\nSee Exercises 52.1 and 52.2.\n\nThe general principle governing the use of the passive voice is as follows: when the main interest of the speaker or writer is on the verb activity itself rather than on the active subject, there is a desire to express this idea first. In the sentence *People speak English all over the world* too much weight is given to the vague subject *people*, when our real concern is the SPEAKING OF ENGLISH. The passive voice form",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "270\n52 Passive Voice",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1017,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9739042711498341,
+      "minimum_page_confidence_score": 0.3260339100993001
+    },
+    "blocks": [
+      {
+        "top_left_x": 28,
+        "top_left_y": 25,
+        "bottom_right_x": 63,
+        "bottom_right_y": 45,
+        "content": "270",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999841454156853,
+          "minimum_content_confidence_score": 0.9999841454156853,
+          "block_type_confidence_score": 0.9999982943947677
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 25,
+        "bottom_right_x": 266,
+        "bottom_right_y": 45,
+        "content": "52 Passive Voice",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999345404892633,
+          "minimum_content_confidence_score": 0.9998900444404933,
+          "block_type_confidence_score": 0.9989611791193989
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 79,
+        "bottom_right_x": 612,
+        "bottom_right_y": 121,
+        "content": "The form *A book was given (to) me* would be used when we need to stress this new subject.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.991724970499541,
+          "minimum_content_confidence_score": 0.8983164595096147,
+          "block_type_confidence_score": 0.9999250229763097
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 134,
+        "bottom_right_x": 434,
+        "bottom_right_y": 149,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.842139410598559,
+          "minimum_content_confidence_score": 0.5288792170542149,
+          "block_type_confidence_score": 0.9999953508594287
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 160,
+        "bottom_right_x": 79,
+        "bottom_right_y": 181,
+        "content": "(52.2)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999793790514369,
+          "minimum_content_confidence_score": 0.999793790514369,
+          "block_type_confidence_score": 0.9869814485515541
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 160,
+        "bottom_right_x": 612,
+        "bottom_right_y": 789,
+        "content": "● Put the following sentences into the PASSIVE VOICE with a PERSONAL SUBJECT:\n1 They gave my little sister a ticket, too.\n2 People will show the visitors the new buildings.\n3 Someone has already paid the electrician for his work.\n4 They promise us higher wages.\n5 Somebody will tell you what time the train leaves.\n6 Someone ordered the prisoners to stand up.\n7 Somebody recommended me to another doctor.\n8 Someone taught him French and gave him a dictionary.\n9 They will allow each boy a second plate of ice-cream.\n10 The authorities refused Cyril a passport.\n11 They will ask us all several questions.\n12 When we first met, they had already offered me a job at the bank.\n13 Someone will read you another chapter next time.\n14 They requested the stranger to leave the meeting.\n15 This is the third time they have written to us about this.\n16 They still deny women the right to vote in some countries.\n17 They have made my uncle a captain.\n18 They asked the rest of us to be there at eight o'clock.\n19 The others told the new students where to sit.\n20 Someone is showing Maisie how to bath a baby.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987970499992198,
+          "minimum_content_confidence_score": 0.8827877941222891,
+          "block_type_confidence_score": 0.9967544850187302
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 809,
+        "bottom_right_x": 79,
+        "bottom_right_y": 829,
+        "content": "52.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998895106327118,
+          "minimum_content_confidence_score": 0.9998895106327118,
+          "block_type_confidence_score": 0.9446060477060853
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 830,
+        "bottom_right_x": 128,
+        "bottom_right_y": 850,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999859215998762,
+          "minimum_content_confidence_score": 0.9999859215998762,
+          "block_type_confidence_score": 0.9916608645604853
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 809,
+        "bottom_right_x": 386,
+        "bottom_right_y": 829,
+        "content": "See Exercises 52.1 and 52.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999828204458314,
+          "minimum_content_confidence_score": 0.9999440939703319,
+          "block_type_confidence_score": 0.9999252613624905
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 829,
+        "bottom_right_x": 620,
+        "bottom_right_y": 987,
+        "content": "The general principle governing the use of the passive voice is as follows: when the main interest of the speaker or writer is on the verb activity itself rather than on the active subject, there is a desire to express this idea first. In the sentence *People speak English all over the world* too much weight is given to the vague subject *people*, when our real concern is the SPEAKING OF ENGLISH. The passive voice form",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997491251433254,
+          "minimum_content_confidence_score": 0.9875320790407944,
+          "block_type_confidence_score": 0.9999876023871354
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

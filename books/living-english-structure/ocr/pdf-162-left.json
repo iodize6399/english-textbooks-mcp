@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-162-left",
+    "pdf_page": 162,
+    "side": "left",
+    "reading_order": 323
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "68 Pay you back; pay up.\n69 Behave yourselves.\n70 I don't care! I don't mind! I don't care for —.\n\n# 57.2\nIntermediate\n\nSee introductory remarks to Exercise 57.1.\n\n* * *\n\n● Make sentences containing each of the following phrases.\nUse any person or tense.\n1 The same holds good for —. (The) same to you!\n2 What are you hinting at? — getting at? Can't you take a hint?\n3 Break the journey.\n4 The ship put in at —; off Cape Town.\n5 Take a chance on it.\n6 Let yourself in for.\n7 Not cut out for. Cut a person (in street).\n8 Get over. (I can't get over his doing —.)\n9 It didn't quite come off.\n10 Have it your own way; to get one's own way in the end.\n11 For good and all.\n12 Are you pulling my leg?\n13 For goodness' sake.\n14 Lined the street. To crowd round; crowded out.\n15 Highly probable; hardly likely.\n16 That's all very well, but —.\n17 To see somebody off, out, home etc.; to the door, across the street etc.\n18 I saw her only the other day.\n19 Is it worth while? Is it worth the candle?\n20 Make up your minds.\n21 If the worst comes to the worst.\n22 That'll do; he'll do.\n23 I've changed my mind.\n24 How (what) about having some tea? Do you feel like a cup of tea?\n25 You're wrong there. That's where you're wrong.\n26 Doing her hair, nails, teeth, etc.\n27 Don't lose your temper. Keep your temper. To be in a temper.\n28 Not fit to be seen.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "312\n57 Accepted Phrases",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9752510487459667,
+      "minimum_page_confidence_score": 0.22833172540237107
+    },
+    "blocks": [
+      {
+        "top_left_x": 27,
+        "top_left_y": 20,
+        "bottom_right_x": 60,
+        "bottom_right_y": 39,
+        "content": "312",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999616160839557,
+          "minimum_content_confidence_score": 0.9999616160839557,
+          "block_type_confidence_score": 0.9999481207098468
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 20,
+        "bottom_right_x": 294,
+        "bottom_right_y": 41,
+        "content": "57 Accepted Phrases",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992297775857223,
+          "minimum_content_confidence_score": 0.9979272027055003,
+          "block_type_confidence_score": 0.9989335415144126
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 75,
+        "bottom_right_x": 590,
+        "bottom_right_y": 141,
+        "content": "68 Pay you back; pay up.\n69 Behave yourselves.\n70 I don't care! I don't mind! I don't care for —.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991530346514885,
+          "minimum_content_confidence_score": 0.9882344635782776,
+          "block_type_confidence_score": 0.932049533545675
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 160,
+        "bottom_right_x": 127,
+        "bottom_right_y": 199,
+        "content": "# 57.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9409441607028873,
+          "minimum_content_confidence_score": 0.8670348429726772,
+          "block_type_confidence_score": 0.6066449832503317
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 160,
+        "bottom_right_x": 493,
+        "bottom_right_y": 182,
+        "content": "See introductory remarks to Exercise 57.1.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999384473814699,
+          "minimum_content_confidence_score": 0.9996726447592366,
+          "block_type_confidence_score": 0.9998149022336376
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 329,
+        "top_left_y": 195,
+        "bottom_right_x": 431,
+        "bottom_right_y": 209,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9968071170628486,
+          "minimum_content_confidence_score": 0.9915969786982364,
+          "block_type_confidence_score": 0.9999640000901282
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 220,
+        "bottom_right_x": 611,
+        "bottom_right_y": 982,
+        "content": "● Make sentences containing each of the following phrases.\nUse any person or tense.\n1 The same holds good for —. (The) same to you!\n2 What are you hinting at? — getting at? Can't you take a hint?\n3 Break the journey.\n4 The ship put in at —; off Cape Town.\n5 Take a chance on it.\n6 Let yourself in for.\n7 Not cut out for. Cut a person (in street).\n8 Get over. (I can't get over his doing —.)\n9 It didn't quite come off.\n10 Have it your own way; to get one's own way in the end.\n11 For good and all.\n12 Are you pulling my leg?\n13 For goodness' sake.\n14 Lined the street. To crowd round; crowded out.\n15 Highly probable; hardly likely.\n16 That's all very well, but —.\n17 To see somebody off, out, home etc.; to the door, across the street etc.\n18 I saw her only the other day.\n19 Is it worth while? Is it worth the candle?\n20 Make up your minds.\n21 If the worst comes to the worst.\n22 That'll do; he'll do.\n23 I've changed my mind.\n24 How (what) about having some tea? Do you feel like a cup of tea?\n25 You're wrong there. That's where you're wrong.\n26 Doing her hair, nails, teeth, etc.\n27 Don't lose your temper. Keep your temper. To be in a temper.\n28 Not fit to be seen.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9969570873304306,
+          "minimum_content_confidence_score": 0.5620854007997871,
+          "block_type_confidence_score": 0.9982527083426789
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

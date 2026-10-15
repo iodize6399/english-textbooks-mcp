@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-129-left",
+    "pdf_page": 129,
+    "side": "left",
+    "reading_order": 257
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "22 — what you do that counts, not what you say.\n23 — a long way from the house to the bus-stop.\n24 — high time you went home.\n25 — an even shorter way to it across the fields if only we had known it.\n\n## 51 Reported Speech\n\n### *IMPERATIVE*\n\n**51.1**\n**Elementary**\n**SAY**\n**AND**\n**TELL**\n\n*Say.* Usually with the actual words spoken. It is never used with the infinitive in reported speech.\n\n*Tell.* Never used, in the sense of 'recount', with the actual words spoken. A personal object is always present. Imperatives become infinitive phrases in reported speech, preceded by a verb such as *tell*, *order*, *command*, *ask*, with a (pro)noun for the person addressed.\n\nBring me a book.\n\nHe asked her (him, us, etc.) *to bring* him a book.\n\n* * *\n\n● Put into REPORTED SPEECH, using the verb indicated:\n1 Go away. (He told)\n2 Come here. (I asked)\n3 Eat it up. (Tell)\n4 Run away. (They told)\n5 Pay at once. (They ordered)\n6 Fold it in half. (She asked)\n7 Give me another. (Ask)\n8 Write quickly. (Tell)\n9 Sit down. (We asked)\n10 Have a cup of tea. (She asked)\n11 Come at five o'clock. (He told)\n12 Pick it up. (He ordered)\n13 Wash your face. (He told)\n14 Clean my shoes. (I asked)\n15 Do it again. (Tell)\n16 Open the door. (Ask)\n17 Hold this. (She asked)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "246\n51 Reported Speech",
+    "footer": null,
+    "dimensions": {
+      "dpi": 34,
+      "height": 999,
+      "width": 655
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9708954335094132,
+      "minimum_page_confidence_score": 0.2500322770462548
+    },
+    "blocks": [
+      {
+        "top_left_x": 29,
+        "top_left_y": 16,
+        "bottom_right_x": 61,
+        "bottom_right_y": 35,
+        "content": "246",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998037008360482,
+          "minimum_content_confidence_score": 0.9998037008360482,
+          "block_type_confidence_score": 0.9999947181556506
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 16,
+        "bottom_right_x": 283,
+        "bottom_right_y": 35,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998652861267338,
+          "minimum_content_confidence_score": 0.9997057588680142,
+          "block_type_confidence_score": 0.9995783907596768
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 68,
+        "bottom_right_x": 596,
+        "bottom_right_y": 173,
+        "content": "22 — what you do that counts, not what you say.\n23 — a long way from the house to the bus-stop.\n24 — high time you went home.\n25 — an even shorter way to it across the fields if only we had known it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953467708370236,
+          "minimum_content_confidence_score": 0.7764645101609238,
+          "block_type_confidence_score": 0.979658951781209
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 231,
+        "bottom_right_x": 337,
+        "bottom_right_y": 261,
+        "content": "## 51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996947288491863,
+          "minimum_content_confidence_score": 0.9993734711483264,
+          "block_type_confidence_score": 0.9996759749815745
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 311,
+        "bottom_right_x": 274,
+        "bottom_right_y": 330,
+        "content": "### *IMPERATIVE*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9476933594530406,
+          "minimum_content_confidence_score": 0.8956938269006268,
+          "block_type_confidence_score": 0.7464582960861915
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 31,
+        "top_left_y": 350,
+        "bottom_right_x": 121,
+        "bottom_right_y": 442,
+        "content": "**51.1**\n**Elementary**\n**SAY**\n**AND**\n**TELL**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9751469205557286,
+          "minimum_content_confidence_score": 0.8630167238828163,
+          "block_type_confidence_score": 0.7230293414285209
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 348,
+        "bottom_right_x": 599,
+        "bottom_right_y": 388,
+        "content": "*Say.* Usually with the actual words spoken. It is never used with the infinitive in reported speech.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987792762675758,
+          "minimum_content_confidence_score": 0.980435956571246,
+          "block_type_confidence_score": 0.999838259157712
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 386,
+        "bottom_right_x": 599,
+        "bottom_right_y": 484,
+        "content": "*Tell.* Never used, in the sense of 'recount', with the actual words spoken. A personal object is always present. Imperatives become infinitive phrases in reported speech, preceded by a verb such as *tell*, *order*, *command*, *ask*, with a (pro)noun for the person addressed.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986822796537441,
+          "minimum_content_confidence_score": 0.9503175483429136,
+          "block_type_confidence_score": 0.9999926090786457
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 487,
+        "bottom_right_x": 331,
+        "bottom_right_y": 507,
+        "content": "Bring me a book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885065684012,
+          "minimum_content_confidence_score": 0.999970953858634,
+          "block_type_confidence_score": 0.9999384917900483
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 505,
+        "bottom_right_x": 567,
+        "bottom_right_y": 526,
+        "content": "He asked her (him, us, etc.) *to bring* him a book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9934539835727773,
+          "minimum_content_confidence_score": 0.9384118471360035,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 329,
+        "top_left_y": 539,
+        "bottom_right_x": 428,
+        "bottom_right_y": 552,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964133056060822,
+          "minimum_content_confidence_score": 0.9943478718188867,
+          "block_type_confidence_score": 0.9999972581939645
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 563,
+        "bottom_right_x": 563,
+        "bottom_right_y": 946,
+        "content": "● Put into REPORTED SPEECH, using the verb indicated:\n1 Go away. (He told)\n2 Come here. (I asked)\n3 Eat it up. (Tell)\n4 Run away. (They told)\n5 Pay at once. (They ordered)\n6 Fold it in half. (She asked)\n7 Give me another. (Ask)\n8 Write quickly. (Tell)\n9 Sit down. (We asked)\n10 Have a cup of tea. (She asked)\n11 Come at five o'clock. (He told)\n12 Pick it up. (He ordered)\n13 Wash your face. (He told)\n14 Clean my shoes. (I asked)\n15 Do it again. (Tell)\n16 Open the door. (Ask)\n17 Hold this. (She asked)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996606578530595,
+          "minimum_content_confidence_score": 0.9853153088416768,
+          "block_type_confidence_score": 0.9994876626610341
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "source": {
+    "id": "pdf-078-right",
+    "pdf_page": 78,
+    "side": "right",
+    "reading_order": 156
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 11,
+    "markdown": "4 They will get wet if it rains.\n5 I would (should) be pleased if you came.\n6 If I had known that, I should not have made a mistake.\n7 It would have been better if you had waited.\n8 If I were¹ you, I should go home immediately.\n9 Will you help me if I need you?\n10 He would have told you if you had asked him.\n11 They would be silly if they did not take this opportunity.\n12 If it is fine, I shall go for a swim.\n13 If it rained, I would stay at home.\n14 I'll help you if I can.\n15 It would have broken if you had not caught it.\n\n31.2\nIntermediate\n\nSee previous exercise.\n\nOf the three types of condition given, the first and third are far more important than the second.\n\n* * *\n\n● State the type of the following conditionals:\n1 If you had done as I told you, you would have succeeded.\n2 If you did as I told you, you would succeed.\n3 You'll succeed if you do as I tell you.\n4 If you are good, I'll give you a piece of chocolate.\n5 If Maria had known English was so difficult, she would never have taken it up.\n6 If the rain failed to come, there would be a famine.\n7 If you eat too much, you will be ill.\n8 You would be ill if you ate too much.\n9 If I hadn't told him, he would never have known.\n10 You would catch the train if you left earlier.\n11 You will pass your examination if you work hard.\n12 If you had left earlier, you would have caught the train.\n13 You will catch the train if you leave earlier.\n14 If I'd lost my spectacles, I wouldn't have been able to read.\n15 If I were an orange, I should be spherical and juicy.\n\n¹ Technically speaking, if-clauses are in subjunctive mood, but were is the only place where it still lives as a different form.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "31 Conditions and Unreal Past\n145",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 680
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9763489004104291,
+      "minimum_page_confidence_score": 0.18115141240667013
+    },
+    "blocks": [
+      {
+        "top_left_x": 146,
+        "top_left_y": 19,
+        "bottom_right_x": 406,
+        "bottom_right_y": 40,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999948082508728,
+          "minimum_content_confidence_score": 0.9998563967546467,
+          "block_type_confidence_score": 0.9996505983957928
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 623,
+        "top_left_y": 19,
+        "bottom_right_x": 656,
+        "bottom_right_y": 37,
+        "content": "145",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999191826344888,
+          "minimum_content_confidence_score": 0.9999191826344888,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 74,
+        "bottom_right_x": 615,
+        "bottom_right_y": 381,
+        "content": "4 They will get wet if it rains.\n5 I would (should) be pleased if you came.\n6 If I had known that, I should not have made a mistake.\n7 It would have been better if you had waited.\n8 If I were¹ you, I should go home immediately.\n9 Will you help me if I need you?\n10 He would have told you if you had asked him.\n11 They would be silly if they did not take this opportunity.\n12 If it is fine, I shall go for a swim.\n13 If it rained, I would stay at home.\n14 I'll help you if I can.\n15 It would have broken if you had not caught it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993487260852153,
+          "minimum_content_confidence_score": 0.9665598904720845,
+          "block_type_confidence_score": 0.9980730068673203
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 54,
+        "top_left_y": 400,
+        "bottom_right_x": 159,
+        "bottom_right_y": 441,
+        "content": "31.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9719297711838694,
+          "minimum_content_confidence_score": 0.9347128982721583,
+          "block_type_confidence_score": 0.6741460852656128
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 400,
+        "bottom_right_x": 361,
+        "bottom_right_y": 421,
+        "content": "See previous exercise.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999773022671817,
+          "minimum_content_confidence_score": 0.9999544368949054,
+          "block_type_confidence_score": 0.9999846222381212
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 420,
+        "bottom_right_x": 656,
+        "bottom_right_y": 461,
+        "content": "Of the three types of condition given, the first and third are far more important than the second.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997910733958896,
+          "minimum_content_confidence_score": 0.996339655400575,
+          "block_type_confidence_score": 0.9999853374722015
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 364,
+        "top_left_y": 475,
+        "bottom_right_x": 469,
+        "bottom_right_y": 488,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9976418367753485,
+          "minimum_content_confidence_score": 0.9935743332700935,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 499,
+        "bottom_right_x": 656,
+        "bottom_right_y": 939,
+        "content": "● State the type of the following conditionals:\n1 If you had done as I told you, you would have succeeded.\n2 If you did as I told you, you would succeed.\n3 You'll succeed if you do as I tell you.\n4 If you are good, I'll give you a piece of chocolate.\n5 If Maria had known English was so difficult, she would never have taken it up.\n6 If the rain failed to come, there would be a famine.\n7 If you eat too much, you will be ill.\n8 You would be ill if you ate too much.\n9 If I hadn't told him, he would never have known.\n10 You would catch the train if you left earlier.\n11 You will pass your examination if you work hard.\n12 If you had left earlier, you would have caught the train.\n13 You will catch the train if you leave earlier.\n14 If I'd lost my spectacles, I wouldn't have been able to read.\n15 If I were an orange, I should be spherical and juicy.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990417420303302,
+          "minimum_content_confidence_score": 0.8167898326973758,
+          "block_type_confidence_score": 0.9995083842512675
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 951,
+        "bottom_right_x": 659,
+        "bottom_right_y": 991,
+        "content": "¹ Technically speaking, if-clauses are in subjunctive mood, but were is the only place where it still lives as a different form.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99944953113684,
+          "minimum_content_confidence_score": 0.9895694282463469,
+          "block_type_confidence_score": 0.9648225310967182
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

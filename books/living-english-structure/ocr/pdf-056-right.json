@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-056-right",
+    "pdf_page": 56,
+    "side": "right",
+    "reading_order": 112
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 15,
+    "markdown": "a sailor with a rug like mine. I (ask) him the price. 'Fifty pence,' he said, 'but I (pay) too much for it. A man that I (talk) to just now only (pay) twenty-five pence.' As I (undress) that night, I (notice) a little piece of cloth which (hang) from one corner of my rug. On it were the words 'Made in Manchester'.\n\n26.7\n\nAdvanced\n\nSee Exercises 26.3-6.\n\nOther uses of the PAST CONTINUOUS.\n\nRepeated actions in the past.\n\nHe was always telling me to do things I didn't want to do.\n\nReported speech forms.\n\nHe is coming this evening.\n\nShe said (that) he was coming that evening.\n\nHe is going to kill me.\n\nI felt sure he was going to kill me.\n\n* * *\n\n- Put the verbs in the following sentences into the most suitable past tense:\n1 Scenes from the whole of his past life (flash) through the sailor's mind as he (drown).\n2 He (remember) the day he first (go) to school.\n3 The other children (go) to their classrooms as his mother (lead) him into the hall, and everyone (turn) and (stare) at him.\n4 The next thing he (remember) was the face of the headmaster, who (stand) on the platform.\n5 It was a long and stern face, but with eyes that (twinkle) in a kindly way.\n6 Later when he had left school and (look) for a job, he (meet) a school-friend of his whose uncle was a merchant seaman.\n7 Shortly afterwards he (run) away to sea with his friend and soon (work) as a cabin boy on the Saucy Sue.\n8 He quickly (discover) that he was expected to do a good many different jobs.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "26 Past Tense (Continued)\n101",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1020,
+      "width": 698
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9740185645216797,
+      "minimum_page_confidence_score": 0.3152330271884837
+    },
+    "blocks": [
+      {
+        "top_left_x": 152,
+        "top_left_y": 13,
+        "bottom_right_x": 391,
+        "bottom_right_y": 34,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981941149593001,
+          "minimum_content_confidence_score": 0.9931562664665479,
+          "block_type_confidence_score": 0.9999470205017003
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 644,
+        "top_left_y": 11,
+        "bottom_right_x": 676,
+        "bottom_right_y": 30,
+        "content": "101",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999794964234012,
+          "minimum_content_confidence_score": 0.9999794964234012,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 67,
+        "bottom_right_x": 679,
+        "bottom_right_y": 227,
+        "content": "a sailor with a rug like mine. I (ask) him the price. 'Fifty pence,' he said, 'but I (pay) too much for it. A man that I (talk) to just now only (pay) twenty-five pence.' As I (undress) that night, I (notice) a little piece of cloth which (hang) from one corner of my rug. On it were the words 'Made in Manchester'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992764150599927,
+          "minimum_content_confidence_score": 0.9680792822667504,
+          "block_type_confidence_score": 0.9999878408000585
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 58,
+        "top_left_y": 247,
+        "bottom_right_x": 101,
+        "bottom_right_y": 268,
+        "content": "26.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998966466687498,
+          "minimum_content_confidence_score": 0.998966466687498,
+          "block_type_confidence_score": 0.6480392745570807
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 58,
+        "top_left_y": 269,
+        "bottom_right_x": 141,
+        "bottom_right_y": 288,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996166556787463,
+          "minimum_content_confidence_score": 0.996166556787463,
+          "block_type_confidence_score": 0.9983700897376494
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 247,
+        "bottom_right_x": 369,
+        "bottom_right_y": 268,
+        "content": "See Exercises 26.3-6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9806360266091044,
+          "minimum_content_confidence_score": 0.9423197804888844,
+          "block_type_confidence_score": 0.9996006891901057
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 269,
+        "bottom_right_x": 496,
+        "bottom_right_y": 288,
+        "content": "Other uses of the PAST CONTINUOUS.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996919623655658,
+          "minimum_content_confidence_score": 0.9982868482035457,
+          "block_type_confidence_score": 0.9997519869915059
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 288,
+        "bottom_right_x": 457,
+        "bottom_right_y": 308,
+        "content": "Repeated actions in the past.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999918263862734,
+          "minimum_content_confidence_score": 0.9999729402707584,
+          "block_type_confidence_score": 0.9989295747052531
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 310,
+        "bottom_right_x": 679,
+        "bottom_right_y": 353,
+        "content": "He was always telling me to do things I didn't want to do.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999521760570016,
+          "minimum_content_confidence_score": 0.9995312504774765,
+          "block_type_confidence_score": 0.9997718854607032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 211,
+        "top_left_y": 363,
+        "bottom_right_x": 412,
+        "bottom_right_y": 385,
+        "content": "Reported speech forms.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999140099236784,
+          "minimum_content_confidence_score": 0.9997592637636237,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 387,
+        "bottom_right_x": 455,
+        "bottom_right_y": 408,
+        "content": "He is coming this evening.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749937342735,
+          "minimum_content_confidence_score": 0.9999347967690184,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 407,
+        "bottom_right_x": 604,
+        "bottom_right_y": 429,
+        "content": "She said (that) he was coming that evening.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999724441272511,
+          "minimum_content_confidence_score": 0.9999274970552894,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 432,
+        "bottom_right_x": 423,
+        "bottom_right_y": 453,
+        "content": "He is going to kill me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999869369842692,
+          "minimum_content_confidence_score": 0.9999622120822376,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 230,
+        "top_left_y": 452,
+        "bottom_right_x": 524,
+        "bottom_right_y": 474,
+        "content": "I felt sure he was going to kill me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999972914371257,
+          "minimum_content_confidence_score": 0.9997954787021177,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 379,
+        "top_left_y": 488,
+        "bottom_right_x": 488,
+        "bottom_right_y": 501,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9235131806356347,
+          "minimum_content_confidence_score": 0.7719667970978066,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 513,
+        "bottom_right_x": 683,
+        "bottom_right_y": 963,
+        "content": "- Put the verbs in the following sentences into the most suitable past tense:\n1 Scenes from the whole of his past life (flash) through the sailor's mind as he (drown).\n2 He (remember) the day he first (go) to school.\n3 The other children (go) to their classrooms as his mother (lead) him into the hall, and everyone (turn) and (stare) at him.\n4 The next thing he (remember) was the face of the headmaster, who (stand) on the platform.\n5 It was a long and stern face, but with eyes that (twinkle) in a kindly way.\n6 Later when he had left school and (look) for a job, he (meet) a school-friend of his whose uncle was a merchant seaman.\n7 Shortly afterwards he (run) away to sea with his friend and soon (work) as a cabin boy on the Saucy Sue.\n8 He quickly (discover) that he was expected to do a good many different jobs.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960540444845621,
+          "minimum_content_confidence_score": 0.6224144387177638,
+          "block_type_confidence_score": 0.9980467636181298
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

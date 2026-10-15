@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-108-left",
+    "pdf_page": 108,
+    "side": "left",
+    "reading_order": 215
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "25 — school did your friend go to?\n26 What is butter made —?\n27 — library did you get this book from?\n28 What train shall we go —?\n29 Do you know who this parcel is —?\n30 — are you laughing at now?\n\n# 44.7\nElementary\n\nSee Exercise 44.6.\n\n* * *\n\n● Turn the following statements into questions, asking about the words in **bold type**:\n1 I'm looking at **him**.\n2 She wants to speak to you.\n3 Aunt Jane has put away your things.\n4 My friend is waiting for me.\n5 They are staying with some friends.\n6 I am laughing at a funny picture.\n7 The policeman was looking for the thief.\n8 He is sitting on a chair.\n9 They were drinking out of bottles.\n10 I am thinking of the English countryside.\n11 She is writing to her mother.\n12 He is working for Thomas Cook and Son.\n13 My sister sold her house to a millionaire.\n14 The class was reading about Shakespeare.\n15 He is talking about politics.\n16 I gave it to my brother.\n17 We are going to the Ritz cinema.\n18 She is looking for a pin.\n19 The children were playing with some new toys.\n20 Mrs Smith was talking to the butcher.\n\n# 44.8\nIntermediate\n\nSee Exercise 44.6.\n\n* * *\n\n● Turn the following statements into questions asking about the words in **bold type**:\n1 My wife was angry with me.\n2 I gave that present to my aunt.\n3 The school-children covered their books with brown paper.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "204\n44 Interrogatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9673997074345335,
+      "minimum_page_confidence_score": 0.20548290124103963
+    },
+    "blocks": [
+      {
+        "top_left_x": 36,
+        "top_left_y": 20,
+        "bottom_right_x": 69,
+        "bottom_right_y": 38,
+        "content": "204",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999376574276245,
+          "minimum_content_confidence_score": 0.9999376574276245,
+          "block_type_confidence_score": 0.9999836045625994
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 126,
+        "top_left_y": 20,
+        "bottom_right_x": 273,
+        "bottom_right_y": 38,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994291186047637,
+          "minimum_content_confidence_score": 0.9988979323256343,
+          "block_type_confidence_score": 0.9983587464452133
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 72,
+        "bottom_right_x": 509,
+        "bottom_right_y": 203,
+        "content": "25 — school did your friend go to?\n26 What is butter made —?\n27 — library did you get this book from?\n28 What train shall we go —?\n29 Do you know who this parcel is —?\n30 — are you laughing at now?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986188868157654,
+          "minimum_content_confidence_score": 0.9521562550728023,
+          "block_type_confidence_score": 0.9953868797454213
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 224,
+        "bottom_right_x": 130,
+        "bottom_right_y": 265,
+        "content": "# 44.7\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9324409908752184,
+          "minimum_content_confidence_score": 0.8912790603075437,
+          "block_type_confidence_score": 0.6494891816577645
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 224,
+        "bottom_right_x": 307,
+        "bottom_right_y": 243,
+        "content": "See Exercise 44.6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999868873493994,
+          "minimum_content_confidence_score": 0.9999760395072578,
+          "block_type_confidence_score": 0.9928066968732846
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 342,
+        "top_left_y": 257,
+        "bottom_right_x": 443,
+        "bottom_right_y": 271,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9949023248035788,
+          "minimum_content_confidence_score": 0.9855125583213036,
+          "block_type_confidence_score": 0.9999868871505255
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 130,
+        "top_left_y": 281,
+        "bottom_right_x": 624,
+        "bottom_right_y": 762,
+        "content": "● Turn the following statements into questions, asking about the words in **bold type**:\n1 I'm looking at **him**.\n2 She wants to speak to you.\n3 Aunt Jane has put away your things.\n4 My friend is waiting for me.\n5 They are staying with some friends.\n6 I am laughing at a funny picture.\n7 The policeman was looking for the thief.\n8 He is sitting on a chair.\n9 They were drinking out of bottles.\n10 I am thinking of the English countryside.\n11 She is writing to her mother.\n12 He is working for Thomas Cook and Son.\n13 My sister sold her house to a millionaire.\n14 The class was reading about Shakespeare.\n15 He is talking about politics.\n16 I gave it to my brother.\n17 We are going to the Ritz cinema.\n18 She is looking for a pin.\n19 The children were playing with some new toys.\n20 Mrs Smith was talking to the butcher.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9884980106130247,
+          "minimum_content_confidence_score": 0.6897778679369224,
+          "block_type_confidence_score": 0.9963616669145086
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 42,
+        "top_left_y": 783,
+        "bottom_right_x": 145,
+        "bottom_right_y": 823,
+        "content": "# 44.8\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979092230325248,
+          "minimum_content_confidence_score": 0.9918580837252853,
+          "block_type_confidence_score": 0.9999761587100603
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 167,
+        "top_left_y": 783,
+        "bottom_right_x": 312,
+        "bottom_right_y": 802,
+        "content": "See Exercise 44.6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999844967256636,
+          "minimum_content_confidence_score": 0.9999604240811819,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 346,
+        "top_left_y": 816,
+        "bottom_right_x": 449,
+        "bottom_right_y": 830,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999664636637181,
+          "minimum_content_confidence_score": 0.9999586360869611,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 136,
+        "top_left_y": 841,
+        "bottom_right_x": 628,
+        "bottom_right_y": 973,
+        "content": "● Turn the following statements into questions asking about the words in **bold type**:\n1 My wife was angry with me.\n2 I gave that present to my aunt.\n3 The school-children covered their books with brown paper.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9947873931861635,
+          "minimum_content_confidence_score": 0.8059226548660914,
+          "block_type_confidence_score": 0.9999680529300359
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

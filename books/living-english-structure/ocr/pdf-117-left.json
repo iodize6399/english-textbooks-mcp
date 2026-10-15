@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-117-left",
+    "pdf_page": 117,
+    "side": "left",
+    "reading_order": 233
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "# **46.8**\n**Advanced**\n\nIt has been pointed out that the NON-DEFINING RELATIVE is not heard in spoken English, except as a CONNECTIVE. (See next exercise.)\n\nThe idea of parenthetical and supplementary remarks is achieved in speech by simple conjunctions like *and*, *but*, *because*, *for*, *since*, *as*, etc., or by various speech devices for introducing parentheses and asides, like *by the way*, *you remember*, *incidentally*, etc.\n\nThe Lord Mayor, whom you met at the reception yesterday, gave me a handsome present.\n\nThe above sentence would never occur in spoken English but is quite a normal written English construction.\n\nIn speech it would be expressed as two separate ideas:\n\nEither: You remember you met the Lord Mayor yesterday?\n\nor: Well, look what a handsome present he gave me!\nThe Lord Mayor gave me this handsome present.\nYou met him at the reception yesterday (you know).\n\n* * *\n\n- ● Using any simple connective devices, or splitting the material into conversational units, reduce the following series of non-defining relatives to an acceptable spoken form of narrative:\n1. 1 The Prime Minister of Ruritania, to whom I introduced you last week, is extremely fond of his national drink.\n2. 2 The national drink of the Ruritanians, which (as you know) is mint tea, comes from the neighbouring country of Rusticaria.\n3. 3 So the import tax on mint, by which the Ruritanians vastly increase their national income, is a very high one.\n4. 4 My friend the Prime Minister, who after all only had the best interests of his country at heart, attempted to cut the tax down by half.\n5. 5 The leader of the ensuing revolution, which succeeded in overthrowing the government, dismissed my friend from his post.\n6. 6 The return of the old high tax, which now seemed inevitable, would mean that the neighbouring mint-growing country must sell at",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "222\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1023,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.971677177914463,
+      "minimum_page_confidence_score": 0.2365703049117686
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 27,
+        "bottom_right_x": 56,
+        "bottom_right_y": 46,
+        "content": "222",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996019994458726,
+          "minimum_content_confidence_score": 0.9996019994458726,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 27,
+        "bottom_right_x": 223,
+        "bottom_right_y": 46,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993253845035951,
+          "minimum_content_confidence_score": 0.9987275338963232,
+          "block_type_confidence_score": 0.9999835495471889
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 82,
+        "bottom_right_x": 101,
+        "bottom_right_y": 122,
+        "content": "# **46.8**\n**Advanced**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.776322144764007,
+          "minimum_content_confidence_score": 0.4128746475292384,
+          "block_type_confidence_score": 0.5586802368296027
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 80,
+        "bottom_right_x": 607,
+        "bottom_right_y": 141,
+        "content": "It has been pointed out that the NON-DEFINING RELATIVE is not heard in spoken English, except as a CONNECTIVE. (See next exercise.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985489980988965,
+          "minimum_content_confidence_score": 0.9769197880766523,
+          "block_type_confidence_score": 0.9999551793156879
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 139,
+        "bottom_right_x": 609,
+        "bottom_right_y": 241,
+        "content": "The idea of parenthetical and supplementary remarks is achieved in speech by simple conjunctions like *and*, *but*, *because*, *for*, *since*, *as*, etc., or by various speech devices for introducing parentheses and asides, like *by the way*, *you remember*, *incidentally*, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944917889840286,
+          "minimum_content_confidence_score": 0.8551814124342971,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 242,
+        "bottom_right_x": 609,
+        "bottom_right_y": 285,
+        "content": "The Lord Mayor, whom you met at the reception yesterday, gave me a handsome present.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999827780806723,
+          "minimum_content_confidence_score": 0.9999240432430209,
+          "block_type_confidence_score": 0.9998221713713075
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 291,
+        "bottom_right_x": 605,
+        "bottom_right_y": 334,
+        "content": "The above sentence would never occur in spoken English but is quite a normal written English construction.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999975381275222,
+          "minimum_content_confidence_score": 0.9998467057574227,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 332,
+        "bottom_right_x": 592,
+        "bottom_right_y": 353,
+        "content": "In speech it would be expressed as two separate ideas:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999754641130396,
+          "minimum_content_confidence_score": 0.999796670304583,
+          "block_type_confidence_score": 0.9999992847447459
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 352,
+        "bottom_right_x": 609,
+        "bottom_right_y": 392,
+        "content": "Either: You remember you met the Lord Mayor yesterday?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998402984316291,
+          "minimum_content_confidence_score": 0.9992230829972754,
+          "block_type_confidence_score": 0.9997550849126202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 394,
+        "bottom_right_x": 611,
+        "bottom_right_y": 475,
+        "content": "or: Well, look what a handsome present he gave me!\nThe Lord Mayor gave me this handsome present.\nYou met him at the reception yesterday (you know).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9822357479984279,
+          "minimum_content_confidence_score": 0.7157826643847194,
+          "block_type_confidence_score": 0.9977645888297011
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 488,
+        "bottom_right_x": 433,
+        "bottom_right_y": 502,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962515008399366,
+          "minimum_content_confidence_score": 0.9918166862652572,
+          "block_type_confidence_score": 0.9999871255623688
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 513,
+        "bottom_right_x": 613,
+        "bottom_right_y": 990,
+        "content": "- ● Using any simple connective devices, or splitting the material into conversational units, reduce the following series of non-defining relatives to an acceptable spoken form of narrative:\n1. 1 The Prime Minister of Ruritania, to whom I introduced you last week, is extremely fond of his national drink.\n2. 2 The national drink of the Ruritanians, which (as you know) is mint tea, comes from the neighbouring country of Rusticaria.\n3. 3 So the import tax on mint, by which the Ruritanians vastly increase their national income, is a very high one.\n4. 4 My friend the Prime Minister, who after all only had the best interests of his country at heart, attempted to cut the tax down by half.\n5. 5 The leader of the ensuing revolution, which succeeded in overthrowing the government, dismissed my friend from his post.\n6. 6 The return of the old high tax, which now seemed inevitable, would mean that the neighbouring mint-growing country must sell at",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941075404755898,
+          "minimum_content_confidence_score": 0.5515374336323184,
+          "block_type_confidence_score": 0.9975151922897846
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

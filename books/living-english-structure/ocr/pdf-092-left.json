@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-092-left",
+    "pdf_page": 92,
+    "side": "left",
+    "reading_order": 183
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:14.317939+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "# 37.3\nElementary\nand\nIntermediate\n\nOr else. This is a very useful connective expressing the condition if not. It is very frequently met with in conversation, but rarely learnt and practised by foreigners.\n\nCome early, or else you won't get anything to eat.\n= If you don't, you won't get . . .\n\nOr can always take its place; else acts as a kind of intensifier.\n\n* * *\n\n● Join the following pairs of sentences with or else:\n1 Put your coat on. If you don't, you'll catch cold.\n2 You must hurry. If you don't, you'll be late.\n3 We must look pleased. If we don't, he'll be cross.\n4 Hide it. If you don't, they will steal it.\n5 I must clean it. If I don't, it will get rusty.\n6 Follow him. If you don't, he'll get away.\n7 You must put it on ice. If you don't, it will melt.\n8 Hold it by its neck. If you don't, it'll bite you.\n9 We must keep chickens. If we don't, we shan't have any eggs.\n10 We must tear it up. If we don't, they'll find out our secret.\n11 Shut the door quietly. If you don't, you'll wake the baby.\n12 You must pay him well. If you don't, he won't work for you.\n13 You must build a high wall. If you don't, you will lose all your fruit.\n14 Cook it in butter. If you don't, it'll be hard.\n15 Take it away. If you don't, I'll scream!\n16 Put it down quickly. If you don't, you'll burn your fingers.\n17 We must go now. If we don't, we'll miss the train.\n18 You must finish your work now. If you don't, you won't be able to go out tonight.\n19 I must go home. If I don't, mother will be cross with me.\n20 Do as you are told. If you don't, you'll be punished.\n21 Tell the cook to put the meat in the oven now. If she doesn't, it won't be ready for dinner.\n22 She ought to take more exercise. If she doesn't, she'll get fat.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "172\n37 else and or else",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1016,
+      "width": 679
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9775714877352614,
+      "minimum_page_confidence_score": 0.24528336415653668
+    },
+    "blocks": [
+      {
+        "top_left_x": 32,
+        "top_left_y": 21,
+        "bottom_right_x": 65,
+        "bottom_right_y": 40,
+        "content": "172",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999574440950153,
+          "minimum_content_confidence_score": 0.9999574440950153,
+          "block_type_confidence_score": 0.9999968088752337
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 21,
+        "bottom_right_x": 280,
+        "bottom_right_y": 40,
+        "content": "37 else and or else",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9001823954422065,
+          "minimum_content_confidence_score": 0.5027895003105864,
+          "block_type_confidence_score": 0.9998083696264559
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 72,
+        "bottom_right_x": 133,
+        "bottom_right_y": 153,
+        "content": "# 37.3\nElementary\nand\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9351325159710675,
+          "minimum_content_confidence_score": 0.7654113235627421,
+          "block_type_confidence_score": 0.559369570849335
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 72,
+        "bottom_right_x": 616,
+        "bottom_right_y": 134,
+        "content": "Or else. This is a very useful connective expressing the condition if not. It is very frequently met with in conversation, but rarely learnt and practised by foreigners.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984213970263801,
+          "minimum_content_confidence_score": 0.979170897978778,
+          "block_type_confidence_score": 0.9999774699527387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 194,
+        "top_left_y": 137,
+        "bottom_right_x": 598,
+        "bottom_right_y": 178,
+        "content": "Come early, or else you won't get anything to eat.\n= If you don't, you won't get . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9957422119154202,
+          "minimum_content_confidence_score": 0.9363447757788086,
+          "block_type_confidence_score": 0.9988470272964597
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 183,
+        "bottom_right_x": 565,
+        "bottom_right_y": 223,
+        "content": "Or can always take its place; else acts as a kind of intensifier.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998105715581722,
+          "minimum_content_confidence_score": 0.9978483990795679,
+          "block_type_confidence_score": 0.9999747282700929
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 335,
+        "top_left_y": 237,
+        "bottom_right_x": 438,
+        "bottom_right_y": 251,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979891895284805,
+          "minimum_content_confidence_score": 0.9944073974074253,
+          "block_type_confidence_score": 0.999985933501902
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 263,
+        "bottom_right_x": 618,
+        "bottom_right_y": 988,
+        "content": "● Join the following pairs of sentences with or else:\n1 Put your coat on. If you don't, you'll catch cold.\n2 You must hurry. If you don't, you'll be late.\n3 We must look pleased. If we don't, he'll be cross.\n4 Hide it. If you don't, they will steal it.\n5 I must clean it. If I don't, it will get rusty.\n6 Follow him. If you don't, he'll get away.\n7 You must put it on ice. If you don't, it will melt.\n8 Hold it by its neck. If you don't, it'll bite you.\n9 We must keep chickens. If we don't, we shan't have any eggs.\n10 We must tear it up. If we don't, they'll find out our secret.\n11 Shut the door quietly. If you don't, you'll wake the baby.\n12 You must pay him well. If you don't, he won't work for you.\n13 You must build a high wall. If you don't, you will lose all your fruit.\n14 Cook it in butter. If you don't, it'll be hard.\n15 Take it away. If you don't, I'll scream!\n16 Put it down quickly. If you don't, you'll burn your fingers.\n17 We must go now. If we don't, we'll miss the train.\n18 You must finish your work now. If you don't, you won't be able to go out tonight.\n19 I must go home. If I don't, mother will be cross with me.\n20 Do as you are told. If you don't, you'll be punished.\n21 Tell the cook to put the meat in the oven now. If she doesn't, it won't be ready for dinner.\n22 She ought to take more exercise. If she doesn't, she'll get fat.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990952949431555,
+          "minimum_content_confidence_score": 0.729009250387242,
+          "block_type_confidence_score": 0.9889678187876486
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

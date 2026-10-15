@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-076-left",
+    "pdf_page": 76,
+    "side": "left",
+    "reading_order": 151
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "11 It (be) the madman who (do) the killing.\n12 The wetness of the deck (tell) him that dew (fall) in the night.\n13 It (seem) at least twenty minutes since Smith (set) off for the village.\n14 He (know) of only one tiger kept as a pet, and this animal, in seven or eight years, (never show) a trace of ill-temper.\n15 Beau Nash already (banish) swords from the ballroom because their clash (frighten) the ladies.\n16 She (do) her duty in that state of life to which it (please) God to call her.\n17 He (refuse) to admit that he (steal) the peaches.\n18 The little boy, who (glance) furtively at me more than once, now (crouch) back against his mother.\n19 He lives as happily in this cottage as if it (be) a royal palace.¹\n20 He jumped up as if he (be stung).¹\n\n## 30 Revision of Tenses\n\n30.1\n\nElementary\n\n● Supply suitable tenses (but do not use *should/would*):\n1 They just (decide) that they (undertake) the job.\n2 We (go) to the theatre last night.\n3 He usually (write) in green ink.\n4 She (play) the piano when our guests (arrive) last night.\n5 We (do) an English exercise. (*How many possibilities?*)\n6 She just (come) in and (see) you in five minutes.\n7 I (come) as soon as my work is finished. You (be) ready?\n8 Where you (go) for your holidays last year?\n9 I (not leave) Paris since we (visit) Dieppe three years ago.\n10 My mother (come) to stay with us next weekend.\n11 We (meet) only yesterday and already (decide) to get married.\n\n¹ See Exercise 31.10 for *as if* construction.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "140\n30 Revision of Tenses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1004,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9802767773353425,
+      "minimum_page_confidence_score": 0.09595749966292592
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 12,
+        "bottom_right_x": 54,
+        "bottom_right_y": 31,
+        "content": "140",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999624504845601,
+          "minimum_content_confidence_score": 0.9999624504845601,
+          "block_type_confidence_score": 0.999993892875343
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 12,
+        "bottom_right_x": 295,
+        "bottom_right_y": 31,
+        "content": "30 Revision of Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999322979910751,
+          "minimum_content_confidence_score": 0.9998525598494739,
+          "block_type_confidence_score": 0.9968223318084615
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 66,
+        "bottom_right_x": 607,
+        "bottom_right_y": 462,
+        "content": "11 It (be) the madman who (do) the killing.\n12 The wetness of the deck (tell) him that dew (fall) in the night.\n13 It (seem) at least twenty minutes since Smith (set) off for the village.\n14 He (know) of only one tiger kept as a pet, and this animal, in seven or eight years, (never show) a trace of ill-temper.\n15 Beau Nash already (banish) swords from the ballroom because their clash (frighten) the ladies.\n16 She (do) her duty in that state of life to which it (please) God to call her.\n17 He (refuse) to admit that he (steal) the peaches.\n18 The little boy, who (glance) furtively at me more than once, now (crouch) back against his mother.\n19 He lives as happily in this cottage as if it (be) a royal palace.¹\n20 He jumped up as if he (be stung).¹",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992056598250088,
+          "minimum_content_confidence_score": 0.952330935346722,
+          "block_type_confidence_score": 0.9940835695377881
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 101,
+        "top_left_y": 518,
+        "bottom_right_x": 356,
+        "bottom_right_y": 545,
+        "content": "## 30 Revision of Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9703599682886045,
+          "minimum_content_confidence_score": 0.8519323341969327,
+          "block_type_confidence_score": 0.9989935761836525
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 588,
+        "bottom_right_x": 62,
+        "bottom_right_y": 608,
+        "content": "30.1",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995368332634408,
+          "minimum_content_confidence_score": 0.9995368332634408,
+          "block_type_confidence_score": 0.7217927933169629
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 609,
+        "bottom_right_x": 115,
+        "bottom_right_y": 630,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999832037092313,
+          "minimum_content_confidence_score": 0.9999832037092313,
+          "block_type_confidence_score": 0.996415160968294
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 588,
+        "bottom_right_x": 603,
+        "bottom_right_y": 963,
+        "content": "● Supply suitable tenses (but do not use *should/would*):\n1 They just (decide) that they (undertake) the job.\n2 We (go) to the theatre last night.\n3 He usually (write) in green ink.\n4 She (play) the piano when our guests (arrive) last night.\n5 We (do) an English exercise. (*How many possibilities?*)\n6 She just (come) in and (see) you in five minutes.\n7 I (come) as soon as my work is finished. You (be) ready?\n8 Where you (go) for your holidays last year?\n9 I (not leave) Paris since we (visit) Dieppe three years ago.\n10 My mother (come) to stay with us next weekend.\n11 We (meet) only yesterday and already (decide) to get married.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992509047989582,
+          "minimum_content_confidence_score": 0.9475990209633367,
+          "block_type_confidence_score": 0.9969758926670967
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 966,
+        "bottom_right_x": 460,
+        "bottom_right_y": 986,
+        "content": "¹ See Exercise 31.10 for *as if* construction.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9917141395192217,
+          "minimum_content_confidence_score": 0.9382609669993506,
+          "block_type_confidence_score": 0.9734594864594921
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

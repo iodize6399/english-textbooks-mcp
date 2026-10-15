@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-149-left",
+    "pdf_page": 149,
+    "side": "left",
+    "reading_order": 297
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "It wasn't at all a bad play.  \n They weren't half glad to be home again.  \n Similar mistakes are not uncommon.  \n (and other such double negative ideas)  \n QUESTION: Would you like another cup of tea?  \n RESPONSE: Not half!  \n Well, I wouldn't say no.  \n I shouldn't object.  \n Ra-ather! (wave-intonation)  \n I don't mind (if I do).\n\nThis understatement use of *rather* is a diffident way of expressing *very*, especially where the Englishman hates to be definite on a subject of a complimentary, eulogistic or emotional nature.\n\n\\* \\* \\*\n\n(53.9)\n\n- ● Put *fairly* or *rather* into the blank spaces:\n- 1 Don't you think my friend Maisie is really — pretty?\n- 2 Surely it's — obvious that you can't carry more than one at a time.\n- 3 Don't whisper to me now, it looks — obvious!\n- 4 You must agree that I look — well in this suit.\n- 5 I should go and see that film; it's really — good.\n- 6 I think I'll buy it. The price seems — reasonable.\n- 7 Read this book. I think you'll find it — interesting.\n- 8 School teachers generally get — long holidays.\n- 9 Your hair is — long, Cyril! Go and get it cut!\n- 10 It is — easy to get a secretarial job these days.\n- 11 It was — unkind of Cyril to be so rude to you.\n- 12 It's really — cheap; quite a bargain, in fact!\n- 13 I thought her little girl was — sweet. Didn't you?\n- 14 These yellow apples aren't very good, but I think you'll find the red ones — sweet.\n- 15 The left shoe is a bit tight, but the other one fits — well.\n- 16 That blue hat suits you — well!\n- 17 It was — clever of you to do it all by yourself!\n- 18 I can't say he's a brilliant student, but he's — intelligent.\n- 19 Your little boy seems really — intelligent for his age.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "286\n53 Miscellaneous Exercises",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9798879374023134,
+      "minimum_page_confidence_score": 0.241624747449011
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 12,
+        "bottom_right_x": 56,
+        "bottom_right_y": 30,
+        "content": "286",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999163220796634,
+          "minimum_content_confidence_score": 0.9999163220796634,
+          "block_type_confidence_score": 0.9999997799213883
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 12,
+        "bottom_right_x": 343,
+        "bottom_right_y": 30,
+        "content": "53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999669765974605,
+          "minimum_content_confidence_score": 0.9991357649292603,
+          "block_type_confidence_score": 0.9997729054431256
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 67,
+        "bottom_right_x": 561,
+        "bottom_right_y": 266,
+        "content": "It wasn't at all a bad play.  \n They weren't half glad to be home again.  \n Similar mistakes are not uncommon.  \n (and other such double negative ideas)  \n QUESTION: Would you like another cup of tea?  \n RESPONSE: Not half!  \n Well, I wouldn't say no.  \n I shouldn't object.  \n Ra-ather! (wave-intonation)  \n I don't mind (if I do).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956654457144554,
+          "minimum_content_confidence_score": 0.7295027317223165,
+          "block_type_confidence_score": 0.9989668087765755
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 275,
+        "bottom_right_x": 611,
+        "bottom_right_y": 355,
+        "content": "This understatement use of *rather* is a diffident way of expressing *very*, especially where the Englishman hates to be definite on a subject of a complimentary, eulogistic or emotional nature.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995154404837882,
+          "minimum_content_confidence_score": 0.9893570409853272,
+          "block_type_confidence_score": 0.9999938011552557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 328,
+        "top_left_y": 369,
+        "bottom_right_x": 430,
+        "bottom_right_y": 384,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993060009643514,
+          "minimum_content_confidence_score": 0.9985624145592294,
+          "block_type_confidence_score": 0.9999798540367254
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 396,
+        "bottom_right_x": 75,
+        "bottom_right_y": 417,
+        "content": "(53.9)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993019191552096,
+          "minimum_content_confidence_score": 0.9993019191552096,
+          "block_type_confidence_score": 0.9964400163999605
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 396,
+        "bottom_right_x": 607,
+        "bottom_right_y": 987,
+        "content": "- ● Put *fairly* or *rather* into the blank spaces:\n- 1 Don't you think my friend Maisie is really — pretty?\n- 2 Surely it's — obvious that you can't carry more than one at a time.\n- 3 Don't whisper to me now, it looks — obvious!\n- 4 You must agree that I look — well in this suit.\n- 5 I should go and see that film; it's really — good.\n- 6 I think I'll buy it. The price seems — reasonable.\n- 7 Read this book. I think you'll find it — interesting.\n- 8 School teachers generally get — long holidays.\n- 9 Your hair is — long, Cyril! Go and get it cut!\n- 10 It is — easy to get a secretarial job these days.\n- 11 It was — unkind of Cyril to be so rude to you.\n- 12 It's really — cheap; quite a bargain, in fact!\n- 13 I thought her little girl was — sweet. Didn't you?\n- 14 These yellow apples aren't very good, but I think you'll find the red ones — sweet.\n- 15 The left shoe is a bit tight, but the other one fits — well.\n- 16 That blue hat suits you — well!\n- 17 It was — clever of you to do it all by yourself!\n- 18 I can't say he's a brilliant student, but he's — intelligent.\n- 19 Your little boy seems really — intelligent for his age.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985327803131184,
+          "minimum_content_confidence_score": 0.8174417830342996,
+          "block_type_confidence_score": 0.9984970067180295
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

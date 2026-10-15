@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-071-left",
+    "pdf_page": 71,
+    "side": "left",
+    "reading_order": 141
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "8 You must wait - the light changes to green.\n9 I'll write to you - I leave England.\n10 He will remain in the south - the cold weather lasts.\n11 These brave men will fight - they die.\n12 - I live, I shall always remember his face.\n13 You will be able to play the piano - you like.\n14 They will not climb the hill - the moon rises.\n15 Don't buy bananas - they become cheaper.\n16 We must buy some shirts - they become dearer.\n17 This coat will lose its colour - it's washed.\n18 He will sell the cloth - the price rises.\n19 I shall wait - the price falls.\n20 The corn will grow quickly - the rain comes.\n\n# 28.18\n\n# Elementary\n\n# NO FUTURE\n\n# AFTER\n\n# TEMPORALS\n\nPut the verb in brackets into a suitable tense:\n\n1 We shall go as soon as you (be) ready.\n2 He will tell you when you (get) home.\n3 We'll go out when the rain (stop).\n4 I (stay) here until he answers me.\n5 Wait until I (catch) you!\n6 I'll be ready before you (count) ten.\n7 He'll eat strawberries until he (look like) them.\n8 John must eat his breakfast before he (go) out.\n9 Please sit here until my husband (come).\n10 See that it is clean before you (touch) it.\n11 I'll help her look for it until she (find) it.\n12 The house will stay empty till we (return).\n13 As soon as you buy the book, I (borrow) it from you.\n14 He'll tell you when you (ask) him.\n15 I'll tell you a secret as soon as my husband (go) out.\n16 I'll believe it when I (see) it.\n17 I (get) a new one before tonight.\n18 It will be mended by the time you (get) back.\n19 She (not come) until you are ready.\n20 I'll give it back as soon as he (want) it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "130\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1022,
+      "width": 710
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9694988137818871,
+      "minimum_page_confidence_score": 0.20173469709817884
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 26,
+        "bottom_right_x": 57,
+        "bottom_right_y": 46,
+        "content": "130",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998388550060853,
+          "minimum_content_confidence_score": 0.9998388550060853,
+          "block_type_confidence_score": 0.9999800835068768
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 23,
+        "bottom_right_x": 405,
+        "bottom_right_y": 45,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999889537801484,
+          "minimum_content_confidence_score": 0.9999452859281749,
+          "block_type_confidence_score": 0.9777240144674768
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 79,
+        "bottom_right_x": 593,
+        "bottom_right_y": 416,
+        "content": "8 You must wait - the light changes to green.\n9 I'll write to you - I leave England.\n10 He will remain in the south - the cold weather lasts.\n11 These brave men will fight - they die.\n12 - I live, I shall always remember his face.\n13 You will be able to play the piano - you like.\n14 They will not climb the hill - the moon rises.\n15 Don't buy bananas - they become cheaper.\n16 We must buy some shirts - they become dearer.\n17 This coat will lose its colour - it's washed.\n18 He will sell the cloth - the price rises.\n19 I shall wait - the price falls.\n20 The corn will grow quickly - the rain comes.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9822135950979763,
+          "minimum_content_confidence_score": 0.5435740482871116,
+          "block_type_confidence_score": 0.999923235110867
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 437,
+        "bottom_right_x": 81,
+        "bottom_right_y": 458,
+        "content": "# 28.18",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9901531926433336,
+          "minimum_content_confidence_score": 0.9820137577607906,
+          "block_type_confidence_score": 0.8605689022861864
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 460,
+        "bottom_right_x": 124,
+        "bottom_right_y": 480,
+        "content": "# Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999668017881949,
+          "minimum_content_confidence_score": 0.9999450475372202,
+          "block_type_confidence_score": 0.6762419873498083
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 483,
+        "bottom_right_x": 122,
+        "bottom_right_y": 499,
+        "content": "# NO FUTURE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999073660606546,
+          "minimum_content_confidence_score": 0.9997585402974957,
+          "block_type_confidence_score": 0.970562434836234
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 503,
+        "bottom_right_x": 81,
+        "bottom_right_y": 519,
+        "content": "# AFTER",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998717032788296,
+          "minimum_content_confidence_score": 0.999746744406739,
+          "block_type_confidence_score": 0.9999865295319578
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 523,
+        "bottom_right_x": 122,
+        "bottom_right_y": 538,
+        "content": "# TEMPORALS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995064609934131,
+          "minimum_content_confidence_score": 0.9990130411961016,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 435,
+        "bottom_right_x": 537,
+        "bottom_right_y": 457,
+        "content": "Put the verb in brackets into a suitable tense:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9813621339167873,
+          "minimum_content_confidence_score": 0.8323119953620975,
+          "block_type_confidence_score": 0.8018859197884531
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 460,
+        "bottom_right_x": 611,
+        "bottom_right_y": 954,
+        "content": "1 We shall go as soon as you (be) ready.\n2 He will tell you when you (get) home.\n3 We'll go out when the rain (stop).\n4 I (stay) here until he answers me.\n5 Wait until I (catch) you!\n6 I'll be ready before you (count) ten.\n7 He'll eat strawberries until he (look like) them.\n8 John must eat his breakfast before he (go) out.\n9 Please sit here until my husband (come).\n10 See that it is clean before you (touch) it.\n11 I'll help her look for it until she (find) it.\n12 The house will stay empty till we (return).\n13 As soon as you buy the book, I (borrow) it from you.\n14 He'll tell you when you (ask) him.\n15 I'll tell you a secret as soon as my husband (go) out.\n16 I'll believe it when I (see) it.\n17 I (get) a new one before tonight.\n18 It will be mended by the time you (get) back.\n19 She (not come) until you are ready.\n20 I'll give it back as soon as he (want) it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952512280488081,
+          "minimum_content_confidence_score": 0.6581353847705268,
+          "block_type_confidence_score": 0.9999854566779314
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

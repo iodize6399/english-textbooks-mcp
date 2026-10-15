@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-006-right",
+    "pdf_page": 6,
+    "side": "right",
+    "reading_order": 12
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 9,
+    "markdown": "# 1 Countables and Uncountables\n\n## 1.1 Elementary\n\nNouns naming things that we cannot count (UNCOUNTABLE or MASS nouns) have no indefinite article, and usually no plural.\n\nink, water, wood.\n\n* * *\n\n- Put into the plural:\n1. A dog is an animal.\n2. A potato is a vegetable.\n3. A student is not always good.\n4. A chair is made of wood.\n5. A husband is a man.\n6. A pencil is like a pen.\n7. An eye is blue or brown.\n8. A fish can swim.\n9. A cow gives milk.\n10. An airport is a busy place.\n11. A motorway is a fast road for a motor-car.\n12. A garden has a tree.\n13. We drink tea out of a cup.\n14. An apple grows on a tree.\n15. A mother is kind to a little child.\n16. A girl likes a sweet.\n17. A teacher is a man or a woman.\n18. A fly is an insect.\n19. A dog hates a cat.\n20. A box has a lid.\n21. A chicken is a bird.\n22. A cat eats meat.\n23. We can make a cake with flour, milk and an egg.\n24. We fill our pen with ink.\n25. A writer writes a book.\n\n## 1.2 Elementary\n\n- Put into the singular:\n1. Horses are animals.\n2. Balls are toys.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 38,
+      "height": 1010,
+      "width": 664
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9700446125216652,
+      "minimum_page_confidence_score": 0.15779895067345734
+    },
+    "blocks": [
+      {
+        "top_left_x": 93,
+        "top_left_y": 37,
+        "bottom_right_x": 493,
+        "bottom_right_y": 68,
+        "content": "# 1 Countables and Uncountables",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995571639958749,
+          "minimum_content_confidence_score": 0.9991958652106483,
+          "block_type_confidence_score": 0.9993507311827874
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 2,
+        "top_left_y": 125,
+        "bottom_right_x": 93,
+        "bottom_right_y": 170,
+        "content": "## 1.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9438362862664627,
+          "minimum_content_confidence_score": 0.8962302939803147,
+          "block_type_confidence_score": 0.47731782802822037
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 130,
+        "top_left_y": 125,
+        "bottom_right_x": 646,
+        "bottom_right_y": 191,
+        "content": "Nouns naming things that we cannot count (UNCOUNTABLE or MASS nouns) have no indefinite article, and usually no plural.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985650048516296,
+          "minimum_content_confidence_score": 0.9899586901879779,
+          "block_type_confidence_score": 0.9999518417671817
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 194,
+        "bottom_right_x": 329,
+        "bottom_right_y": 217,
+        "content": "ink, water, wood.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994575707222025,
+          "minimum_content_confidence_score": 0.998793898060682,
+          "block_type_confidence_score": 0.9980569757765628
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 326,
+        "top_left_y": 232,
+        "bottom_right_x": 441,
+        "bottom_right_y": 247,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8593543199914432,
+          "minimum_content_confidence_score": 0.5809152020159961,
+          "block_type_confidence_score": 0.9998496996743885
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 90,
+        "top_left_y": 260,
+        "bottom_right_x": 626,
+        "bottom_right_y": 876,
+        "content": "- Put into the plural:\n1. A dog is an animal.\n2. A potato is a vegetable.\n3. A student is not always good.\n4. A chair is made of wood.\n5. A husband is a man.\n6. A pencil is like a pen.\n7. An eye is blue or brown.\n8. A fish can swim.\n9. A cow gives milk.\n10. An airport is a busy place.\n11. A motorway is a fast road for a motor-car.\n12. A garden has a tree.\n13. We drink tea out of a cup.\n14. An apple grows on a tree.\n15. A mother is kind to a little child.\n16. A girl likes a sweet.\n17. A teacher is a man or a woman.\n18. A fly is an insect.\n19. A dog hates a cat.\n20. A box has a lid.\n21. A chicken is a bird.\n22. A cat eats meat.\n23. We can make a cake with flour, milk and an egg.\n24. We fill our pen with ink.\n25. A writer writes a book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970803659393778,
+          "minimum_content_confidence_score": 0.6385544577869395,
+          "block_type_confidence_score": 0.9998184772020393
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 2,
+        "top_left_y": 903,
+        "bottom_right_x": 93,
+        "bottom_right_y": 947,
+        "content": "## 1.2 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989163615295752,
+          "minimum_content_confidence_score": 0.9977173578051155,
+          "block_type_confidence_score": 0.9998995166672116
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 98,
+        "top_left_y": 903,
+        "bottom_right_x": 327,
+        "bottom_right_y": 976,
+        "content": "- Put into the singular:\n1. Horses are animals.\n2. Balls are toys.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995429459939685,
+          "minimum_content_confidence_score": 0.9956922843777277,
+          "block_type_confidence_score": 0.9999318169392539
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

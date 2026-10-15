@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-048-left",
+    "pdf_page": 48,
+    "side": "left",
+    "reading_order": 95
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "at the picture of one I shot in Africa last year.\n11 Jack (go) to Switzerland for a holiday; I never (be = go) there.\n12 He only (write) to me once since he went away; I (send) him four letters.\n13 She (read) all the works of Dickens and Scott. How many you (read)?\n14 I (sit) for my portrait for the last six months, but the artist (not finish) it yet.\n15 You must wake her! She (sleep) soundly for ten hours!\n\n# 23.7\nElementary\n\nSince and For with PRESENT PERFECT SIMPLE and CONTINUOUS.\n\nRemember: Since = from a POINT in past till NOW.\n\nFor = LENGTH of time till NOW.\n\nFuller notes in Exercise 23.3.\n\n* * *\n\n● Add since or for:\n1 He has been selling cars — ten years.\n2 He has been living here — 1934.\n3 I've been waiting — five o'clock.\n4 I've been mending your socks — the last two hours.\n5 We've been reading this book — last January.\n6 We've been studying English — three months.\n7 He has been sleeping — seven hours.\n8 He has been working — seven o'clock this morning.\n9 They've been very busy — the last week.\n10 They've been living here — last week.\n11 I haven't worn this dress — two years.\n12 We have been climbing — an hour and a half.\n13 She has been teaching in that school — 1968.\n14 My friend has been ill — a long time.\n15 It has been raining — yesterday morning.\n16 I haven't done any work — a month.\n17 What have you been doing — yesterday?\n18 That church has been standing here — centuries.\n19 He hasn't been here — three weeks.\n20 She hasn't bought any new clothes — the beginning of the year.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "84\n23 Present Perfect Tense",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 667
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726652546964077,
+      "minimum_page_confidence_score": 0.2588078997424393
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 21,
+        "bottom_right_x": 45,
+        "bottom_right_y": 40,
+        "content": "84",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997162432278512,
+          "minimum_content_confidence_score": 0.9997162432278512,
+          "block_type_confidence_score": 0.9999812388489546
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 21,
+        "bottom_right_x": 324,
+        "bottom_right_y": 40,
+        "content": "23 Present Perfect Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998020673365808,
+          "minimum_content_confidence_score": 0.999511957061903,
+          "block_type_confidence_score": 0.9982186032415793
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 74,
+        "bottom_right_x": 595,
+        "bottom_right_y": 315,
+        "content": "at the picture of one I shot in Africa last year.\n11 Jack (go) to Switzerland for a holiday; I never (be = go) there.\n12 He only (write) to me once since he went away; I (send) him four letters.\n13 She (read) all the works of Dickens and Scott. How many you (read)?\n14 I (sit) for my portrait for the last six months, but the artist (not finish) it yet.\n15 You must wake her! She (sleep) soundly for ten hours!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956839096849002,
+          "minimum_content_confidence_score": 0.7496169116557232,
+          "block_type_confidence_score": 0.9465719818184738
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 335,
+        "bottom_right_x": 115,
+        "bottom_right_y": 377,
+        "content": "# 23.7\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8294835340531803,
+          "minimum_content_confidence_score": 0.4977206536837585,
+          "block_type_confidence_score": 0.5267626779049102
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 335,
+        "bottom_right_x": 611,
+        "bottom_right_y": 375,
+        "content": "Since and For with PRESENT PERFECT SIMPLE and CONTINUOUS.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990710308584667,
+          "minimum_content_confidence_score": 0.9940776795363074,
+          "block_type_confidence_score": 0.99544204119102
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 375,
+        "bottom_right_x": 564,
+        "bottom_right_y": 396,
+        "content": "Remember: Since = from a POINT in past till NOW.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992031540546973,
+          "minimum_content_confidence_score": 0.9945625660080015,
+          "block_type_confidence_score": 0.9999558945068824
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 249,
+        "top_left_y": 399,
+        "bottom_right_x": 508,
+        "bottom_right_y": 418,
+        "content": "For = LENGTH of time till NOW.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999534144360659,
+          "minimum_content_confidence_score": 0.9997771342267363,
+          "block_type_confidence_score": 0.9999058335262538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 429,
+        "bottom_right_x": 385,
+        "bottom_right_y": 448,
+        "content": "Fuller notes in Exercise 23.3.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999478034227824,
+          "minimum_content_confidence_score": 0.9997720969973264,
+          "block_type_confidence_score": 0.9999313401638235
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 328,
+        "top_left_y": 462,
+        "bottom_right_x": 431,
+        "bottom_right_y": 477,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973522094211459,
+          "minimum_content_confidence_score": 0.9933131474061527,
+          "block_type_confidence_score": 0.9999787811971367
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 489,
+        "bottom_right_x": 613,
+        "bottom_right_y": 994,
+        "content": "● Add since or for:\n1 He has been selling cars — ten years.\n2 He has been living here — 1934.\n3 I've been waiting — five o'clock.\n4 I've been mending your socks — the last two hours.\n5 We've been reading this book — last January.\n6 We've been studying English — three months.\n7 He has been sleeping — seven hours.\n8 He has been working — seven o'clock this morning.\n9 They've been very busy — the last week.\n10 They've been living here — last week.\n11 I haven't worn this dress — two years.\n12 We have been climbing — an hour and a half.\n13 She has been teaching in that school — 1968.\n14 My friend has been ill — a long time.\n15 It has been raining — yesterday morning.\n16 I haven't done any work — a month.\n17 What have you been doing — yesterday?\n18 That church has been standing here — centuries.\n19 He hasn't been here — three weeks.\n20 She hasn't bought any new clothes — the beginning of the year.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993143555029955,
+          "minimum_content_confidence_score": 0.9208208544624079,
+          "block_type_confidence_score": 0.9994252649204793
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

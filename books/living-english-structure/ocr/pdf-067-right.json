@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-067-right",
+    "pdf_page": 67,
+    "side": "right",
+    "reading_order": 134
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "**28.12**\n**Intermediate**\n**COLOURED**\n**FUTURE WITH**\n*will/shall*\n\n*Will* used with first person colours the future with the speaker's intention or promise. But as most of our first person futures are presumably honest intentions, we find that *will* or *'ll* is one of the commonest future forms for all persons.\n\n*Shall* with other persons colours the future with promise, compulsion or (in negative) restraint. It is not such a commonly used form as grammar books would suggest, its place more frequently being taken by a FUTURE SUBSTITUTE (see Exercises 28.14, 15).\n\nI won't forget what you've told me. (promise)\nYou shan't leave till you promise to come again.\n(restraint)\nYou shall have it back tomorrow. (promise)\nI'll begin again, and you shan't stop me this time.\nHe shall never come here again!\n\nAnd notice, too, the use of *will* when asking for someone's co-operation:\n\nIf you'll wait here a moment, I'll fetch a chair.\n- not to be confused with true condition\n\n* * *\n\n- ● Use *shall* or *will* in the following sentences:\n1 You — not go until I know the truth.\n2 You — have a piece of chocolate if you're good.\n3 If you — look after the luggage I — buy the tickets.\n4 You — have some more in a minute.\n5 I'm determined he —n't come here again.\n6 — you have a drink? What — it be?\n7 I — see to it myself. You —n't pay a penny.\n8 You — have a bicycle of your own when you're older.\n9 '— you have tea or coffee?' 'I — have some tea, please.'\n10 Members — not introduce more than three guests on any day.\n11 'Britons never, never, never — be slaves.'\n12 I promise you that you —n't lose by it.\n13 If he —n't mend that stove, I — have to do it myself.\n14 He — have what he asks for, but *you* —n't.\n15 — you lend me £1 (a pound)? I — pay you back tomorrow.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "28 The Future and Future Perfect\n123",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1002,
+      "width": 669
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9736686865326994,
+      "minimum_page_confidence_score": 0.16725580099587145
+    },
+    "blocks": [
+      {
+        "top_left_x": 138,
+        "top_left_y": 16,
+        "bottom_right_x": 423,
+        "bottom_right_y": 35,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999625137090297,
+          "minimum_content_confidence_score": 0.9998331348443508,
+          "block_type_confidence_score": 0.9999896564709955
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 616,
+        "top_left_y": 16,
+        "bottom_right_x": 649,
+        "bottom_right_y": 34,
+        "content": "123",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999958755287689,
+          "minimum_content_confidence_score": 0.999958755287689,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 47,
+        "top_left_y": 70,
+        "bottom_right_x": 158,
+        "bottom_right_y": 171,
+        "content": "**28.12**\n**Intermediate**\n**COLOURED**\n**FUTURE WITH**\n*will/shall*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9665436435447973,
+          "minimum_content_confidence_score": 0.8197279419978211,
+          "block_type_confidence_score": 0.5248412413287412
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 70,
+        "bottom_right_x": 650,
+        "bottom_right_y": 171,
+        "content": "*Will* used with first person colours the future with the speaker's intention or promise. But as most of our first person futures are presumably honest intentions, we find that *will* or *'ll* is one of the commonest future forms for all persons.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9948921138512671,
+          "minimum_content_confidence_score": 0.7976705670017397,
+          "block_type_confidence_score": 0.9999947548186582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 171,
+        "bottom_right_x": 650,
+        "bottom_right_y": 272,
+        "content": "*Shall* with other persons colours the future with promise, compulsion or (in negative) restraint. It is not such a commonly used form as grammar books would suggest, its place more frequently being taken by a FUTURE SUBSTITUTE (see Exercises 28.14, 15).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995544535084151,
+          "minimum_content_confidence_score": 0.983982172337534,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 214,
+        "top_left_y": 274,
+        "bottom_right_x": 650,
+        "bottom_right_y": 394,
+        "content": "I won't forget what you've told me. (promise)\nYou shan't leave till you promise to come again.\n(restraint)\nYou shall have it back tomorrow. (promise)\nI'll begin again, and you shan't stop me this time.\nHe shall never come here again!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952819798223659,
+          "minimum_content_confidence_score": 0.8170354097212421,
+          "block_type_confidence_score": 0.9521409070745475
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 403,
+        "bottom_right_x": 652,
+        "bottom_right_y": 443,
+        "content": "And notice, too, the use of *will* when asking for someone's co-operation:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999614077871749,
+          "minimum_content_confidence_score": 0.9997087136131239,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 446,
+        "bottom_right_x": 595,
+        "bottom_right_y": 486,
+        "content": "If you'll wait here a moment, I'll fetch a chair.\n- not to be confused with true condition",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9667940599660371,
+          "minimum_content_confidence_score": 0.38237205828420107,
+          "block_type_confidence_score": 0.9996018803131277
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 359,
+        "top_left_y": 502,
+        "bottom_right_x": 464,
+        "bottom_right_y": 516,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9951227560357361,
+          "minimum_content_confidence_score": 0.9869980549241997,
+          "block_type_confidence_score": 0.9999576824925632
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 527,
+        "bottom_right_x": 652,
+        "bottom_right_y": 986,
+        "content": "- ● Use *shall* or *will* in the following sentences:\n1 You — not go until I know the truth.\n2 You — have a piece of chocolate if you're good.\n3 If you — look after the luggage I — buy the tickets.\n4 You — have some more in a minute.\n5 I'm determined he —n't come here again.\n6 — you have a drink? What — it be?\n7 I — see to it myself. You —n't pay a penny.\n8 You — have a bicycle of your own when you're older.\n9 '— you have tea or coffee?' 'I — have some tea, please.'\n10 Members — not introduce more than three guests on any day.\n11 'Britons never, never, never — be slaves.'\n12 I promise you that you —n't lose by it.\n13 If he —n't mend that stove, I — have to do it myself.\n14 He — have what he asks for, but *you* —n't.\n15 — you lend me £1 (a pound)? I — pay you back tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941438091314309,
+          "minimum_content_confidence_score": 0.5240347295811443,
+          "block_type_confidence_score": 0.9913460862452272
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "source": {
+    "id": "pdf-082-right",
+    "pdf_page": 82,
+    "side": "right",
+    "reading_order": 164
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:09.402870+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "21 If only I (know) earlier, I'd have sent you a telegram.\n22 I felt as if I (be pulled) through a hedge backwards.\n23 I wish I (not break) it.\n24 He came in, looking as if he (see) a ghost.\n25 Isn't it about time you (set to) and (do) some work?\n\n11.11\nAdvanced\n\nOther types (apart from the three main types):\n\n(1) CAUSE AND EFFECT: tenses parallel.\n\nOil floats if you pour it on water.\n\nYou were a fool if you went out without a hat on.\n\n(2) A DOUBTFUL view of Conditional TYPE 1 is emphasized by the use of should; the inverted forms are the more literary.\n\nShould he refuse you, refer him to me.\n\n'If I should die, think only this of me.'\n\n(Rupert Brooke)\n\n(3) In POLITE FORMS where the consent of another person is sought, will and would are found after if. (See note to Exercise 28.12.)\n\nIf you will wait a moment I'll fetch a chair.\n\nI should be very grateful if you would do that for me.\n\n(4) GREATER IMPROBABILITY in Conditional TYPES (1) and (2) is achieved by using were to after if, and should, would, could, or might in the principal clause.\n\nIf you were to come tomorrow, I might have time to see you.\n\nThis construction must not be confused with the other use of is to = obligation, 'must'. Compare:\n\nIf he was to return at 7 o'clock, why didn't he?\n\nIf he were to return at 7 o'clock, he could take me out.\n\nConditional conjunctions:\n\nif, unless, as if, if only, supposing, suppose, provided, providing, as long as.\n\n* * *\n\n● Complete the following sentences:\n\n1 It would be a good idea if . . .\n2 He wouldn't treat you unkindly provided . . .",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "31 Conditions and Unreal Past\n153",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1014,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.968320126137468,
+      "minimum_page_confidence_score": 0.14336653515066947
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 18,
+        "bottom_right_x": 403,
+        "bottom_right_y": 39,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998983287366998,
+          "minimum_content_confidence_score": 0.9997126689886925,
+          "block_type_confidence_score": 0.9939828126335393
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 18,
+        "bottom_right_x": 651,
+        "bottom_right_y": 37,
+        "content": "153",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999612584807916,
+          "minimum_content_confidence_score": 0.9999612584807916,
+          "block_type_confidence_score": 0.9999996148625269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 73,
+        "bottom_right_x": 600,
+        "bottom_right_y": 247,
+        "content": "21 If only I (know) earlier, I'd have sent you a telegram.\n22 I felt as if I (be pulled) through a hedge backwards.\n23 I wish I (not break) it.\n24 He came in, looking as if he (see) a ghost.\n25 Isn't it about time you (set to) and (do) some work?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997609837025963,
+          "minimum_content_confidence_score": 0.993412778370379,
+          "block_type_confidence_score": 0.985919925924553
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 55,
+        "top_left_y": 268,
+        "bottom_right_x": 132,
+        "bottom_right_y": 308,
+        "content": "11.11\nAdvanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9930387921431457,
+          "minimum_content_confidence_score": 0.9852024731637351,
+          "block_type_confidence_score": 0.6033168641193094
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 268,
+        "bottom_right_x": 575,
+        "bottom_right_y": 289,
+        "content": "Other types (apart from the three main types):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999942008958373,
+          "minimum_content_confidence_score": 0.9999839070045525,
+          "block_type_confidence_score": 0.99992609570002
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 288,
+        "bottom_right_x": 500,
+        "bottom_right_y": 309,
+        "content": "(1) CAUSE AND EFFECT: tenses parallel.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998894970059201,
+          "minimum_content_confidence_score": 0.9997196287174517,
+          "block_type_confidence_score": 0.6512502965159894
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 312,
+        "bottom_right_x": 494,
+        "bottom_right_y": 332,
+        "content": "Oil floats if you pour it on water.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999278033479833,
+          "minimum_content_confidence_score": 0.9996259420119524,
+          "block_type_confidence_score": 0.9889933533325206
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 332,
+        "bottom_right_x": 635,
+        "bottom_right_y": 352,
+        "content": "You were a fool if you went out without a hat on.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999864800562256,
+          "minimum_content_confidence_score": 0.9999531529452337,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 360,
+        "bottom_right_x": 655,
+        "bottom_right_y": 421,
+        "content": "(2) A DOUBTFUL view of Conditional TYPE 1 is emphasized by the use of should; the inverted forms are the more literary.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9803694584223457,
+          "minimum_content_confidence_score": 0.5732492112389646,
+          "block_type_confidence_score": 0.9740335764014217
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 424,
+        "bottom_right_x": 538,
+        "bottom_right_y": 445,
+        "content": "Should he refuse you, refer him to me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999763087896092,
+          "minimum_content_confidence_score": 0.9999073362130897,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 445,
+        "bottom_right_x": 538,
+        "bottom_right_y": 465,
+        "content": "'If I should die, think only this of me.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999575616694529,
+          "minimum_content_confidence_score": 0.9998786228688754,
+          "block_type_confidence_score": 0.9998982056286041
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 440,
+        "top_left_y": 465,
+        "bottom_right_x": 586,
+        "bottom_right_y": 484,
+        "content": "(Rupert Brooke)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998930473296923,
+          "minimum_content_confidence_score": 0.9998306588335613,
+          "block_type_confidence_score": 0.9986113545968655
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 493,
+        "bottom_right_x": 656,
+        "bottom_right_y": 554,
+        "content": "(3) In POLITE FORMS where the consent of another person is sought, will and would are found after if. (See note to Exercise 28.12.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953172398809046,
+          "minimum_content_confidence_score": 0.8932159381601926,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 557,
+        "bottom_right_x": 582,
+        "bottom_right_y": 578,
+        "content": "If you will wait a moment I'll fetch a chair.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999832363856906,
+          "minimum_content_confidence_score": 0.9999376574276245,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 578,
+        "bottom_right_x": 655,
+        "bottom_right_y": 598,
+        "content": "I should be very grateful if you would do that for me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999920230927776,
+          "minimum_content_confidence_score": 0.9999661457096376,
+          "block_type_confidence_score": 0.9999966621509202
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 607,
+        "bottom_right_x": 656,
+        "bottom_right_y": 668,
+        "content": "(4) GREATER IMPROBABILITY in Conditional TYPES (1) and (2) is achieved by using were to after if, and should, would, could, or might in the principal clause.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997957476590351,
+          "minimum_content_confidence_score": 0.9961680834167643,
+          "block_type_confidence_score": 0.9999785427891018
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 671,
+        "bottom_right_x": 656,
+        "bottom_right_y": 712,
+        "content": "If you were to come tomorrow, I might have time to see you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999955948159754,
+          "minimum_content_confidence_score": 0.9999778514235385,
+          "block_type_confidence_score": 0.9999955892755635
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 721,
+        "bottom_right_x": 658,
+        "bottom_right_y": 762,
+        "content": "This construction must not be confused with the other use of is to = obligation, 'must'. Compare:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999490061380536,
+          "minimum_content_confidence_score": 0.9996688270949156,
+          "block_type_confidence_score": 0.9999905825550351
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 764,
+        "bottom_right_x": 621,
+        "bottom_right_y": 785,
+        "content": "If he was to return at 7 o'clock, why didn't he?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999928863119515,
+          "minimum_content_confidence_score": 0.9999867679437158,
+          "block_type_confidence_score": 0.9997672384463482
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 785,
+        "bottom_right_x": 658,
+        "bottom_right_y": 805,
+        "content": "If he were to return at 7 o'clock, he could take me out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999922035807919,
+          "minimum_content_confidence_score": 0.9999667417142571,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 814,
+        "bottom_right_x": 401,
+        "bottom_right_y": 834,
+        "content": "Conditional conjunctions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998018052116178,
+          "minimum_content_confidence_score": 0.9996458087300583,
+          "block_type_confidence_score": 0.999929313885331
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 834,
+        "bottom_right_x": 658,
+        "bottom_right_y": 876,
+        "content": "if, unless, as if, if only, supposing, suppose, provided, providing, as long as.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999075422377139,
+          "minimum_content_confidence_score": 0.9992746324260913,
+          "block_type_confidence_score": 0.9977721842396657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 366,
+        "top_left_y": 889,
+        "bottom_right_x": 471,
+        "bottom_right_y": 903,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992027983705092,
+          "minimum_content_confidence_score": 0.9986521316339152,
+          "block_type_confidence_score": 0.9997833244759207
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 914,
+        "bottom_right_x": 467,
+        "bottom_right_y": 935,
+        "content": "● Complete the following sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.983131850297916,
+          "minimum_content_confidence_score": 0.9156858346053647,
+          "block_type_confidence_score": 0.4997058472785134
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 938,
+        "bottom_right_x": 600,
+        "bottom_right_y": 983,
+        "content": "1 It would be a good idea if . . .\n2 He wouldn't treat you unkindly provided . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9761135444858818,
+          "minimum_content_confidence_score": 0.5019380652010185,
+          "block_type_confidence_score": 0.9998486271126596
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

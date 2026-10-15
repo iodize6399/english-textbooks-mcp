@@ -1,0 +1,421 @@
+{
+  "source": {
+    "id": "pdf-043-left",
+    "pdf_page": 43,
+    "side": "left",
+    "reading_order": 85
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "believe, feel (that), think (that)\n\nknow, understand\n\nremember, recollect, forget\n\nsuppose, mean, gather (that)\n\nwant, wish\n\nforgive, refuse\n\nlove, hate, (dis)like, care\n\nseem, appear (= seem), belong to, contain,\n\nconsist of, possess, own, matter\n\nIn general these verbs are found in the continuous form only when we wish to give special emphasis to their particular application to this very moment; more rarely as an immediate future. Most of these exceptional uses are more frequent in spoken English; notice in particular the present continuous with always or for ever, meaning 'at all times, but especially now at this moment'.\n\nYou're always seeing something strange.\n\nYour mother is for ever refusing to do something or other.\n\nHere are a few more exceptional continuous forms:\n\nI'm seeing him tomorrow.\n\nWe are certainly not recognizing such a fantastic claim.\n\nI was just thinking it might be a good idea . . .\n\nAre you forgetting your manners?\n\nAre you supposing I'm going to take you out?\n\nHow are you liking it (= enjoy)?\n\nWe are thinking of going out.\n\nNow you're just being silly.\n\n* * *\n\n(21.10)\n\nMake sentences using some of the verbs in the list given above in the Present or Past Continuous tense.\n\n## 22 Notes on English Tenses\n\nFOR THE TEACHER OR ADVANCED STUDENTS\n\nBefore proceeding with the tenses, a few notes on the presentation of the English verb system might be appropriate. Students who have been learning English for",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "74\n22 Notes on English Tenses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1023,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9662046053072475,
+      "minimum_page_confidence_score": 0.19466510455995412
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 22,
+        "bottom_right_x": 46,
+        "bottom_right_y": 40,
+        "content": "74",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998423109860316,
+          "minimum_content_confidence_score": 0.9998423109860316,
+          "block_type_confidence_score": 0.9999874007465647
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 20,
+        "bottom_right_x": 342,
+        "bottom_right_y": 41,
+        "content": "22 Notes on English Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999597533078939,
+          "minimum_content_confidence_score": 0.9998429068368195,
+          "block_type_confidence_score": 0.99725210459671
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 75,
+        "bottom_right_x": 429,
+        "bottom_right_y": 97,
+        "content": "believe, feel (that), think (that)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999419005032062,
+          "minimum_content_confidence_score": 0.9998301556085302,
+          "block_type_confidence_score": 0.8351853993189348
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 98,
+        "bottom_right_x": 327,
+        "bottom_right_y": 116,
+        "content": "know, understand",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999318660127532,
+          "minimum_content_confidence_score": 0.9998952260097348,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 118,
+        "bottom_right_x": 401,
+        "bottom_right_y": 136,
+        "content": "remember, recollect, forget",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999710604287108,
+          "minimum_content_confidence_score": 0.9999296452543905,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 137,
+        "bottom_right_x": 407,
+        "bottom_right_y": 157,
+        "content": "suppose, mean, gather (that)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999028104009781,
+          "minimum_content_confidence_score": 0.9996412307945873,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 163,
+        "bottom_right_x": 272,
+        "bottom_right_y": 181,
+        "content": "want, wish",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999599354915412,
+          "minimum_content_confidence_score": 0.9999512457787185,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 183,
+        "bottom_right_x": 300,
+        "bottom_right_y": 203,
+        "content": "forgive, refuse",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998975529680665,
+          "minimum_content_confidence_score": 0.9998142982638576,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 207,
+        "bottom_right_x": 386,
+        "bottom_right_y": 227,
+        "content": "love, hate, (dis)like, care",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999640113931714,
+          "minimum_content_confidence_score": 0.999915326316648,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 232,
+        "bottom_right_x": 522,
+        "bottom_right_y": 253,
+        "content": "seem, appear (= seem), belong to, contain,",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9877142002613705,
+          "minimum_content_confidence_score": 0.9153319710148597,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 208,
+        "top_left_y": 254,
+        "bottom_right_x": 455,
+        "bottom_right_y": 273,
+        "content": "consist of, possess, own, matter",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999842216398458,
+          "minimum_content_confidence_score": 0.9999467504978191,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 278,
+        "bottom_right_x": 608,
+        "bottom_right_y": 417,
+        "content": "In general these verbs are found in the continuous form only when we wish to give special emphasis to their particular application to this very moment; more rarely as an immediate future. Most of these exceptional uses are more frequent in spoken English; notice in particular the present continuous with always or for ever, meaning 'at all times, but especially now at this moment'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995221487046413,
+          "minimum_content_confidence_score": 0.976888843515452,
+          "block_type_confidence_score": 0.9999513649749275
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 421,
+        "bottom_right_x": 510,
+        "bottom_right_y": 440,
+        "content": "You're always seeing something strange.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999938740417076,
+          "minimum_content_confidence_score": 0.9999830129701321,
+          "block_type_confidence_score": 0.9890003498189354
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 440,
+        "bottom_right_x": 608,
+        "bottom_right_y": 479,
+        "content": "Your mother is for ever refusing to do something or other.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999980192142764,
+          "minimum_content_confidence_score": 0.9999324302901447,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 489,
+        "bottom_right_x": 566,
+        "bottom_right_y": 510,
+        "content": "Here are a few more exceptional continuous forms:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999983906834512,
+          "minimum_content_confidence_score": 0.9999947548499056,
+          "block_type_confidence_score": 0.9997194600685679
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 514,
+        "bottom_right_x": 398,
+        "bottom_right_y": 534,
+        "content": "I'm seeing him tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999948472272939,
+          "minimum_content_confidence_score": 0.9999872566937271,
+          "block_type_confidence_score": 0.9046475874163092
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 534,
+        "bottom_right_x": 608,
+        "bottom_right_y": 571,
+        "content": "We are certainly not recognizing such a fantastic claim.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999961228862063,
+          "minimum_content_confidence_score": 0.9999904633477849,
+          "block_type_confidence_score": 0.999954464125005
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 572,
+        "bottom_right_x": 561,
+        "bottom_right_y": 594,
+        "content": "I was just thinking it might be a good idea . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9796153334315183,
+          "minimum_content_confidence_score": 0.7356271561783628,
+          "block_type_confidence_score": 0.9999833109787883
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 594,
+        "bottom_right_x": 465,
+        "bottom_right_y": 613,
+        "content": "Are you forgetting your manners?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999809391459863,
+          "minimum_content_confidence_score": 0.9999228020110836,
+          "block_type_confidence_score": 0.9999829533624089
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 613,
+        "bottom_right_x": 564,
+        "bottom_right_y": 633,
+        "content": "Are you supposing I'm going to take you out?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999951059283279,
+          "minimum_content_confidence_score": 0.9999699365646709,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 633,
+        "bottom_right_x": 457,
+        "bottom_right_y": 653,
+        "content": "How are you liking it (= enjoy)?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999333747683652,
+          "minimum_content_confidence_score": 0.9997446500769347,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 653,
+        "bottom_right_x": 429,
+        "bottom_right_y": 673,
+        "content": "We are thinking of going out.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999968369962243,
+          "minimum_content_confidence_score": 0.9999947548186582,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 673,
+        "bottom_right_x": 411,
+        "bottom_right_y": 693,
+        "content": "Now you're just being silly.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934878446304,
+          "minimum_content_confidence_score": 0.9999885220364105,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 705,
+        "bottom_right_x": 434,
+        "bottom_right_y": 720,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9526499361812372,
+          "minimum_content_confidence_score": 0.8602562329932578,
+          "block_type_confidence_score": 0.998072531762474
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 26,
+        "top_left_y": 731,
+        "bottom_right_x": 85,
+        "bottom_right_y": 755,
+        "content": "(21.10)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999529836737368,
+          "minimum_content_confidence_score": 0.9999529836737368,
+          "block_type_confidence_score": 0.9924748694428318
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 731,
+        "bottom_right_x": 611,
+        "bottom_right_y": 771,
+        "content": "Make sentences using some of the verbs in the list given above in the Present or Past Continuous tense.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9796051365989286,
+          "minimum_content_confidence_score": 0.6150361642701074,
+          "block_type_confidence_score": 0.817412147607802
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 105,
+        "top_left_y": 828,
+        "bottom_right_x": 426,
+        "bottom_right_y": 859,
+        "content": "## 22 Notes on English Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992596354752101,
+          "minimum_content_confidence_score": 0.9959172489647924,
+          "block_type_confidence_score": 0.9998760377062386
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 912,
+        "bottom_right_x": 487,
+        "bottom_right_y": 929,
+        "content": "FOR THE TEACHER OR ADVANCED STUDENTS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927493259158,
+          "minimum_content_confidence_score": 0.9999776488472415,
+          "block_type_confidence_score": 0.9812401137806317
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 930,
+        "bottom_right_x": 613,
+        "bottom_right_y": 991,
+        "content": "Before proceeding with the tenses, a few notes on the presentation of the English verb system might be appropriate. Students who have been learning English for",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999952325813778,
+          "minimum_content_confidence_score": 0.9999247575338445,
+          "block_type_confidence_score": 0.999991297797926
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

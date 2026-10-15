@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-035-right",
+    "pdf_page": 35,
+    "side": "right",
+    "reading_order": 70
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "- ● Read the following remarks and make contrary additions to them, either freely or using the suggestions in brackets:\n- 1 Pears are very expensive now. (apples)\n- 2 Dogs can't climb trees. (cats)\n- 3 She always used to get up before seven. (her husband)\n- 4 He can smoke if he wants to. (his sister)\n- 5 You needn't get there very early. (I)\n- 6 They couldn't understand a single word. (I)\n- 7 A small boat won't be safe enough. (a big one)\n- 8 You needn't pay any attention to Maisie. (I)\n- 9 They used to think Cyril was intelligent. (I)\n- 10 The others had a lot of trouble finding your house. (we)\n- 11 The fish must be fried. (the potatoes)\n- 12 The captain could go ashore when he liked. (the sailors)\n- 13 His shoes didn't fit him at all well. (his suit)\n- 14 The student mustn't write in pencil. (the teacher)\n- 15 He hasn't got to leave just yet. (his brother)\n- 16 You're not to stay up so late. (your father)\n- 17 My friends never used to object. (my mother)\n- 18 My husband needn't stay at home. (I)\n- 19 Cabbage ought to be boiled. (tomatoes)\n- 20 The ladies didn't need to go on foot. (the gentlemen)\n\n### 19.17\n\n#### Elementary\n\n#### Introduction to QUESTION-TAGS.\n\nThis device is treated fully in Section 32, and the following exercises are merely to acquaint the student with the form, so that it can be used for certain responses.\n\nTo turn statements into rhetorical questions (cf. French *n'est-ce pas*, German *nicht wahr*, etc.), in English, the appropriate auxiliary is used as a tag at the end of the remark.\n\nAn AFFIRMATIVE remark has a NEGATIVE tag.\n\nYou are coming tomorrow, aren't you?\n\nHe has seen it, hasn't he?\n\nYou know her, don't you?\n\nA NEGATIVE remark has a POSITIVE tag.\n\nYou don't know, do you?\n\nThey won't find it, will they?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "19 Short-form Responses using Auxiliary Verbs\n59",
+    "footer": "\\* \\* \\*",
+    "dimensions": {
+      "dpi": 34,
+      "height": 996,
+      "width": 663
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9749505025625234,
+      "minimum_page_confidence_score": 0.25114954646267795
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 20,
+        "bottom_right_x": 525,
+        "bottom_right_y": 41,
+        "content": "19 Short-form Responses using Auxiliary Verbs",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999394515594698,
+          "minimum_content_confidence_score": 0.9998556583877783,
+          "block_type_confidence_score": 0.9999144560008937
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 612,
+        "top_left_y": 20,
+        "bottom_right_x": 636,
+        "bottom_right_y": 39,
+        "content": "59",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998936117241906,
+          "minimum_content_confidence_score": 0.998936117241906,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 73,
+        "bottom_right_x": 636,
+        "bottom_right_y": 626,
+        "content": "- ● Read the following remarks and make contrary additions to them, either freely or using the suggestions in brackets:\n- 1 Pears are very expensive now. (apples)\n- 2 Dogs can't climb trees. (cats)\n- 3 She always used to get up before seven. (her husband)\n- 4 He can smoke if he wants to. (his sister)\n- 5 You needn't get there very early. (I)\n- 6 They couldn't understand a single word. (I)\n- 7 A small boat won't be safe enough. (a big one)\n- 8 You needn't pay any attention to Maisie. (I)\n- 9 They used to think Cyril was intelligent. (I)\n- 10 The others had a lot of trouble finding your house. (we)\n- 11 The fish must be fried. (the potatoes)\n- 12 The captain could go ashore when he liked. (the sailors)\n- 13 His shoes didn't fit him at all well. (his suit)\n- 14 The student mustn't write in pencil. (the teacher)\n- 15 He hasn't got to leave just yet. (his brother)\n- 16 You're not to stay up so late. (your father)\n- 17 My friends never used to object. (my mother)\n- 18 My husband needn't stay at home. (I)\n- 19 Cabbage ought to be boiled. (tomatoes)\n- 20 The ladies didn't need to go on foot. (the gentlemen)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952079250521005,
+          "minimum_content_confidence_score": 0.5060824868899454,
+          "block_type_confidence_score": 0.9947523147668047
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 643,
+        "bottom_right_x": 102,
+        "bottom_right_y": 662,
+        "content": "### 19.17",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7924988208456849,
+          "minimum_content_confidence_score": 0.5851049350100795,
+          "block_type_confidence_score": 0.9138816183215319
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 663,
+        "bottom_right_x": 143,
+        "bottom_right_y": 682,
+        "content": "#### Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8474553115717394,
+          "minimum_content_confidence_score": 0.6966385511520797,
+          "block_type_confidence_score": 0.9875167296461499
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 643,
+        "bottom_right_x": 428,
+        "bottom_right_y": 662,
+        "content": "#### Introduction to QUESTION-TAGS.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9550733073438974,
+          "minimum_content_confidence_score": 0.8262335516718445,
+          "block_type_confidence_score": 0.9046371469845745
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 662,
+        "bottom_right_x": 640,
+        "bottom_right_y": 720,
+        "content": "This device is treated fully in Section 32, and the following exercises are merely to acquaint the student with the form, so that it can be used for certain responses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999820949297097,
+          "minimum_content_confidence_score": 0.9999097667136142,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 720,
+        "bottom_right_x": 640,
+        "bottom_right_y": 797,
+        "content": "To turn statements into rhetorical questions (cf. French *n'est-ce pas*, German *nicht wahr*, etc.), in English, the appropriate auxiliary is used as a tag at the end of the remark.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991831583671923,
+          "minimum_content_confidence_score": 0.987194205633484,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 797,
+        "bottom_right_x": 535,
+        "bottom_right_y": 817,
+        "content": "An AFFIRMATIVE remark has a NEGATIVE tag.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975294603480295,
+          "minimum_content_confidence_score": 0.9889500970608018,
+          "block_type_confidence_score": 0.9706791217432663
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 819,
+        "bottom_right_x": 537,
+        "bottom_right_y": 839,
+        "content": "You are coming tomorrow, aren't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9973401424087888,
+          "minimum_content_confidence_score": 0.9844178546500371,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 839,
+        "bottom_right_x": 424,
+        "bottom_right_y": 858,
+        "content": "He has seen it, hasn't he?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999641118307722,
+          "minimum_content_confidence_score": 0.9998947492735768,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 858,
+        "bottom_right_x": 432,
+        "bottom_right_y": 878,
+        "content": "You know her, don't you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999492829455476,
+          "minimum_content_confidence_score": 0.9999048800367747,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 888,
+        "bottom_right_x": 490,
+        "bottom_right_y": 907,
+        "content": "A NEGATIVE remark has a POSITIVE tag.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989897442196606,
+          "minimum_content_confidence_score": 0.9934874912988049,
+          "block_type_confidence_score": 0.9988284738893182
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 909,
+        "bottom_right_x": 428,
+        "bottom_right_y": 929,
+        "content": "You don't know, do you?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999429725967117,
+          "minimum_content_confidence_score": 0.9998252697135925,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 929,
+        "bottom_right_x": 452,
+        "bottom_right_y": 949,
+        "content": "They won't find it, will they?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999772634071667,
+          "minimum_content_confidence_score": 0.9999261047583725,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 356,
+        "top_left_y": 958,
+        "bottom_right_x": 459,
+        "bottom_right_y": 972,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998490628228797,
+          "minimum_content_confidence_score": 0.9964368647333948,
+          "block_type_confidence_score": 0.9112007640273022
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

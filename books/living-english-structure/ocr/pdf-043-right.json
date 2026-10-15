@@ -1,0 +1,200 @@
+{
+  "source": {
+    "id": "pdf-043-right",
+    "pdf_page": 43,
+    "side": "right",
+    "reading_order": 86
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "eighteen months or more are presumably already acquainted with the English tenses. It is however unlikely that they have any conception of the tense-scheme as a whole, and such students should be shown its general mechanism as a kind of bird's-eye-view revision. More elementary students should gradually be made aware of this scheme as the various new tenses offer points of comparison with those already learnt. Advanced students might also find this very enlightening before they attempt any of the later advanced exercises on the use of tenses.\n\n### *ASPECT OF GENERAL TIME*\n\nEnglish has three main time divisions, PAST, PRESENT, and FUTURE, expressed by the simple tenses. They should be shown as forming three main blocks of tenses, each being subdivided so as to express other aspects within its general time. The PRESENT SIMPLE tense is also used to express eternal truths; it has the least definite TIME ASPECT, as it frequently includes PAST, PRESENT, and FUTURE.\n\nMan is mortal.\n\nThe sun rises in the east.\n\n### *ASPECT OF ACTION*\n\nHere we are concerned with an act AT THE TIME OF ITS OCCURRENCE. The SIMPLE tenses are used to express such an action, completed in the past, present, or future. The time may be more or less precise according to the time adverb. *I bought a new hat last Thursday*, is clearly more precise than *I bought a new hat last week*. The CONTINUOUS forms also describe the very act, and do so while it is in progress; we are not interested in its beginning or end. So by using the continuous form as a time background, we can make our simple tense actions even more precise. For example, in *I was buying a hat when I first met my wife*, the background of hat-buying (we are not interested in its beginning or end, only in its taking place) marks the exact time of this momentous meeting, an act that was completed within the framework of hat-buying. Compare the following sentences:\n\nHe took my photo while I was having dinner.\n\nI had my dinner while he was taking my photo.\n\nThe first one is the normal arrangement, but the second",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "22 Notes on English Tenses\n75",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1023,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9774981328128093,
+      "minimum_page_confidence_score": 0.21208138554327363
+    },
+    "blocks": [
+      {
+        "top_left_x": 141,
+        "top_left_y": 18,
+        "bottom_right_x": 376,
+        "bottom_right_y": 40,
+        "content": "22 Notes on English Tenses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999381371523114,
+          "minimum_content_confidence_score": 0.9998592336474077,
+          "block_type_confidence_score": 0.9999974691052123
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 627,
+        "top_left_y": 19,
+        "bottom_right_x": 651,
+        "bottom_right_y": 38,
+        "content": "75",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978851792663247,
+          "minimum_content_confidence_score": 0.9978851792663247,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 74,
+        "bottom_right_x": 652,
+        "bottom_right_y": 274,
+        "content": "eighteen months or more are presumably already acquainted with the English tenses. It is however unlikely that they have any conception of the tense-scheme as a whole, and such students should be shown its general mechanism as a kind of bird's-eye-view revision. More elementary students should gradually be made aware of this scheme as the various new tenses offer points of comparison with those already learnt. Advanced students might also find this very enlightening before they attempt any of the later advanced exercises on the use of tenses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993702640130955,
+          "minimum_content_confidence_score": 0.9477523624852283,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 303,
+        "bottom_right_x": 440,
+        "bottom_right_y": 324,
+        "content": "### *ASPECT OF GENERAL TIME*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9437000649513877,
+          "minimum_content_confidence_score": 0.8313257447812462,
+          "block_type_confidence_score": 0.9465807410774661
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 342,
+        "bottom_right_x": 652,
+        "bottom_right_y": 484,
+        "content": "English has three main time divisions, PAST, PRESENT, and FUTURE, expressed by the simple tenses. They should be shown as forming three main blocks of tenses, each being subdivided so as to express other aspects within its general time. The PRESENT SIMPLE tense is also used to express eternal truths; it has the least definite TIME ASPECT, as it frequently includes PAST, PRESENT, and FUTURE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985248113311398,
+          "minimum_content_confidence_score": 0.9096853376480962,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 487,
+        "bottom_right_x": 340,
+        "bottom_right_y": 507,
+        "content": "Man is mortal.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999741776184159,
+          "minimum_content_confidence_score": 0.9999538681349789,
+          "block_type_confidence_score": 0.999479922071357
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 507,
+        "bottom_right_x": 418,
+        "bottom_right_y": 526,
+        "content": "The sun rises in the east.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999254947680046,
+          "minimum_content_confidence_score": 0.9998169280547704,
+          "block_type_confidence_score": 0.9999969005680498
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 556,
+        "bottom_right_x": 369,
+        "bottom_right_y": 577,
+        "content": "### *ASPECT OF ACTION*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997053521475523,
+          "minimum_content_confidence_score": 0.998866155848723,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 596,
+        "bottom_right_x": 654,
+        "bottom_right_y": 914,
+        "content": "Here we are concerned with an act AT THE TIME OF ITS OCCURRENCE. The SIMPLE tenses are used to express such an action, completed in the past, present, or future. The time may be more or less precise according to the time adverb. *I bought a new hat last Thursday*, is clearly more precise than *I bought a new hat last week*. The CONTINUOUS forms also describe the very act, and do so while it is in progress; we are not interested in its beginning or end. So by using the continuous form as a time background, we can make our simple tense actions even more precise. For example, in *I was buying a hat when I first met my wife*, the background of hat-buying (we are not interested in its beginning or end, only in its taking place) marks the exact time of this momentous meeting, an act that was completed within the framework of hat-buying. Compare the following sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997602080044045,
+          "minimum_content_confidence_score": 0.9840092485439774,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 918,
+        "bottom_right_x": 597,
+        "bottom_right_y": 939,
+        "content": "He took my photo while I was having dinner.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999396652444834,
+          "minimum_content_confidence_score": 0.9997434082413271,
+          "block_type_confidence_score": 0.9999519609634618
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 938,
+        "bottom_right_x": 612,
+        "bottom_right_y": 960,
+        "content": "I had my dinner while he was taking my photo.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999941228881658,
+          "minimum_content_confidence_score": 0.9996658236568848,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 966,
+        "bottom_right_x": 652,
+        "bottom_right_y": 988,
+        "content": "The first one is the normal arrangement, but the second",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934518387332,
+          "minimum_content_confidence_score": 0.9999762779146959,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

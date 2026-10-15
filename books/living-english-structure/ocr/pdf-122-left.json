@@ -1,0 +1,278 @@
+{
+  "source": {
+    "id": "pdf-122-left",
+    "pdf_page": 122,
+    "side": "left",
+    "reading_order": 243
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:27.117367+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "An infinitive phrase is usual when the subjects of both sections are identical, the sense of the infinitive phrase being future. Compare:\n\nI don't know which to take.\n\nI don't know which I took.\n\nNote also verbs of request:\n\nTell him where to go (= where he must go).\n\nAsk him what to do (= what you must do).\n\nWho is used in both subjective and objective cases.\n\n* * *\n\n(47.1)\n\n● Add the missing link:\n\n1 I don't know — to do.\n2 He has forgotten — to go.\n3 I have no idea — to ask.\n4 He told me — book to take.\n5 Do you know — to make coffee?\n6 Ask him — to put the TV set.\n7 I don't understand — to drive a car.\n8 He wants to know — club to join.\n9 You must go — he tells you.\n10 Can you suggest — to write?\n11 She doesn't know — dress to wear.\n12 I can't remember — to do it.\n13 We don't know — to show it to.\n14 I shan't forget — to find it again.\n15 He doesn't know — to open it with.\n16 Can you tell me — could advise me in this matter?\n17 A lawyer advised me — to do.\n18 My friend couldn't remember — way to go.\n19 They don't know — your house is.\n20 I can't imagine — you are so cross with me.\n\n47.2\nIntermediate\n\nRemember who is normally used in both the subjective and objective cases.\n\n* * *\n\n● Add the missing links:\n\n1 She doesn't understand — to do the exercise.\n2 I can't think — to buy for dinner.\n3 Have you decided — to ask to the party?\n4 They don't know — to meet us tomorrow.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "232\n47 Relative and Interrogative Links",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9675587624317945,
+      "minimum_page_confidence_score": 0.20516661443920547
+    },
+    "blocks": [
+      {
+        "top_left_x": 30,
+        "top_left_y": 18,
+        "bottom_right_x": 62,
+        "bottom_right_y": 37,
+        "content": "232",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999532721416701,
+          "minimum_content_confidence_score": 0.9999532721416701,
+          "block_type_confidence_score": 0.9999300777405715
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 18,
+        "bottom_right_x": 411,
+        "bottom_right_y": 39,
+        "content": "47 Relative and Interrogative Links",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999847316443825,
+          "minimum_content_confidence_score": 0.9999585859811716,
+          "block_type_confidence_score": 0.9948746089977731
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 73,
+        "bottom_right_x": 612,
+        "bottom_right_y": 135,
+        "content": "An infinitive phrase is usual when the subjects of both sections are identical, the sense of the infinitive phrase being future. Compare:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998427475188885,
+          "minimum_content_confidence_score": 0.9660810130676508,
+          "block_type_confidence_score": 0.9999973774024795
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 137,
+        "bottom_right_x": 417,
+        "bottom_right_y": 157,
+        "content": "I don't know which to take.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998097442073671,
+          "minimum_content_confidence_score": 0.9991338602238699,
+          "block_type_confidence_score": 0.9626143035966054
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 158,
+        "bottom_right_x": 411,
+        "bottom_right_y": 177,
+        "content": "I don't know which I took.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999649665501522,
+          "minimum_content_confidence_score": 0.9998534555826513,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 187,
+        "bottom_right_x": 374,
+        "bottom_right_y": 207,
+        "content": "Note also verbs of request:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999887760800157,
+          "minimum_content_confidence_score": 0.999963430616941,
+          "block_type_confidence_score": 0.9999710329823779
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 210,
+        "bottom_right_x": 543,
+        "bottom_right_y": 231,
+        "content": "Tell him where to go (= where he must go).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964547942270585,
+          "minimum_content_confidence_score": 0.9658043919611495,
+          "block_type_confidence_score": 0.9998921272324081
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 232,
+        "bottom_right_x": 541,
+        "bottom_right_y": 252,
+        "content": "Ask him what to do (= what you must do).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934078158338,
+          "minimum_content_confidence_score": 0.9999779467683537,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 259,
+        "bottom_right_x": 560,
+        "bottom_right_y": 280,
+        "content": "Who is used in both subjective and objective cases.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927287434571,
+          "minimum_content_confidence_score": 0.9999660296145623,
+          "block_type_confidence_score": 0.9999892712787918
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 291,
+        "bottom_right_x": 436,
+        "bottom_right_y": 308,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9242184914171029,
+          "minimum_content_confidence_score": 0.7731294951883642,
+          "block_type_confidence_score": 0.9562019886306683
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 319,
+        "bottom_right_x": 78,
+        "bottom_right_y": 342,
+        "content": "(47.1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999356763110382,
+          "minimum_content_confidence_score": 0.9999356763110382,
+          "block_type_confidence_score": 0.9265043066335228
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 319,
+        "bottom_right_x": 332,
+        "bottom_right_y": 340,
+        "content": "● Add the missing link:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9045292040416848,
+          "minimum_content_confidence_score": 0.5226564311136306,
+          "block_type_confidence_score": 0.893036790827999
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 343,
+        "bottom_right_x": 610,
+        "bottom_right_y": 779,
+        "content": "1 I don't know — to do.\n2 He has forgotten — to go.\n3 I have no idea — to ask.\n4 He told me — book to take.\n5 Do you know — to make coffee?\n6 Ask him — to put the TV set.\n7 I don't understand — to drive a car.\n8 He wants to know — club to join.\n9 You must go — he tells you.\n10 Can you suggest — to write?\n11 She doesn't know — dress to wear.\n12 I can't remember — to do it.\n13 We don't know — to show it to.\n14 I shan't forget — to find it again.\n15 He doesn't know — to open it with.\n16 Can you tell me — could advise me in this matter?\n17 A lawyer advised me — to do.\n18 My friend couldn't remember — way to go.\n19 They don't know — your house is.\n20 I can't imagine — you are so cross with me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999470951144503,
+          "minimum_content_confidence_score": 0.995724558587771,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 796,
+        "bottom_right_x": 130,
+        "bottom_right_y": 838,
+        "content": "47.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9297012661211336,
+          "minimum_content_confidence_score": 0.7891532177436705,
+          "block_type_confidence_score": 0.9139866660093878
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 153,
+        "top_left_y": 797,
+        "bottom_right_x": 612,
+        "bottom_right_y": 839,
+        "content": "Remember who is normally used in both the subjective and objective cases.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999937630142343,
+          "minimum_content_confidence_score": 0.9999777267688326,
+          "block_type_confidence_score": 0.9999809268774651
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 330,
+        "top_left_y": 850,
+        "bottom_right_x": 436,
+        "bottom_right_y": 867,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989890075568928,
+          "minimum_content_confidence_score": 0.997023883198476,
+          "block_type_confidence_score": 0.9999911785905904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 877,
+        "bottom_right_x": 338,
+        "bottom_right_y": 900,
+        "content": "● Add the missing links:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999686934072006,
+          "minimum_content_confidence_score": 0.9998487462893615,
+          "block_type_confidence_score": 0.9999963045256735
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 902,
+        "bottom_right_x": 552,
+        "bottom_right_y": 990,
+        "content": "1 She doesn't understand — to do the exercise.\n2 I can't think — to buy for dinner.\n3 Have you decided — to ask to the party?\n4 They don't know — to meet us tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999930235203175,
+          "minimum_content_confidence_score": 0.9999479082542545,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

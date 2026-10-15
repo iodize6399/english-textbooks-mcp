@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-109-right",
+    "pdf_page": 109,
+    "side": "right",
+    "reading_order": 218
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 9,
+    "markdown": "8 Henry lives about three miles away.\n9 Our conversation was entirely about business matters.\n10 All of us liked your lecture.\n11 I was going to get it from the chemist's.\n12 I was going to put it in the cupboard.\n13 He jumped on the policeman's foot.\n14 He fell into the river because he forgot he was on a boat.\n15 He is a very handsome fellow.\n16 You've told him dozens of times not to do it.\n17 This magnifying-glass is for counting stamp perforations.\n18 The English for 'zmrzlina' is 'ice-cream'.\n19 You must drink out of the blue cup.\n20 His apartment is just about two miles beyond the bridge.\n21 Maisie is as stupid as they make them.\n22 I put your ear-rings somewhere near the clock on the mantelpiece.\n23 All this time I've been thinking how nice it would be to be home again.\n24 Yes, I think a short walk before supper is a very good idea.\n25 Old Tom is as fat as a porpoise these days.\n26 Well, since you ask me, I took you for a bigger fool than you appear to be.\n27 As a matter of fact, he scored seven out of ten.\n28 Since you mention it, you went off with my umbrella.\n29 He fell seventy feet down the cliff.\n30 Czechoslovakia is a fascinating country.\n\n## 45 Interrogative Responses\n\n### 45.1 Intermediate\n\nThe automatic question responses to statements fall into two main groups:\n\nTYPE (1) Where the agent or prepositional part of the command is missing, and the response asks for further clarification.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "45 Interrogative Responses\n207",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1007,
+      "width": 674
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9774224806717159,
+      "minimum_page_confidence_score": 0.3377775288737662
+    },
+    "blocks": [
+      {
+        "top_left_x": 140,
+        "top_left_y": 14,
+        "bottom_right_x": 370,
+        "bottom_right_y": 35,
+        "content": "45 Interrogative Responses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994083279116633,
+          "minimum_content_confidence_score": 0.9987267618543786,
+          "block_type_confidence_score": 0.9995605337408879
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 618,
+        "top_left_y": 14,
+        "bottom_right_x": 651,
+        "bottom_right_y": 32,
+        "content": "207",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998709130101064,
+          "minimum_content_confidence_score": 0.9998709130101064,
+          "block_type_confidence_score": 0.9999996698821269
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 140,
+        "top_left_y": 69,
+        "bottom_right_x": 653,
+        "bottom_right_y": 744,
+        "content": "8 Henry lives about three miles away.\n9 Our conversation was entirely about business matters.\n10 All of us liked your lecture.\n11 I was going to get it from the chemist's.\n12 I was going to put it in the cupboard.\n13 He jumped on the policeman's foot.\n14 He fell into the river because he forgot he was on a boat.\n15 He is a very handsome fellow.\n16 You've told him dozens of times not to do it.\n17 This magnifying-glass is for counting stamp perforations.\n18 The English for 'zmrzlina' is 'ice-cream'.\n19 You must drink out of the blue cup.\n20 His apartment is just about two miles beyond the bridge.\n21 Maisie is as stupid as they make them.\n22 I put your ear-rings somewhere near the clock on the mantelpiece.\n23 All this time I've been thinking how nice it would be to be home again.\n24 Yes, I think a short walk before supper is a very good idea.\n25 Old Tom is as fat as a porpoise these days.\n26 Well, since you ask me, I took you for a bigger fool than you appear to be.\n27 As a matter of fact, he scored seven out of ten.\n28 Since you mention it, you went off with my umbrella.\n29 He fell seventy feet down the cliff.\n30 Czechoslovakia is a fascinating country.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991751753746515,
+          "minimum_content_confidence_score": 0.9223558650843894,
+          "block_type_confidence_score": 0.9706325100214815
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 802,
+        "bottom_right_x": 449,
+        "bottom_right_y": 832,
+        "content": "## 45 Interrogative Responses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989055294968572,
+          "minimum_content_confidence_score": 0.9961408869050475,
+          "block_type_confidence_score": 0.9899312361199216
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 882,
+        "bottom_right_x": 155,
+        "bottom_right_y": 922,
+        "content": "### 45.1 Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9637715772871361,
+          "minimum_content_confidence_score": 0.89244925462833,
+          "block_type_confidence_score": 0.7085438025419442
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 884,
+        "bottom_right_x": 655,
+        "bottom_right_y": 924,
+        "content": "The automatic question responses to statements fall into two main groups:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999905386398077,
+          "minimum_content_confidence_score": 0.9991921757255188,
+          "block_type_confidence_score": 0.9999810460826691
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 179,
+        "top_left_y": 924,
+        "bottom_right_x": 655,
+        "bottom_right_y": 983,
+        "content": "TYPE (1) Where the agent or prepositional part of the command is missing, and the response asks for further clarification.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999495056501851,
+          "minimum_content_confidence_score": 0.9995572144184206,
+          "block_type_confidence_score": 0.9944218967548163
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "id": "pdf-054-left",
+    "pdf_page": 54,
+    "side": "left",
+    "reading_order": 107
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:12.460165+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "11 We (finish) our supper half an hour ago.\n12 She (not have) a holiday for four years.\n13 I (not play) the violin since I was a little boy.\n14 They (visit) Westminster Abbey a few days ago.\n15 My brother (not write) to me for months.\n16 My servant (leave) me two weeks ago.\n17 I (not see) you since we met a year ago.\n18 My youngest brother (get) a new job a week ago.\n19 We (not pay) the butcher for over three weeks.\n20 I (buy) one like it a month ago.\n\n26.2\nIntermediate\n\nFor, since, and ago. See Exercise 26.1.\nRemember that for is used with the PRESENT PERFECT tense only when the length of time is up to NOW.\n\n* * *\n\n● Complete the following:\n1 Our friends haven't been here since . . .\n2 Since I last wrote to you, I . . .\n3 I finished school in 1965; then for three years I . . .\n4 For the last five years I . . .\n5 At a beauty competition a month ago, Maisie . . .\n6 Cyril hasn't ridden a bicycle since . . .\n7 Twenty years ago . . .\n8 I've been learning the piano since . . .\n9 I've been learning English for . . .\n10 She has been waiting in the library since . . .\n11 Two hours ago I . . .\n12 Since I met you I . . .\n13 Since last year . . .\n14 For two hours now they . . .\n15 Seventeen years ago . . .\n16 I was very ill last summer, and for two weeks . . .\n17 Since the beginning of the month . . .\n18 For the last ten days we . . .\n19 Less than a minute ago . . .\n20 I haven't had such an enjoyable time since . . .",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "96\n26 Past Tense (Continued)",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 998,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9780998996423542,
+      "minimum_page_confidence_score": 0.11081496234414326
+    },
+    "blocks": [
+      {
+        "top_left_x": 12,
+        "top_left_y": 24,
+        "bottom_right_x": 37,
+        "bottom_right_y": 44,
+        "content": "96",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998937958019426,
+          "minimum_content_confidence_score": 0.9998937958019426,
+          "block_type_confidence_score": 0.9999252371185734
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 102,
+        "top_left_y": 23,
+        "bottom_right_x": 330,
+        "bottom_right_y": 44,
+        "content": "26 Past Tense (Continued)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992271350011197,
+          "minimum_content_confidence_score": 0.997315361695119,
+          "block_type_confidence_score": 0.9962965565120493
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 102,
+        "top_left_y": 77,
+        "bottom_right_x": 581,
+        "bottom_right_y": 297,
+        "content": "11 We (finish) our supper half an hour ago.\n12 She (not have) a holiday for four years.\n13 I (not play) the violin since I was a little boy.\n14 They (visit) Westminster Abbey a few days ago.\n15 My brother (not write) to me for months.\n16 My servant (leave) me two weeks ago.\n17 I (not see) you since we met a year ago.\n18 My youngest brother (get) a new job a week ago.\n19 We (not pay) the butcher for over three weeks.\n20 I (buy) one like it a month ago.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997984812026278,
+          "minimum_content_confidence_score": 0.9902490909055923,
+          "block_type_confidence_score": 0.9971946720221644
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 12,
+        "top_left_y": 315,
+        "bottom_right_x": 115,
+        "bottom_right_y": 356,
+        "content": "26.2\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9896928612535577,
+          "minimum_content_confidence_score": 0.9696826221562496,
+          "block_type_confidence_score": 0.6258294422074627
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 315,
+        "bottom_right_x": 601,
+        "bottom_right_y": 377,
+        "content": "For, since, and ago. See Exercise 26.1.\nRemember that for is used with the PRESENT PERFECT tense only when the length of time is up to NOW.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.985817141894662,
+          "minimum_content_confidence_score": 0.6781957516087532,
+          "block_type_confidence_score": 0.9988122996199675
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 318,
+        "top_left_y": 389,
+        "bottom_right_x": 421,
+        "bottom_right_y": 403,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9966723397644431,
+          "minimum_content_confidence_score": 0.9926369380700845,
+          "block_type_confidence_score": 0.9998482695971889
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 108,
+        "top_left_y": 415,
+        "bottom_right_x": 586,
+        "bottom_right_y": 919,
+        "content": "● Complete the following:\n1 Our friends haven't been here since . . .\n2 Since I last wrote to you, I . . .\n3 I finished school in 1965; then for three years I . . .\n4 For the last five years I . . .\n5 At a beauty competition a month ago, Maisie . . .\n6 Cyril hasn't ridden a bicycle since . . .\n7 Twenty years ago . . .\n8 I've been learning the piano since . . .\n9 I've been learning English for . . .\n10 She has been waiting in the library since . . .\n11 Two hours ago I . . .\n12 Since I met you I . . .\n13 Since last year . . .\n14 For two hours now they . . .\n15 Seventeen years ago . . .\n16 I was very ill last summer, and for two weeks . . .\n17 Since the beginning of the month . . .\n18 For the last ten days we . . .\n19 Less than a minute ago . . .\n20 I haven't had such an enjoyable time since . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972584678768678,
+          "minimum_content_confidence_score": 0.5918488098314616,
+          "block_type_confidence_score": 0.9989044759970777
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "source": {
+    "id": "pdf-100-left",
+    "pdf_page": 100,
+    "side": "left",
+    "reading_order": 199
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "I'm afraid of making her angry. (I don't want to do this because I think it will make her angry.)\n\nI'm afraid to disturb him at this late hour. (I daren't disturb him.)\n\nI can't play the piano to you now as I'm afraid of disturbing him. (I don't want to play because the noise might disturb him.)\n\n*allow, permit.* When a personal object is present these verbs take an INFINITIVE; otherwise they take a GERUND.\n\nThe librarian doesn't allow (permit) us to talk here.\n\nThe librarian doesn't allow (permit) talking here.\n\n*mean.* (= to intend) takes INFINITIVE;\n\n*(it) means* (= signifies) takes GERUND.\n\nI mean to work harder next year.\n\nWe meant to tell you, but we forgot.\n\nHaving a party tonight will mean (our) working extra hard tomorrow.\n\nThe transport strike meant (their) having to walk to work every day.\n\n*try.* With INFINITIVE it has the meaning 'make an effort or attempt'; with GERUND it means to test (by making an experiment).\n\nHe tried to speak French to us. (He made an effort to do so.)\n\nHe tried speaking French to us. (He spoke French, hoping that we should then understand him better.)\n\nI tried to write with my left hand. (I made an effort to do so.)\n\nI tried writing with my left hand. (I did write with my left hand, being curious to see the result.)\n\nHe tried to grow potatoes there. (He did his best to make them grow.)\n\nHe tried growing potatoes there. (He actually grew some, to see if they would be a successful crop for that kind of soil and climate.)\n\n*regret.* Note the meanings of the three following constructions:\n\nI regretted saying it wasn't true. (*was* sorry that I said . . .)\n\nI regret having said it wasn't true. (*am* sorry that I said . . .)\n\nI regret to say it wasn't true. (*am* sorry that I must now say . . .)",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "188\n40 Infinitive and Gerund",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9770351875018765,
+      "minimum_page_confidence_score": 0.3440169721163315
+    },
+    "blocks": [
+      {
+        "top_left_x": 17,
+        "top_left_y": 19,
+        "bottom_right_x": 48,
+        "bottom_right_y": 37,
+        "content": "188",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996895561943171,
+          "minimum_content_confidence_score": 0.9996895561943171,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 105,
+        "top_left_y": 19,
+        "bottom_right_x": 309,
+        "bottom_right_y": 38,
+        "content": "40 Infinitive and Gerund",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987669805922362,
+          "minimum_content_confidence_score": 0.9972559615620896,
+          "block_type_confidence_score": 0.9999761773802822
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 74,
+        "bottom_right_x": 602,
+        "bottom_right_y": 115,
+        "content": "I'm afraid of making her angry. (I don't want to do this because I think it will make her angry.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9936823558483052,
+          "minimum_content_confidence_score": 0.8865671051991358,
+          "block_type_confidence_score": 0.9998566117939461
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 114,
+        "bottom_right_x": 602,
+        "bottom_right_y": 154,
+        "content": "I'm afraid to disturb him at this late hour. (I daren't disturb him.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991279675809996,
+          "minimum_content_confidence_score": 0.9887709238028085,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 154,
+        "bottom_right_x": 602,
+        "bottom_right_y": 214,
+        "content": "I can't play the piano to you now as I'm afraid of disturbing him. (I don't want to play because the noise might disturb him.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999767756648151,
+          "minimum_content_confidence_score": 0.9997566338767772,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 224,
+        "bottom_right_x": 602,
+        "bottom_right_y": 264,
+        "content": "*allow, permit.* When a personal object is present these verbs take an INFINITIVE; otherwise they take a GERUND.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983005818722694,
+          "minimum_content_confidence_score": 0.9841665327340147,
+          "block_type_confidence_score": 0.9994094285142933
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 268,
+        "bottom_right_x": 594,
+        "bottom_right_y": 288,
+        "content": "The librarian doesn't allow (permit) us to talk here.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999923682033014,
+          "minimum_content_confidence_score": 0.9996598923957454,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 287,
+        "bottom_right_x": 576,
+        "bottom_right_y": 308,
+        "content": "The librarian doesn't allow (permit) talking here.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999840140127191,
+          "minimum_content_confidence_score": 0.9999730594272631,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 316,
+        "bottom_right_x": 469,
+        "bottom_right_y": 336,
+        "content": "*mean.* (= to intend) takes INFINITIVE;",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993036526766249,
+          "minimum_content_confidence_score": 0.9975543377565198,
+          "block_type_confidence_score": 0.9999688873432871
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 335,
+        "bottom_right_x": 442,
+        "bottom_right_y": 356,
+        "content": "*(it) means* (= signifies) takes GERUND.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9759617732431064,
+          "minimum_content_confidence_score": 0.8798339040133807,
+          "block_type_confidence_score": 0.9999984502816872
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 359,
+        "bottom_right_x": 450,
+        "bottom_right_y": 379,
+        "content": "I mean to work harder next year.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999879034011905,
+          "minimum_content_confidence_score": 0.9999605432821229,
+          "block_type_confidence_score": 0.9998598295228305
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 378,
+        "bottom_right_x": 477,
+        "bottom_right_y": 400,
+        "content": "We meant to tell you, but we forgot.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999955814614157,
+          "minimum_content_confidence_score": 0.9997269660801927,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 399,
+        "bottom_right_x": 602,
+        "bottom_right_y": 438,
+        "content": "Having a party tonight will mean (our) working extra hard tomorrow.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999466771088741,
+          "minimum_content_confidence_score": 0.9997963128222394,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 438,
+        "bottom_right_x": 604,
+        "bottom_right_y": 478,
+        "content": "The transport strike meant (their) having to walk to work every day.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999891864686747,
+          "minimum_content_confidence_score": 0.9992771609321472,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 486,
+        "bottom_right_x": 605,
+        "bottom_right_y": 546,
+        "content": "*try.* With INFINITIVE it has the meaning 'make an effort or attempt'; with GERUND it means to test (by making an experiment).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998730845274736,
+          "minimum_content_confidence_score": 0.9987010480126475,
+          "block_type_confidence_score": 0.9999967813595916
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 548,
+        "bottom_right_x": 605,
+        "bottom_right_y": 588,
+        "content": "He tried to speak French to us. (He made an effort to do so.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999885839180822,
+          "minimum_content_confidence_score": 0.9999612584807916,
+          "block_type_confidence_score": 0.9975168528937123
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 588,
+        "bottom_right_x": 605,
+        "bottom_right_y": 629,
+        "content": "He tried speaking French to us. (He spoke French, hoping that we should then understand him better.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999900936422094,
+          "minimum_content_confidence_score": 0.9999338432228186,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 629,
+        "bottom_right_x": 605,
+        "bottom_right_y": 671,
+        "content": "I tried to write with my left hand. (I made an effort to do so.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999928863251236,
+          "minimum_content_confidence_score": 0.9999647399530308,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 671,
+        "bottom_right_x": 605,
+        "bottom_right_y": 713,
+        "content": "I tried writing with my left hand. (I did write with my left hand, being curious to see the result.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999985523438139,
+          "minimum_content_confidence_score": 0.9998623322209441,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 713,
+        "bottom_right_x": 606,
+        "bottom_right_y": 755,
+        "content": "He tried to grow potatoes there. (He did his best to make them grow.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999862931923217,
+          "minimum_content_confidence_score": 0.9999425444247136,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 755,
+        "bottom_right_x": 607,
+        "bottom_right_y": 816,
+        "content": "He tried growing potatoes there. (He actually grew some, to see if they would be a successful crop for that kind of soil and climate.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999761813165796,
+          "minimum_content_confidence_score": 0.9997344126708922,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 823,
+        "bottom_right_x": 607,
+        "bottom_right_y": 863,
+        "content": "*regret.* Note the meanings of the three following constructions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997462758740979,
+          "minimum_content_confidence_score": 0.9978828706230469,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 866,
+        "bottom_right_x": 607,
+        "bottom_right_y": 907,
+        "content": "I regretted saying it wasn't true. (*was* sorry that I said . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962493417912078,
+          "minimum_content_confidence_score": 0.9767997648038598,
+          "block_type_confidence_score": 0.9998395700449714
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 907,
+        "bottom_right_x": 607,
+        "bottom_right_y": 947,
+        "content": "I regret having said it wasn't true. (*am* sorry that I said . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993706767900516,
+          "minimum_content_confidence_score": 0.9932122390110969,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 178,
+        "top_left_y": 947,
+        "bottom_right_x": 607,
+        "bottom_right_y": 987,
+        "content": "I regret to say it wasn't true. (*am* sorry that I must now say . . .)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993581322244315,
+          "minimum_content_confidence_score": 0.9940220803640806,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-169-left",
+    "pdf_page": 169,
+    "side": "left",
+    "reading_order": 337
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:48.625177+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "She bought such a good book that she learnt English well.\n\nNotice that we sometimes find sentences that can be interpreted either way. In the spoken language the RESULT sentence would be heard with two phrases of FALLING INTONATION, the PURPOSE sentence with RISING INTONATION ON THE MAIN CLAUSE.\n\nPURPOSE: I wrote clearly so (that) anyone could read it. (in order that)\n\nRESULT: I wrote clearly, so (that) anyone could read it. (because I wrote clearly)\n\nExamples of clauses of RESULT:\n\nAre you deaf that you didn't hear me?\n\n= Did you fail to hear me because you are deaf?\n\nIt was quite windy, so (that) we had to button our coats up.\n\nWe were so hungry (that) we couldn't wait for knives and forks.\n\nIt's such a good story (that) I'll never forget it.\n\nIt's so good a story (that) I'll never forget it. (Literary)\n\nI shall never be so tired but that (but what) I shall be able to write to you. (Literary style only)\n\nI shall never be so tired that I shan't be able to write to you.\n\nIt never rains but it pours. (Old proverb)\n\n= Once it starts to rain, it rains hard: troubles multiply.\n\n* * *\n\n58.3 ● Complete the following sentences of purpose or result:\n\n1 He was so kind (that) . . .\n2 Come a little nearer so that . . .\n3 I'll give you some money in case . . .\n4 He ran so quickly (that) . . .\n5 They live such a long way away (that) . . .\n6 We mustn't make a noise for fear . . .\n7 He hurried back in order that . . .\n8 He didn't shout lest . . .\n9 She was so lazy (that) . . .\n10 I'm so tired (that) . . .",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "326\n58 Appendix on Clauses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1013,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9667595692768622,
+      "minimum_page_confidence_score": 0.1959471867482508
+    },
+    "blocks": [
+      {
+        "top_left_x": 9,
+        "top_left_y": 8,
+        "bottom_right_x": 41,
+        "bottom_right_y": 26,
+        "content": "326",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997316127327818,
+          "minimum_content_confidence_score": 0.9997316127327818,
+          "block_type_confidence_score": 0.9999908118484797
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 98,
+        "top_left_y": 8,
+        "bottom_right_x": 302,
+        "bottom_right_y": 28,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995606468597714,
+          "minimum_content_confidence_score": 0.999026174914944,
+          "block_type_confidence_score": 0.9996995705118956
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 171,
+        "top_left_y": 63,
+        "bottom_right_x": 593,
+        "bottom_right_y": 102,
+        "content": "She bought such a good book that she learnt English well.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980461821157838,
+          "minimum_content_confidence_score": 0.979739358673449,
+          "block_type_confidence_score": 0.9998853338155873
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 135,
+        "top_left_y": 102,
+        "bottom_right_x": 594,
+        "bottom_right_y": 203,
+        "content": "Notice that we sometimes find sentences that can be interpreted either way. In the spoken language the RESULT sentence would be heard with two phrases of FALLING INTONATION, the PURPOSE sentence with RISING INTONATION ON THE MAIN CLAUSE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998009962295295,
+          "minimum_content_confidence_score": 0.9365362881554179,
+          "block_type_confidence_score": 0.9999877215940446
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 58,
+        "top_left_y": 215,
+        "bottom_right_x": 570,
+        "bottom_right_y": 256,
+        "content": "PURPOSE: I wrote clearly so (that) anyone could read it. (in order that)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9864825470433265,
+          "minimum_content_confidence_score": 0.8456917427536986,
+          "block_type_confidence_score": 0.9991632554753344
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 58,
+        "top_left_y": 289,
+        "bottom_right_x": 596,
+        "bottom_right_y": 351,
+        "content": "RESULT: I wrote clearly, so (that) anyone could read it. (because I wrote clearly)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991166359548983,
+          "minimum_content_confidence_score": 0.9956927656810768,
+          "block_type_confidence_score": 0.9918632437493653
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 137,
+        "top_left_y": 362,
+        "bottom_right_x": 389,
+        "bottom_right_y": 383,
+        "content": "Examples of clauses of RESULT:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997713075496983,
+          "minimum_content_confidence_score": 0.9989415310006148,
+          "block_type_confidence_score": 0.9902438304550022
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 385,
+        "bottom_right_x": 487,
+        "bottom_right_y": 407,
+        "content": "Are you deaf that you didn't hear me?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997429905102476,
+          "minimum_content_confidence_score": 0.9980570201483603,
+          "block_type_confidence_score": 0.9796608969740962
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 193,
+        "top_left_y": 406,
+        "bottom_right_x": 579,
+        "bottom_right_y": 426,
+        "content": "= Did you fail to hear me because you are deaf?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9953108377245545,
+          "minimum_content_confidence_score": 0.9486714129919589,
+          "block_type_confidence_score": 0.9704537461411019
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 426,
+        "bottom_right_x": 596,
+        "bottom_right_y": 465,
+        "content": "It was quite windy, so (that) we had to button our coats up.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996154028871274,
+          "minimum_content_confidence_score": 0.9958513948879917,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 465,
+        "bottom_right_x": 596,
+        "bottom_right_y": 505,
+        "content": "We were so hungry (that) we couldn't wait for knives and forks.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999972141477287,
+          "minimum_content_confidence_score": 0.9998082924466396,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 505,
+        "bottom_right_x": 554,
+        "bottom_right_y": 526,
+        "content": "It's such a good story (that) I'll never forget it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999860912330645,
+          "minimum_content_confidence_score": 0.9999314017369363,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 526,
+        "bottom_right_x": 596,
+        "bottom_right_y": 547,
+        "content": "It's so good a story (that) I'll never forget it. (Literary)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999700244324721,
+          "minimum_content_confidence_score": 0.999868971761403,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 547,
+        "bottom_right_x": 596,
+        "bottom_right_y": 586,
+        "content": "I shall never be so tired but that (but what) I shall be able to write to you. (Literary style only)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999785838485681,
+          "minimum_content_confidence_score": 0.9998613788093218,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 586,
+        "bottom_right_x": 596,
+        "bottom_right_y": 625,
+        "content": "I shall never be so tired that I shan't be able to write to you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990777416396347,
+          "minimum_content_confidence_score": 0.986321545509332,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 174,
+        "top_left_y": 625,
+        "bottom_right_x": 507,
+        "bottom_right_y": 645,
+        "content": "It never rains but it pours. (Old proverb)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998254551003474,
+          "minimum_content_confidence_score": 0.9992423996999412,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 193,
+        "top_left_y": 645,
+        "bottom_right_x": 598,
+        "bottom_right_y": 684,
+        "content": "= Once it starts to rain, it rains hard: troubles multiply.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999148884713974,
+          "minimum_content_confidence_score": 0.9996410704863694,
+          "block_type_confidence_score": 0.9999325320955504
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 318,
+        "top_left_y": 699,
+        "bottom_right_x": 419,
+        "bottom_right_y": 712,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9575282768638882,
+          "minimum_content_confidence_score": 0.8735525420564252,
+          "block_type_confidence_score": 0.9999597088831099
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 15,
+        "top_left_y": 722,
+        "bottom_right_x": 582,
+        "bottom_right_y": 744,
+        "content": "58.3 ● Complete the following sentences of purpose or result:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9863216295473478,
+          "minimum_content_confidence_score": 0.8635346594588248,
+          "block_type_confidence_score": 0.9492102935260628
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 746,
+        "bottom_right_x": 522,
+        "bottom_right_y": 965,
+        "content": "1 He was so kind (that) . . .\n2 Come a little nearer so that . . .\n3 I'll give you some money in case . . .\n4 He ran so quickly (that) . . .\n5 They live such a long way away (that) . . .\n6 We mustn't make a noise for fear . . .\n7 He hurried back in order that . . .\n8 He didn't shout lest . . .\n9 She was so lazy (that) . . .\n10 I'm so tired (that) . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994918736057375,
+          "minimum_content_confidence_score": 0.9788387550158947,
+          "block_type_confidence_score": 0.9995509019653885
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-10-15T06:00:41.317610+00:00",
+  "models": [
+    {
+      "id": "mistral-ocr-2512",
+      "aliases": [
+        "mistral-ocr-3-0",
+        "mistral-ocr-3"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    },
+    {
+      "id": "mistral-ocr-3-0",
+      "aliases": [
+        "mistral-ocr-2512",
+        "mistral-ocr-3"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    },
+    {
+      "id": "mistral-ocr-3",
+      "aliases": [
+        "mistral-ocr-2512",
+        "mistral-ocr-3-0"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    },
+    {
+      "id": "mistral-ocr-latest",
+      "aliases": [
+        "mistral-ocr-4",
+        "mistral-ocr-4-1"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    },
+    {
+      "id": "mistral-ocr-4",
+      "aliases": [
+        "mistral-ocr-latest",
+        "mistral-ocr-4-1"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    },
+    {
+      "id": "mistral-ocr-4-1",
+      "aliases": [
+        "mistral-ocr-latest",
+        "mistral-ocr-4"
+      ],
+      "capabilities": {
+        "ocr": true
+      }
+    }
+  ]
+}

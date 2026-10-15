@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-003-left",
+    "pdf_page": 3,
+    "side": "left",
+    "reading_order": 5
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:48:35.367043+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "Longman Group UK Limited, London,\n\nand Associated Companies throughout the world.\n\nFifth edition © Longman Group Limited\n1959, 1974\n\nAll rights reserved; no part of this publication may be\nreproduced, stored in a retrieval system, or transmitted\nin any form or by any means, electronic, mechanical,\nphotocopying, recording, or otherwise, without\nthe prior written permission of the Publishers.\n\nFirst published 1947\n\nSecond Edition with key 1950\n\nThird Edition 1955\n\n(with complete key)\n\nFourth Edition 1959\n\n(with Key as a separate book)\n\nFifth edition 1974\n\nNew impressions *1978, 1980, 1985(twice), 1986(twice), 1987,\n1988, 1989(twice), 1990(third), 1991, 1992\n\nProduced by Longman Singapore Publishers Pte Ltd\nPrinted in Singapore",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": "ISBN 0-582-52506-3",
+    "dimensions": {
+      "dpi": 37,
+      "height": 1016,
+      "width": 737
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9693355974904079,
+      "minimum_page_confidence_score": 0.3485995841252484
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 23,
+        "bottom_right_x": 322,
+        "bottom_right_y": 46,
+        "content": "Longman Group UK Limited, London,",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998683912587131,
+          "minimum_content_confidence_score": 0.999460152430336,
+          "block_type_confidence_score": 0.7514492221033997
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 76,
+        "bottom_right_x": 399,
+        "bottom_right_y": 98,
+        "content": "and Associated Companies throughout the world.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999585097695882,
+          "minimum_content_confidence_score": 0.9997923042414755,
+          "block_type_confidence_score": 0.9998233630346849
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 98,
+        "bottom_right_x": 334,
+        "bottom_right_y": 134,
+        "content": "Fifth edition © Longman Group Limited\n1959, 1974",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991146181736654,
+          "minimum_content_confidence_score": 0.99215640601637,
+          "block_type_confidence_score": 0.9997921422140411
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 135,
+        "bottom_right_x": 439,
+        "bottom_right_y": 232,
+        "content": "All rights reserved; no part of this publication may be\nreproduced, stored in a retrieval system, or transmitted\nin any form or by any means, electronic, mechanical,\nphotocopying, recording, or otherwise, without\nthe prior written permission of the Publishers.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984986458949424,
+          "minimum_content_confidence_score": 0.9364141856815714,
+          "block_type_confidence_score": 0.9999701985655173
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 232,
+        "bottom_right_x": 181,
+        "bottom_right_y": 250,
+        "content": "First published 1947",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999966065233701,
+          "minimum_content_confidence_score": 0.9999945164027223,
+          "block_type_confidence_score": 0.9465135606215788
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 250,
+        "bottom_right_x": 256,
+        "bottom_right_y": 271,
+        "content": "Second Edition with key 1950",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999898673913569,
+          "minimum_content_confidence_score": 0.9999777083605178,
+          "block_type_confidence_score": 0.9626274464412932
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 271,
+        "bottom_right_x": 172,
+        "bottom_right_y": 288,
+        "content": "Third Edition 1955",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999959945938927,
+          "minimum_content_confidence_score": 0.9999940395710211,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 289,
+        "bottom_right_x": 179,
+        "bottom_right_y": 309,
+        "content": "(with complete key)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999928077720549,
+          "minimum_content_confidence_score": 0.9999916554191085,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 309,
+        "bottom_right_x": 179,
+        "bottom_right_y": 326,
+        "content": "Fourth Edition 1959",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999851231968403,
+          "minimum_content_confidence_score": 0.9999611392834032,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 327,
+        "bottom_right_x": 252,
+        "bottom_right_y": 348,
+        "content": "(with Key as a separate book)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999953621434255,
+          "minimum_content_confidence_score": 0.9999850990607846,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 348,
+        "bottom_right_x": 164,
+        "bottom_right_y": 365,
+        "content": "Fifth edition 1974",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999886833167261,
+          "minimum_content_confidence_score": 0.9999730355871392,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 366,
+        "bottom_right_x": 506,
+        "bottom_right_y": 406,
+        "content": "New impressions *1978, 1980, 1985(twice), 1986(twice), 1987,\n1988, 1989(twice), 1990(third), 1991, 1992",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997853967203942,
+          "minimum_content_confidence_score": 0.9982726621437454,
+          "block_type_confidence_score": 0.9990203450057722
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 875,
+        "bottom_right_x": 423,
+        "bottom_right_y": 916,
+        "content": "Produced by Longman Singapore Publishers Pte Ltd\nPrinted in Singapore",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999869679779724,
+          "minimum_content_confidence_score": 0.9999346775747843,
+          "block_type_confidence_score": 0.8517336459620481
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 954,
+        "bottom_right_x": 310,
+        "bottom_right_y": 977,
+        "content": "ISBN 0-582-52506-3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993088813588825,
+          "minimum_content_confidence_score": 0.9986241999777632,
+          "block_type_confidence_score": 0.8653331453601047
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

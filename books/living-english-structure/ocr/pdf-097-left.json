@@ -1,0 +1,396 @@
+{
+  "source": {
+    "id": "pdf-097-left",
+    "pdf_page": 97,
+    "side": "left",
+    "reading_order": 193
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 0,
+    "markdown": "They don't understand your/you needing more money.\n\nI've put off (delayed) writing to him till today.\n\nI don't think anyone mentioned (Mary's/Mary) being there.\n\nI couldn't resist buying such lovely apples.\n\nAvoid drinking too much water with your meals.\n\nWe all appreciate your wanting to help us in our difficulties.\n\nYou certainly mustn't miss seeing this wonderful film.\n\nWhat good luck! I've escaped being asked to do another grammar question.\n\nI considered (thought about) painting the ceiling blue.\n\nI gave up smoking when I was a young man.\n\nPlease excuse (pardon, forgive) my disturbing you.\n\nOR: Please excuse (etc.) me for disturbing you.\n\nIn addition to these verbs, a few other common gerund constructions are *worth noting* here:\n\n*worth, it's no use*, introductory *it* and *there*, the idiom *there is no . . .*, verbal object of all prepositions.\n\nThe play really wasn't worth watching. (See LIST 3.)\n\nIf it's worth doing at all, then it's worth doing well.\n\nIt's no use (your) asking for more when it's all gone.\n\nIt's been a pleasure meeting you.\n\nI was surprised at there being no one to meet us.\n\nThere's no knowing (*or* telling) what will happen next.\n\nOnce (= as soon as) he starts telling stories, there's no stopping him.\n\nWe didn't mind your insisting on Mary's coming with us on the trip without paying anything.\n\n# LIST 2. SOME COMMON VERBS FOLLOWED BY EITHER GERUND OR INFINITIVE\n\n|  *advise* | *forget* | *prefer*  |\n| --- | --- | --- |\n|  *agree* | *hate* | *propose*  |\n|  *allow* | *intend* | *regret*  |\n|  *attempt* | *leave* | *remember*  |\n|  *begin* | *like* | *start*  |\n|  *cease* | *love* | *study*  |\n|  *continue* | *mean* | *try*  |\n|  *dread* | *permit* |   |\n\nThere is often a difference of meaning between the gerund and infinitive constructions; examples will be given in Section 40.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "182\n39 -ing form - Gerund and Present Participle",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1011,
+      "width": 677
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9780703401060747,
+      "minimum_page_confidence_score": 0.2076580673016104
+    },
+    "blocks": [
+      {
+        "top_left_x": 23,
+        "top_left_y": 22,
+        "bottom_right_x": 56,
+        "bottom_right_y": 40,
+        "content": "182",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996834803466673,
+          "minimum_content_confidence_score": 0.9996834803466673,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 22,
+        "bottom_right_x": 483,
+        "bottom_right_y": 43,
+        "content": "39 -ing form - Gerund and Present Participle",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9633049714728579,
+          "minimum_content_confidence_score": 0.7252837479869695,
+          "block_type_confidence_score": 0.9999053803390017
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 77,
+        "bottom_right_x": 611,
+        "bottom_right_y": 117,
+        "content": "They don't understand your/you needing more money.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944842974692297,
+          "minimum_content_confidence_score": 0.9707318766693378,
+          "block_type_confidence_score": 0.9997344722354619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 117,
+        "bottom_right_x": 561,
+        "bottom_right_y": 139,
+        "content": "I've put off (delayed) writing to him till today.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999980720228005,
+          "minimum_content_confidence_score": 0.9999134026401528,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 139,
+        "bottom_right_x": 611,
+        "bottom_right_y": 176,
+        "content": "I don't think anyone mentioned (Mary's/Mary) being there.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999954681144154,
+          "minimum_content_confidence_score": 0.9998230237980616,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 176,
+        "bottom_right_x": 529,
+        "bottom_right_y": 197,
+        "content": "I couldn't resist buying such lovely apples.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999800084423309,
+          "minimum_content_confidence_score": 0.9999560137072835,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 197,
+        "bottom_right_x": 582,
+        "bottom_right_y": 218,
+        "content": "Avoid drinking too much water with your meals.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999984337224722,
+          "minimum_content_confidence_score": 0.9999586190593263,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 218,
+        "bottom_right_x": 611,
+        "bottom_right_y": 256,
+        "content": "We all appreciate your wanting to help us in our difficulties.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999564232069754,
+          "minimum_content_confidence_score": 0.999583179702916,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 256,
+        "bottom_right_x": 611,
+        "bottom_right_y": 277,
+        "content": "You certainly mustn't miss seeing this wonderful film.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999365547243536,
+          "minimum_content_confidence_score": 0.9996118021436499,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 277,
+        "bottom_right_x": 611,
+        "bottom_right_y": 317,
+        "content": "What good luck! I've escaped being asked to do another grammar question.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999773010369423,
+          "minimum_content_confidence_score": 0.9999015428198451,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 317,
+        "bottom_right_x": 611,
+        "bottom_right_y": 337,
+        "content": "I considered (thought about) painting the ceiling blue.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999394949658525,
+          "minimum_content_confidence_score": 0.9998760377062386,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 337,
+        "bottom_right_x": 550,
+        "bottom_right_y": 357,
+        "content": "I gave up smoking when I was a young man.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999652639245357,
+          "minimum_content_confidence_score": 0.9997584211460943,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 357,
+        "bottom_right_x": 595,
+        "bottom_right_y": 377,
+        "content": "Please excuse (pardon, forgive) my disturbing you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994012409270228,
+          "minimum_content_confidence_score": 0.996131226236751,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 204,
+        "top_left_y": 377,
+        "bottom_right_x": 579,
+        "bottom_right_y": 398,
+        "content": "OR: Please excuse (etc.) me for disturbing you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940727455985949,
+          "minimum_content_confidence_score": 0.95285642050834,
+          "block_type_confidence_score": 0.9997655702989592
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 405,
+        "bottom_right_x": 611,
+        "bottom_right_y": 445,
+        "content": "In addition to these verbs, a few other common gerund constructions are *worth noting* here:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9927580312720269,
+          "minimum_content_confidence_score": 0.9047935073982587,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 169,
+        "top_left_y": 448,
+        "bottom_right_x": 611,
+        "bottom_right_y": 489,
+        "content": "*worth, it's no use*, introductory *it* and *there*, the idiom *there is no . . .*, verbal object of all prepositions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9755684843435569,
+          "minimum_content_confidence_score": 0.815900736098064,
+          "block_type_confidence_score": 0.9998100164859848
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 494,
+        "bottom_right_x": 603,
+        "bottom_right_y": 515,
+        "content": "The play really wasn't worth watching. (See LIST 3.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955174528890027,
+          "minimum_content_confidence_score": 0.9603751452126517,
+          "block_type_confidence_score": 0.9999552985160037
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 515,
+        "bottom_right_x": 603,
+        "bottom_right_y": 535,
+        "content": "If it's worth doing at all, then it's worth doing well.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997400309253863,
+          "minimum_content_confidence_score": 0.9977291057081374,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 535,
+        "bottom_right_x": 611,
+        "bottom_right_y": 556,
+        "content": "It's no use (your) asking for more when it's all gone.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999162077504749,
+          "minimum_content_confidence_score": 0.999374495995346,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 556,
+        "bottom_right_x": 454,
+        "bottom_right_y": 575,
+        "content": "It's been a pleasure meeting you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999720388587766,
+          "minimum_content_confidence_score": 0.9999402808373046,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 575,
+        "bottom_right_x": 582,
+        "bottom_right_y": 595,
+        "content": "I was surprised at there being no one to meet us.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999457983518453,
+          "minimum_content_confidence_score": 0.9995386345835452,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 595,
+        "bottom_right_x": 611,
+        "bottom_right_y": 615,
+        "content": "There's no knowing (*or* telling) what will happen next.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9846635758882751,
+          "minimum_content_confidence_score": 0.8624779533937804,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 615,
+        "bottom_right_x": 611,
+        "bottom_right_y": 655,
+        "content": "Once (= as soon as) he starts telling stories, there's no stopping him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994834130117026,
+          "minimum_content_confidence_score": 0.9945873141155239,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 655,
+        "bottom_right_x": 611,
+        "bottom_right_y": 695,
+        "content": "We didn't mind your insisting on Mary's coming with us on the trip without paying anything.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999665167765963,
+          "minimum_content_confidence_score": 0.9998369248590477,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 704,
+        "bottom_right_x": 611,
+        "bottom_right_y": 742,
+        "content": "# LIST 2. SOME COMMON VERBS FOLLOWED BY EITHER GERUND OR INFINITIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9441932080942568,
+          "minimum_content_confidence_score": 0.5906797241417653,
+          "block_type_confidence_score": 0.8998684608902641
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 169,
+        "top_left_y": 747,
+        "bottom_right_x": 579,
+        "bottom_right_y": 906,
+        "content": "|  *advise* | *forget* | *prefer*  |\n| --- | --- | --- |\n|  *agree* | *hate* | *propose*  |\n|  *allow* | *intend* | *regret*  |\n|  *attempt* | *leave* | *remember*  |\n|  *begin* | *like* | *start*  |\n|  *cease* | *love* | *study*  |\n|  *continue* | *mean* | *try*  |\n|  *dread* | *permit* |   |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996159965198588,
+          "minimum_content_confidence_score": 0.9996159965198588,
+          "block_type_confidence_score": 0.9842493971733919
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 915,
+        "bottom_right_x": 611,
+        "bottom_right_y": 975,
+        "content": "There is often a difference of meaning between the gerund and infinitive constructions; examples will be given in Section 40.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999816713385575,
+          "minimum_content_confidence_score": 0.9998241164370784,
+          "block_type_confidence_score": 0.9999207321075279
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

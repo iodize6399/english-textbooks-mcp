@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-072-left",
+    "pdf_page": 72,
+    "side": "left",
+    "reading_order": 143
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.701124+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "The FUTURE PERFECT CONTINUOUS tense is not very often used.\n\nBy Christmas I shall have been working in this office for ten years.\n\n– and I shall presumably continue to work here\n\n\\* \\* \\*\n\n(28.20)\n\n- ● Supply a suitable tense of the verbs in brackets:\n- 1 By next June he (write) his second novel.\n- 2 Before his next visit here he (return) from a world tour.\n- 3 Before you go to see them, they (leave) the country.\n- 4 He (finish) this work before you leave.\n- 5 By the end of the summer he (teach) us to speak English.\n- 6 By this time next week you (meet) my friend Cyril.\n- 7 When you come back he already (buy) the house.\n- 8 The meeting (finish) by the time we get there.\n- 9 By next month he (sell) all his furniture.\n- 10 In 1980 he (be) dead for ten years.\n- 11 By next Sunday you (stay) with us for five weeks.\n- 12 He (take) his examination by his next birthday.\n- 13 By the end of this year he (fly) more than a million miles.\n- 14 I hope, when you have finished this exercise, you (not make) many mistakes in it.\n- 15 The horse race (start) before we even leave home.\n- 16 I hope it (stop) raining by five o'clock.\n- 17 I (finish) long before you get back.\n- 18 I expect Maisie (grow up) by the time I return to England.\n- 19 If we don't get there before seven, they (eat and drink) everything.\n- 20 I hope you (not forget) all this by tomorrow!\n\n28.21\n\nIntermediate\n\nLook at this pair of sentences:\n\n*He won't come till the play begins.*\n\nThis means that he will come just at the beginning of the play.\n\n*He won't come till the play has begun.*\n\nThis means that he will arrive *after* the beginning.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "132\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1012,
+      "width": 684
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9706765836963485,
+      "minimum_page_confidence_score": 0.28538135661832364
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 11,
+        "bottom_right_x": 58,
+        "bottom_right_y": 29,
+        "content": "132",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999165604564946,
+          "minimum_content_confidence_score": 0.9999165604564946,
+          "block_type_confidence_score": 0.9999911969751641
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 11,
+        "bottom_right_x": 394,
+        "bottom_right_y": 29,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997840734359681,
+          "minimum_content_confidence_score": 0.9989251734605262,
+          "block_type_confidence_score": 0.9985126418650094
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 65,
+        "bottom_right_x": 610,
+        "bottom_right_y": 105,
+        "content": "The FUTURE PERFECT CONTINUOUS tense is not very often used.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940553377104397,
+          "minimum_content_confidence_score": 0.9575662700413725,
+          "block_type_confidence_score": 0.9998908162107646
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 108,
+        "bottom_right_x": 612,
+        "bottom_right_y": 150,
+        "content": "By Christmas I shall have been working in this office for ten years.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993786105865454,
+          "minimum_content_confidence_score": 0.9923123841404323,
+          "block_type_confidence_score": 0.9999805692637573
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 203,
+        "top_left_y": 149,
+        "bottom_right_x": 594,
+        "bottom_right_y": 169,
+        "content": "– and I shall presumably continue to work here",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.951327271211791,
+          "minimum_content_confidence_score": 0.5619962231532488,
+          "block_type_confidence_score": 0.9947689476617827
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 329,
+        "top_left_y": 184,
+        "bottom_right_x": 431,
+        "bottom_right_y": 198,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.915612385037555,
+          "minimum_content_confidence_score": 0.7473247827650684,
+          "block_type_confidence_score": 0.9999971389852362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 209,
+        "bottom_right_x": 83,
+        "bottom_right_y": 231,
+        "content": "(28.20)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960886439157711,
+          "minimum_content_confidence_score": 0.9960886439157711,
+          "block_type_confidence_score": 0.9993983552908139
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 209,
+        "bottom_right_x": 613,
+        "bottom_right_y": 823,
+        "content": "- ● Supply a suitable tense of the verbs in brackets:\n- 1 By next June he (write) his second novel.\n- 2 Before his next visit here he (return) from a world tour.\n- 3 Before you go to see them, they (leave) the country.\n- 4 He (finish) this work before you leave.\n- 5 By the end of the summer he (teach) us to speak English.\n- 6 By this time next week you (meet) my friend Cyril.\n- 7 When you come back he already (buy) the house.\n- 8 The meeting (finish) by the time we get there.\n- 9 By next month he (sell) all his furniture.\n- 10 In 1980 he (be) dead for ten years.\n- 11 By next Sunday you (stay) with us for five weeks.\n- 12 He (take) his examination by his next birthday.\n- 13 By the end of this year he (fly) more than a million miles.\n- 14 I hope, when you have finished this exercise, you (not make) many mistakes in it.\n- 15 The horse race (start) before we even leave home.\n- 16 I hope it (stop) raining by five o'clock.\n- 17 I (finish) long before you get back.\n- 18 I expect Maisie (grow up) by the time I return to England.\n- 19 If we don't get there before seven, they (eat and drink) everything.\n- 20 I hope you (not forget) all this by tomorrow!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99786503681134,
+          "minimum_content_confidence_score": 0.5913399824664108,
+          "block_type_confidence_score": 0.9993716852361525
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 842,
+        "bottom_right_x": 75,
+        "bottom_right_y": 861,
+        "content": "28.21",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9941304211966743,
+          "minimum_content_confidence_score": 0.9941304211966743,
+          "block_type_confidence_score": 0.8168666604006196
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 24,
+        "top_left_y": 863,
+        "bottom_right_x": 127,
+        "bottom_right_y": 881,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997293033763013,
+          "minimum_content_confidence_score": 0.997293033763013,
+          "block_type_confidence_score": 0.9963525544112073
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 842,
+        "bottom_right_x": 397,
+        "bottom_right_y": 863,
+        "content": "Look at this pair of sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999808934556463,
+          "minimum_content_confidence_score": 0.9999178715482698,
+          "block_type_confidence_score": 0.9999610200823912
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 866,
+        "bottom_right_x": 462,
+        "bottom_right_y": 886,
+        "content": "*He won't come till the play begins.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9908820281837623,
+          "minimum_content_confidence_score": 0.9417959620230034,
+          "block_type_confidence_score": 0.9999955892755635
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 205,
+        "top_left_y": 886,
+        "bottom_right_x": 613,
+        "bottom_right_y": 926,
+        "content": "This means that he will come just at the beginning of the play.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998928599111471,
+          "minimum_content_confidence_score": 0.998850833300334,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 926,
+        "bottom_right_x": 491,
+        "bottom_right_y": 946,
+        "content": "*He won't come till the play has begun.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999507894222582,
+          "minimum_content_confidence_score": 0.9997986960451274,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 205,
+        "top_left_y": 946,
+        "bottom_right_x": 612,
+        "bottom_right_y": 965,
+        "content": "This means that he will arrive *after* the beginning.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944718182342851,
+          "minimum_content_confidence_score": 0.9503522273477986,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

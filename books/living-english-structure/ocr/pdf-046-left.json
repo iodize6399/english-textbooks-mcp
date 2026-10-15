@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-046-left",
+    "pdf_page": 46,
+    "side": "left",
+    "reading_order": 91
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:11.283634+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 10,
+    "markdown": "past till NOW'. (Time other than NOW need not concern us for the moment.)\n\nFor denotes 'a LENGTH of time till NOW'.\n\n'I haven't seen you since Monday.\n\nI haven't seen you for a week.\n\nThe difference between since and for is not made in all languages (cf. French depuis, German seit), and the tense in other languages is usually simple present.\n\nJe suis ici depuis une heure, depuis six heures et demie.\n\nIch bin hier seit einer Stunde . . . seit halb sieben.\n\nSince and for must be constantly practised.\n\n* * *\n\n(23.3)\n\n● Complete the following sentences with the given alternatives:\n1 I haven't seen you. Christmas/three days.\n2 We've been here. an hour and a half/January.\n3 She hasn't spoken to me. more than two years/last week.\n4 They have lived in this street. 1919/the last ten years/a long time.\n5 I haven't had time to do it. I was ill/last Monday.\n6 We haven't bought any new ones. a week/ages/then.\n7 There hasn't been a famine here. centuries/the Middle Ages.\n8 I haven't eaten any meat. over a year/I was a boy.\n9 Nobody has written to me. many weeks/my birthday.\n10 You've asked the same question every day. the beginning of the year/the last fortnight.\n11 You haven't sent me any money. last Saturday/fifteen days.\n12 She has worn the same old dress. at least a month/the beginning of the month.\n13 I haven't spoken Spanish. 1925/ten years.\n14 I haven't ridden a bicycle. longer than I can remember/my childhood.\n15 It hasn't rained here. more than a month/March. See also Exercise 23.7.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "80\n23 Present Perfect Tense",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9705427468792864,
+      "minimum_page_confidence_score": 0.16227414938759835
+    },
+    "blocks": [
+      {
+        "top_left_x": 25,
+        "top_left_y": 18,
+        "bottom_right_x": 49,
+        "bottom_right_y": 37,
+        "content": "80",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997977427523806,
+          "minimum_content_confidence_score": 0.9997977427523806,
+          "block_type_confidence_score": 0.9999981293366762
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 18,
+        "bottom_right_x": 327,
+        "bottom_right_y": 38,
+        "content": "23 Present Perfect Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998415171281747,
+          "minimum_content_confidence_score": 0.999746744406739,
+          "block_type_confidence_score": 0.9985070015246902
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 72,
+        "bottom_right_x": 611,
+        "bottom_right_y": 113,
+        "content": "past till NOW'. (Time other than NOW need not concern us for the moment.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9878435731635028,
+          "minimum_content_confidence_score": 0.8941830013608539,
+          "block_type_confidence_score": 0.9999858142961154
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 112,
+        "bottom_right_x": 477,
+        "bottom_right_y": 133,
+        "content": "For denotes 'a LENGTH of time till NOW'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995303256084364,
+          "minimum_content_confidence_score": 0.9975414895454311,
+          "block_type_confidence_score": 0.9999920130413283
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 135,
+        "bottom_right_x": 457,
+        "bottom_right_y": 157,
+        "content": "'I haven't seen you since Monday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9604533441978919,
+          "minimum_content_confidence_score": 0.8611139731781682,
+          "block_type_confidence_score": 0.9976258749186736
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 156,
+        "bottom_right_x": 431,
+        "bottom_right_y": 177,
+        "content": "I haven't seen you for a week.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996229994233402,
+          "minimum_content_confidence_score": 0.997752602626092,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 186,
+        "bottom_right_x": 613,
+        "bottom_right_y": 247,
+        "content": "The difference between since and for is not made in all languages (cf. French depuis, German seit), and the tense in other languages is usually simple present.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990686693801925,
+          "minimum_content_confidence_score": 0.9792042731407133,
+          "block_type_confidence_score": 0.9999952316511552
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 249,
+        "bottom_right_x": 564,
+        "bottom_right_y": 289,
+        "content": "Je suis ici depuis une heure, depuis six heures et demie.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991849742753157,
+          "minimum_content_confidence_score": 0.9918853329472922,
+          "block_type_confidence_score": 0.9999158453261717
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 289,
+        "bottom_right_x": 594,
+        "bottom_right_y": 309,
+        "content": "Ich bin hier seit einer Stunde . . . seit halb sieben.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9844739283050726,
+          "minimum_content_confidence_score": 0.8166399469750517,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 318,
+        "bottom_right_x": 498,
+        "bottom_right_y": 339,
+        "content": "Since and for must be constantly practised.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999883517209464,
+          "minimum_content_confidence_score": 0.9999784235841962,
+          "block_type_confidence_score": 0.9999980926550052
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 333,
+        "top_left_y": 353,
+        "bottom_right_x": 438,
+        "bottom_right_y": 367,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9807020262865983,
+          "minimum_content_confidence_score": 0.9437679708778159,
+          "block_type_confidence_score": 0.9999948740268748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 378,
+        "bottom_right_x": 76,
+        "bottom_right_y": 400,
+        "content": "(23.3)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998394545479818,
+          "minimum_content_confidence_score": 0.9998394545479818,
+          "block_type_confidence_score": 0.9433168175433085
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 378,
+        "bottom_right_x": 613,
+        "bottom_right_y": 991,
+        "content": "● Complete the following sentences with the given alternatives:\n1 I haven't seen you. Christmas/three days.\n2 We've been here. an hour and a half/January.\n3 She hasn't spoken to me. more than two years/last week.\n4 They have lived in this street. 1919/the last ten years/a long time.\n5 I haven't had time to do it. I was ill/last Monday.\n6 We haven't bought any new ones. a week/ages/then.\n7 There hasn't been a famine here. centuries/the Middle Ages.\n8 I haven't eaten any meat. over a year/I was a boy.\n9 Nobody has written to me. many weeks/my birthday.\n10 You've asked the same question every day. the beginning of the year/the last fortnight.\n11 You haven't sent me any money. last Saturday/fifteen days.\n12 She has worn the same old dress. at least a month/the beginning of the month.\n13 I haven't spoken Spanish. 1925/ten years.\n14 I haven't ridden a bicycle. longer than I can remember/my childhood.\n15 It hasn't rained here. more than a month/March. See also Exercise 23.7.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986198845529639,
+          "minimum_content_confidence_score": 0.7937328731469961,
+          "block_type_confidence_score": 0.9953162539735187
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

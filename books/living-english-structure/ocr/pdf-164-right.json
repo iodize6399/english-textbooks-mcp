@@ -1,0 +1,305 @@
+{
+  "source": {
+    "id": "pdf-164-right",
+    "pdf_page": 164,
+    "side": "right",
+    "reading_order": 328
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "CLAUSE behaves like a noun, an ADVERB CLAUSE like an adverb, etc.).\n\nStudents who have to analyse English sentences should note that many conjunctions can introduce clauses of more than one type; in fact any one clause is sometimes to be interpreted differently in different sentences. For example, the clause *when he left* looks like an adverb clause of time, as in the sentence 'The others came *when he left*.' But we could make it function quite differently:\n\n|  Can you tell me when he left? | (NOUN: OBJECT)  |\n| --- | --- |\n|  When he left is still a mystery. | (NOUN: SUBJECT)  |\n|  Do you remember the day when he left? | (ADJECTIVE)  |\n|  How could he know the result when he left before the end? | (CAUSE)  |\n|  They invited him again even when he left once without saying good-bye. | (CONCESSION)  |\n\n### NOUN CLAUSES\n\n#### NOUN CLAUSE AS OBJECT\n\nThe most usual form is the OBJECT-CLAUSE of reported speech. (See Section 51.)\n\nThe noun clause of a REPORTED QUESTION can be preceded by a preposition.\n\nIt depends on what you want me for.\n\nI am anxious about where he has gone.\n\nIt reminds me of when I first went to school.\n\nDon't let's worry about whether¹ we'll be in time.\n\nSee Exercise 51.7, etc., for clauses with *what*, *who*, *which*, etc.\n\nREPORTED STATEMENTS are introduced by *that*, which is only rarely preceded by a preposition. The two principal ways of getting over this difficulty when a preposition is needed are:\n\n(1) Omit the preposition where possible.\n\nproud of *I am proud that you have won.*\n\nsurprised at *He was surprised that I knew English.*\n\nsorry for *We're sorry that you can't come.*\n\nThis pattern is possible with most other such expressions of feeling, such as: *sure of, glad of, angry with, aware of*, ¹ *If* cannot be used here when the interrogative clause is introduced by a preposition; we can use *whether* only.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "58 Appendix on Clauses\n317",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9666655571373517,
+      "minimum_page_confidence_score": 0.23822482914022253
+    },
+    "blocks": [
+      {
+        "top_left_x": 137,
+        "top_left_y": 18,
+        "bottom_right_x": 345,
+        "bottom_right_y": 39,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998702560836316,
+          "minimum_content_confidence_score": 0.9996927728618767,
+          "block_type_confidence_score": 0.9999899315606716
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 615,
+        "top_left_y": 14,
+        "bottom_right_x": 648,
+        "bottom_right_y": 33,
+        "content": "317",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998916504977274,
+          "minimum_content_confidence_score": 0.9998916504977274,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 69,
+        "bottom_right_x": 650,
+        "bottom_right_y": 114,
+        "content": "CLAUSE behaves like a noun, an ADVERB CLAUSE like an adverb, etc.).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998288166211741,
+          "minimum_content_confidence_score": 0.9885233315708922,
+          "block_type_confidence_score": 0.9999743706604208
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 176,
+        "top_left_y": 108,
+        "bottom_right_x": 652,
+        "bottom_right_y": 253,
+        "content": "Students who have to analyse English sentences should note that many conjunctions can introduce clauses of more than one type; in fact any one clause is sometimes to be interpreted differently in different sentences. For example, the clause *when he left* looks like an adverb clause of time, as in the sentence 'The others came *when he left*.' But we could make it function quite differently:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978369425856439,
+          "minimum_content_confidence_score": 0.929773275642187,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 215,
+        "top_left_y": 253,
+        "bottom_right_x": 646,
+        "bottom_right_y": 435,
+        "content": "|  Can you tell me when he left? | (NOUN: OBJECT)  |\n| --- | --- |\n|  When he left is still a mystery. | (NOUN: SUBJECT)  |\n|  Do you remember the day when he left? | (ADJECTIVE)  |\n|  How could he know the result when he left before the end? | (CAUSE)  |\n|  They invited him again even when he left once without saying good-bye. | (CONCESSION)  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9935397683360069,
+          "minimum_content_confidence_score": 0.7243960822958767,
+          "block_type_confidence_score": 0.45250459304732243
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 463,
+        "bottom_right_x": 336,
+        "bottom_right_y": 483,
+        "content": "### NOUN CLAUSES",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8510669454281028,
+          "minimum_content_confidence_score": 0.5612778914388219,
+          "block_type_confidence_score": 0.9739226377496338
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 504,
+        "bottom_right_x": 375,
+        "bottom_right_y": 523,
+        "content": "#### NOUN CLAUSE AS OBJECT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9171260894820354,
+          "minimum_content_confidence_score": 0.5911172658452217,
+          "block_type_confidence_score": 0.5925376045004833
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 521,
+        "bottom_right_x": 656,
+        "bottom_right_y": 564,
+        "content": "The most usual form is the OBJECT-CLAUSE of reported speech. (See Section 51.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993083596944277,
+          "minimum_content_confidence_score": 0.9916584921551431,
+          "block_type_confidence_score": 0.9999907017622996
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 561,
+        "bottom_right_x": 656,
+        "bottom_right_y": 603,
+        "content": "The noun clause of a REPORTED QUESTION can be preceded by a preposition.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998297732599433,
+          "minimum_content_confidence_score": 0.9992349045272879,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 604,
+        "bottom_right_x": 526,
+        "bottom_right_y": 626,
+        "content": "It depends on what you want me for.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999806951395356,
+          "minimum_content_confidence_score": 0.9999160124539631,
+          "block_type_confidence_score": 0.9668848629164262
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 624,
+        "bottom_right_x": 543,
+        "bottom_right_y": 646,
+        "content": "I am anxious about where he has gone.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999929667194649,
+          "minimum_content_confidence_score": 0.9999858142961154,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 643,
+        "bottom_right_x": 594,
+        "bottom_right_y": 666,
+        "content": "It reminds me of when I first went to school.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999970292245342,
+          "minimum_content_confidence_score": 0.9998162130611753,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 664,
+        "bottom_right_x": 637,
+        "bottom_right_y": 686,
+        "content": "Don't let's worry about whether¹ we'll be in time.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9934432092330846,
+          "minimum_content_confidence_score": 0.9481340438182502,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 693,
+        "bottom_right_x": 657,
+        "bottom_right_y": 734,
+        "content": "See Exercise 51.7, etc., for clauses with *what*, *who*, *which*, etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952570321066022,
+          "minimum_content_confidence_score": 0.9506654529686522,
+          "block_type_confidence_score": 0.9999589936855495
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 733,
+        "bottom_right_x": 657,
+        "bottom_right_y": 814,
+        "content": "REPORTED STATEMENTS are introduced by *that*, which is only rarely preceded by a preposition. The two principal ways of getting over this difficulty when a preposition is needed are:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999414775719336,
+          "minimum_content_confidence_score": 0.9991384175245381,
+          "block_type_confidence_score": 0.9999983310727032
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 813,
+        "bottom_right_x": 526,
+        "bottom_right_y": 835,
+        "content": "(1) Omit the preposition where possible.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995797936344452,
+          "minimum_content_confidence_score": 0.9988002381612039,
+          "block_type_confidence_score": 0.8350172189403378
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 835,
+        "bottom_right_x": 583,
+        "bottom_right_y": 859,
+        "content": "proud of *I am proud that you have won.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9928932439776504,
+          "minimum_content_confidence_score": 0.9490659019761797,
+          "block_type_confidence_score": 0.9981713417062882
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 856,
+        "bottom_right_x": 644,
+        "bottom_right_y": 878,
+        "content": "surprised at *He was surprised that I knew English.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996190568379996,
+          "minimum_content_confidence_score": 0.9973111584129447,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 876,
+        "bottom_right_x": 603,
+        "bottom_right_y": 898,
+        "content": "sorry for *We're sorry that you can't come.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998900826181649,
+          "minimum_content_confidence_score": 0.9995985451256952,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 906,
+        "bottom_right_x": 659,
+        "bottom_right_y": 988,
+        "content": "This pattern is possible with most other such expressions of feeling, such as: *sure of, glad of, angry with, aware of*, ¹ *If* cannot be used here when the interrogative clause is introduced by a preposition; we can use *whether* only.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9843173788597899,
+          "minimum_content_confidence_score": 0.7897114592617839,
+          "block_type_confidence_score": 0.9992728755917769
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

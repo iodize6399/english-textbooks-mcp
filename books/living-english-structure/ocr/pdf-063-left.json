@@ -1,0 +1,369 @@
+{
+  "source": {
+    "id": "pdf-063-left",
+    "pdf_page": 63,
+    "side": "left",
+    "reading_order": 125
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "# 28.4\nIntermediate\n\nShall/will and going to. See previous Exercises.\n\nShall/will expresses pure futurity, hence is almost always found when the futurity depends on external circumstances, and not on any person's will or intention.\n\nTry going to in these three sentences:\n\nIf you go with him, he'll give you a new one.\n\nIf you ever go to China, you'll see some queer things there.\n\nYou'll always find a welcome here whenever you call.\n\nAs a simple affirmative statement of intention, with no external circumstances (time, condition, reason, etc.) mentioned, the shall/will future tense is rare; where the futurity depends on the external circumstances, going to is rare.\n\nHe will sell his house. (rare)\n\nHe's going to sell his house. (normal)\n\nHe'll sell it if you ask him. (normal)\n\nHe is going to sell it if you ask him. (rare)\n\nShe'll know the answer. (normal; automatic verb, see notes to Exercise 28.3)\n\nShe is going to know. (rare)\n\nThe going to form is consequently rarely found when other clauses are present, because here the intention of a person is no longer important; it is a pure notional future depending on external circumstances.\n\nMore details about going to come in Exercises 28.5 and 28.6.\n\n* * *\n\nRead each of the following sentences twice, referring to the future: first in shall/will form, and then in going to form. Replace the time expression in bold type by a future time expression if necessary.\n\n# EXAMPLE\n\nHe has just finished it.\n\nANSWER 1: He'll finish it next week.\n\nANSWER 2: He's going to finish it next week.\n\n1 My sister cleaned my room yesterday.\n2 We've already climbed the mountain.\n3 They came here last year, didn't they?\n4 It didn't cost so much a week ago.\n5 He cut you a bigger piece of cake last time.\n6 They didn't do any business with us in 1970.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "114\n28 The Future and Future Perfect",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 673
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9729471637561908,
+      "minimum_page_confidence_score": 0.1860778175794678
+    },
+    "blocks": [
+      {
+        "top_left_x": 19,
+        "top_left_y": 17,
+        "bottom_right_x": 51,
+        "bottom_right_y": 36,
+        "content": "114",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999517225672779,
+          "minimum_content_confidence_score": 0.9999517225672779,
+          "block_type_confidence_score": 0.999996863894312
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 107,
+        "top_left_y": 17,
+        "bottom_right_x": 389,
+        "bottom_right_y": 36,
+        "content": "28 The Future and Future Perfect",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999538333407898,
+          "minimum_content_confidence_score": 0.9998126381008693,
+          "block_type_confidence_score": 0.9993842704155373
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 71,
+        "bottom_right_x": 121,
+        "bottom_right_y": 111,
+        "content": "# 28.4\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8500405787598102,
+          "minimum_content_confidence_score": 0.6791022096734425,
+          "block_type_confidence_score": 0.6447947927969954
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 71,
+        "bottom_right_x": 550,
+        "bottom_right_y": 92,
+        "content": "Shall/will and going to. See previous Exercises.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962786407626234,
+          "minimum_content_confidence_score": 0.9778088681843613,
+          "block_type_confidence_score": 0.999059489641677
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 92,
+        "bottom_right_x": 605,
+        "bottom_right_y": 151,
+        "content": "Shall/will expresses pure futurity, hence is almost always found when the futurity depends on external circumstances, and not on any person's will or intention.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988099197739637,
+          "minimum_content_confidence_score": 0.9736001472888938,
+          "block_type_confidence_score": 0.9999970197767496
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 152,
+        "bottom_right_x": 449,
+        "bottom_right_y": 172,
+        "content": "Try going to in these three sentences:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999316230287298,
+          "minimum_content_confidence_score": 0.9995494727373724,
+          "block_type_confidence_score": 0.9999933243243502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 175,
+        "bottom_right_x": 545,
+        "bottom_right_y": 195,
+        "content": "If you go with him, he'll give you a new one.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999816800054753,
+          "minimum_content_confidence_score": 0.9998297841585289,
+          "block_type_confidence_score": 0.9046322739256619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 195,
+        "bottom_right_x": 604,
+        "bottom_right_y": 233,
+        "content": "If you ever go to China, you'll see some queer things there.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999801559639896,
+          "minimum_content_confidence_score": 0.9998213563843057,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 234,
+        "bottom_right_x": 604,
+        "bottom_right_y": 255,
+        "content": "You'll always find a welcome here whenever you call.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999930704946062,
+          "minimum_content_confidence_score": 0.9999859931750582,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 258,
+        "bottom_right_x": 606,
+        "bottom_right_y": 357,
+        "content": "As a simple affirmative statement of intention, with no external circumstances (time, condition, reason, etc.) mentioned, the shall/will future tense is rare; where the futurity depends on the external circumstances, going to is rare.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999972683407487,
+          "minimum_content_confidence_score": 0.9995683450557011,
+          "block_type_confidence_score": 0.9999908209686689
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 361,
+        "bottom_right_x": 411,
+        "bottom_right_y": 381,
+        "content": "He will sell his house. (rare)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999804001220509,
+          "minimum_content_confidence_score": 0.9999055951592553,
+          "block_type_confidence_score": 0.9739570132118514
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 381,
+        "bottom_right_x": 485,
+        "bottom_right_y": 402,
+        "content": "He's going to sell his house. (normal)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999927036774616,
+          "minimum_content_confidence_score": 0.9999661457096376,
+          "block_type_confidence_score": 0.9999955892755635
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 405,
+        "bottom_right_x": 475,
+        "bottom_right_y": 425,
+        "content": "He'll sell it if you ask him. (normal)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999790314688204,
+          "minimum_content_confidence_score": 0.999874250008407,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 425,
+        "bottom_right_x": 525,
+        "bottom_right_y": 446,
+        "content": "He is going to sell it if you ask him. (rare)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998575293915934,
+          "minimum_content_confidence_score": 0.9987025427850176,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 448,
+        "bottom_right_x": 606,
+        "bottom_right_y": 488,
+        "content": "She'll know the answer. (normal; automatic verb, see notes to Exercise 28.3)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999891939507468,
+          "minimum_content_confidence_score": 0.9999420045329303,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 489,
+        "bottom_right_x": 410,
+        "bottom_right_y": 509,
+        "content": "She is going to know. (rare)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999943011875742,
+          "minimum_content_confidence_score": 0.9999885560391694,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 517,
+        "bottom_right_x": 606,
+        "bottom_right_y": 597,
+        "content": "The going to form is consequently rarely found when other clauses are present, because here the intention of a person is no longer important; it is a pure notional future depending on external circumstances.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999951200919102,
+          "minimum_content_confidence_score": 0.9999536297383403,
+          "block_type_confidence_score": 0.999960304883893
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 597,
+        "bottom_right_x": 606,
+        "bottom_right_y": 637,
+        "content": "More details about going to come in Exercises 28.5 and 28.6.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999971003484873,
+          "minimum_content_confidence_score": 0.9999886752461923,
+          "block_type_confidence_score": 0.9999644768920447
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 324,
+        "top_left_y": 650,
+        "bottom_right_x": 430,
+        "bottom_right_y": 666,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9157277630282387,
+          "minimum_content_confidence_score": 0.7476403034615512,
+          "block_type_confidence_score": 0.9549439815262873
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 676,
+        "bottom_right_x": 608,
+        "bottom_right_y": 758,
+        "content": "Read each of the following sentences twice, referring to the future: first in shall/will form, and then in going to form. Replace the time expression in bold type by a future time expression if necessary.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9890902776518691,
+          "minimum_content_confidence_score": 0.6185315615966206,
+          "block_type_confidence_score": 0.7057033363622897
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 763,
+        "bottom_right_x": 220,
+        "bottom_right_y": 779,
+        "content": "# EXAMPLE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9944542659904242,
+          "minimum_content_confidence_score": 0.9890130589396958,
+          "block_type_confidence_score": 0.8518215159666394
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 784,
+        "bottom_right_x": 366,
+        "bottom_right_y": 804,
+        "content": "He has just finished it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99998685777079,
+          "minimum_content_confidence_score": 0.9999462394998376,
+          "block_type_confidence_score": 0.9999259765140984
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 805,
+        "bottom_right_x": 472,
+        "bottom_right_y": 823,
+        "content": "ANSWER 1: He'll finish it next week.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999870635436715,
+          "minimum_content_confidence_score": 0.999953094352079,
+          "block_type_confidence_score": 0.9993539456548902
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 824,
+        "bottom_right_x": 541,
+        "bottom_right_y": 845,
+        "content": "ANSWER 2: He's going to finish it next week.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999969963830709,
+          "minimum_content_confidence_score": 0.999993372007476,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 848,
+        "bottom_right_x": 547,
+        "bottom_right_y": 980,
+        "content": "1 My sister cleaned my room yesterday.\n2 We've already climbed the mountain.\n3 They came here last year, didn't they?\n4 It didn't cost so much a week ago.\n5 He cut you a bigger piece of cake last time.\n6 They didn't do any business with us in 1970.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999470009858815,
+          "minimum_content_confidence_score": 0.9986758296368664,
+          "block_type_confidence_score": 0.9999060719005844
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

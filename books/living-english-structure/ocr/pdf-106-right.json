@@ -1,0 +1,175 @@
+{
+  "source": {
+    "id": "pdf-106-right",
+    "pdf_page": 106,
+    "side": "right",
+    "reading_order": 212
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "9 I want to see you.\n10 That lady is my friend.\n11 The prize for the competition was a handbag.\n12 Someone has used my fountain-pen.\n13 This glass is his.\n14 I can recommend this one.\n15 They have just come in.\n16 We saw the king yesterday.\n17 I want his book.\n18 Mary ate it.\n19 I'll give you the brown one.\n20 I bought him a present.\n\n# 44.4\nIntermediate\n\nSee Exercises 44.1 and 44.2.\n\nWhom? This form has almost disappeared from spoken British English. It is found only in the most formal kind of writing. Foreign students need not learn it for their own use. It is not required in any of the interrogative exercises in this book if they are done orally.\n\n|  SUBJECT: | Who? | What? Which?  |\n| --- | --- | --- |\n|  OBJECT: | Who? (verb inversion) | What? Which?  |\n|  POSSESSIVE: | Whose? | What (which) . . . of?  |\n|  PREPOSITION: | Who . . . to? | What (which) . . . to?  |\n\n* * *\n\n● Add the question-word to the following questions:\n\n1 — left this bag here?\n2 — pencil is this? Is it yours?\n3 — are you doing tonight?\n4 — are we meeting this afternoon?\n5 — do you think of my photograph?\n6 — is your dressmaker?\n7 — shall we do tomorrow?\n8 — train shall we take, the 14.15 or the 15.30?\n9 — is singing in the next room?\n10 — does she want?\n11 — dress was she wearing?\n12 — hat blew away? Tom's?\n13 — would you like me to do?\n14 — threw that stone?\n15 — is your daughter going to marry?\n16 — of these cakes may I take?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "44 Interrogatives\n201",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 675
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726535090082606,
+      "minimum_page_confidence_score": 0.19853198137383707
+    },
+    "blocks": [
+      {
+        "top_left_x": 147,
+        "top_left_y": 15,
+        "bottom_right_x": 300,
+        "bottom_right_y": 37,
+        "content": "44 Interrogatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989121147853242,
+          "minimum_content_confidence_score": 0.9979533165605419,
+          "block_type_confidence_score": 0.9999205065774622
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 15,
+        "bottom_right_x": 655,
+        "bottom_right_y": 36,
+        "content": "201",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999440939703319,
+          "minimum_content_confidence_score": 0.9999440939703319,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 147,
+        "top_left_y": 70,
+        "bottom_right_x": 599,
+        "bottom_right_y": 335,
+        "content": "9 I want to see you.\n10 That lady is my friend.\n11 The prize for the competition was a handbag.\n12 Someone has used my fountain-pen.\n13 This glass is his.\n14 I can recommend this one.\n15 They have just come in.\n16 We saw the king yesterday.\n17 I want his book.\n18 Mary ate it.\n19 I'll give you the brown one.\n20 I bought him a present.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983736352297617,
+          "minimum_content_confidence_score": 0.9388550585767408,
+          "block_type_confidence_score": 0.9914066587640993
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 57,
+        "top_left_y": 353,
+        "bottom_right_x": 161,
+        "bottom_right_y": 393,
+        "content": "# 44.4\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8995251229920187,
+          "minimum_content_confidence_score": 0.7772992410115573,
+          "block_type_confidence_score": 0.5268870580936407
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 353,
+        "bottom_right_x": 416,
+        "bottom_right_y": 375,
+        "content": "See Exercises 44.1 and 44.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999789743519806,
+          "minimum_content_confidence_score": 0.9999390969768869,
+          "block_type_confidence_score": 0.9991788459774994
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 374,
+        "bottom_right_x": 663,
+        "bottom_right_y": 475,
+        "content": "Whom? This form has almost disappeared from spoken British English. It is found only in the most formal kind of writing. Foreign students need not learn it for their own use. It is not required in any of the interrogative exercises in this book if they are done orally.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999586003142825,
+          "minimum_content_confidence_score": 0.9993200160446428,
+          "block_type_confidence_score": 0.9999241886396754
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 478,
+        "bottom_right_x": 653,
+        "bottom_right_y": 579,
+        "content": "|  SUBJECT: | Who? | What? Which?  |\n| --- | --- | --- |\n|  OBJECT: | Who? (verb inversion) | What? Which?  |\n|  POSSESSIVE: | Whose? | What (which) . . . of?  |\n|  PREPOSITION: | Who . . . to? | What (which) . . . to?  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.987087026631444,
+          "minimum_content_confidence_score": 0.7978891878999492,
+          "block_type_confidence_score": 0.9014881788616782
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 371,
+        "top_left_y": 592,
+        "bottom_right_x": 474,
+        "bottom_right_y": 607,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998147331925427,
+          "minimum_content_confidence_score": 0.9958075363231409,
+          "block_type_confidence_score": 0.9999933243243502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 157,
+        "top_left_y": 617,
+        "bottom_right_x": 614,
+        "bottom_right_y": 640,
+        "content": "● Add the question-word to the following questions:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9954357866397748,
+          "minimum_content_confidence_score": 0.9636413738044836,
+          "block_type_confidence_score": 0.9878592095470424
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 641,
+        "bottom_right_x": 616,
+        "bottom_right_y": 993,
+        "content": "1 — left this bag here?\n2 — pencil is this? Is it yours?\n3 — are you doing tonight?\n4 — are we meeting this afternoon?\n5 — do you think of my photograph?\n6 — is your dressmaker?\n7 — shall we do tomorrow?\n8 — train shall we take, the 14.15 or the 15.30?\n9 — is singing in the next room?\n10 — does she want?\n11 — dress was she wearing?\n12 — hat blew away? Tom's?\n13 — would you like me to do?\n14 — threw that stone?\n15 — is your daughter going to marry?\n16 — of these cakes may I take?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999711798726889,
+          "minimum_content_confidence_score": 0.9981891581392838,
+          "block_type_confidence_score": 0.9999284795451163
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

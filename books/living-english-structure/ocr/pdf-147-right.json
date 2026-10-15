@@ -1,0 +1,226 @@
+{
+  "source": {
+    "id": "pdf-147-right",
+    "pdf_page": 147,
+    "side": "right",
+    "reading_order": 294
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:33.219064+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 5,
+    "markdown": "23 I know his parents will disapprove.\n24 It is probable that they will be able to dissuade him, don't you think?\n25 I'm sure they will try.\n\n# FAIRLY AND RATHER\n\n53.7\nElementary\nand\nIntermediate\n\nThe words *fairly* and *rather* are both used in English to express 'to a moderate degree', but foreign students frequently use the wrong one.\n\n*Fairly* is used when the speaker or writer wishes to affirm some positive or pleasant idea; *rather* is used when the idea is negative or unpleasant. Or we might say that *fairly* is a step TOWARDS an ideal, but *rather* is a step AWAY from it; or that *fairly* is half-way to *enough*, whereas *rather* is half-way to *too*. (See Exercises 38.3 and 38.4.)\n\nSo we say a person is '*fairly well*' because *well* is an ideal we strive for; but a person is '*rather ill*' because illness is an undesirable state to achieve.\n\nTo say 'Mary is rather tall for her age' suggests she is on the way to being 'too tall'. She is taller than we should like, she is ungainly, or she is outgrowing her strength. To say 'Mary is fairly tall for her age' expresses a plain fact, something more pleasant than otherwise. The 'tallness' here is an ideal we approve of.\n\nTo sum up:\n\n*Fairly* is used with a positive or pleasant idea; i.e. we approve of the ideal we are approaching.\n\n*Rather* is used with a negative or unpleasant idea; i.e. we disapprove of the 'ideal' we are approaching.\n\n* * *\n\n● Put either *fairly* or *rather* in the blank spaces:\n1 I hope this exercise will be — easy.\n2 Well, I'm afraid it will be — difficult.\n3 Let's go by bus; it's a — uninteresting walk.\n4 I'm afraid the soup is — cold.\n5 Your homework was — good this week.\n6 The room looks — clean.\n7 He has a — bad cold.\n8 The food was — badly cooked.\n9 Your hands look — dirty.\n10 We had a — enjoyable holiday, thank you.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "53 Miscellaneous Exercises\n283",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1021,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9770266735812957,
+      "minimum_page_confidence_score": 0.23773137544347667
+    },
+    "blocks": [
+      {
+        "top_left_x": 143,
+        "top_left_y": 22,
+        "bottom_right_x": 383,
+        "bottom_right_y": 42,
+        "content": "53 Miscellaneous Exercises",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988995993160832,
+          "minimum_content_confidence_score": 0.996738970230284,
+          "block_type_confidence_score": 0.9999946081181529
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 635,
+        "top_left_y": 22,
+        "bottom_right_x": 669,
+        "bottom_right_y": 41,
+        "content": "283",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999524377560001,
+          "minimum_content_confidence_score": 0.9999524377560001,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 141,
+        "top_left_y": 79,
+        "bottom_right_x": 630,
+        "bottom_right_y": 170,
+        "content": "23 I know his parents will disapprove.\n24 It is probable that they will be able to dissuade him, don't you think?\n25 I'm sure they will try.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985161424400636,
+          "minimum_content_confidence_score": 0.9614889867402293,
+          "block_type_confidence_score": 0.9579051295431313
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 199,
+        "bottom_right_x": 408,
+        "bottom_right_y": 221,
+        "content": "# FAIRLY AND RATHER",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9385019016480028,
+          "minimum_content_confidence_score": 0.754899443649556,
+          "block_type_confidence_score": 0.9147860283769935
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 49,
+        "top_left_y": 240,
+        "bottom_right_x": 157,
+        "bottom_right_y": 323,
+        "content": "53.7\nElementary\nand\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9509765745047504,
+          "minimum_content_confidence_score": 0.7524541493936396,
+          "block_type_confidence_score": 0.5253460470566342
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 240,
+        "bottom_right_x": 670,
+        "bottom_right_y": 304,
+        "content": "The words *fairly* and *rather* are both used in English to express 'to a moderate degree', but foreign students frequently use the wrong one.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992391332393428,
+          "minimum_content_confidence_score": 0.9822793984211274,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 304,
+        "bottom_right_x": 670,
+        "bottom_right_y": 426,
+        "content": "*Fairly* is used when the speaker or writer wishes to affirm some positive or pleasant idea; *rather* is used when the idea is negative or unpleasant. Or we might say that *fairly* is a step TOWARDS an ideal, but *rather* is a step AWAY from it; or that *fairly* is half-way to *enough*, whereas *rather* is half-way to *too*. (See Exercises 38.3 and 38.4.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993290458071185,
+          "minimum_content_confidence_score": 0.9688004384353596,
+          "block_type_confidence_score": 0.9999947548186582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 426,
+        "bottom_right_x": 670,
+        "bottom_right_y": 488,
+        "content": "So we say a person is '*fairly well*' because *well* is an ideal we strive for; but a person is '*rather ill*' because illness is an undesirable state to achieve.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9882164424583963,
+          "minimum_content_confidence_score": 0.7112535740383346,
+          "block_type_confidence_score": 0.9999982118638471
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 488,
+        "bottom_right_x": 670,
+        "bottom_right_y": 611,
+        "content": "To say 'Mary is rather tall for her age' suggests she is on the way to being 'too tall'. She is taller than we should like, she is ungainly, or she is outgrowing her strength. To say 'Mary is fairly tall for her age' expresses a plain fact, something more pleasant than otherwise. The 'tallness' here is an ideal we approve of.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996192149808977,
+          "minimum_content_confidence_score": 0.9886512527481351,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 611,
+        "bottom_right_x": 285,
+        "bottom_right_y": 632,
+        "content": "To sum up:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999976257575276,
+          "minimum_content_confidence_score": 0.9999971687974996,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 634,
+        "bottom_right_x": 670,
+        "bottom_right_y": 677,
+        "content": "*Fairly* is used with a positive or pleasant idea; i.e. we approve of the ideal we are approaching.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999947834183302,
+          "minimum_content_confidence_score": 0.9995489173102586,
+          "block_type_confidence_score": 0.9996862204234057
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 200,
+        "top_left_y": 677,
+        "bottom_right_x": 668,
+        "bottom_right_y": 717,
+        "content": "*Rather* is used with a negative or unpleasant idea; i.e. we disapprove of the 'ideal' we are approaching.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999978876616437,
+          "minimum_content_confidence_score": 0.9997441165291058,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 367,
+        "top_left_y": 732,
+        "bottom_right_x": 474,
+        "bottom_right_y": 745,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956847697642198,
+          "minimum_content_confidence_score": 0.9874190875241524,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 143,
+        "top_left_y": 757,
+        "bottom_right_x": 604,
+        "bottom_right_y": 1006,
+        "content": "● Put either *fairly* or *rather* in the blank spaces:\n1 I hope this exercise will be — easy.\n2 Well, I'm afraid it will be — difficult.\n3 Let's go by bus; it's a — uninteresting walk.\n4 I'm afraid the soup is — cold.\n5 Your homework was — good this week.\n6 The room looks — clean.\n7 He has a — bad cold.\n8 The food was — badly cooked.\n9 Your hands look — dirty.\n10 We had a — enjoyable holiday, thank you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996284671982131,
+          "minimum_content_confidence_score": 0.9730234075304013,
+          "block_type_confidence_score": 0.9999080980810519
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

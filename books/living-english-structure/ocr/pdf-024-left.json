@@ -1,0 +1,304 @@
+{
+  "source": {
+    "id": "pdf-024-left",
+    "pdf_page": 24,
+    "side": "left",
+    "reading_order": 47
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.173494+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "- 4 My sister doesn't have to go to work.\n- 5 The children won't need to get up so early.\n- 6 They haven't got to go back alone, have they?\n- 7 She needn't cook them all.\n- 8 I must go at once, but you needn't.\n- 9 They must pay twice, but we shan't have to.\n- 10 You haven't got to answer all the questions.\n- 11 You don't need to carry so much.\n- 12 So I shan't have to go out after all.\n- 13 He won't have to come on foot, will he?\n- 14 We needn't listen to them.\n- 15 The students don't have to write in ink.\n- 16 They won't have to read the whole book, will they?\n- 17 She doesn't have to come every week.\n- 18 I shan't have to buy another one.\n- 19 We don't need to call him 'Sir'.\n- 20 She won't have to walk the whole way, will she?\n\n### 16.3\n\n**Elementary and Intermediate MUST AND HAVE TO**\n\nSee Exercises 16.1 and 16.2.\n\nThere is usually a difference of meaning between the present tense forms *must* and *have to* in affirmative statements:\n\n*Must* expresses obligation or compulsion FROM THE SPEAKER'S VIEWPOINT.\n\n*Have to* expresses EXTERNAL obligation.\n\nCompare the following pairs of situations, where these two forms are used in their natural context.\n\nYou must go now. (I want to go to bed.)\n\nWhat a pity you have to go now. (It's time for you to catch your train.)\n\nWe must begin before five (or we shan't finish in time for our supper).\n\nWe have to begin before five. (That's the time arranged.)\n\nThey must take it away. (I won't have it here any longer.)\n\nThey have to take it away. (They've been told to do so.)\n\nHe must stay the night. (I (we) press him to do so.)\n\nHe has to stay the night. (He can't get back tonight.)\n\nHe must move the furniture himself (for all I care; I shan't help him).\n\nHe has to move the furniture himself (poor chap; he's got no one to help him).",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "36\n16^{}[] *must, have to, need*",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9800965196893356,
+      "minimum_page_confidence_score": 0.2428085697253006
+    },
+    "blocks": [
+      {
+        "top_left_x": 27,
+        "top_left_y": 16,
+        "bottom_right_x": 51,
+        "bottom_right_y": 34,
+        "content": "36",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994908780390094,
+          "minimum_content_confidence_score": 0.9994908780390094,
+          "block_type_confidence_score": 0.9999962586844076
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 16,
+        "bottom_right_x": 307,
+        "bottom_right_y": 36,
+        "content": "16^{}[] *must, have to, need*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9699758591797882,
+          "minimum_content_confidence_score": 0.8654325559014189,
+          "block_type_confidence_score": 0.999600205183142
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 117,
+        "top_left_y": 71,
+        "bottom_right_x": 613,
+        "bottom_right_y": 442,
+        "content": "- 4 My sister doesn't have to go to work.\n- 5 The children won't need to get up so early.\n- 6 They haven't got to go back alone, have they?\n- 7 She needn't cook them all.\n- 8 I must go at once, but you needn't.\n- 9 They must pay twice, but we shan't have to.\n- 10 You haven't got to answer all the questions.\n- 11 You don't need to carry so much.\n- 12 So I shan't have to go out after all.\n- 13 He won't have to come on foot, will he?\n- 14 We needn't listen to them.\n- 15 The students don't have to write in ink.\n- 16 They won't have to read the whole book, will they?\n- 17 She doesn't have to come every week.\n- 18 I shan't have to buy another one.\n- 19 We don't need to call him 'Sir'.\n- 20 She won't have to walk the whole way, will she?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980771242210619,
+          "minimum_content_confidence_score": 0.6791351390367815,
+          "block_type_confidence_score": 0.9989671656861249
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 460,
+        "bottom_right_x": 69,
+        "bottom_right_y": 480,
+        "content": "### 16.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9810863180161097,
+          "minimum_content_confidence_score": 0.9625934260278064,
+          "block_type_confidence_score": 0.9971831734988938
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 481,
+        "bottom_right_x": 130,
+        "bottom_right_y": 576,
+        "content": "**Elementary and Intermediate MUST AND HAVE TO**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9439988409678024,
+          "minimum_content_confidence_score": 0.8087203553507137,
+          "block_type_confidence_score": 0.62242805412317
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 460,
+        "bottom_right_x": 378,
+        "bottom_right_y": 481,
+        "content": "See Exercises 16.1 and 16.2.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992432505925247,
+          "minimum_content_confidence_score": 0.99639764449754,
+          "block_type_confidence_score": 0.9971845960349089
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 481,
+        "bottom_right_x": 613,
+        "bottom_right_y": 540,
+        "content": "There is usually a difference of meaning between the present tense forms *must* and *have to* in affirmative statements:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9982129984484513,
+          "minimum_content_confidence_score": 0.9718155870279434,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 171,
+        "top_left_y": 545,
+        "bottom_right_x": 613,
+        "bottom_right_y": 584,
+        "content": "*Must* expresses obligation or compulsion FROM THE SPEAKER'S VIEWPOINT.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960285506560145,
+          "minimum_content_confidence_score": 0.9835067837130004,
+          "block_type_confidence_score": 0.9999833109787883
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 171,
+        "top_left_y": 584,
+        "bottom_right_x": 488,
+        "bottom_right_y": 605,
+        "content": "*Have to* expresses EXTERNAL obligation.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985813836046343,
+          "minimum_content_confidence_score": 0.9935041015487858,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 613,
+        "bottom_right_x": 613,
+        "bottom_right_y": 654,
+        "content": "Compare the following pairs of situations, where these two forms are used in their natural context.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999849522320251,
+          "minimum_content_confidence_score": 0.999896417854762,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 658,
+        "bottom_right_x": 522,
+        "bottom_right_y": 679,
+        "content": "You must go now. (I want to go to bed.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999073353131932,
+          "minimum_content_confidence_score": 0.9995891352569899,
+          "block_type_confidence_score": 0.9999749666753994
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 679,
+        "bottom_right_x": 613,
+        "bottom_right_y": 718,
+        "content": "What a pity you have to go now. (It's time for you to catch your train.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993877522957397,
+          "minimum_content_confidence_score": 0.9912607216710612,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 718,
+        "bottom_right_x": 613,
+        "bottom_right_y": 758,
+        "content": "We must begin before five (or we shan't finish in time for our supper).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998989162291674,
+          "minimum_content_confidence_score": 0.999249438360713,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 758,
+        "bottom_right_x": 613,
+        "bottom_right_y": 797,
+        "content": "We have to begin before five. (That's the time arranged.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999308121893641,
+          "minimum_content_confidence_score": 0.9993842262280402,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 797,
+        "bottom_right_x": 613,
+        "bottom_right_y": 836,
+        "content": "They must take it away. (I won't have it here any longer.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999496523129476,
+          "minimum_content_confidence_score": 0.9998115656225447,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 836,
+        "bottom_right_x": 613,
+        "bottom_right_y": 858,
+        "content": "They have to take it away. (They've been told to do so.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999714829582006,
+          "minimum_content_confidence_score": 0.9998844374775105,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 858,
+        "bottom_right_x": 613,
+        "bottom_right_y": 878,
+        "content": "He must stay the night. (I (we) press him to do so.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997938025134112,
+          "minimum_content_confidence_score": 0.9979220929903463,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 878,
+        "bottom_right_x": 613,
+        "bottom_right_y": 898,
+        "content": "He has to stay the night. (He can't get back tonight.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999678504110961,
+          "minimum_content_confidence_score": 0.9998289884572052,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 898,
+        "bottom_right_x": 613,
+        "bottom_right_y": 936,
+        "content": "He must move the furniture himself (for all I care; I shan't help him).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999118174669794,
+          "minimum_content_confidence_score": 0.9990841204225095,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 936,
+        "bottom_right_x": 613,
+        "bottom_right_y": 976,
+        "content": "He has to move the furniture himself (poor chap; he's got no one to help him).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999610415601788,
+          "minimum_content_confidence_score": 0.9996685888426051,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

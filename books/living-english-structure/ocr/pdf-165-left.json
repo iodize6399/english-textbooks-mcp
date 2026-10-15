@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "pdf-165-left",
+    "pdf_page": 165,
+    "side": "left",
+    "reading_order": 329
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:45.953389+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "*afraid of, grateful (thankful) for, anxious for.* Many of them can be logically analysed as adverb clauses; e.g. the last two examples above could equally well be called clauses of reason, clauses answering the question *Why?*\n\nA few prepositions may still be used before the conjunction *that*, the most usual being *except* and *in*.\n\nI forgot everything except that I wanted to go home.\nHe takes after his father in that he is fond of music.\n(RATHER FORMAL)\n\nIn this last sentence *in that* might be considered as a conjunction introducing an adverb clause of manner, a clause answering the question *How?* (See under ADVERB CLAUSES, D.)\n\nNote the expression *I don't care (for)*, which has two meanings:\n\nI don't care for what she does. (*I don't like*)\nI don't care what she does. (*I'm indifferent*)\n\n(2) Use an introductory *it*, *this* or *the fact* before the conjunction *that*.\n\nYou can depend on it that he won't be pleased.\nI'll see to it that you get home all right.\nIt all amounts to this, that you have been cheated.\nWe must allow for the fact that she doesn't hear well.\n\nNOUN CLAUSE AS SUBJECT\n\nThat he has gone for good is now quite certain.\nWhat you want is a cup of tea.\n(*A cup of tea is what you want.*)\nWhoever finishes first gets a prize.\n\nThe first type above is better expressed with an introductory *it*: *It is now quite certain that . . .*\n\n* * *\n\n58.1 ● Say these sentences in a more natural way, using *it* as the first word.\n\n1 That you are late is a pity.\n2 How useful these sentences are is quite clear.\n3 That you have come early is a good thing.\n4 That you lost your way is unfortunate.\n5 Whether he will come at all is doubtful.\n6 Where he went or where he came from is still not known.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "318\n58 Appendix on Clauses",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9724467597013448,
+      "minimum_page_confidence_score": 0.23738735285339582
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 8,
+        "bottom_right_x": 55,
+        "bottom_right_y": 27,
+        "content": "318",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997791539655488,
+          "minimum_content_confidence_score": 0.9997791539655488,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 8,
+        "bottom_right_x": 316,
+        "bottom_right_y": 29,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995078289278687,
+          "minimum_content_confidence_score": 0.9987483213821852,
+          "block_type_confidence_score": 0.9999601132559475
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 64,
+        "bottom_right_x": 608,
+        "bottom_right_y": 145,
+        "content": "*afraid of, grateful (thankful) for, anxious for.* Many of them can be logically analysed as adverb clauses; e.g. the last two examples above could equally well be called clauses of reason, clauses answering the question *Why?*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9965512039077251,
+          "minimum_content_confidence_score": 0.9401769853615318,
+          "block_type_confidence_score": 0.9999880792130387
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 144,
+        "bottom_right_x": 608,
+        "bottom_right_y": 185,
+        "content": "A few prepositions may still be used before the conjunction *that*, the most usual being *except* and *in*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993226055144915,
+          "minimum_content_confidence_score": 0.9940985758542432,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 187,
+        "bottom_right_x": 607,
+        "bottom_right_y": 247,
+        "content": "I forgot everything except that I wanted to go home.\nHe takes after his father in that he is fond of music.\n(RATHER FORMAL)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9895278804281145,
+          "minimum_content_confidence_score": 0.775013064988099,
+          "block_type_confidence_score": 0.9930465735909767
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 258,
+        "bottom_right_x": 607,
+        "bottom_right_y": 337,
+        "content": "In this last sentence *in that* might be considered as a conjunction introducing an adverb clause of manner, a clause answering the question *How?* (See under ADVERB CLAUSES, D.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998828007048118,
+          "minimum_content_confidence_score": 0.9763707054257744,
+          "block_type_confidence_score": 0.9999911785905904
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 337,
+        "bottom_right_x": 608,
+        "bottom_right_y": 377,
+        "content": "Note the expression *I don't care (for)*, which has two meanings:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9977546137027139,
+          "minimum_content_confidence_score": 0.9782630831855915,
+          "block_type_confidence_score": 0.9999920130413283
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 380,
+        "bottom_right_x": 576,
+        "bottom_right_y": 422,
+        "content": "I don't care for what she does. (*I don't like*)\nI don't care what she does. (*I'm indifferent*)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9851231627446675,
+          "minimum_content_confidence_score": 0.7186691687848682,
+          "block_type_confidence_score": 0.9698711942840644
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 430,
+        "bottom_right_x": 607,
+        "bottom_right_y": 470,
+        "content": "(2) Use an introductory *it*, *this* or *the fact* before the conjunction *that*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.993997803818652,
+          "minimum_content_confidence_score": 0.9474608043533644,
+          "block_type_confidence_score": 0.991415329694521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 474,
+        "bottom_right_x": 607,
+        "bottom_right_y": 555,
+        "content": "You can depend on it that he won't be pleased.\nI'll see to it that you get home all right.\nIt all amounts to this, that you have been cheated.\nWe must allow for the fact that she doesn't hear well.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998860255764176,
+          "minimum_content_confidence_score": 0.9977712347812192,
+          "block_type_confidence_score": 0.9964020235863598
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 566,
+        "bottom_right_x": 347,
+        "bottom_right_y": 583,
+        "content": "NOUN CLAUSE AS SUBJECT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9370909849079725,
+          "minimum_content_confidence_score": 0.7539693523939452,
+          "block_type_confidence_score": 0.8500565521832096
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 587,
+        "bottom_right_x": 570,
+        "bottom_right_y": 668,
+        "content": "That he has gone for good is now quite certain.\nWhat you want is a cup of tea.\n(*A cup of tea is what you want.*)\nWhoever finishes first gets a prize.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990767841178942,
+          "minimum_content_confidence_score": 0.9881904827168968,
+          "block_type_confidence_score": 0.998064100635269
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 677,
+        "bottom_right_x": 608,
+        "bottom_right_y": 718,
+        "content": "The first type above is better expressed with an introductory *it*: *It is now quite certain that . . .*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9932719725451831,
+          "minimum_content_confidence_score": 0.891858038309815,
+          "block_type_confidence_score": 0.9999443323610593
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 327,
+        "top_left_y": 732,
+        "bottom_right_x": 428,
+        "bottom_right_y": 745,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970451471602307,
+          "minimum_content_confidence_score": 0.9931823707160808,
+          "block_type_confidence_score": 0.9999787811971367
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 22,
+        "top_left_y": 756,
+        "bottom_right_x": 608,
+        "bottom_right_y": 797,
+        "content": "58.1 ● Say these sentences in a more natural way, using *it* as the first word.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9867219861001644,
+          "minimum_content_confidence_score": 0.7895348522183667,
+          "block_type_confidence_score": 0.9528165098846535
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 120,
+        "top_left_y": 801,
+        "bottom_right_x": 594,
+        "bottom_right_y": 953,
+        "content": "1 That you are late is a pity.\n2 How useful these sentences are is quite clear.\n3 That you have come early is a good thing.\n4 That you lost your way is unfortunate.\n5 Whether he will come at all is doubtful.\n6 Where he went or where he came from is still not known.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999470036893506,
+          "minimum_content_confidence_score": 0.9694355256065175,
+          "block_type_confidence_score": 0.9947468886501284
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

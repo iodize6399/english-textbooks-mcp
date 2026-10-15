@@ -1,0 +1,291 @@
+{
+  "source": {
+    "id": "pdf-124-right",
+    "pdf_page": 124,
+    "side": "right",
+    "reading_order": 248
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:27.117367+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "## 48 Emphatic Connectives\n\n### 48.1 Intermediate and Advanced\n\n*Who, what, which, whose, when, where, how + ever.* They are all written as single words, *whoever, whatever*, etc. and usually pronounced with stress on the first syllable of *ever*. Note that *whoever's* is usually preferred to *whoseever*. There are two main uses in modern English.\n\n(1) IN THE SENSE 'it doesn't matter who, which, when', etc.\n\nWhoever says that is a liar.\n\nI'll sell it to whoever arrives first.\n\nEat whatever you like.*\n\nI'll do whatever you tell me to.*\n\nWe were warmly welcomed wherever we went.\n\nWe shall be pleased to see you whenever you care to call.\n\nLearn whichever poem you find most interesting.\n\nThe three of them agreed that whichever (whoever) arrived first should save seats for the other two.\n\nThe simple pronoun *what* can usually replace *whatever* (as in the examples marked *); *who* and *which* are no longer used in this way in modern English.\n\n(2) PARENTHETICALLY (suggesting ignorance or indifference).\n\nI'll give the pen back to John or Henry, or whoever it belongs to.\n\nI'll come at 10 or 10.30, or whenever I can get there.\n\n\\* \\* \\*\n\n● Add the appropriate *ever* form to the following:\n\n1. 1 — one of us has got to pay for it, it won't be me.\n2. 2 Take — much you want and — you want to.\n3. 3 — smashed my glasses shall pay for them, — he's hidden himself.\n4. 4 Take this bag, basket or — it is, and hang it up — you can find room for it.\n5. 5 — I stay in Brighton, or — else I stay on the south coast, I'm sure to meet that school-teacher fellow Robinson or Robertson or — his name is.\n6. 6 — quickly I dry myself after a bath, I always",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 37,
+      "height": 1001,
+      "width": 719
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.974205911429655,
+      "minimum_page_confidence_score": 0.26302452796472126
+    },
+    "blocks": [
+      {
+        "top_left_x": 126,
+        "top_left_y": 61,
+        "bottom_right_x": 438,
+        "bottom_right_y": 92,
+        "content": "## 48 Emphatic Connectives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993088809577363,
+          "minimum_content_confidence_score": 0.9988168575074353,
+          "block_type_confidence_score": 0.9464524775140751
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 41,
+        "top_left_y": 146,
+        "bottom_right_x": 150,
+        "bottom_right_y": 230,
+        "content": "### 48.1 Intermediate and Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9858989026767011,
+          "minimum_content_confidence_score": 0.9334138519666875,
+          "block_type_confidence_score": 0.5542131891948887
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 146,
+        "bottom_right_x": 676,
+        "bottom_right_y": 253,
+        "content": "*Who, what, which, whose, when, where, how + ever.* They are all written as single words, *whoever, whatever*, etc. and usually pronounced with stress on the first syllable of *ever*. Note that *whoever's* is usually preferred to *whoseever*. There are two main uses in modern English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9937894520868348,
+          "minimum_content_confidence_score": 0.8804289246988186,
+          "block_type_confidence_score": 0.9999827149515604
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 253,
+        "bottom_right_x": 676,
+        "bottom_right_y": 275,
+        "content": "(1) IN THE SENSE 'it doesn't matter who, which, when', etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9962216740853648,
+          "minimum_content_confidence_score": 0.9749346050873755,
+          "block_type_confidence_score": 0.8174295170287305
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 278,
+        "bottom_right_x": 453,
+        "bottom_right_y": 299,
+        "content": "Whoever says that is a liar.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999792943993074,
+          "minimum_content_confidence_score": 0.999957920890168,
+          "block_type_confidence_score": 0.9978063648808287
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 299,
+        "bottom_right_x": 505,
+        "bottom_right_y": 319,
+        "content": "I'll sell it to whoever arrives first.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999759300255001,
+          "minimum_content_confidence_score": 0.999098994280071,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 319,
+        "bottom_right_x": 421,
+        "bottom_right_y": 341,
+        "content": "Eat whatever you like.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9970619658518259,
+          "minimum_content_confidence_score": 0.9886091389919992,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 341,
+        "bottom_right_x": 495,
+        "bottom_right_y": 361,
+        "content": "I'll do whatever you tell me to.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999313410348922,
+          "minimum_content_confidence_score": 0.9995735661541668,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 361,
+        "bottom_right_x": 623,
+        "bottom_right_y": 382,
+        "content": "We were warmly welcomed wherever we went.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999600902070129,
+          "minimum_content_confidence_score": 0.9998997550400364,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 382,
+        "bottom_right_x": 677,
+        "bottom_right_y": 423,
+        "content": "We shall be pleased to see you whenever you care to call.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999423179111914,
+          "minimum_content_confidence_score": 0.9994546766033886,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 423,
+        "bottom_right_x": 645,
+        "bottom_right_y": 445,
+        "content": "Learn whichever poem you find most interesting.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999966890375697,
+          "minimum_content_confidence_score": 0.9999219241757553,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 445,
+        "bottom_right_x": 677,
+        "bottom_right_y": 486,
+        "content": "The three of them agreed that whichever (whoever) arrived first should save seats for the other two.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9980906808183443,
+          "minimum_content_confidence_score": 0.9680293404095065,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 497,
+        "bottom_right_x": 677,
+        "bottom_right_y": 560,
+        "content": "The simple pronoun *what* can usually replace *whatever* (as in the examples marked *); *who* and *which* are no longer used in this way in modern English.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998709454651375,
+          "minimum_content_confidence_score": 0.9673635608366016,
+          "block_type_confidence_score": 0.9999719866022398
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 177,
+        "top_left_y": 560,
+        "bottom_right_x": 677,
+        "bottom_right_y": 602,
+        "content": "(2) PARENTHETICALLY (suggesting ignorance or indifference).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998644762113506,
+          "minimum_content_confidence_score": 0.9997339227047974,
+          "block_type_confidence_score": 0.999894987645265
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 604,
+        "bottom_right_x": 677,
+        "bottom_right_y": 647,
+        "content": "I'll give the pen back to John or Henry, or whoever it belongs to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998656817000693,
+          "minimum_content_confidence_score": 0.9985635287531147,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 216,
+        "top_left_y": 647,
+        "bottom_right_x": 677,
+        "bottom_right_y": 669,
+        "content": "I'll come at 10 or 10.30, or whenever I can get there.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999388374968543,
+          "minimum_content_confidence_score": 0.9993777573272967,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 369,
+        "top_left_y": 684,
+        "bottom_right_x": 479,
+        "bottom_right_y": 697,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9090085668310365,
+          "minimum_content_confidence_score": 0.7273427877112961,
+          "block_type_confidence_score": 0.9999928474936721
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 710,
+        "bottom_right_x": 595,
+        "bottom_right_y": 732,
+        "content": "● Add the appropriate *ever* form to the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990904224698222,
+          "minimum_content_confidence_score": 0.9947707171843415,
+          "block_type_confidence_score": 0.9875317263331573
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 734,
+        "bottom_right_x": 677,
+        "bottom_right_y": 966,
+        "content": "1. 1 — one of us has got to pay for it, it won't be me.\n2. 2 Take — much you want and — you want to.\n3. 3 — smashed my glasses shall pay for them, — he's hidden himself.\n4. 4 Take this bag, basket or — it is, and hang it up — you can find room for it.\n5. 5 — I stay in Brighton, or — else I stay on the south coast, I'm sure to meet that school-teacher fellow Robinson or Robertson or — his name is.\n6. 6 — quickly I dry myself after a bath, I always",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989623719069429,
+          "minimum_content_confidence_score": 0.9181359559857604,
+          "block_type_confidence_score": 0.9999325320955504
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

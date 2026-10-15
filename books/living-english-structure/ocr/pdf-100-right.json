@@ -1,0 +1,278 @@
+{
+  "source": {
+    "id": "pdf-100-right",
+    "pdf_page": 100,
+    "side": "right",
+    "reading_order": 200
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:19.948992+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "*opportunity.* The two usual constructions are:\n\n(1) *to have the (an) opportunity of* (with GERUND).\n\n(2) (There will) *be an opportunity to* (with INFINITIVE).\n\nConstruction (2) is nearly always introduced with some part of the verb *be*, and means 'a convenient time'.\n\nYou'll have an opportunity of meeting him later.\n\nIt'll be a good opportunity (for us) to ask for more books.\n\nLast year I had the opportunity of going to London.\n\nLet's hope there'll be an opportunity for you to go, too, one day.\n\n*occasion.* Always with INFINITIVE: *to have occasion to.* The meaning is 'to have a reason for doing' or 'to find it necessary to do'.\n\nI had occasion to go to London last year. (business reason)\n\nI hope I shan't have occasion to punish you. (need to)\n\nCompare:\n\nIf I have an opportunity of speaking to him, I'll give him your message. (meet him by some chance)\n\nIf I (ever) have occasion to speak . . . (if there is some reason why I must speak to him)\n\n\\* \\* \\*\n\n(40.1) ● Put the verbs between brackets into their correct form (notice any alternatives that might give a different meaning):1. 1 I had to ask the boys (stop) (play).\n2. 2 Don't start (try) (learn) geometry before you have finished (learn) (do) simple things in arithmetic.\n3. 3 We can't consider (buy) a new house before (sell) the old one.\n4. 4 Please don't talk of (go) before (see) my album.\n5. 5 If you can't unscrew the lid, try (hit) it with a hammer.\n6. 6 I saw him (sit) in the park on the way home, and heard him (tell) his friend not to be late.\n7. 7 I don't want (you, mention) (I, arrive) late.\n8. 8 I appreciate (you, want) (help) my friend, but it's time he learnt (practise) (do) his work alone.\n9. 9 I have decided (allow) Maisie (do) as she pleases.\n10. 10 I can't understand (he, want) (marry) a girl like that.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "40 Infinitive and Gerund\n189",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1024,
+      "width": 678
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9782854765972196,
+      "minimum_page_confidence_score": 0.20900167802966968
+    },
+    "blocks": [
+      {
+        "top_left_x": 143,
+        "top_left_y": 13,
+        "bottom_right_x": 354,
+        "bottom_right_y": 33,
+        "content": "40 Infinitive and Gerund",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967640264028121,
+          "minimum_content_confidence_score": 0.9872556390109021,
+          "block_type_confidence_score": 0.9999827242962471
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 622,
+        "top_left_y": 15,
+        "bottom_right_x": 656,
+        "bottom_right_y": 33,
+        "content": "189",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999246654044206,
+          "minimum_content_confidence_score": 0.9999246654044206,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 69,
+        "bottom_right_x": 594,
+        "bottom_right_y": 91,
+        "content": "*opportunity.* The two usual constructions are:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9913341041812286,
+          "minimum_content_confidence_score": 0.9485072896390074,
+          "block_type_confidence_score": 0.9997440039895299
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 89,
+        "bottom_right_x": 601,
+        "bottom_right_y": 111,
+        "content": "(1) *to have the (an) opportunity of* (with GERUND).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9850936885706955,
+          "minimum_content_confidence_score": 0.8892369535966684,
+          "block_type_confidence_score": 0.962662246261433
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 109,
+        "bottom_right_x": 636,
+        "bottom_right_y": 130,
+        "content": "(2) (There will) *be an opportunity to* (with INFINITIVE).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972197156737624,
+          "minimum_content_confidence_score": 0.9924689248996192,
+          "block_type_confidence_score": 0.9999909401759619
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 129,
+        "bottom_right_x": 656,
+        "bottom_right_y": 170,
+        "content": "Construction (2) is nearly always introduced with some part of the verb *be*, and means 'a convenient time'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9940145252279662,
+          "minimum_content_confidence_score": 0.8983341642114193,
+          "block_type_confidence_score": 0.9999964237340748
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 172,
+        "bottom_right_x": 627,
+        "bottom_right_y": 194,
+        "content": "You'll have an opportunity of meeting him later.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998886433811816,
+          "minimum_content_confidence_score": 0.9995316660236266,
+          "block_type_confidence_score": 0.999957563295601
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 193,
+        "bottom_right_x": 656,
+        "bottom_right_y": 232,
+        "content": "It'll be a good opportunity (for us) to ask for more books.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998526298602296,
+          "minimum_content_confidence_score": 0.9993942054559474,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 232,
+        "bottom_right_x": 656,
+        "bottom_right_y": 253,
+        "content": "Last year I had the opportunity of going to London.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99998589792454,
+          "minimum_content_confidence_score": 0.9999610200823912,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 252,
+        "bottom_right_x": 656,
+        "bottom_right_y": 292,
+        "content": "Let's hope there'll be an opportunity for you to go, too, one day.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999473425681489,
+          "minimum_content_confidence_score": 0.9995862333341707,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 301,
+        "bottom_right_x": 656,
+        "bottom_right_y": 362,
+        "content": "*occasion.* Always with INFINITIVE: *to have occasion to.* The meaning is 'to have a reason for doing' or 'to find it necessary to do'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9902848482962124,
+          "minimum_content_confidence_score": 0.7926994773118712,
+          "block_type_confidence_score": 0.9999825957461574
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 364,
+        "bottom_right_x": 656,
+        "bottom_right_y": 405,
+        "content": "I had occasion to go to London last year. (business reason)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999008045534628,
+          "minimum_content_confidence_score": 0.9995163635100648,
+          "block_type_confidence_score": 0.9999864103261001
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 405,
+        "bottom_right_x": 656,
+        "bottom_right_y": 426,
+        "content": "I hope I shan't have occasion to punish you. (need to)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998051708830854,
+          "minimum_content_confidence_score": 0.99807060301764,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 434,
+        "bottom_right_x": 267,
+        "bottom_right_y": 454,
+        "content": "Compare:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999352309226593,
+          "minimum_content_confidence_score": 0.9999352309226593,
+          "block_type_confidence_score": 0.9995096942696848
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 457,
+        "bottom_right_x": 656,
+        "bottom_right_y": 499,
+        "content": "If I have an opportunity of speaking to him, I'll give him your message. (meet him by some chance)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999794336236407,
+          "minimum_content_confidence_score": 0.9999160837028892,
+          "block_type_confidence_score": 0.9999833109787883
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 497,
+        "bottom_right_x": 656,
+        "bottom_right_y": 538,
+        "content": "If I (ever) have occasion to speak . . . (if there is some reason why I must speak to him)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999500836921535,
+          "minimum_content_confidence_score": 0.990967937239611,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 361,
+        "top_left_y": 551,
+        "bottom_right_x": 467,
+        "bottom_right_y": 566,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9930898920655498,
+          "minimum_content_confidence_score": 0.9799527726718731,
+          "block_type_confidence_score": 0.9999905825550351
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 53,
+        "top_left_y": 576,
+        "bottom_right_x": 656,
+        "bottom_right_y": 987,
+        "content": "(40.1) ● Put the verbs between brackets into their correct form (notice any alternatives that might give a different meaning):1. 1 I had to ask the boys (stop) (play).\n2. 2 Don't start (try) (learn) geometry before you have finished (learn) (do) simple things in arithmetic.\n3. 3 We can't consider (buy) a new house before (sell) the old one.\n4. 4 Please don't talk of (go) before (see) my album.\n5. 5 If you can't unscrew the lid, try (hit) it with a hammer.\n6. 6 I saw him (sit) in the park on the way home, and heard him (tell) his friend not to be late.\n7. 7 I don't want (you, mention) (I, arrive) late.\n8. 8 I appreciate (you, want) (help) my friend, but it's time he learnt (practise) (do) his work alone.\n9. 9 I have decided (allow) Maisie (do) as she pleases.\n10. 10 I can't understand (he, want) (marry) a girl like that.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991814953740328,
+          "minimum_content_confidence_score": 0.9513321372059586,
+          "block_type_confidence_score": 0.9928916572077101
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

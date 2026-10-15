@@ -1,0 +1,291 @@
+{
+  "source": {
+    "id": "pdf-039-left",
+    "pdf_page": 39,
+    "side": "left",
+    "reading_order": 77
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "(21.1)\n\n- Is X, are you, am I, are we writing, reading, standing, sitting, smoking, singing, walking to the door, shutting the window, opening a book, talking, folding or cutting paper, taking or putting something, touching the wall, holding something? (and so on with any other verbs known to the students).\n\n21.2\n\nElementary\n\nBOOKS SHUT:\n\n\\* \\* \\*\n\n- Stand up X. What are you (is he) doing? The same with:\n\nWalk to the door, take Miss Y out of the room, eat a sweet, count the students, leave the room, stand on a chair, read from a book, write on the board, fetch a piece of chalk, bring me a pencil, go into the corner, cut some paper (and so on with any other verbs known).\n\nFor difference between PRESENT SIMPLE and PRESENT CONTINUOUS see Exercises 21.7–9.\n\n21.3\n\nElementary\n\nPRESENT SIMPLE. This tense occurs in speech far less frequently than the Present Continuous. It doesn't really describe PRESENT action, but something permanent or habitual.\n\nQuestion-word *when?* cannot be used with PRESENT CONTINUOUS tense, except when this tense is used to express immediate future.\n\nDRILL. BOOKS SHUT.\n\n\\* \\* \\*\n\n- When do we (I, you, etc.)\n\nshut books; open books; go to sleep; wake up; eat; drink; come to the lesson; go to the pictures; feel ill (happy, unhappy); get some homework; have lunch; hear the news on the radio; help our friends; laugh; learn English; like to eat ice-cream; listen to the teacher; lie down; look at the blackboard; look out of the window; make a special cake; play games; put on our clothes; ring a bell; run; say 'Hallo'; see snow; sit down;",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "66\n21 The Present Tense",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1001,
+      "width": 692
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9669839064857187,
+      "minimum_page_confidence_score": 0.29514616192713183
+    },
+    "blocks": [
+      {
+        "top_left_x": 29,
+        "top_left_y": 21,
+        "bottom_right_x": 54,
+        "bottom_right_y": 39,
+        "content": "66",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995983069192275,
+          "minimum_content_confidence_score": 0.9995983069192275,
+          "block_type_confidence_score": 0.9999814038981717
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 20,
+        "bottom_right_x": 306,
+        "bottom_right_y": 39,
+        "content": "21 The Present Tense",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997142209605592,
+          "minimum_content_confidence_score": 0.9993359686517497,
+          "block_type_confidence_score": 0.9968924943221483
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 29,
+        "top_left_y": 75,
+        "bottom_right_x": 80,
+        "bottom_right_y": 97,
+        "content": "(21.1)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9821677246462945,
+          "minimum_content_confidence_score": 0.9821677246462945,
+          "block_type_confidence_score": 0.8131929344370746
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 124,
+        "top_left_y": 74,
+        "bottom_right_x": 607,
+        "bottom_right_y": 228,
+        "content": "- Is X, are you, am I, are we writing, reading, standing, sitting, smoking, singing, walking to the door, shutting the window, opening a book, talking, folding or cutting paper, taking or putting something, touching the wall, holding something? (and so on with any other verbs known to the students).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9850847834711726,
+          "minimum_content_confidence_score": 0.6707093732253225,
+          "block_type_confidence_score": 0.9465679231071862
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 248,
+        "bottom_right_x": 73,
+        "bottom_right_y": 269,
+        "content": "21.2",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9900984316221644,
+          "minimum_content_confidence_score": 0.9900984316221644,
+          "block_type_confidence_score": 0.7054795746066179
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 270,
+        "bottom_right_x": 124,
+        "bottom_right_y": 290,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983833057655549,
+          "minimum_content_confidence_score": 0.9983833057655549,
+          "block_type_confidence_score": 0.9653756999964807
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 251,
+        "bottom_right_x": 263,
+        "bottom_right_y": 269,
+        "content": "BOOKS SHUT:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989256056164346,
+          "minimum_content_confidence_score": 0.9989160276976433,
+          "block_type_confidence_score": 0.9767310807964606
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 337,
+        "top_left_y": 282,
+        "bottom_right_x": 441,
+        "bottom_right_y": 296,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9451242330572306,
+          "minimum_content_confidence_score": 0.8361275135890405,
+          "block_type_confidence_score": 0.9999620928847355
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 313,
+        "bottom_right_x": 620,
+        "bottom_right_y": 354,
+        "content": "- Stand up X. What are you (is he) doing? The same with:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997923172333412,
+          "minimum_content_confidence_score": 0.9986366443125068,
+          "block_type_confidence_score": 0.9999414716651684
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 356,
+        "bottom_right_x": 621,
+        "bottom_right_y": 488,
+        "content": "Walk to the door, take Miss Y out of the room, eat a sweet, count the students, leave the room, stand on a chair, read from a book, write on the board, fetch a piece of chalk, bring me a pencil, go into the corner, cut some paper (and so on with any other verbs known).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999778585440902,
+          "minimum_content_confidence_score": 0.9997198174797889,
+          "block_type_confidence_score": 0.9999961853172863
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 493,
+        "bottom_right_x": 621,
+        "bottom_right_y": 533,
+        "content": "For difference between PRESENT SIMPLE and PRESENT CONTINUOUS see Exercises 21.7–9.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9951531692653898,
+          "minimum_content_confidence_score": 0.9526862062240956,
+          "block_type_confidence_score": 0.9999749666753994
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 553,
+        "bottom_right_x": 75,
+        "bottom_right_y": 573,
+        "content": "21.3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9939704730932807,
+          "minimum_content_confidence_score": 0.9939704730932807,
+          "block_type_confidence_score": 0.9999146534361616
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 574,
+        "bottom_right_x": 127,
+        "bottom_right_y": 594,
+        "content": "Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991207954136202,
+          "minimum_content_confidence_score": 0.9991207954136202,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 553,
+        "bottom_right_x": 623,
+        "bottom_right_y": 632,
+        "content": "PRESENT SIMPLE. This tense occurs in speech far less frequently than the Present Continuous. It doesn't really describe PRESENT action, but something permanent or habitual.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9943486117454897,
+          "minimum_content_confidence_score": 0.8657901001086692,
+          "block_type_confidence_score": 0.9999159645108857
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 633,
+        "bottom_right_x": 623,
+        "bottom_right_y": 692,
+        "content": "Question-word *when?* cannot be used with PRESENT CONTINUOUS tense, except when this tense is used to express immediate future.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9966466467532006,
+          "minimum_content_confidence_score": 0.9409750285391275,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 694,
+        "bottom_right_x": 321,
+        "bottom_right_y": 711,
+        "content": "DRILL. BOOKS SHUT.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991463373204178,
+          "minimum_content_confidence_score": 0.9985704360758015,
+          "block_type_confidence_score": 0.9999938011552557
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 342,
+        "top_left_y": 726,
+        "bottom_right_x": 445,
+        "bottom_right_y": 740,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996397971099839,
+          "minimum_content_confidence_score": 0.9994183173299863,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 131,
+        "top_left_y": 753,
+        "bottom_right_x": 375,
+        "bottom_right_y": 773,
+        "content": "- When do we (I, you, etc.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998555326578451,
+          "minimum_content_confidence_score": 0.9992757324445382,
+          "block_type_confidence_score": 0.999985218266486
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 158,
+        "top_left_y": 775,
+        "bottom_right_x": 620,
+        "bottom_right_y": 973,
+        "content": "shut books; open books; go to sleep; wake up; eat; drink; come to the lesson; go to the pictures; feel ill (happy, unhappy); get some homework; have lunch; hear the news on the radio; help our friends; laugh; learn English; like to eat ice-cream; listen to the teacher; lie down; look at the blackboard; look out of the window; make a special cake; play games; put on our clothes; ring a bell; run; say 'Hallo'; see snow; sit down;",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998594951349992,
+          "minimum_content_confidence_score": 0.9939025436978834,
+          "block_type_confidence_score": 0.9999667417142571
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

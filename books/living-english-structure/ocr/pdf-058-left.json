@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-058-left",
+    "pdf_page": 58,
+    "side": "left",
+    "reading_order": 115
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "## 27 Tense Revision\n(Present, Past, Present Perfect)\n\n27.1\nElementary\n\n● Read each of the following sentences twice: first in the PRESENT PERFECT tense, using the first of the given time adverbials, and then in the PAST SIMPLE tense, using the second adverbial.\n\nEXAMPLE\n\nI have cocoa for supper. always/last night.\n\nANSWER 1: I have always had cocoa for supper.\n\nANSWER 2: I had cocoa for supper last night.\n\n1 I drink tea for breakfast. always/yesterday.\n2 The class begins at six o'clock. usually/last year.\n3 His brother lives in Rome. always/in 1930\n4 We go to Monte Carlo. sometimes/for our last holiday.\n5 It rains here. never/last week.\n6 Miss X buys a new hat. often/on Monday.\n7 Mr Y pays his bills. never/last month.\n8 That boy eats too much. often/at the party last night.\n9 He makes himself ill with ice-cream. often/yesterday.\n10 The plane starts very early. always/this morning.\n11 It arrives in the afternoon. usually/when you were out.\n12 He smokes in bed. never/when he was ill.\n13 Mother makes a nice cake. often/for tea yesterday.\n14 She learns quickly. generally/when she was at school.\n15 These children lose their pencils. often/at school.\n16 We speak French. seldom/during Marie's visit.\n17 She shuts the windows. frequently/when I was out.\n18 Do you write letters? often/while you were away.\n19 Do you play football? ever/when you were a boy.\n20 Does the train start at the right time? ever/before the change of timetable.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1017,
+      "width": 697
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9765712414292445,
+      "minimum_page_confidence_score": 0.27686018984785793
+    },
+    "blocks": [
+      {
+        "top_left_x": 97,
+        "top_left_y": 70,
+        "bottom_right_x": 512,
+        "bottom_right_y": 129,
+        "content": "## 27 Tense Revision\n(Present, Past, Present Perfect)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.977781816477406,
+          "minimum_content_confidence_score": 0.8058241015243658,
+          "block_type_confidence_score": 0.9989904830063149
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 15,
+        "top_left_y": 182,
+        "bottom_right_x": 112,
+        "bottom_right_y": 224,
+        "content": "27.1\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9435935763239264,
+          "minimum_content_confidence_score": 0.8314722548539901,
+          "block_type_confidence_score": 0.5812603104197247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 113,
+        "top_left_y": 182,
+        "bottom_right_x": 621,
+        "bottom_right_y": 265,
+        "content": "● Read each of the following sentences twice: first in the PRESENT PERFECT tense, using the first of the given time adverbials, and then in the PAST SIMPLE tense, using the second adverbial.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964705968430163,
+          "minimum_content_confidence_score": 0.9283554727655414,
+          "block_type_confidence_score": 0.8354313533168566
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 272,
+        "bottom_right_x": 222,
+        "bottom_right_y": 288,
+        "content": "EXAMPLE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999721058201501,
+          "minimum_content_confidence_score": 0.9999721058201501,
+          "block_type_confidence_score": 0.9988861582803994
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 288,
+        "bottom_right_x": 546,
+        "bottom_right_y": 310,
+        "content": "I have cocoa for supper. always/last night.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9878543323083125,
+          "minimum_content_confidence_score": 0.9152177868640484,
+          "block_type_confidence_score": 0.9962115115805704
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 310,
+        "bottom_right_x": 579,
+        "bottom_right_y": 330,
+        "content": "ANSWER 1: I have always had cocoa for supper.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999843239301158,
+          "minimum_content_confidence_score": 0.9999259787944876,
+          "block_type_confidence_score": 0.9999891520726072
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 330,
+        "bottom_right_x": 557,
+        "bottom_right_y": 350,
+        "content": "ANSWER 2: I had cocoa for supper last night.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999917560134788,
+          "minimum_content_confidence_score": 0.9999508549224623,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 370,
+        "bottom_right_x": 617,
+        "bottom_right_y": 978,
+        "content": "1 I drink tea for breakfast. always/yesterday.\n2 The class begins at six o'clock. usually/last year.\n3 His brother lives in Rome. always/in 1930\n4 We go to Monte Carlo. sometimes/for our last holiday.\n5 It rains here. never/last week.\n6 Miss X buys a new hat. often/on Monday.\n7 Mr Y pays his bills. never/last month.\n8 That boy eats too much. often/at the party last night.\n9 He makes himself ill with ice-cream. often/yesterday.\n10 The plane starts very early. always/this morning.\n11 It arrives in the afternoon. usually/when you were out.\n12 He smokes in bed. never/when he was ill.\n13 Mother makes a nice cake. often/for tea yesterday.\n14 She learns quickly. generally/when she was at school.\n15 These children lose their pencils. often/at school.\n16 We speak French. seldom/during Marie's visit.\n17 She shuts the windows. frequently/when I was out.\n18 Do you write letters? often/while you were away.\n19 Do you play football? ever/when you were a boy.\n20 Does the train start at the right time? ever/before the change of timetable.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99989883792652,
+          "minimum_content_confidence_score": 0.9908584925219459,
+          "block_type_confidence_score": 0.9901275340479385
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

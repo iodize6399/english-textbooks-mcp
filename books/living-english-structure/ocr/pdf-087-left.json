@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-087-left",
+    "pdf_page": 87,
+    "side": "left",
+    "reading_order": 173
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:11.961996+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "- 4 Does she have to ring you up every time?\n- 5 Why have you to give him so much money?\n- 6 I'm afraid I have to go now.\n- 7 Is this all I have to do?\n- 8 You seem to have plenty to do.\n- 9 Has your friend Maisie to come too?\n- 10 Have we enough money?\n- 11 Do they *have* to travel with us? (emphatic)\n- 12 You didn't have to listen to him.\n- 13 She has a pimple on her nose.\n- 14 Has Cyril the sandwiches?\n- 15 I don't have to sleep there, do I?\n- 16 Did you know she hadn't anything to wear?\n- 17 I wish I knew if she had any money.\n- 18 I had a better one at home.\n- 19 Has he the same edition as the rest of us?\n- 20 Have you the time on you?\n- 21 She said she didn't have to be home before midnight.\n- 22 I have to go to the dentist this morning.\n- 23 They have two dogs and three cats next door.\n- 24 You don't have to do what your sister tells you.\n- 25 Do I *have* to eat all this rice-pudding? (emphatic)\n- 26 Have you time to go to the post?\n- 27 'We have too much to do.' 'Have you really?'\n- 28 What time do you have to get up?\n- 29 She told me she didn't have to earn her living.\n- 30 We have no servant, so mother *has* to do all the work. (emphatic)\n\n### 33.3 Advanced\n\nThe *got*-form of Exercises 33.1 and 33.2 is never found when the verb is in the IMPERATIVE, the FUTURE, or any of the PERFECT tenses.\n\nDon't have any more!\n\nI've had no news since Wednesday.\n\nNor in those phrases where *have* and its object represent a single semantic whole.\n\nHe had a very good journey.\n\nDo you have breakfast at eight?\n\nBut we can say, *I haven't got time to do it.*\n\nSee also notes to Exercise 18.1 on the difference between *he doesn't have to* and *he hasn't got to*.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "162\n33^{}[] *get and got forms*",
+    "footer": "\\* \\* \\*",
+    "dimensions": {
+      "dpi": 35,
+      "height": 1000,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9767661145250347,
+      "minimum_page_confidence_score": 0.2563348844703563
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 14,
+        "bottom_right_x": 55,
+        "bottom_right_y": 33,
+        "content": "162",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999346775747843,
+          "minimum_content_confidence_score": 0.9999346775747843,
+          "block_type_confidence_score": 0.9999987345501263
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 14,
+        "bottom_right_x": 290,
+        "bottom_right_y": 35,
+        "content": "33^{}[] *get and got forms*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9323698128846111,
+          "minimum_content_confidence_score": 0.8342098277481699,
+          "block_type_confidence_score": 0.9990350009079028
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 69,
+        "bottom_right_x": 607,
+        "bottom_right_y": 682,
+        "content": "- 4 Does she have to ring you up every time?\n- 5 Why have you to give him so much money?\n- 6 I'm afraid I have to go now.\n- 7 Is this all I have to do?\n- 8 You seem to have plenty to do.\n- 9 Has your friend Maisie to come too?\n- 10 Have we enough money?\n- 11 Do they *have* to travel with us? (emphatic)\n- 12 You didn't have to listen to him.\n- 13 She has a pimple on her nose.\n- 14 Has Cyril the sandwiches?\n- 15 I don't have to sleep there, do I?\n- 16 Did you know she hadn't anything to wear?\n- 17 I wish I knew if she had any money.\n- 18 I had a better one at home.\n- 19 Has he the same edition as the rest of us?\n- 20 Have you the time on you?\n- 21 She said she didn't have to be home before midnight.\n- 22 I have to go to the dentist this morning.\n- 23 They have two dogs and three cats next door.\n- 24 You don't have to do what your sister tells you.\n- 25 Do I *have* to eat all this rice-pudding? (emphatic)\n- 26 Have you time to go to the post?\n- 27 'We have too much to do.' 'Have you really?'\n- 28 What time do you have to get up?\n- 29 She told me she didn't have to earn her living.\n- 30 We have no servant, so mother *has* to do all the work. (emphatic)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9986749283042816,
+          "minimum_content_confidence_score": 0.6513203853604037,
+          "block_type_confidence_score": 0.9740413796462973
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 699,
+        "bottom_right_x": 103,
+        "bottom_right_y": 740,
+        "content": "### 33.3 Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9911151414620262,
+          "minimum_content_confidence_score": 0.9824312386551397,
+          "block_type_confidence_score": 0.9761381315540874
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 699,
+        "bottom_right_x": 611,
+        "bottom_right_y": 760,
+        "content": "The *got*-form of Exercises 33.1 and 33.2 is never found when the verb is in the IMPERATIVE, the FUTURE, or any of the PERFECT tenses.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9967916764518759,
+          "minimum_content_confidence_score": 0.9343716249586309,
+          "block_type_confidence_score": 0.999993205116773
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 764,
+        "bottom_right_x": 369,
+        "bottom_right_y": 784,
+        "content": "Don't have any more!",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9701164339036306,
+          "minimum_content_confidence_score": 0.8806300893873608,
+          "block_type_confidence_score": 0.9999977350285647
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 784,
+        "bottom_right_x": 472,
+        "bottom_right_y": 804,
+        "content": "I've had no news since Wednesday.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997256260652412,
+          "minimum_content_confidence_score": 0.9984658619422804,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 813,
+        "bottom_right_x": 611,
+        "bottom_right_y": 854,
+        "content": "Nor in those phrases where *have* and its object represent a single semantic whole.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997826903130097,
+          "minimum_content_confidence_score": 0.9986656850149829,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 857,
+        "bottom_right_x": 421,
+        "bottom_right_y": 878,
+        "content": "He had a very good journey.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999252969294505,
+          "minimum_content_confidence_score": 0.9996501239812327,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 186,
+        "top_left_y": 878,
+        "bottom_right_x": 451,
+        "bottom_right_y": 898,
+        "content": "Do you have breakfast at eight?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992347805047067,
+          "minimum_content_confidence_score": 0.9955908121605233,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 906,
+        "bottom_right_x": 491,
+        "bottom_right_y": 928,
+        "content": "But we can say, *I haven't got time to do it.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9871433322769844,
+          "minimum_content_confidence_score": 0.8696361352157137,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 928,
+        "bottom_right_x": 611,
+        "bottom_right_y": 968,
+        "content": "See also notes to Exercise 18.1 on the difference between *he doesn't have to* and *he hasn't got to*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9971790667233719,
+          "minimum_content_confidence_score": 0.971351571856824,
+          "block_type_confidence_score": 0.9999979734461775
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 331,
+        "top_left_y": 977,
+        "bottom_right_x": 432,
+        "bottom_right_y": 990,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99937477292471,
+          "minimum_content_confidence_score": 0.9987353103165357,
+          "block_type_confidence_score": 0.989327775233504
+        },
+        "type": "footer"
+      }
+    ]
+  }
+}

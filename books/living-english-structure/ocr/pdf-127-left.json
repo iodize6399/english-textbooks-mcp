@@ -1,0 +1,265 @@
+{
+  "source": {
+    "id": "pdf-127-left",
+    "pdf_page": 127,
+    "side": "left",
+    "reading_order": 253
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:51:30.025220+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 4,
+    "markdown": "17 — a thunderstorm soon, I think.\n18 — four hundred children in the school this year.\n19 — an accident outside our house last night.\n20 — a lot of visitors this morning.\n\n50.2 It is, was, etc. These expressions are useful for introducing a complex subject (phrase or clause), which would sound very clumsy if made the real subject.\n\nIT\n\nIt's impossible to guess her age.\n\nIt is wrong not to do as you are told.\n\n* * *\n\n● Add the correct form of it is to the following:\n\n1 — a pity (that) she is so stupid.\n2 — a shame to spend all this money.\n3 — a wonder (that) you didn't hurt yourself.\n4 — stupid not to go yesterday.\n5 — a great day when he passes his examination. (Note that 'a great day' is not the true subject of this sentence.)\n6 — nice having you to tea last Wednesday.\n7 — wonderful to see you again next week.\n8 — possible (that) he doesn't understand English.\n9 — strange (that) she didn't speak to you.\n10 — true (that) Solomon had a thousand wives?\n11 — wrong to think (that) all people are greedy for money.\n12 — funny that I can see better with one eye than with both.\n13 — lovely to go for a sail tomorrow.\n14 — cruel to beat a dog like that.\n15 — funny seeing you in this place.\n\n50.3 See notes on Exercise 50.2. It is also the meaningless subject for impersonal verbs and a few expressions of time and distance.\n\nIt's raining hard.\n\nIt was nearly 10 o'clock.\n\nIt's a long way to Timbuktu.\n\n* * *\n\n● Add the correct form of it is to the following:\n\n1 — a long time ago.\n2 — fine tomorrow, I think.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "242\n50 there is and it is",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1022,
+      "width": 672
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9719382949905339,
+      "minimum_page_confidence_score": 0.20540835055535114
+    },
+    "blocks": [
+      {
+        "top_left_x": 30,
+        "top_left_y": 31,
+        "bottom_right_x": 62,
+        "bottom_right_y": 50,
+        "content": "242",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999550601190241,
+          "minimum_content_confidence_score": 0.9999550601190241,
+          "block_type_confidence_score": 0.9999850350029511
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 31,
+        "bottom_right_x": 286,
+        "bottom_right_y": 50,
+        "content": "50 there is and it is",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991531761284186,
+          "minimum_content_confidence_score": 0.9951062069622287,
+          "block_type_confidence_score": 0.9915343927479909
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 118,
+        "top_left_y": 85,
+        "bottom_right_x": 583,
+        "bottom_right_y": 173,
+        "content": "17 — a thunderstorm soon, I think.\n18 — four hundred children in the school this year.\n19 — an accident outside our house last night.\n20 — a lot of visitors this morning.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9905734061749567,
+          "minimum_content_confidence_score": 0.7324475912473661,
+          "block_type_confidence_score": 0.9997354253951407
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 30,
+        "top_left_y": 188,
+        "bottom_right_x": 612,
+        "bottom_right_y": 249,
+        "content": "50.2 It is, was, etc. These expressions are useful for introducing a complex subject (phrase or clause), which would sound very clumsy if made the real subject.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9823855882698046,
+          "minimum_content_confidence_score": 0.7422327800542143,
+          "block_type_confidence_score": 0.9874942939018954
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 32,
+        "top_left_y": 252,
+        "bottom_right_x": 54,
+        "bottom_right_y": 269,
+        "content": "IT",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8851907073623733,
+          "minimum_content_confidence_score": 0.8851907073623733,
+          "block_type_confidence_score": 0.9941013582577336
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 252,
+        "bottom_right_x": 446,
+        "bottom_right_y": 272,
+        "content": "It's impossible to guess her age.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992332097111692,
+          "minimum_content_confidence_score": 0.9955971021682739,
+          "block_type_confidence_score": 0.9997501997336912
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 272,
+        "bottom_right_x": 492,
+        "bottom_right_y": 293,
+        "content": "It is wrong not to do as you are told.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999874912480916,
+          "minimum_content_confidence_score": 0.9999680133722221,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 334,
+        "top_left_y": 301,
+        "bottom_right_x": 437,
+        "bottom_right_y": 315,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9890404653365549,
+          "minimum_content_confidence_score": 0.9694005712177441,
+          "block_type_confidence_score": 0.9988792596578225
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 125,
+        "top_left_y": 327,
+        "bottom_right_x": 523,
+        "bottom_right_y": 348,
+        "content": "● Add the correct form of it is to the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9723797006033575,
+          "minimum_content_confidence_score": 0.6964841238690157,
+          "block_type_confidence_score": 0.939815184836103
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 351,
+        "bottom_right_x": 594,
+        "bottom_right_y": 764,
+        "content": "1 — a pity (that) she is so stupid.\n2 — a shame to spend all this money.\n3 — a wonder (that) you didn't hurt yourself.\n4 — stupid not to go yesterday.\n5 — a great day when he passes his examination. (Note that 'a great day' is not the true subject of this sentence.)\n6 — nice having you to tea last Wednesday.\n7 — wonderful to see you again next week.\n8 — possible (that) he doesn't understand English.\n9 — strange (that) she didn't speak to you.\n10 — true (that) Solomon had a thousand wives?\n11 — wrong to think (that) all people are greedy for money.\n12 — funny that I can see better with one eye than with both.\n13 — lovely to go for a sail tomorrow.\n14 — cruel to beat a dog like that.\n15 — funny seeing you in this place.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9931020717293115,
+          "minimum_content_confidence_score": 0.7773809957340098,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 35,
+        "top_left_y": 774,
+        "bottom_right_x": 620,
+        "bottom_right_y": 835,
+        "content": "50.3 See notes on Exercise 50.2. It is also the meaningless subject for impersonal verbs and a few expressions of time and distance.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9764751026109103,
+          "minimum_content_confidence_score": 0.5303577218625267,
+          "block_type_confidence_score": 0.9998991591117187
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 196,
+        "top_left_y": 839,
+        "bottom_right_x": 336,
+        "bottom_right_y": 859,
+        "content": "It's raining hard.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999693661951917,
+          "minimum_content_confidence_score": 0.9999582039903532,
+          "block_type_confidence_score": 0.9999492194198731
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 196,
+        "top_left_y": 859,
+        "bottom_right_x": 395,
+        "bottom_right_y": 879,
+        "content": "It was nearly 10 o'clock.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999910064683224,
+          "minimum_content_confidence_score": 0.9999752050825816,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 196,
+        "top_left_y": 879,
+        "bottom_right_x": 431,
+        "bottom_right_y": 899,
+        "content": "It's a long way to Timbuktu.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999887988097872,
+          "minimum_content_confidence_score": 0.9999520450538523,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 347,
+        "top_left_y": 901,
+        "bottom_right_x": 437,
+        "bottom_right_y": 915,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999907589427802,
+          "minimum_content_confidence_score": 0.9997848735274767,
+          "block_type_confidence_score": 0.9999785427891018
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 128,
+        "top_left_y": 925,
+        "bottom_right_x": 527,
+        "bottom_right_y": 947,
+        "content": "● Add the correct form of it is to the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999985627850613,
+          "minimum_content_confidence_score": 0.9998544666422595,
+          "block_type_confidence_score": 0.9999123888519666
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 133,
+        "top_left_y": 950,
+        "bottom_right_x": 395,
+        "bottom_right_y": 993,
+        "content": "1 — a long time ago.\n2 — fine tomorrow, I think.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9807032950372373,
+          "minimum_content_confidence_score": 0.7973304118551369,
+          "block_type_confidence_score": 0.9999831917733143
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "source": {
+    "id": "pdf-007-right",
+    "pdf_page": 7,
+    "side": "right",
+    "reading_order": 14
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:05.087310+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 3,
+    "markdown": "14 We can write — letter on — paper.\n15 — piano makes — music.\n16 — iron is — metal.\n17 — bread is made from — flour, and — flour is made from — wheat.\n18 — orange grows on — tree.\n19 — child must have — food.\n20 — sugar is nice in — cup of tea.\n21 We use — spoon for — soup.\n22 — knife is made of — metal.\n23 — cow eats — grass in — summer.\n24 I like — jam on — piece of — bread.\n25 I can write — letter in — ink or with — pencil.\n\n# 1.4\nElementary\n\nUNCOUNTABLE nouns, and COUNTABLE nouns in the plural, are preceded by some when 'a certain quantity, or number' is implied.\n\nBread is good for us. (All bread, in general.)\nGive me some bread. (A certain quantity.)\n\n* * *\n\n● Add a, an, or some where necessary:\n1 — table has four legs.\n2 We can write on — paper or on — blackboard.\n3 — apple has — sweet taste.\n4 — fruit is very good to eat.\n5 Please give me — milk.\n6 There is — dirt on this plate and — dirty mark on the tablecloth.\n7 — man gave me — books this morning.\n8 — good pupil is never late for — lesson.\n9 — book about — philosophy is not good for — child.\n10 Put — lemon in your soup instead of — salt.\n11 I want — glass of — lemonade with — sugar in it.\n12 — bed made of — iron is better than one made of wood.\n13 — Australian sheep give us — very good wool.\n14 You must write in — ink; here is — pen.\n15 Give me — ink to write — letter.\n16 Do you take — sugar in — tea?\n17 — garden usually has — flowers in it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "1 Countables and Uncountables\n3",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1006,
+      "width": 698
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9732221606579103,
+      "minimum_page_confidence_score": 0.2609081622163762
+    },
+    "blocks": [
+      {
+        "top_left_x": 164,
+        "top_left_y": 19,
+        "bottom_right_x": 428,
+        "bottom_right_y": 39,
+        "content": "1 Countables and Uncountables",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988405254693109,
+          "minimum_content_confidence_score": 0.9966434038741336,
+          "block_type_confidence_score": 0.9801523704168229
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 653,
+        "top_left_y": 19,
+        "bottom_right_x": 667,
+        "bottom_right_y": 37,
+        "content": "3",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998576843642404,
+          "minimum_content_confidence_score": 0.9998576843642404,
+          "block_type_confidence_score": 0.9999982393754008
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 74,
+        "bottom_right_x": 633,
+        "bottom_right_y": 358,
+        "content": "14 We can write — letter on — paper.\n15 — piano makes — music.\n16 — iron is — metal.\n17 — bread is made from — flour, and — flour is made from — wheat.\n18 — orange grows on — tree.\n19 — child must have — food.\n20 — sugar is nice in — cup of tea.\n21 We use — spoon for — soup.\n22 — knife is made of — metal.\n23 — cow eats — grass in — summer.\n24 I like — jam on — piece of — bread.\n25 I can write — letter in — ink or with — pencil.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988275365100032,
+          "minimum_content_confidence_score": 0.8926806058935295,
+          "block_type_confidence_score": 0.9927904823493858
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 65,
+        "top_left_y": 377,
+        "bottom_right_x": 159,
+        "bottom_right_y": 418,
+        "content": "# 1.4\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.7942018739893949,
+          "minimum_content_confidence_score": 0.4960494465432821,
+          "block_type_confidence_score": 0.634181733818192
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 193,
+        "top_left_y": 377,
+        "bottom_right_x": 669,
+        "bottom_right_y": 437,
+        "content": "UNCOUNTABLE nouns, and COUNTABLE nouns in the plural, are preceded by some when 'a certain quantity, or number' is implied.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9852413175572995,
+          "minimum_content_confidence_score": 0.729650693383891,
+          "block_type_confidence_score": 0.9992407369099816
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 231,
+        "top_left_y": 441,
+        "bottom_right_x": 615,
+        "bottom_right_y": 481,
+        "content": "Bread is good for us. (All bread, in general.)\nGive me some bread. (A certain quantity.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999438144479287,
+          "minimum_content_confidence_score": 0.9995637651676795,
+          "block_type_confidence_score": 0.9701111089106584
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 375,
+        "top_left_y": 494,
+        "bottom_right_x": 481,
+        "bottom_right_y": 509,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9952195326269501,
+          "minimum_content_confidence_score": 0.9875267277187522,
+          "block_type_confidence_score": 0.9999456435183514
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 157,
+        "top_left_y": 521,
+        "bottom_right_x": 670,
+        "bottom_right_y": 980,
+        "content": "● Add a, an, or some where necessary:\n1 — table has four legs.\n2 We can write on — paper or on — blackboard.\n3 — apple has — sweet taste.\n4 — fruit is very good to eat.\n5 Please give me — milk.\n6 There is — dirt on this plate and — dirty mark on the tablecloth.\n7 — man gave me — books this morning.\n8 — good pupil is never late for — lesson.\n9 — book about — philosophy is not good for — child.\n10 Put — lemon in your soup instead of — salt.\n11 I want — glass of — lemonade with — sugar in it.\n12 — bed made of — iron is better than one made of wood.\n13 — Australian sheep give us — very good wool.\n14 You must write in — ink; here is — pen.\n15 Give me — ink to write — letter.\n16 Do you take — sugar in — tea?\n17 — garden usually has — flowers in it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994612377847216,
+          "minimum_content_confidence_score": 0.9127497125448347,
+          "block_type_confidence_score": 0.999600570057517
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

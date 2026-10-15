@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-037-left",
+    "pdf_page": 37,
+    "side": "left",
+    "reading_order": 73
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:10.518613+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "2 She's very fond of her mother.\n3 We shall have to go at once.\n4 We've come a long way.\n5 That man was at the party.\n6 It rained hard last night.\n7 There'll be enough for him, too.\n8 It's a very large school.\n9 They swam very well.\n10 You must leave earlier today.\n11 They gave us a lovely tea.\n12 Your new suit is very nice.\n13 This chair has been mended.\n14 You can buy some at the tobacconist's.\n15 I'm very good at English.\n16 You're getting fat.\n17 It was very hot yesterday.\n18 The apples will soon be ripe.\n19 Your mother seemed very cheerful.\n20 You'll have to do it all again.\n\n## 20 Imperative\n\n### 20.1 Elementary\n\nThe following is a simple drill, and should be carried out with BOOKS SHUT. The student should in all cases do as his colleague bids him. Teach the use of *please* before or after the imperative.\n\nImperative drills might well be divided and scattered over many periods; also combined with PRESENT CONTINUOUS tense drills. (See Exercises 21.1, 2.)\n\nDRILL. BOOKS SHUT. Students to make the imperatives.\n\n* * *\n\n● Tell X to:\n1 open his (her) book, mouth, eyes, bag.\n2 shut ditto.\n3 stand in the corner, by me, on a chair, on his head.\n4 go to sleep, wake up.\n5 take — off his desk, a book from me.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "62\n20 Imperative",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1010,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9687760982912978,
+      "minimum_page_confidence_score": 0.278129565215894
+    },
+    "blocks": [
+      {
+        "top_left_x": 22,
+        "top_left_y": 13,
+        "bottom_right_x": 45,
+        "bottom_right_y": 31,
+        "content": "62",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999861259645664,
+          "minimum_content_confidence_score": 0.999861259645664,
+          "block_type_confidence_score": 0.9998773849623941
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 13,
+        "bottom_right_x": 234,
+        "bottom_right_y": 31,
+        "content": "20 Imperative",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999280103362306,
+          "minimum_content_confidence_score": 0.9990484878776322,
+          "block_type_confidence_score": 0.9930156134433356
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 112,
+        "top_left_y": 65,
+        "bottom_right_x": 501,
+        "bottom_right_y": 479,
+        "content": "2 She's very fond of her mother.\n3 We shall have to go at once.\n4 We've come a long way.\n5 That man was at the party.\n6 It rained hard last night.\n7 There'll be enough for him, too.\n8 It's a very large school.\n9 They swam very well.\n10 You must leave earlier today.\n11 They gave us a lovely tea.\n12 Your new suit is very nice.\n13 This chair has been mended.\n14 You can buy some at the tobacconist's.\n15 I'm very good at English.\n16 You're getting fat.\n17 It was very hot yesterday.\n18 The apples will soon be ripe.\n19 Your mother seemed very cheerful.\n20 You'll have to do it all again.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999384586538107,
+          "minimum_content_confidence_score": 0.9971546066563294,
+          "block_type_confidence_score": 0.9820086983638366
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 106,
+        "top_left_y": 540,
+        "bottom_right_x": 274,
+        "bottom_right_y": 568,
+        "content": "## 20 Imperative",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999515507432312,
+          "minimum_content_confidence_score": 0.9999075893129504,
+          "block_type_confidence_score": 0.9993264446852564
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 28,
+        "top_left_y": 621,
+        "bottom_right_x": 121,
+        "bottom_right_y": 661,
+        "content": "### 20.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9785197874823778,
+          "minimum_content_confidence_score": 0.935877932738531,
+          "block_type_confidence_score": 0.7088747292158344
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 617,
+        "bottom_right_x": 614,
+        "bottom_right_y": 701,
+        "content": "The following is a simple drill, and should be carried out with BOOKS SHUT. The student should in all cases do as his colleague bids him. Teach the use of *please* before or after the imperative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987662991128649,
+          "minimum_content_confidence_score": 0.9761644634216331,
+          "block_type_confidence_score": 0.999984503032491
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 698,
+        "bottom_right_x": 616,
+        "bottom_right_y": 759,
+        "content": "Imperative drills might well be divided and scattered over many periods; also combined with PRESENT CONTINUOUS tense drills. (See Exercises 21.1, 2.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999718329993809,
+          "minimum_content_confidence_score": 0.9998528081515548,
+          "block_type_confidence_score": 0.9999871255623688
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 758,
+        "bottom_right_x": 589,
+        "bottom_right_y": 779,
+        "content": "DRILL. BOOKS SHUT. Students to make the imperatives.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997686941324524,
+          "minimum_content_confidence_score": 0.9986673381682745,
+          "block_type_confidence_score": 0.9995636460685825
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 335,
+        "top_left_y": 793,
+        "bottom_right_x": 437,
+        "bottom_right_y": 807,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9921423764187086,
+          "minimum_content_confidence_score": 0.9794474560823214,
+          "block_type_confidence_score": 0.999921566441278
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 127,
+        "top_left_y": 820,
+        "bottom_right_x": 616,
+        "bottom_right_y": 952,
+        "content": "● Tell X to:\n1 open his (her) book, mouth, eyes, bag.\n2 shut ditto.\n3 stand in the corner, by me, on a chair, on his head.\n4 go to sleep, wake up.\n5 take — off his desk, a book from me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985183522512932,
+          "minimum_content_confidence_score": 0.9317099839215252,
+          "block_type_confidence_score": 0.9999188250646881
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

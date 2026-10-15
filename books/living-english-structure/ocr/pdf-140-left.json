@@ -1,0 +1,174 @@
+{
+  "source": {
+    "id": "pdf-140-left",
+    "pdf_page": 140,
+    "side": "left",
+    "reading_order": 279
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:28.340545+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "## 52 Passive Voice\n\n### 52.1 Elementary\n\nSimple construction: appropriate tense of verb *be* with the PAST PARTICIPLE.\n\nThe PASSIVE VOICE is very important in English. Probably quite 90 per cent of the passive sentences spoken or written are of the type replacing the indefinite pronoun or reflexives in other languages. (Cf. French *on*, German *man*, and the use of reflexive verbs in Slavonic languages.)\n\nIn this important class of passive voice sentences we have an unknown or vague active voice subject; it remains unexpressed in the passive voice. The agent with *by* is not needed.\n\nACTIVE: Someone has stolen my books.\n\nThe indefinite subject *someone* occupies the most prominent place. We prefer:\n\nPASSIVE: My books have been stolen.\n\n\\* \\* \\*\n\n- ● Complete the following passive voice sentences in the tenses suggested.\n- 1 This picture (**always admire**). – Present\n- 2 His leg (**hurt**) in an accident. – Past\n- 3 This exercise (**do**) very carefully. – Present  \n  Continuous\n- 4 The box (**not open**) for the last hundred years. –  \n  Present Perfect\n- 5 The Tower of London (**formerly use**) as a prison. –  \n  Past\n- 6 Two of my dinner plates (**break**). – Present  \n  Perfect\n- 7 A big battle (**fight**) here 200 years ago. – Past\n- 8 You (**invite**) to lunch tomorrow. – Present Perfect\n- 9 This play (**forget**) in a few years' time. – Future\n- 10 The bridge (**build**) last year. – Past\n- 11 My brother (**never beat**) at tennis. – Present  \n  Perfect\n- 12 English (**speak**) all over the world. – Present\n- 13 Any questions (**ask**) about me? – Past",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1001,
+      "width": 697
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9773031274191409,
+      "minimum_page_confidence_score": 0.36214236751721146
+    },
+    "blocks": [
+      {
+        "top_left_x": 113,
+        "top_left_y": 73,
+        "bottom_right_x": 319,
+        "bottom_right_y": 102,
+        "content": "## 52 Passive Voice",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999534735500751,
+          "minimum_content_confidence_score": 0.9998999601432917,
+          "block_type_confidence_score": 0.9932108279231049
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 29,
+        "top_left_y": 156,
+        "bottom_right_x": 125,
+        "bottom_right_y": 198,
+        "content": "### 52.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9903303221512155,
+          "minimum_content_confidence_score": 0.9724645993437034,
+          "block_type_confidence_score": 0.7487545576647662
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 154,
+        "bottom_right_x": 630,
+        "bottom_right_y": 197,
+        "content": "Simple construction: appropriate tense of verb *be* with the PAST PARTICIPLE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9922104575395484,
+          "minimum_content_confidence_score": 0.9462780111274688,
+          "block_type_confidence_score": 0.9999630464869772
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 195,
+        "bottom_right_x": 631,
+        "bottom_right_y": 300,
+        "content": "The PASSIVE VOICE is very important in English. Probably quite 90 per cent of the passive sentences spoken or written are of the type replacing the indefinite pronoun or reflexives in other languages. (Cf. French *on*, German *man*, and the use of reflexive verbs in Slavonic languages.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998705391413136,
+          "minimum_content_confidence_score": 0.9974073806509967,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 299,
+        "bottom_right_x": 632,
+        "bottom_right_y": 381,
+        "content": "In this important class of passive voice sentences we have an unknown or vague active voice subject; it remains unexpressed in the passive voice. The agent with *by* is not needed.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999443853884787,
+          "minimum_content_confidence_score": 0.9996127198509596,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 385,
+        "bottom_right_x": 522,
+        "bottom_right_y": 405,
+        "content": "ACTIVE: Someone has stolen my books.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999267608452969,
+          "minimum_content_confidence_score": 0.999755799818856,
+          "block_type_confidence_score": 0.9997729578673664
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 414,
+        "bottom_right_x": 633,
+        "bottom_right_y": 456,
+        "content": "The indefinite subject *someone* occupies the most prominent place. We prefer:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999426226832057,
+          "minimum_content_confidence_score": 0.9997239767212456,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 198,
+        "top_left_y": 459,
+        "bottom_right_x": 505,
+        "bottom_right_y": 480,
+        "content": "PASSIVE: My books have been stolen.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999434642731968,
+          "minimum_content_confidence_score": 0.9997784117056228,
+          "block_type_confidence_score": 0.9999949932351057
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 346,
+        "top_left_y": 494,
+        "bottom_right_x": 450,
+        "bottom_right_y": 508,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9672412117925987,
+          "minimum_content_confidence_score": 0.9021704855252694,
+          "block_type_confidence_score": 0.9999935627400018
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 132,
+        "top_left_y": 520,
+        "bottom_right_x": 636,
+        "bottom_right_y": 968,
+        "content": "- ● Complete the following passive voice sentences in the tenses suggested.\n- 1 This picture (**always admire**). – Present\n- 2 His leg (**hurt**) in an accident. – Past\n- 3 This exercise (**do**) very carefully. – Present  \n  Continuous\n- 4 The box (**not open**) for the last hundred years. –  \n  Present Perfect\n- 5 The Tower of London (**formerly use**) as a prison. –  \n  Past\n- 6 Two of my dinner plates (**break**). – Present  \n  Perfect\n- 7 A big battle (**fight**) here 200 years ago. – Past\n- 8 You (**invite**) to lunch tomorrow. – Present Perfect\n- 9 This play (**forget**) in a few years' time. – Future\n- 10 The bridge (**build**) last year. – Past\n- 11 My brother (**never beat**) at tennis. – Present  \n  Perfect\n- 12 English (**speak**) all over the world. – Present\n- 13 Any questions (**ask**) about me? – Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9933803184815353,
+          "minimum_content_confidence_score": 0.5322686428506785,
+          "block_type_confidence_score": 0.9999879600069962
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

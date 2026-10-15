@@ -1,0 +1,96 @@
+{
+  "source": {
+    "id": "pdf-060-right",
+    "pdf_page": 60,
+    "side": "right",
+    "reading_order": 120
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:14.432051+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "'Yes, I (be) there last Sunday. I (go) nearly every weekend.'\n\n6 I hear you just (get) married. When the ceremony (take place)?\n7 We (go) to the Valley of Rocks last Sunday. While we (eat) our lunch there a man (fall) from the rocks and (hurt) his head. We (take) him to the hospital in our car, and (be) to see him twice since then. He (get) better now.\n8 'Hello, who you (bring) with you? He (have) supper yet?' 'No, he (not have).' 'We usually (have) supper at eight, but Mary (not finish) yet. She still (eat) in the dining-room. He (not meet) Mary, and she (not know) him, so take him in, introduce him and give him something to eat.'\n9 'What you (look for)?' 'I (lose) my purse near here and (want) to find it before it (get) dark.' 'When you (lose) it?' 'I think that I (drop) it when I (go) to school this morning.'\n10 'I (look) at your photographs while you (be) out.' 'You (like) them? They (be) not very good.'\n11 As he (run) to jump over the ditch, he (fall) and (twist) his ankle. We (have) to carry him home. He now (lie) on the sofa, and he (read) a book until a few minutes ago. The doctor just (leave) and (say) as he (go) out that he must rest for a week.\n12 'You (like) chess?' 'Yes, but I (not play) for many years. I (live) with a good chess player for the last six months, but he (play) extremely well and I (not wish) to play with him.'\n13 'We (wait) here for half an hour now, so I (not think) she will come. She always (arrive) late, or you (think) something (happen) to her?' 'I (not know), but I (think) we (wait) long enough.'\n14 You (remember) my name, or you (forget) it?\n15 Look! My socks already (wear) out at the heels, even though I (wear) two pairs at once these last few weeks.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "27 Tense Revision (Present, Past, Present Perfect)\n109",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 998,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9887610759197981,
+      "minimum_page_confidence_score": 0.17372860320625236
+    },
+    "blocks": [
+      {
+        "top_left_x": 140,
+        "top_left_y": 19,
+        "bottom_right_x": 564,
+        "bottom_right_y": 39,
+        "content": "27 Tense Revision (Present, Past, Present Perfect)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997372002773759,
+          "minimum_content_confidence_score": 0.9983301748375691,
+          "block_type_confidence_score": 0.9999159411307216
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 619,
+        "top_left_y": 19,
+        "bottom_right_x": 652,
+        "bottom_right_y": 37,
+        "content": "109",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999817613105537,
+          "minimum_content_confidence_score": 0.9999817613105537,
+          "block_type_confidence_score": 0.999999889960675
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 180,
+        "top_left_y": 73,
+        "bottom_right_x": 631,
+        "bottom_right_y": 116,
+        "content": "'Yes, I (be) there last Sunday. I (go) nearly every weekend.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9975355522682494,
+          "minimum_content_confidence_score": 0.9739416487178368,
+          "block_type_confidence_score": 0.9997600892670062
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 116,
+        "bottom_right_x": 655,
+        "bottom_right_y": 923,
+        "content": "6 I hear you just (get) married. When the ceremony (take place)?\n7 We (go) to the Valley of Rocks last Sunday. While we (eat) our lunch there a man (fall) from the rocks and (hurt) his head. We (take) him to the hospital in our car, and (be) to see him twice since then. He (get) better now.\n8 'Hello, who you (bring) with you? He (have) supper yet?' 'No, he (not have).' 'We usually (have) supper at eight, but Mary (not finish) yet. She still (eat) in the dining-room. He (not meet) Mary, and she (not know) him, so take him in, introduce him and give him something to eat.'\n9 'What you (look for)?' 'I (lose) my purse near here and (want) to find it before it (get) dark.' 'When you (lose) it?' 'I think that I (drop) it when I (go) to school this morning.'\n10 'I (look) at your photographs while you (be) out.' 'You (like) them? They (be) not very good.'\n11 As he (run) to jump over the ditch, he (fall) and (twist) his ankle. We (have) to carry him home. He now (lie) on the sofa, and he (read) a book until a few minutes ago. The doctor just (leave) and (say) as he (go) out that he must rest for a week.\n12 'You (like) chess?' 'Yes, but I (not play) for many years. I (live) with a good chess player for the last six months, but he (play) extremely well and I (not wish) to play with him.'\n13 'We (wait) here for half an hour now, so I (not think) she will come. She always (arrive) late, or you (think) something (happen) to her?' 'I (not know), but I (think) we (wait) long enough.'\n14 You (remember) my name, or you (forget) it?\n15 Look! My socks already (wear) out at the heels, even though I (wear) two pairs at once these last few weeks.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989947705342883,
+          "minimum_content_confidence_score": 0.8482280380594851,
+          "block_type_confidence_score": 0.9740318800521122
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

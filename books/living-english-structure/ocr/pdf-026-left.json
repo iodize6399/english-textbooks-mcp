@@ -1,0 +1,421 @@
+{
+  "source": {
+    "id": "pdf-026-left",
+    "pdf_page": 26,
+    "side": "left",
+    "reading_order": 51
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:08.650978+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "My tea was already sweetened, so I *didn't need to put* any sugar in.\n\nI drank it as it was.\n\nI didn't need to change my suit (= didn't have to).\n\nSo I went in the clothes I had on.\n\nI needn't have changed my suit.\n\nBut I did! I see *now* that it wasn't necessary.\n\n\\* \\* \\*\n\n(16.5)\n\n● Insert *didn't need to* or *needn't have* according to the sense:\n\n1 I — (answer) the questions, but I'm glad I did.\n\n2 I — (answer) the questions, so I turned to the next page.\n\n3 I — (buy) a new one, so I've brought the old one back.\n\n4 You — (spend) all that money; now we've got nothing left.\n\n5 They — (push) it into the corner, because it was there already.\n\n6 I — (go) by sea, but flying would have cost more.\n\n7 We — (open) the drawer, seeing that it was already open.\n\n8 She — (open) the drawer, seeing that she found it empty when she did.\n\n9 You — (pay) him a penny; he gets more than enough from me.\n\n10 I — (pay) for it, because it was put on my father's account.\n\n11 We — (say) anything at all, which was a great comfort.\n\n12 You — (say) anything; then he would never have known.\n\n13 I know I — (lock) the door after me, but how was I to know you wanted to come out, too?\n\n14 He — (lock) the door, because somebody else had already done so.\n\n15 We — (wait) long; he was back before you could say 'Jack Robinson'.\n\n16 We — (wait) for her, because she never came at all.\n\n17 You — (stay) if you hadn't wanted to.\n\n18 I — (take) my ink because I knew I should find some there.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "40\n16^{}[] *must, have to, need*",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1000,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.97199176078295,
+      "minimum_page_confidence_score": 0.20991370533608203
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 13,
+        "bottom_right_x": 45,
+        "bottom_right_y": 31,
+        "content": "40",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994899253161078,
+          "minimum_content_confidence_score": 0.9994899253161078,
+          "block_type_confidence_score": 0.9999952133247497
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 13,
+        "bottom_right_x": 303,
+        "bottom_right_y": 32,
+        "content": "16^{}[] *must, have to, need*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.967011053752195,
+          "minimum_content_confidence_score": 0.854961860823481,
+          "block_type_confidence_score": 0.9994192516050477
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 64,
+        "bottom_right_x": 607,
+        "bottom_right_y": 107,
+        "content": "My tea was already sweetened, so I *didn't need to put* any sugar in.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9896679448345631,
+          "minimum_content_confidence_score": 0.931266574955889,
+          "block_type_confidence_score": 0.9999947548186582
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 107,
+        "bottom_right_x": 363,
+        "bottom_right_y": 126,
+        "content": "I drank it as it was.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999384028882782,
+          "minimum_content_confidence_score": 0.9998351607315255,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 125,
+        "bottom_right_x": 590,
+        "bottom_right_y": 146,
+        "content": "I didn't need to change my suit (= didn't have to).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.996489647898574,
+          "minimum_content_confidence_score": 0.9704845729824891,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 146,
+        "bottom_right_x": 477,
+        "bottom_right_y": 166,
+        "content": "So I went in the clothes I had on.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999295858093884,
+          "minimum_content_confidence_score": 0.9996155786644622,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 184,
+        "top_left_y": 166,
+        "bottom_right_x": 444,
+        "bottom_right_y": 186,
+        "content": "I needn't have changed my suit.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990090274322366,
+          "minimum_content_confidence_score": 0.9945966821221289,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 202,
+        "top_left_y": 186,
+        "bottom_right_x": 555,
+        "bottom_right_y": 205,
+        "content": "But I did! I see *now* that it wasn't necessary.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998903321767906,
+          "minimum_content_confidence_score": 0.9945402325559969,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 327,
+        "top_left_y": 220,
+        "bottom_right_x": 430,
+        "bottom_right_y": 233,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990730080567608,
+          "minimum_content_confidence_score": 0.9981713982387759,
+          "block_type_confidence_score": 0.9999959469005546
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 247,
+        "bottom_right_x": 73,
+        "bottom_right_y": 269,
+        "content": "(16.5)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972579681772828,
+          "minimum_content_confidence_score": 0.9972579681772828,
+          "block_type_confidence_score": 0.995742287646244
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 244,
+        "bottom_right_x": 611,
+        "bottom_right_y": 266,
+        "content": "● Insert *didn't need to* or *needn't have* according to the sense:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9960194042376878,
+          "minimum_content_confidence_score": 0.9670604403702638,
+          "block_type_confidence_score": 0.9521817623118352
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 268,
+        "bottom_right_x": 571,
+        "bottom_right_y": 291,
+        "content": "1 I — (answer) the questions, but I'm glad I did.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9879619713885809,
+          "minimum_content_confidence_score": 0.8837709475899588,
+          "block_type_confidence_score": 0.9999598280839657
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 291,
+        "bottom_right_x": 562,
+        "bottom_right_y": 335,
+        "content": "2 I — (answer) the questions, so I turned to the next page.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999459282359211,
+          "minimum_content_confidence_score": 0.9996454780856109,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 335,
+        "bottom_right_x": 596,
+        "bottom_right_y": 378,
+        "content": "3 I — (buy) a new one, so I've brought the old one back.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999229888720638,
+          "minimum_content_confidence_score": 0.9990905457005536,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 378,
+        "bottom_right_x": 569,
+        "bottom_right_y": 422,
+        "content": "4 You — (spend) all that money; now we've got nothing left.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999790343384728,
+          "minimum_content_confidence_score": 0.9999284795451163,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 422,
+        "bottom_right_x": 585,
+        "bottom_right_y": 465,
+        "content": "5 They — (push) it into the corner, because it was there already.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999758517258088,
+          "minimum_content_confidence_score": 0.9999017811931529,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 465,
+        "bottom_right_x": 600,
+        "bottom_right_y": 487,
+        "content": "6 I — (go) by sea, but flying would have cost more.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998838011909087,
+          "minimum_content_confidence_score": 0.9988848499513677,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 487,
+        "bottom_right_x": 543,
+        "bottom_right_y": 531,
+        "content": "7 We — (open) the drawer, seeing that it was already open.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999984318493042,
+          "minimum_content_confidence_score": 0.9999214773487125,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 531,
+        "bottom_right_x": 581,
+        "bottom_right_y": 575,
+        "content": "8 She — (open) the drawer, seeing that she found it empty when she did.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999661580891338,
+          "minimum_content_confidence_score": 0.9998356374028987,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 575,
+        "bottom_right_x": 567,
+        "bottom_right_y": 618,
+        "content": "9 You — (pay) him a penny; he gets more than enough from me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999896689442548,
+          "minimum_content_confidence_score": 0.9999712713868034,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 618,
+        "bottom_right_x": 608,
+        "bottom_right_y": 661,
+        "content": "10 I — (pay) for it, because it was put on my father's account.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999579322943803,
+          "minimum_content_confidence_score": 0.9995836561668822,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 661,
+        "bottom_right_x": 571,
+        "bottom_right_y": 705,
+        "content": "11 We — (say) anything at all, which was a great comfort.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999962283779902,
+          "minimum_content_confidence_score": 0.9999897481064004,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 705,
+        "bottom_right_x": 598,
+        "bottom_right_y": 748,
+        "content": "12 You — (say) anything; then he would never have known.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999845365373623,
+          "minimum_content_confidence_score": 0.999929671466158,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 748,
+        "bottom_right_x": 611,
+        "bottom_right_y": 792,
+        "content": "13 I know I — (lock) the door after me, but how was I to know you wanted to come out, too?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999864656296923,
+          "minimum_content_confidence_score": 0.9990143963295692,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 792,
+        "bottom_right_x": 605,
+        "bottom_right_y": 836,
+        "content": "14 He — (lock) the door, because somebody else had already done so.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999773028797114,
+          "minimum_content_confidence_score": 0.999869363679742,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 836,
+        "bottom_right_x": 600,
+        "bottom_right_y": 879,
+        "content": "15 We — (wait) long; he was back before you could say 'Jack Robinson'.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998534756431485,
+          "minimum_content_confidence_score": 0.9990343841647767,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 879,
+        "bottom_right_x": 617,
+        "bottom_right_y": 901,
+        "content": "16 We — (wait) for her, because she never came at all.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999935043185619,
+          "minimum_content_confidence_score": 0.9999816081538176,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 901,
+        "bottom_right_x": 502,
+        "bottom_right_y": 923,
+        "content": "17 You — (stay) if you hadn't wanted to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999778281388869,
+          "minimum_content_confidence_score": 0.9998646466217276,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 119,
+        "top_left_y": 923,
+        "bottom_right_x": 585,
+        "bottom_right_y": 966,
+        "content": "18 I — (take) my ink because I knew I should find some there.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999739611432829,
+          "minimum_content_confidence_score": 0.9997894015414519,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

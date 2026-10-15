@@ -1,0 +1,330 @@
+{
+  "source": {
+    "id": "pdf-119-right",
+    "pdf_page": 119,
+    "side": "right",
+    "reading_order": 238
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "wh— is better style. The book you spoke of and recommended to me cannot be 'the book of which you spoke and recommended to me.' Similarly, The book I referred to and read out of.\n\nDOUBLE RELATIVES. We normally find the wh— form for the second of two relatives, whether the second one further defines the first or is co-ordinate with it.\n\nYou're the only person I've ever met who could do it.\nThe paper I read every day and which I find so enjoyable.\n\nThese are forms that occasionally occur but which should not be taught.\n\nPREDICATIVE that (nearly always omitted). Wh— forms never found.\n\nShe's not the woman she was before she married.\nI'm not the fool you thought me.\n\n(This is not to be confused with the common colloquial idiom: 'I met Mrs Taylor; Miss Binks that was.')\n\nThat + there is. Never wh— forms, and nearly always omitted.\n\nIt's the only one there is in the shop.\n\nThe number of mistakes there are in this homework is simply astounding.\n\nAll that. We have seen that all as an adjective usually has that, like other superlative ideas. As a pronoun, however, we now prefer all who for persons.\n\nA welcome is extended to all who (or that) wish to come.\n\nIt was all (that) I could do to keep myself from laughing.\n\nUSES OF that AS A SHORT CUT IN CLAUSES OF A RELATIVE TYPE.\n\n(1) Ellipsis\n\nHe did it in the way (that) I should have done it myself. (= in which)\n\nYou can break it with the same ease (that) you can break an egg. (= with which)\n\nN.B. – The preposition implied by that must have appeared already.\n\n(2) That to indicate time\n\nBy the time (that) you have finished, it'll be too late.\nI met her the year (that) my Uncle William died.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n227",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1020,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9767801170239421,
+      "minimum_page_confidence_score": 0.36413024687930773
+    },
+    "blocks": [
+      {
+        "top_left_x": 150,
+        "top_left_y": 18,
+        "bottom_right_x": 263,
+        "bottom_right_y": 37,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992652563733192,
+          "minimum_content_confidence_score": 0.9986044170466184,
+          "block_type_confidence_score": 0.9999939478942609
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 624,
+        "top_left_y": 18,
+        "bottom_right_x": 657,
+        "bottom_right_y": 36,
+        "content": "227",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997485316583766,
+          "minimum_content_confidence_score": 0.9997485316583766,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 71,
+        "bottom_right_x": 659,
+        "bottom_right_y": 152,
+        "content": "wh— is better style. The book you spoke of and recommended to me cannot be 'the book of which you spoke and recommended to me.' Similarly, The book I referred to and read out of.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9888199969501897,
+          "minimum_content_confidence_score": 0.6787037432403191,
+          "block_type_confidence_score": 0.999979258013377
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 151,
+        "bottom_right_x": 659,
+        "bottom_right_y": 211,
+        "content": "DOUBLE RELATIVES. We normally find the wh— form for the second of two relatives, whether the second one further defines the first or is co-ordinate with it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997931072272529,
+          "minimum_content_confidence_score": 0.9966732442140062,
+          "block_type_confidence_score": 0.9999914170043662
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 214,
+        "bottom_right_x": 659,
+        "bottom_right_y": 276,
+        "content": "You're the only person I've ever met who could do it.\nThe paper I read every day and which I find so enjoyable.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9789383136614016,
+          "minimum_content_confidence_score": 0.678598166785381,
+          "block_type_confidence_score": 0.9963468741306785
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 275,
+        "bottom_right_x": 659,
+        "bottom_right_y": 314,
+        "content": "These are forms that occasionally occur but which should not be taught.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996476936507271,
+          "minimum_content_confidence_score": 0.9958810693771311,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 323,
+        "bottom_right_x": 659,
+        "bottom_right_y": 362,
+        "content": "PREDICATIVE that (nearly always omitted). Wh— forms never found.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996931894400978,
+          "minimum_content_confidence_score": 0.9979210294697075,
+          "block_type_confidence_score": 0.9999240694467058
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 366,
+        "bottom_right_x": 640,
+        "bottom_right_y": 407,
+        "content": "She's not the woman she was before she married.\nI'm not the fool you thought me.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999968590830633,
+          "minimum_content_confidence_score": 0.9996116477907309,
+          "block_type_confidence_score": 0.9999870063564401
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 416,
+        "bottom_right_x": 659,
+        "bottom_right_y": 456,
+        "content": "(This is not to be confused with the common colloquial idiom: 'I met Mrs Taylor; Miss Binks that was.')",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998018276134336,
+          "minimum_content_confidence_score": 0.9969057602579148,
+          "block_type_confidence_score": 0.997181514146978
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 455,
+        "bottom_right_x": 659,
+        "bottom_right_y": 495,
+        "content": "That + there is. Never wh— forms, and nearly always omitted.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999223000997906,
+          "minimum_content_confidence_score": 0.9992788274357454,
+          "block_type_confidence_score": 0.9999945164027223
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 499,
+        "bottom_right_x": 533,
+        "bottom_right_y": 520,
+        "content": "It's the only one there is in the shop.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999932603547061,
+          "minimum_content_confidence_score": 0.9999795163272849,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 520,
+        "bottom_right_x": 659,
+        "bottom_right_y": 560,
+        "content": "The number of mistakes there are in this homework is simply astounding.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999146816933665,
+          "minimum_content_confidence_score": 0.9990780516433708,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 569,
+        "bottom_right_x": 659,
+        "bottom_right_y": 629,
+        "content": "All that. We have seen that all as an adjective usually has that, like other superlative ideas. As a pronoun, however, we now prefer all who for persons.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999817749585649,
+          "minimum_content_confidence_score": 0.9998338685088684,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 632,
+        "bottom_right_x": 659,
+        "bottom_right_y": 672,
+        "content": "A welcome is extended to all who (or that) wish to come.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999992678701659,
+          "minimum_content_confidence_score": 0.9999794964234012,
+          "block_type_confidence_score": 0.9999718673999347
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 672,
+        "bottom_right_x": 659,
+        "bottom_right_y": 713,
+        "content": "It was all (that) I could do to keep myself from laughing.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999934712818104,
+          "minimum_content_confidence_score": 0.9999735362389561,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 722,
+        "bottom_right_x": 659,
+        "bottom_right_y": 760,
+        "content": "USES OF that AS A SHORT CUT IN CLAUSES OF A RELATIVE TYPE.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999391047560355,
+          "minimum_content_confidence_score": 0.9997526034713202,
+          "block_type_confidence_score": 0.9956801200192263
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 760,
+        "bottom_right_x": 290,
+        "bottom_right_y": 781,
+        "content": "(1) Ellipsis",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990683312180263,
+          "minimum_content_confidence_score": 0.9986816723759158,
+          "block_type_confidence_score": 0.7947979949282099
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 783,
+        "bottom_right_x": 659,
+        "bottom_right_y": 824,
+        "content": "He did it in the way (that) I should have done it myself. (= in which)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999653038258414,
+          "minimum_content_confidence_score": 0.9997013507411288,
+          "block_type_confidence_score": 0.9999749666753994
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 824,
+        "bottom_right_x": 659,
+        "bottom_right_y": 864,
+        "content": "You can break it with the same ease (that) you can break an egg. (= with which)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998892256817808,
+          "minimum_content_confidence_score": 0.998615039844758,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 872,
+        "bottom_right_x": 659,
+        "bottom_right_y": 913,
+        "content": "N.B. – The preposition implied by that must have appeared already.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9492099862629281,
+          "minimum_content_confidence_score": 0.44194925605634683,
+          "block_type_confidence_score": 0.9999432595995958
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 187,
+        "top_left_y": 915,
+        "bottom_right_x": 401,
+        "bottom_right_y": 936,
+        "content": "(2) That to indicate time",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999881189989944,
+          "minimum_content_confidence_score": 0.9999834301824576,
+          "block_type_confidence_score": 0.9999935627400018
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 223,
+        "top_left_y": 939,
+        "bottom_right_x": 659,
+        "bottom_right_y": 981,
+        "content": "By the time (that) you have finished, it'll be too late.\nI met her the year (that) my Uncle William died.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9979789087614107,
+          "minimum_content_confidence_score": 0.9622001359528476,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

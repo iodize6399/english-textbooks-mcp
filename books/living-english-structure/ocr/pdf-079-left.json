@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-079-left",
+    "pdf_page": 79,
+    "side": "left",
+    "reading_order": 157
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 12,
+    "markdown": "# 31.3\nElementary\n\nSee the Exercise 31.1 note on *unless*.\n\n* * *\n\n● Supply *if* or *unless* in the following sentences, noticing carefully the tense sequence:\n1 He wouldn't have waited — you'd been late.\n2 He won't speak French — he goes to France.\n3 I'll go to the door — I hear the bell.\n4 I shan't go to the door — I hear the bell.\n5 — you ring the bell, the servant will come.\n6 He'll come — you ring the bell.\n7 — you don't ring the bell, the servant won't come.\n8 He won't come — you ring the bell.\n9 — he wrote to me, I should write to him.\n10 I shan't write to him — he writes to me.\n11 — the clock had been right, we would have caught the train.\n12 — my watch hadn't been slow, I wouldn't have been late.\n13 He will not learn much — he works harder.\n14 — you send a telegram now, he'll get it this evening.\n15 — he started immediately, he would arrive by midday.\n16 I should never have found the house — the policeman hadn't helped me.\n17 — you invited him, he would come¹\n18 He would come — you invited him.\n19 — you had invited him, he would have come.\n20 He would have come — you had invited him.\n\n# 31.4\nElementary\n\nLook once more at the three principal types:\n\nTYPE (1) He will come if you wait. (He'll come . . .)\nTYPE (2) He would come if you waited. (He'd come . . .)\nTYPE (3) He would have come if you had waited. (He'd have . . . you'd . . .)\n(Notice in TYPE (2) we can find the last recognizable subjunctive form, *If he (I) were* . . .).\n\n* * *\n\n¹ In the last four sentences the normal spoken English contracted forms (*he would = he'd*, and *he had = he'd*) have been omitted to avoid confusion at this early stage. The teacher might, however, read them to the students with these contractions.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "146\n31 Conditions and Unreal Past",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9726197566445531,
+      "minimum_page_confidence_score": 0.20047434099687955
+    },
+    "blocks": [
+      {
+        "top_left_x": 19,
+        "top_left_y": 23,
+        "bottom_right_x": 52,
+        "bottom_right_y": 43,
+        "content": "146",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998175238758823,
+          "minimum_content_confidence_score": 0.9998175238758823,
+          "block_type_confidence_score": 0.999993892875343
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 109,
+        "top_left_y": 23,
+        "bottom_right_x": 366,
+        "bottom_right_y": 43,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999449819873423,
+          "minimum_content_confidence_score": 0.9998289736000843,
+          "block_type_confidence_score": 0.9995693797030066
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 19,
+        "top_left_y": 78,
+        "bottom_right_x": 112,
+        "bottom_right_y": 120,
+        "content": "# 31.3\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.791231302654072,
+          "minimum_content_confidence_score": 0.6224530597579143,
+          "block_type_confidence_score": 0.7297241309073972
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 78,
+        "bottom_right_x": 447,
+        "bottom_right_y": 99,
+        "content": "See the Exercise 31.1 note on *unless*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9880867281941436,
+          "minimum_content_confidence_score": 0.9168037767006557,
+          "block_type_confidence_score": 0.9997031378243303
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 325,
+        "top_left_y": 112,
+        "bottom_right_x": 426,
+        "bottom_right_y": 126,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.989101213412284,
+          "minimum_content_confidence_score": 0.9739151764989394,
+          "block_type_confidence_score": 0.9999275260049407
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 110,
+        "top_left_y": 137,
+        "bottom_right_x": 606,
+        "bottom_right_y": 704,
+        "content": "● Supply *if* or *unless* in the following sentences, noticing carefully the tense sequence:\n1 He wouldn't have waited — you'd been late.\n2 He won't speak French — he goes to France.\n3 I'll go to the door — I hear the bell.\n4 I shan't go to the door — I hear the bell.\n5 — you ring the bell, the servant will come.\n6 He'll come — you ring the bell.\n7 — you don't ring the bell, the servant won't come.\n8 He won't come — you ring the bell.\n9 — he wrote to me, I should write to him.\n10 I shan't write to him — he writes to me.\n11 — the clock had been right, we would have caught the train.\n12 — my watch hadn't been slow, I wouldn't have been late.\n13 He will not learn much — he works harder.\n14 — you send a telegram now, he'll get it this evening.\n15 — he started immediately, he would arrive by midday.\n16 I should never have found the house — the policeman hadn't helped me.\n17 — you invited him, he would come¹\n18 He would come — you invited him.\n19 — you had invited him, he would have come.\n20 He would have come — you had invited him.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999389445860465,
+          "minimum_content_confidence_score": 0.8922313116850792,
+          "block_type_confidence_score": 0.9858563144237106
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 21,
+        "top_left_y": 724,
+        "bottom_right_x": 114,
+        "bottom_right_y": 766,
+        "content": "# 31.4\nElementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992320707557555,
+          "minimum_content_confidence_score": 0.9973714485819353,
+          "block_type_confidence_score": 0.9999634040871428
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 724,
+        "bottom_right_x": 511,
+        "bottom_right_y": 745,
+        "content": "Look once more at the three principal types:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999993088177371,
+          "minimum_content_confidence_score": 0.9999735538696942,
+          "block_type_confidence_score": 0.9999876023871354
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 745,
+        "bottom_right_x": 608,
+        "bottom_right_y": 866,
+        "content": "TYPE (1) He will come if you wait. (He'll come . . .)\nTYPE (2) He would come if you waited. (He'd come . . .)\nTYPE (3) He would have come if you had waited. (He'd have . . . you'd . . .)\n(Notice in TYPE (2) we can find the last recognizable subjunctive form, *If he (I) were* . . .).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9956240980548623,
+          "minimum_content_confidence_score": 0.9159392010482994,
+          "block_type_confidence_score": 0.7762583561622859
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 328,
+        "top_left_y": 878,
+        "bottom_right_x": 430,
+        "bottom_right_y": 892,
+        "content": "* * *",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999115174722429,
+          "minimum_content_confidence_score": 0.9998511297681834,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 902,
+        "bottom_right_x": 608,
+        "bottom_right_y": 994,
+        "content": "¹ In the last four sentences the normal spoken English contracted forms (*he would = he'd*, and *he had = he'd*) have been omitted to avoid confusion at this early stage. The teacher might, however, read them to the students with these contractions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9904386600749305,
+          "minimum_content_confidence_score": 0.704918537310386,
+          "block_type_confidence_score": 0.9202598037030857
+        },
+        "type": "references"
+      }
+    ]
+  }
+}

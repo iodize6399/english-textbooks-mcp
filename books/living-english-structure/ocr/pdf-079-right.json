@@ -1,0 +1,122 @@
+{
+  "source": {
+    "id": "pdf-079-right",
+    "pdf_page": 79,
+    "side": "right",
+    "reading_order": 158
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:17.067936+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "● Now read each of the following sentences first in the form printed and then in the other two forms:\n1 He'll come if you wait.\n2 If you ring the bell, somebody will come.\n3 You'll catch the train if you take a taxi.\n4 If he wrote to me, I should write to him.\n5 You would have found the book if you had opened the bag.\n6 If he saw you, he would speak to you.\n7 The streets would be wet if it rained.\n8 You'll be ill if you drink that water.\n9 What will you do if you meet Mr Robinson?\n10 I wouldn't have spoken to him even if he had spoken to me.\n11 If a beggar asks you for money, will you give him any?\n12 What would happen if the bridge broke?\n13 If he had fallen into the river, he would have been drowned.\n14 If he had been able to swim, he wouldn't have been drowned.\n15 If you buy that big house, you will need several servants.\n16 Will you be angry if I steal your pocket-knife?\n17 Tommy would be sick if he ate all those chocolates.\n18 If he'd been thirsty, he would have drunk some water.\n19 I shall come and see you if I have time.\n20 If you leave the letter on that table, my sister will post it for you.\n\n31.5\nIntermediate\n\n● Read the following sentences in the form printed, and then in the other two forms:\n\n1 We won't go out unless it stops raining.\n2 If you could come too, it would be very nice.\n3 It would have been better if they hadn't come.\n4 I'll give it to you if you must have one.\n5 If Cyril doesn't object, I shall join you.\n6 He'll certainly do it if it's possible.\n7 If the sun didn't shine, fruit wouldn't ripen.\n8 He would steal it from you if he could.\n9 If you go to town, will you buy something for me?",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "31 Conditions and Unreal Past\n147",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1015,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9781894906628105,
+      "minimum_page_confidence_score": 0.15566156819043658
+    },
+    "blocks": [
+      {
+        "top_left_x": 139,
+        "top_left_y": 18,
+        "bottom_right_x": 400,
+        "bottom_right_y": 38,
+        "content": "31 Conditions and Unreal Past",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996444790549418,
+          "minimum_content_confidence_score": 0.9984644425148939,
+          "block_type_confidence_score": 0.999925182109732
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 617,
+        "top_left_y": 18,
+        "bottom_right_x": 650,
+        "bottom_right_y": 37,
+        "content": "147",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999985218266486,
+          "minimum_content_confidence_score": 0.999985218266486,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 139,
+        "top_left_y": 72,
+        "bottom_right_x": 651,
+        "bottom_right_y": 727,
+        "content": "● Now read each of the following sentences first in the form printed and then in the other two forms:\n1 He'll come if you wait.\n2 If you ring the bell, somebody will come.\n3 You'll catch the train if you take a taxi.\n4 If he wrote to me, I should write to him.\n5 You would have found the book if you had opened the bag.\n6 If he saw you, he would speak to you.\n7 The streets would be wet if it rained.\n8 You'll be ill if you drink that water.\n9 What will you do if you meet Mr Robinson?\n10 I wouldn't have spoken to him even if he had spoken to me.\n11 If a beggar asks you for money, will you give him any?\n12 What would happen if the bridge broke?\n13 If he had fallen into the river, he would have been drowned.\n14 If he had been able to swim, he wouldn't have been drowned.\n15 If you buy that big house, you will need several servants.\n16 Will you be angry if I steal your pocket-knife?\n17 Tommy would be sick if he ate all those chocolates.\n18 If he'd been thirsty, he would have drunk some water.\n19 I shall come and see you if I have time.\n20 If you leave the letter on that table, my sister will post it for you.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994520804537063,
+          "minimum_content_confidence_score": 0.9515751653501201,
+          "block_type_confidence_score": 0.9739971590615413
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 50,
+        "top_left_y": 745,
+        "bottom_right_x": 153,
+        "bottom_right_y": 786,
+        "content": "31.5\nIntermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8631602875576219,
+          "minimum_content_confidence_score": 0.6089111953490368,
+          "block_type_confidence_score": 0.5036756423268111
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 145,
+        "top_left_y": 745,
+        "bottom_right_x": 653,
+        "bottom_right_y": 786,
+        "content": "● Read the following sentences in the form printed, and then in the other two forms:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995614076847524,
+          "minimum_content_confidence_score": 0.9957347232217173,
+          "block_type_confidence_score": 0.5619184806355589
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 149,
+        "top_left_y": 789,
+        "bottom_right_x": 653,
+        "bottom_right_y": 987,
+        "content": "1 We won't go out unless it stops raining.\n2 If you could come too, it would be very nice.\n3 It would have been better if they hadn't come.\n4 I'll give it to you if you must have one.\n5 If Cyril doesn't object, I shall join you.\n6 He'll certainly do it if it's possible.\n7 If the sun didn't shine, fruit wouldn't ripen.\n8 He would steal it from you if he could.\n9 If you go to town, will you buy something for me?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999630415419154,
+          "minimum_content_confidence_score": 0.9977454821979743,
+          "block_type_confidence_score": 0.9999896288992495
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

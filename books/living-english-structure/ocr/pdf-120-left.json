@@ -1,0 +1,382 @@
+{
+  "source": {
+    "id": "pdf-120-left",
+    "pdf_page": 120,
+    "side": "left",
+    "reading_order": 239
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 14,
+    "markdown": "(3) That to indicate place\n\nI'll go anywhere (that) you want me to. (= I'll go to any place (that) you want me to)\n\nN.B. - From this it is but a short step to the forms with introductory it.\n\nIt was there (or while at school, at five o'clock, then, at the seaside, etc.) that I first met my wife.\n\nIt's to you (that) I'm talking.\n\nIt's you (that) I'm talking to.\n\nwhich lead one to consider that a conjunction and not a pronoun. (See note to Exercise 46.4.)\n\nCONNECTIVE RELATIVE\n\nAs, same, such, so + as.\n\nI've done the same as you have. (= I've done the same thing that you have)\n\nShe was as nice as could be.\n\nYou're just the same as you always were.\n\nWh— CLAUSES, DEFINING AND NON-DEFINING\n\nThere are certain cases where the preposition cannot be put at the end of a defining clause, and in such cases the wh— form must be used. The clause may, of course, still be a DEFINING RELATIVE, spoken without a pause or written without a comma.\n\nBeyond, round, around, opposite, besides; than whom, than which (the last two never occur in the spoken language)\n\nDEFINING: The man opposite whom I am sitting has a new book.\n\nDEFINING: This is the point beyond which I've never been.\n\nNON-DEFINING: St John's Glacier, beyond which nobody has ever climbed, is only about 8,000 feet high.\n\nEven with these words the 'end-preposition' form of clause is on the increase.\n\nThe man I'm sitting opposite.\n\nThe fountain they are standing round was built by the Romans.\n\nINSEPARABLE ADVERBIAL PHRASES\n\nThe courage with which he faced his enemies was truly inspiring.\n\n(We cannot say 'the courage he faced his enemies with' as",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "228\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1023,
+      "width": 689
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9780766307370244,
+      "minimum_page_confidence_score": 0.242766255768499
+    },
+    "blocks": [
+      {
+        "top_left_x": 24,
+        "top_left_y": 29,
+        "bottom_right_x": 55,
+        "bottom_right_y": 47,
+        "content": "228",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999529145487657,
+          "minimum_content_confidence_score": 0.9999529145487657,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 114,
+        "top_left_y": 29,
+        "bottom_right_x": 228,
+        "bottom_right_y": 47,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997429551485997,
+          "minimum_content_confidence_score": 0.9995116588411868,
+          "block_type_confidence_score": 0.9999872907111315
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 84,
+        "bottom_right_x": 374,
+        "bottom_right_y": 105,
+        "content": "(3) That to indicate place",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9110947217131841,
+          "minimum_content_confidence_score": 0.5609807913822151,
+          "block_type_confidence_score": 0.6337610818189023
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 108,
+        "bottom_right_x": 621,
+        "bottom_right_y": 151,
+        "content": "I'll go anywhere (that) you want me to. (= I'll go to any place (that) you want me to)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9907417121025595,
+          "minimum_content_confidence_score": 0.8510623103084343,
+          "block_type_confidence_score": 0.9999440939703319
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 151,
+        "top_left_y": 158,
+        "bottom_right_x": 621,
+        "bottom_right_y": 201,
+        "content": "N.B. - From this it is but a short step to the forms with introductory it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9752522890800223,
+          "minimum_content_confidence_score": 0.618339807350573,
+          "block_type_confidence_score": 0.9998701979342554
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 188,
+        "top_left_y": 203,
+        "bottom_right_x": 621,
+        "bottom_right_y": 245,
+        "content": "It was there (or while at school, at five o'clock, then, at the seaside, etc.) that I first met my wife.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978595809988802,
+          "minimum_content_confidence_score": 0.9554357646024656,
+          "block_type_confidence_score": 0.9997685491386525
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 246,
+        "bottom_right_x": 430,
+        "bottom_right_y": 265,
+        "content": "It's to you (that) I'm talking.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999942203076176,
+          "minimum_content_confidence_score": 0.9999839070045525,
+          "block_type_confidence_score": 0.9999986886995842
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 266,
+        "bottom_right_x": 430,
+        "bottom_right_y": 287,
+        "content": "It's you (that) I'm talking to.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999825217910193,
+          "minimum_content_confidence_score": 0.9999434681913052,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 295,
+        "bottom_right_x": 623,
+        "bottom_right_y": 338,
+        "content": "which lead one to consider that a conjunction and not a pronoun. (See note to Exercise 46.4.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998666510378361,
+          "minimum_content_confidence_score": 0.9989557453415573,
+          "block_type_confidence_score": 0.9999927282861518
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 343,
+        "bottom_right_x": 333,
+        "bottom_right_y": 360,
+        "content": "CONNECTIVE RELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999392145599407,
+          "minimum_content_confidence_score": 0.9998822438024941,
+          "block_type_confidence_score": 0.9320727347747189
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 363,
+        "bottom_right_x": 354,
+        "bottom_right_y": 382,
+        "content": "As, same, such, so + as.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998627824229375,
+          "minimum_content_confidence_score": 0.9993563267907829,
+          "block_type_confidence_score": 0.9999827149515604
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 384,
+        "bottom_right_x": 623,
+        "bottom_right_y": 425,
+        "content": "I've done the same as you have. (= I've done the same thing that you have)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999832819215161,
+          "minimum_content_confidence_score": 0.9997678342233,
+          "block_type_confidence_score": 0.999997854237364
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 190,
+        "top_left_y": 426,
+        "bottom_right_x": 423,
+        "bottom_right_y": 445,
+        "content": "She was as nice as could be.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999968792870421,
+          "minimum_content_confidence_score": 0.9999934435319415,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 192,
+        "top_left_y": 446,
+        "bottom_right_x": 532,
+        "bottom_right_y": 467,
+        "content": "You're just the same as you always were.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999921300376376,
+          "minimum_content_confidence_score": 0.9999514645266208,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 477,
+        "bottom_right_x": 518,
+        "bottom_right_y": 497,
+        "content": "Wh— CLAUSES, DEFINING AND NON-DEFINING",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9760728779441241,
+          "minimum_content_confidence_score": 0.8901005864023105,
+          "block_type_confidence_score": 0.9992391895303306
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 155,
+        "top_left_y": 497,
+        "bottom_right_x": 626,
+        "bottom_right_y": 597,
+        "content": "There are certain cases where the preposition cannot be put at the end of a defining clause, and in such cases the wh— form must be used. The clause may, of course, still be a DEFINING RELATIVE, spoken without a pause or written without a comma.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9984769790615247,
+          "minimum_content_confidence_score": 0.9392425364497531,
+          "block_type_confidence_score": 0.9999974966112362
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 156,
+        "top_left_y": 598,
+        "bottom_right_x": 626,
+        "bottom_right_y": 640,
+        "content": "Beyond, round, around, opposite, besides; than whom, than which (the last two never occur in the spoken language)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999803351790426,
+          "minimum_content_confidence_score": 0.9999200173082977,
+          "block_type_confidence_score": 0.9999758010998766
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 194,
+        "top_left_y": 642,
+        "bottom_right_x": 627,
+        "bottom_right_y": 682,
+        "content": "DEFINING: The man opposite whom I am sitting has a new book.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999257431993455,
+          "minimum_content_confidence_score": 0.9993198970327569,
+          "block_type_confidence_score": 0.9706036484335853
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 194,
+        "top_left_y": 683,
+        "bottom_right_x": 627,
+        "bottom_right_y": 723,
+        "content": "DEFINING: This is the point beyond which I've never been.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997541575967842,
+          "minimum_content_confidence_score": 0.9975867238574921,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 195,
+        "top_left_y": 724,
+        "bottom_right_x": 627,
+        "bottom_right_y": 785,
+        "content": "NON-DEFINING: St John's Glacier, beyond which nobody has ever climbed, is only about 8,000 feet high.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999883364124461,
+          "minimum_content_confidence_score": 0.999921890876298,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 159,
+        "top_left_y": 785,
+        "bottom_right_x": 629,
+        "bottom_right_y": 826,
+        "content": "Even with these words the 'end-preposition' form of clause is on the increase.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999970841952397,
+          "minimum_content_confidence_score": 0.9999893575455424,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 830,
+        "bottom_right_x": 443,
+        "bottom_right_y": 852,
+        "content": "The man I'm sitting opposite.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999799646296419,
+          "minimum_content_confidence_score": 0.9999208037687587,
+          "block_type_confidence_score": 0.9999991655356624
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 852,
+        "bottom_right_x": 629,
+        "bottom_right_y": 892,
+        "content": "The fountain they are standing round was built by the Romans.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999887169782233,
+          "minimum_content_confidence_score": 0.9999100050888825,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 161,
+        "top_left_y": 905,
+        "bottom_right_x": 428,
+        "bottom_right_y": 923,
+        "content": "INSEPARABLE ADVERBIAL PHRASES",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9991255337151648,
+          "minimum_content_confidence_score": 0.9977394077274411,
+          "block_type_confidence_score": 0.9999045224793639
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 197,
+        "top_left_y": 926,
+        "bottom_right_x": 629,
+        "bottom_right_y": 970,
+        "content": "The courage with which he faced his enemies was truly inspiring.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999891060579191,
+          "minimum_content_confidence_score": 0.9999382534007133,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 162,
+        "top_left_y": 977,
+        "bottom_right_x": 629,
+        "bottom_right_y": 999,
+        "content": "(We cannot say 'the courage he faced his enemies with' as",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999502987431608,
+          "minimum_content_confidence_score": 0.9998196688755632,
+          "block_type_confidence_score": 0.9999247845974613
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

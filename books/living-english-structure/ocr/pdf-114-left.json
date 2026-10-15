@@ -1,0 +1,239 @@
+{
+  "source": {
+    "id": "pdf-114-left",
+    "pdf_page": 114,
+    "side": "left",
+    "reading_order": 227
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "22 The glass — you are drinking out of hasn't been washed.\n23 A woman — mind is made up is more obstinate than a mule.\n24 She's the most beautiful woman — has appeared on this stage.\n25 The meat — we had for lunch was very tough.\n\n# **46.4**\n**Elementary**\n**and**\n**Intermediate**\n**NON-**\n**DEFINING**\n**RELATIVES**\n\nNON-DEFINING RELATIVES are not very common in speech, but occur quite frequently in the written language. The reason is that speech prefers simple sentences, and the NON-DEFINING relative is a deliberate inclusion of additional matter within the sentence. Often the non-defining clause comes from a stylistic combination of two distinct statements (see Exercise 46.9).\n\nCompare the following examples:\n\n(1) DEFINING: The boy (that) you saw yesterday is coming to tea.\n(2) NON-DEFINING: My brother Dick, whom you saw yesterday, is coming to tea.\n\nThe relative clause in (2) can be left out without any material damage to the sense, whereas the same omission in (1) robs the sentence of a most essential fact. The normal conversational form of (2) would probably be: 'My brother Dick's coming to tea. You saw him yesterday, you know,' or, 'You remember you saw my brother Dick yesterday? Well, he's coming to tea.'\n\nThe non-defining relative is ALWAYS preceded by a comma in writing. This is very important in the written language, because only *whom* belongs exclusively to the non-defining relative, and such sentences as:\n\nNON-DEFINING: My wife, who lives in New York, has just written me a letter.\n\nDEFINING: My wife who lives in New York has just written me a letter.\n\nhave startlingly different meanings.\n\nNON-DEFINING: He has two sisters, who work in the Ministry. (= only two sisters)\n\nDEFINING: He has two sisters who work in the Ministry. (= and presumably other sisters who work elsewhere)\n\nThe two sentences with NON-DEFINING clauses show the two principal uses of the non-defining relative.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "216\n46 Relatives",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1009,
+      "width": 671
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9722389869775013,
+      "minimum_page_confidence_score": 0.3012684585459185
+    },
+    "blocks": [
+      {
+        "top_left_x": 27,
+        "top_left_y": 22,
+        "bottom_right_x": 61,
+        "bottom_right_y": 40,
+        "content": "216",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999948146649529,
+          "minimum_content_confidence_score": 0.999948146649529,
+          "block_type_confidence_score": 0.9999987895695205
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 22,
+        "bottom_right_x": 228,
+        "bottom_right_y": 40,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994362835749757,
+          "minimum_content_confidence_score": 0.9989040374124287,
+          "block_type_confidence_score": 0.9997394243327649
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 116,
+        "top_left_y": 73,
+        "bottom_right_x": 586,
+        "bottom_right_y": 227,
+        "content": "22 The glass — you are drinking out of hasn't been washed.\n23 A woman — mind is made up is more obstinate than a mule.\n24 She's the most beautiful woman — has appeared on this stage.\n25 The meat — we had for lunch was very tough.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989945401560492,
+          "minimum_content_confidence_score": 0.9696260862911039,
+          "block_type_confidence_score": 0.9840703140042392
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 27,
+        "top_left_y": 247,
+        "bottom_right_x": 130,
+        "bottom_right_y": 387,
+        "content": "# **46.4**\n**Elementary**\n**and**\n**Intermediate**\n**NON-**\n**DEFINING**\n**RELATIVES**",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9492087387137541,
+          "minimum_content_confidence_score": 0.7613256559392453,
+          "block_type_confidence_score": 0.5270689553527946
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 245,
+        "bottom_right_x": 613,
+        "bottom_right_y": 387,
+        "content": "NON-DEFINING RELATIVES are not very common in speech, but occur quite frequently in the written language. The reason is that speech prefers simple sentences, and the NON-DEFINING relative is a deliberate inclusion of additional matter within the sentence. Often the non-defining clause comes from a stylistic combination of two distinct statements (see Exercise 46.9).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999483359675073,
+          "minimum_content_confidence_score": 0.9986854592068142,
+          "block_type_confidence_score": 0.9999209704854103
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 386,
+        "bottom_right_x": 427,
+        "bottom_right_y": 406,
+        "content": "Compare the following examples:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999968260705082,
+          "minimum_content_confidence_score": 0.9999929070995067,
+          "block_type_confidence_score": 0.9999985694905718
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 406,
+        "bottom_right_x": 613,
+        "bottom_right_y": 490,
+        "content": "(1) DEFINING: The boy (that) you saw yesterday is coming to tea.\n(2) NON-DEFINING: My brother Dick, whom you saw yesterday, is coming to tea.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9992223671658813,
+          "minimum_content_confidence_score": 0.9849580465878944,
+          "block_type_confidence_score": 0.9993591841148068
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 497,
+        "bottom_right_x": 615,
+        "bottom_right_y": 638,
+        "content": "The relative clause in (2) can be left out without any material damage to the sense, whereas the same omission in (1) robs the sentence of a most essential fact. The normal conversational form of (2) would probably be: 'My brother Dick's coming to tea. You saw him yesterday, you know,' or, 'You remember you saw my brother Dick yesterday? Well, he's coming to tea.'",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999726722551998,
+          "minimum_content_confidence_score": 0.9996417097564974,
+          "block_type_confidence_score": 0.9999952316511552
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 636,
+        "bottom_right_x": 615,
+        "bottom_right_y": 717,
+        "content": "The non-defining relative is ALWAYS preceded by a comma in writing. This is very important in the written language, because only *whom* belongs exclusively to the non-defining relative, and such sentences as:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9955967123007966,
+          "minimum_content_confidence_score": 0.8601719242936688,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 719,
+        "bottom_right_x": 615,
+        "bottom_right_y": 761,
+        "content": "NON-DEFINING: My wife, who lives in New York, has just written me a letter.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999841569236,
+          "minimum_content_confidence_score": 0.9999114353416858,
+          "block_type_confidence_score": 0.9932239990806724
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 760,
+        "bottom_right_x": 615,
+        "bottom_right_y": 800,
+        "content": "DEFINING: My wife who lives in New York has just written me a letter.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999860274831394,
+          "minimum_content_confidence_score": 0.9998666225917704,
+          "block_type_confidence_score": 0.9999933243243502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 810,
+        "bottom_right_x": 439,
+        "bottom_right_y": 830,
+        "content": "have startlingly different meanings.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999824123888757,
+          "minimum_content_confidence_score": 0.9995935423945035,
+          "block_type_confidence_score": 0.9999899865198352
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 832,
+        "bottom_right_x": 615,
+        "bottom_right_y": 874,
+        "content": "NON-DEFINING: He has two sisters, who work in the Ministry. (= only two sisters)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.99989459093161,
+          "minimum_content_confidence_score": 0.9988190784790185,
+          "block_type_confidence_score": 0.9999930859092101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 191,
+        "top_left_y": 873,
+        "bottom_right_x": 615,
+        "bottom_right_y": 933,
+        "content": "DEFINING: He has two sisters who work in the Ministry. (= and presumably other sisters who work elsewhere)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999557092225029,
+          "minimum_content_confidence_score": 0.9994451503420663,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 154,
+        "top_left_y": 942,
+        "bottom_right_x": 615,
+        "bottom_right_y": 984,
+        "content": "The two sentences with NON-DEFINING clauses show the two principal uses of the non-defining relative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999918819195682,
+          "minimum_content_confidence_score": 0.9999523017088242,
+          "block_type_confidence_score": 0.9999712713868034
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

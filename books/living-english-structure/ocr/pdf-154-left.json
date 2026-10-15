@@ -1,0 +1,317 @@
+{
+  "source": {
+    "id": "pdf-154-left",
+    "pdf_page": 154,
+    "side": "left",
+    "reading_order": 307
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:46.671435+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 2,
+    "markdown": "Adverbial particles are most commonly found as part of COMPOUND VERBS (or PHRASAL VERBS). As with similar compounds made with prepositions, these are of two kinds:\n\n(1) verb and adverb keeping their own basic meanings:\n*go in; walk away; come out; pay back, etc.*\n(2) combining to give a new idiomatic meaning:\n*keep on (continue); bring about (cause); give in (yield); take off (leave the ground or imitate); blow up (explode), etc.*\n\nSome of these compounds can be followed by a preposition to make a further combination: *go in for* (practise for pleasure); *come out with* (say suddenly); *get down to* (apply oneself); *put up with* (suffer, bear), etc.\n\nIt isn't always easy for a foreign student to distinguish between a PREPOSITIONAL and an ADVERBIAL compound verb. He probably *looks upon* (prep.) these little words as annoying mysteries and then *looks up* (adv.) their meaning in a dictionary. These are the main differences.\n\nA PREPOSITION is closely tied to the (pro)noun it controls.\n\nHe looked/ *at the boys*. He spoke/ *to them*. He spoke/ *about his travels*. He looked/ *out of the window*.\n\nAn ADVERB PARTICLE is closely tied to its verb (as if by a hyphen):\n\nPlease *put-out*/ the light.\n\nWe *blew-up*/ the bridge and the rebels *gave-in*.\n\nWORD-ORDER. Except as indicated in the notes to Exercise 56.1, a PREPOSITION must precede its (pro)noun object. An ADVERB PARTICLE always FOLLOWS a pronoun object. It usually follows the object even when this is a noun, unless the noun-phrase object is a long one, which would leave the verb too far from its particle.\n\nLook the word up in the index.\n\nLook up the word in the index.\n\nLook up all the difficult words and phrases in the index.\n\n(the particle *up* can only precede such a long object)\n\nThe distinct word-orders of PREPOSITION and ADVERB can be seen when the object is a pronoun.\n\nADVERB PARTICLE: Look the word up.\n\nLook it up.\n\nPREPOSITION: Look up the chimney.\n\nLook up it.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "296\n56 Prepositions and Adverbial Particles",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1005,
+      "width": 686
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9739181361681696,
+      "minimum_page_confidence_score": 0.31897931314776923
+    },
+    "blocks": [
+      {
+        "top_left_x": 21,
+        "top_left_y": 9,
+        "bottom_right_x": 55,
+        "bottom_right_y": 28,
+        "content": "296",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999401605169844,
+          "minimum_content_confidence_score": 0.9999401605169844,
+          "block_type_confidence_score": 0.9999998349410235
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 111,
+        "top_left_y": 8,
+        "bottom_right_x": 433,
+        "bottom_right_y": 28,
+        "content": "56 Prepositions and Adverbial Particles",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998577769069377,
+          "minimum_content_confidence_score": 0.9996132036865182,
+          "block_type_confidence_score": 0.9994595643770445
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 62,
+        "bottom_right_x": 608,
+        "bottom_right_y": 143,
+        "content": "Adverbial particles are most commonly found as part of COMPOUND VERBS (or PHRASAL VERBS). As with similar compounds made with prepositions, these are of two kinds:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9964030686682315,
+          "minimum_content_confidence_score": 0.9328471694521006,
+          "block_type_confidence_score": 0.9999958276922101
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 165,
+        "top_left_y": 146,
+        "bottom_right_x": 608,
+        "bottom_right_y": 267,
+        "content": "(1) verb and adverb keeping their own basic meanings:\n*go in; walk away; come out; pay back, etc.*\n(2) combining to give a new idiomatic meaning:\n*keep on (continue); bring about (cause); give in (yield); take off (leave the ground or imitate); blow up (explode), etc.*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9827069145369423,
+          "minimum_content_confidence_score": 0.7531809766538141,
+          "block_type_confidence_score": 0.9999856950894335
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 275,
+        "bottom_right_x": 608,
+        "bottom_right_y": 356,
+        "content": "Some of these compounds can be followed by a preposition to make a further combination: *go in for* (practise for pleasure); *come out with* (say suddenly); *get down to* (apply oneself); *put up with* (suffer, bear), etc.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9987457455365163,
+          "minimum_content_confidence_score": 0.9608148241719157,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 355,
+        "bottom_right_x": 608,
+        "bottom_right_y": 455,
+        "content": "It isn't always easy for a foreign student to distinguish between a PREPOSITIONAL and an ADVERBIAL compound verb. He probably *looks upon* (prep.) these little words as annoying mysteries and then *looks up* (adv.) their meaning in a dictionary. These are the main differences.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998078699977717,
+          "minimum_content_confidence_score": 0.9958717599000393,
+          "block_type_confidence_score": 0.9999988079084972
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 463,
+        "bottom_right_x": 608,
+        "bottom_right_y": 485,
+        "content": "A PREPOSITION is closely tied to the (pro)noun it controls.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998699978127948,
+          "minimum_content_confidence_score": 0.9993323581538606,
+          "block_type_confidence_score": 0.9999901057270286
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 487,
+        "bottom_right_x": 608,
+        "bottom_right_y": 528,
+        "content": "He looked/ *at the boys*. He spoke/ *to them*. He spoke/ *about his travels*. He looked/ *out of the window*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9919949602787244,
+          "minimum_content_confidence_score": 0.9138526875601768,
+          "block_type_confidence_score": 0.9982394036783664
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 537,
+        "bottom_right_x": 608,
+        "bottom_right_y": 578,
+        "content": "An ADVERB PARTICLE is closely tied to its verb (as if by a hyphen):",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989822269394052,
+          "minimum_content_confidence_score": 0.9864725957785904,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 580,
+        "bottom_right_x": 383,
+        "bottom_right_y": 602,
+        "content": "Please *put-out*/ the light.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9938481131065802,
+          "minimum_content_confidence_score": 0.9774412121328704,
+          "block_type_confidence_score": 0.997812299277955
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 601,
+        "bottom_right_x": 553,
+        "bottom_right_y": 622,
+        "content": "We *blew-up*/ the bridge and the rebels *gave-in*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999792403829758,
+          "minimum_content_confidence_score": 0.9987444737376184,
+          "block_type_confidence_score": 0.9999957084838798
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 629,
+        "bottom_right_x": 610,
+        "bottom_right_y": 748,
+        "content": "WORD-ORDER. Except as indicated in the notes to Exercise 56.1, a PREPOSITION must precede its (pro)noun object. An ADVERB PARTICLE always FOLLOWS a pronoun object. It usually follows the object even when this is a noun, unless the noun-phrase object is a long one, which would leave the verb too far from its particle.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999267750938223,
+          "minimum_content_confidence_score": 0.9991082380546922,
+          "block_type_confidence_score": 0.9999271684321565
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 751,
+        "bottom_right_x": 442,
+        "bottom_right_y": 773,
+        "content": "Look the word up in the index.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9846486556691948,
+          "minimum_content_confidence_score": 0.8927019757763315,
+          "block_type_confidence_score": 0.9947736660867827
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 773,
+        "bottom_right_x": 442,
+        "bottom_right_y": 793,
+        "content": "Look up the word in the index.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999980623156621,
+          "minimum_content_confidence_score": 0.9999390877636344,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 793,
+        "bottom_right_x": 610,
+        "bottom_right_y": 831,
+        "content": "Look up all the difficult words and phrases in the index.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999906043779727,
+          "minimum_content_confidence_score": 0.9999645960934689,
+          "block_type_confidence_score": 0.9999990463265931
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 831,
+        "bottom_right_x": 601,
+        "bottom_right_y": 852,
+        "content": "(the particle *up* can only precede such a long object)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999311440573336,
+          "minimum_content_confidence_score": 0.9997390190079181,
+          "block_type_confidence_score": 0.9999475506632682
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 148,
+        "top_left_y": 859,
+        "bottom_right_x": 610,
+        "bottom_right_y": 900,
+        "content": "The distinct word-orders of PREPOSITION and ADVERB can be seen when the object is a pronoun.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999749150436826,
+          "minimum_content_confidence_score": 0.9999000822699824,
+          "block_type_confidence_score": 0.9999960661089133
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 903,
+        "bottom_right_x": 491,
+        "bottom_right_y": 924,
+        "content": "ADVERB PARTICLE: Look the word up.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994929452035647,
+          "minimum_content_confidence_score": 0.9972136401556128,
+          "block_type_confidence_score": 0.9982780119474487
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 924,
+        "bottom_right_x": 284,
+        "bottom_right_y": 943,
+        "content": "Look it up.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999490809033199,
+          "minimum_content_confidence_score": 0.9999176331638507,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 943,
+        "bottom_right_x": 475,
+        "bottom_right_y": 964,
+        "content": "PREPOSITION: Look up the chimney.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999158304708059,
+          "minimum_content_confidence_score": 0.999633987683733,
+          "block_type_confidence_score": 0.9999994039539004
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 185,
+        "top_left_y": 964,
+        "bottom_right_x": 284,
+        "bottom_right_y": 983,
+        "content": "Look up it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999695034200959,
+          "minimum_content_confidence_score": 0.9999567885470696,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "source": {
+    "id": "pdf-116-right",
+    "pdf_page": 116,
+    "side": "right",
+    "reading_order": 232
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.680005+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 7,
+    "markdown": "46.7\n\nIntermediate\n\nMIXED\n\nTYPES\n\nTwo other important occasions where *that* is preferred to *who* are:\n\nAfter an interrogative.\n\nWho that understands music could say his playing was good? (More usually found in writing than in speech.)\n\nAfter *much*; *little*; *few*. (Compare *all*, *any*, *only*, Exercise 46.3.)\n\nThe few that came were enthusiastic.\n\n\\* \\* \\*\n\n- ● Combine the following ideas by means of DEFINING or NON-DEFINING relatives, using a contact-clause wherever possible:\n- 1 Is that the new station? You pointed it out to me last week.\n- 2 This is the man. I gave money to him this morning.\n- 3 Anne Boleyn was Henry VIII's second wife. Henry executed her in 1536.\n- 4 Who would look elsewhere, as Henry did? He had such a charming wife.\n- 5 An old soldier sits begging on the pavement. His legs were shot away in the last war.\n- 6 His stepmother was not very kind to him. He was living with her.\n- 7 He had seen only a few policemen. They were all young. (Begin with 'The few . . .')\n- 8 Last week I went to see the country town. He used to live in that town.\n- 9 Bring me the cigarettes. I left them on the table. The table stands by the window.\n- 10 Mozart spent the last ten years of his life in Vienna. His birthplace was Salzburg.\n- 11 What was the name of the girl? She came here last night.\n- 12 This large map belonged to Ptolemy XI. In the middle of it you can see part of the Arctic Circle.\n- 13 We now come to Euclid. Readers are well acquainted with his work.\n- 14 I'm sure it was Cyril. He told her to do it.\n- 15 The matter has been settled. You were arguing about it last night.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "46 Relatives\n221",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1008,
+      "width": 681
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9714076009805709,
+      "minimum_page_confidence_score": 0.20194212707910852
+    },
+    "blocks": [
+      {
+        "top_left_x": 146,
+        "top_left_y": 12,
+        "bottom_right_x": 260,
+        "bottom_right_y": 31,
+        "content": "46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990507159075717,
+          "minimum_content_confidence_score": 0.9981444645150535,
+          "block_type_confidence_score": 0.9999926274498833
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 620,
+        "top_left_y": 12,
+        "bottom_right_x": 653,
+        "bottom_right_y": 30,
+        "content": "221",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9990581807948539,
+          "minimum_content_confidence_score": 0.9990581807948539,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 66,
+        "bottom_right_x": 95,
+        "bottom_right_y": 86,
+        "content": "46.7",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9983353293888874,
+          "minimum_content_confidence_score": 0.9983353293888874,
+          "block_type_confidence_score": 0.6195117924917563
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 88,
+        "bottom_right_x": 158,
+        "bottom_right_y": 107,
+        "content": "Intermediate",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999066490840233,
+          "minimum_content_confidence_score": 0.9999066490840233,
+          "block_type_confidence_score": 0.9889347076643646
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 110,
+        "bottom_right_x": 105,
+        "bottom_right_y": 126,
+        "content": "MIXED",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999843124566685,
+          "minimum_content_confidence_score": 0.9999843124566685,
+          "block_type_confidence_score": 0.999921208870625
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 52,
+        "top_left_y": 129,
+        "bottom_right_x": 103,
+        "bottom_right_y": 146,
+        "content": "TYPES",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999185646371404,
+          "minimum_content_confidence_score": 0.9999185646371404,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 182,
+        "top_left_y": 66,
+        "bottom_right_x": 655,
+        "bottom_right_y": 111,
+        "content": "Two other important occasions where *that* is preferred to *who* are:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9840916190349085,
+          "minimum_content_confidence_score": 0.8697851340859697,
+          "block_type_confidence_score": 0.9999722250068926
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 111,
+        "bottom_right_x": 386,
+        "bottom_right_y": 132,
+        "content": "After an interrogative.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998182149313513,
+          "minimum_content_confidence_score": 0.9995773013646319,
+          "block_type_confidence_score": 0.9984934411678881
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 131,
+        "bottom_right_x": 655,
+        "bottom_right_y": 191,
+        "content": "Who that understands music could say his playing was good? (More usually found in writing than in speech.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998378505205005,
+          "minimum_content_confidence_score": 0.9723351974024098,
+          "block_type_confidence_score": 0.9999417100552707
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 201,
+        "top_left_y": 191,
+        "bottom_right_x": 655,
+        "bottom_right_y": 231,
+        "content": "After *much*; *little*; *few*. (Compare *all*, *any*, *only*, Exercise 46.3.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9834572722272398,
+          "minimum_content_confidence_score": 0.8779481626091208,
+          "block_type_confidence_score": 0.9999445707518435
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 219,
+        "top_left_y": 231,
+        "bottom_right_x": 521,
+        "bottom_right_y": 250,
+        "content": "The few that came were enthusiastic.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9924813267657219,
+          "minimum_content_confidence_score": 0.9560081251122732,
+          "block_type_confidence_score": 0.9999976158197796
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 362,
+        "top_left_y": 265,
+        "bottom_right_x": 466,
+        "bottom_right_y": 279,
+        "content": "\\* \\* \\*",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9088104843279136,
+          "minimum_content_confidence_score": 0.7268604978279323,
+          "block_type_confidence_score": 0.9999710329823779
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 146,
+        "top_left_y": 288,
+        "bottom_right_x": 655,
+        "bottom_right_y": 983,
+        "content": "- ● Combine the following ideas by means of DEFINING or NON-DEFINING relatives, using a contact-clause wherever possible:\n- 1 Is that the new station? You pointed it out to me last week.\n- 2 This is the man. I gave money to him this morning.\n- 3 Anne Boleyn was Henry VIII's second wife. Henry executed her in 1536.\n- 4 Who would look elsewhere, as Henry did? He had such a charming wife.\n- 5 An old soldier sits begging on the pavement. His legs were shot away in the last war.\n- 6 His stepmother was not very kind to him. He was living with her.\n- 7 He had seen only a few policemen. They were all young. (Begin with 'The few . . .')\n- 8 Last week I went to see the country town. He used to live in that town.\n- 9 Bring me the cigarettes. I left them on the table. The table stands by the window.\n- 10 Mozart spent the last ten years of his life in Vienna. His birthplace was Salzburg.\n- 11 What was the name of the girl? She came here last night.\n- 12 This large map belonged to Ptolemy XI. In the middle of it you can see part of the Arctic Circle.\n- 13 We now come to Euclid. Readers are well acquainted with his work.\n- 14 I'm sure it was Cyril. He told her to do it.\n- 15 The matter has been settled. You were arguing about it last night.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9965051822534471,
+          "minimum_content_confidence_score": 0.6938251130954628,
+          "block_type_confidence_score": 0.9996173654488727
+        },
+        "type": "list"
+      }
+    ]
+  }
+}

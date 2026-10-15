@@ -1,0 +1,187 @@
+{
+  "source": {
+    "id": "pdf-169-right",
+    "pdf_page": 169,
+    "side": "right",
+    "reading_order": 338
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:48.625177+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 1,
+    "markdown": "11 (You'd) better buy one now in case . . .\n12 I've ordered a deep-freeze so (that) . . .\n13 It was such a dull party (that) . . .\n14 He hid behind the door in order that . . .\n15 I didn't come any earlier for fear . . .\n\n58.4\n\nHere are seven short sentences or clauses:\n\na Just sit where you like.\nb No, keep it as long as you wish.\nc Just do as I tell you.\nd Well, it's not so bad as I thought.\ne The earlier, the better.\nf In case it gets broken.\ng Well, fasten them like I do. (See note in D above.)\n\n● Use one of the above as a response to each of the remarks below. The teacher should make the remark, and the student choose one of the above seven phrases as a suitable response to it.\n\n1 Which is my place?\n2 I expect you found a lot of mistakes in my homework.\n3 Why are you wrapping the vase in a cloth?\n4 Let's see if we can start before breakfast, shall we?\n5 You don't mind my borrowing this, I hope?\n6 That's a dull grammar you're reading, isn't it?\n7 My skis are slipping.\n8 Why do you keep your pen in your inside pocket?\n9 My entrance ticket hasn't (got) a number on it.\n10 Would you like me to bring the book back next week?\n11 My papers won't stay in the folder.\n12 What are you putting the microscope away for?\n13 I hope I don't do anything to displease the visitors.\n14 I hear you've hurt your finger badly.\n15 What about leaving this dull party before the end?\n\nM CONDITION\n\n(See Section 31.)\n\nInfinitive phrases, often a shorter way of expressing a clause, can be practised in Section 38.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "58 Appendix on Clauses\n327",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1013,
+      "width": 668
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9722069966915221,
+      "minimum_page_confidence_score": 0.18800816360835904
+    },
+    "blocks": [
+      {
+        "top_left_x": 142,
+        "top_left_y": 16,
+        "bottom_right_x": 350,
+        "bottom_right_y": 37,
+        "content": "58 Appendix on Clauses",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9995374853935505,
+          "minimum_content_confidence_score": 0.998348464808862,
+          "block_type_confidence_score": 0.9998178274003491
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 621,
+        "top_left_y": 16,
+        "bottom_right_x": 654,
+        "bottom_right_y": 34,
+        "content": "327",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999061910914088,
+          "minimum_content_confidence_score": 0.9999061910914088,
+          "block_type_confidence_score": 0.9999999449803327
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 142,
+        "top_left_y": 70,
+        "bottom_right_x": 560,
+        "bottom_right_y": 179,
+        "content": "11 (You'd) better buy one now in case . . .\n12 I've ordered a deep-freeze so (that) . . .\n13 It was such a dull party (that) . . .\n14 He hid behind the door in order that . . .\n15 I didn't come any earlier for fear . . .",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9989275501290147,
+          "minimum_content_confidence_score": 0.9739990821271884,
+          "block_type_confidence_score": 0.9769865753338114
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 51,
+        "top_left_y": 199,
+        "bottom_right_x": 94,
+        "bottom_right_y": 219,
+        "content": "58.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998660920866611,
+          "minimum_content_confidence_score": 0.9998660920866611,
+          "block_type_confidence_score": 0.8745922641637134
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 181,
+        "top_left_y": 199,
+        "bottom_right_x": 524,
+        "bottom_right_y": 219,
+        "content": "Here are seven short sentences or clauses:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999958939384469,
+          "minimum_content_confidence_score": 0.9999896157025173,
+          "block_type_confidence_score": 0.9999389685688888
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 218,
+        "top_left_y": 223,
+        "bottom_right_x": 654,
+        "bottom_right_y": 363,
+        "content": "a Just sit where you like.\nb No, keep it as long as you wish.\nc Just do as I tell you.\nd Well, it's not so bad as I thought.\ne The earlier, the better.\nf In case it gets broken.\ng Well, fasten them like I do. (See note in D above.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999783207275585,
+          "minimum_content_confidence_score": 0.9997919038886942,
+          "block_type_confidence_score": 0.9950384534888996
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 150,
+        "top_left_y": 366,
+        "bottom_right_x": 656,
+        "bottom_right_y": 446,
+        "content": "● Use one of the above as a response to each of the remarks below. The teacher should make the remark, and the student choose one of the above seven phrases as a suitable response to it.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9946624619560037,
+          "minimum_content_confidence_score": 0.8029653564181872,
+          "block_type_confidence_score": 0.9239735487137168
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 448,
+        "bottom_right_x": 651,
+        "bottom_right_y": 862,
+        "content": "1 Which is my place?\n2 I expect you found a lot of mistakes in my homework.\n3 Why are you wrapping the vase in a cloth?\n4 Let's see if we can start before breakfast, shall we?\n5 You don't mind my borrowing this, I hope?\n6 That's a dull grammar you're reading, isn't it?\n7 My skis are slipping.\n8 Why do you keep your pen in your inside pocket?\n9 My entrance ticket hasn't (got) a number on it.\n10 Would you like me to bring the book back next week?\n11 My papers won't stay in the folder.\n12 What are you putting the microscope away for?\n13 I hope I don't do anything to displease the visitors.\n14 I hear you've hurt your finger badly.\n15 What about leaving this dull party before the end?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999756209808099,
+          "minimum_content_confidence_score": 0.9989701328084182,
+          "block_type_confidence_score": 0.99998879445232
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 144,
+        "top_left_y": 883,
+        "bottom_right_x": 271,
+        "bottom_right_y": 902,
+        "content": "M CONDITION",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999793696055014,
+          "minimum_content_confidence_score": 0.9996080743037288,
+          "block_type_confidence_score": 0.9616712164784522
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 907,
+        "bottom_right_x": 322,
+        "bottom_right_y": 927,
+        "content": "(See Section 31.)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999783614979195,
+          "minimum_content_confidence_score": 0.9999405680958254,
+          "block_type_confidence_score": 0.9998883133686028
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 183,
+        "top_left_y": 946,
+        "bottom_right_x": 659,
+        "bottom_right_y": 987,
+        "content": "Infinitive phrases, often a shorter way of expressing a clause, can be practised in Section 38.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999850892934179,
+          "minimum_content_confidence_score": 0.9998988272764437,
+          "block_type_confidence_score": 0.9994751586926784
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

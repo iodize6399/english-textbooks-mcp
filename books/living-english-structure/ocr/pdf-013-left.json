@@ -1,0 +1,291 @@
+{
+  "source": {
+    "id": "pdf-013-left",
+    "pdf_page": 13,
+    "side": "left",
+    "reading_order": 25
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:49:07.559501+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 8,
+    "markdown": "(6.3)\n\n- ● Choose the right words:\n1. 1 This island belongs to **we/us** who were here first.\n2. 2 'Who's there?' 'It's only **me/I** and my friend Maisie.'\n3. 3 That's **she/her**. It's **she/her** that we saw at the scene of the murder.\n4. 4 Let Cyril and **I/me** play a duet.\n5. 5 There's a friendly agreement between Mr Tumbrill and **me/I**.\n6. 6 What would you do if you were **he/him**?\n7. 7 Let you and **me/I** be friends!\n8. 8 'Who did that?' 'Please, sir, it wasn't **I/me**!'\n9. 9 She rang me up this morning and asked my friend and **I/me** to tea.\n10. 10 Well, let's pretend for a moment! I'll be **her/she** and you be **I/me**. Now imagine there's a quarrel between **her/she** and **I/me**. How would you settle it?\n\n6.4\n\nAdvanced\n\nNotice the following two points from Exercise 6.3:\n\n1. 1 Objective case preferred in predicatives.\n2. 2 Pronoun controlled by its own clause, and not affected by a relative clause following.\n\nGive it to them that (or who) understand such things.\n\nBut relatives sometimes influence the case of the preceding pronoun. Note the effect of RELATIVE ATTRACTION in such sentences as the following:\n\nIt was *she that* went out just now, wasn't it?\n\nIt was *her* you meant, wasn't it?\n\n*Than* and *As*. These are really conjunctions, and the case after them varies accordingly.\n\nI like you more than she (does).\n\nI like you more than her (= than I like her).\n\nBut in spoken English, sentence stress prevents confusion, the objective case is frequently heard, as if both these words were prepositions.\n\nYou're much cleverer than her.\n\nThe objective case is invariably used, even in writing, if the pronoun is further qualified by *both* or *all*.\n\nHe is cleverer than us all.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "14\n6 Pronouns",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1017,
+      "width": 685
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9669009454556469,
+      "minimum_page_confidence_score": 0.23511551614236942
+    },
+    "blocks": [
+      {
+        "top_left_x": 23,
+        "top_left_y": 30,
+        "bottom_right_x": 48,
+        "bottom_right_y": 49,
+        "content": "14",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999580400908106,
+          "minimum_content_confidence_score": 0.9999580400908106,
+          "block_type_confidence_score": 0.9998925098573199
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 122,
+        "top_left_y": 30,
+        "bottom_right_x": 228,
+        "bottom_right_y": 49,
+        "content": "6 Pronouns",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9996954355812793,
+          "minimum_content_confidence_score": 0.9995683422996617,
+          "block_type_confidence_score": 0.9966804203953925
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 23,
+        "top_left_y": 86,
+        "bottom_right_x": 65,
+        "bottom_right_y": 107,
+        "content": "(6.3)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9993159269678181,
+          "minimum_content_confidence_score": 0.9993159269678181,
+          "block_type_confidence_score": 0.9459959811106488
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 115,
+        "top_left_y": 84,
+        "bottom_right_x": 604,
+        "bottom_right_y": 476,
+        "content": "- ● Choose the right words:\n1. 1 This island belongs to **we/us** who were here first.\n2. 2 'Who's there?' 'It's only **me/I** and my friend Maisie.'\n3. 3 That's **she/her**. It's **she/her** that we saw at the scene of the murder.\n4. 4 Let Cyril and **I/me** play a duet.\n5. 5 There's a friendly agreement between Mr Tumbrill and **me/I**.\n6. 6 What would you do if you were **he/him**?\n7. 7 Let you and **me/I** be friends!\n8. 8 'Who did that?' 'Please, sir, it wasn't **I/me**!'\n9. 9 She rang me up this morning and asked my friend and **I/me** to tea.\n10. 10 Well, let's pretend for a moment! I'll be **her/she** and you be **I/me**. Now imagine there's a quarrel between **her/she** and **I/me**. How would you settle it?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9887664478789452,
+          "minimum_content_confidence_score": 0.5310375260133771,
+          "block_type_confidence_score": 0.9959251709464682
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 498,
+        "bottom_right_x": 58,
+        "bottom_right_y": 518,
+        "content": "6.4",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.998851400657515,
+          "minimum_content_confidence_score": 0.998851400657515,
+          "block_type_confidence_score": 0.6505982749190239
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 25,
+        "top_left_y": 519,
+        "bottom_right_x": 104,
+        "bottom_right_y": 538,
+        "content": "Advanced",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9572659863932761,
+          "minimum_content_confidence_score": 0.9572659863932761,
+          "block_type_confidence_score": 0.9523945124175752
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 496,
+        "bottom_right_x": 560,
+        "bottom_right_y": 518,
+        "content": "Notice the following two points from Exercise 6.3:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9972893315621564,
+          "minimum_content_confidence_score": 0.9784672331847173,
+          "block_type_confidence_score": 0.9995603111250834
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 517,
+        "bottom_right_x": 616,
+        "bottom_right_y": 577,
+        "content": "1. 1 Objective case preferred in predicatives.\n2. 2 Pronoun controlled by its own clause, and not affected by a relative clause following.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9881174956322125,
+          "minimum_content_confidence_score": 0.7774454626964978,
+          "block_type_confidence_score": 0.9998572076678064
+        },
+        "type": "list"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 578,
+        "bottom_right_x": 616,
+        "bottom_right_y": 601,
+        "content": "Give it to them that (or who) understand such things.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999140657800021,
+          "minimum_content_confidence_score": 0.9993826858928451,
+          "block_type_confidence_score": 0.9999933243243502
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 609,
+        "bottom_right_x": 616,
+        "bottom_right_y": 671,
+        "content": "But relatives sometimes influence the case of the preceding pronoun. Note the effect of RELATIVE ATTRACTION in such sentences as the following:",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9926897915090191,
+          "minimum_content_confidence_score": 0.8399877165057422,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 673,
+        "bottom_right_x": 552,
+        "bottom_right_y": 694,
+        "content": "It was *she that* went out just now, wasn't it?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9590748796252615,
+          "minimum_content_confidence_score": 0.6179018348380156,
+          "block_type_confidence_score": 0.9999760395072578
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 694,
+        "bottom_right_x": 455,
+        "bottom_right_y": 715,
+        "content": "It was *her* you meant, wasn't it?",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997705196361878,
+          "minimum_content_confidence_score": 0.998665846760492,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 722,
+        "bottom_right_x": 618,
+        "bottom_right_y": 765,
+        "content": "*Than* and *As*. These are really conjunctions, and the case after them varies accordingly.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.995015351855475,
+          "minimum_content_confidence_score": 0.9342700003552037,
+          "block_type_confidence_score": 0.999995112442896
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 767,
+        "bottom_right_x": 452,
+        "bottom_right_y": 787,
+        "content": "I like you more than she (does).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.986510933792135,
+          "minimum_content_confidence_score": 0.9065641948184987,
+          "block_type_confidence_score": 0.999998927117538
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 786,
+        "bottom_right_x": 555,
+        "bottom_right_y": 807,
+        "content": "I like you more than her (= than I like her).",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9961064258550659,
+          "minimum_content_confidence_score": 0.9786515892572545,
+          "block_type_confidence_score": 0.9999996423722521
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 815,
+        "bottom_right_x": 618,
+        "bottom_right_y": 877,
+        "content": "But in spoken English, sentence stress prevents confusion, the objective case is frequently heard, as if both these words were prepositions.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999743132350376,
+          "minimum_content_confidence_score": 0.9998548241599461,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 880,
+        "bottom_right_x": 447,
+        "bottom_right_y": 900,
+        "content": "You're much cleverer than her.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.997672944781179,
+          "minimum_content_confidence_score": 0.9900465165043958,
+          "block_type_confidence_score": 0.9999997615814777
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 152,
+        "top_left_y": 909,
+        "bottom_right_x": 619,
+        "bottom_right_y": 951,
+        "content": "The objective case is invariably used, even in writing, if the pronoun is further qualified by *both* or *all*.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999817068866709,
+          "minimum_content_confidence_score": 0.9973413820814164,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 189,
+        "top_left_y": 954,
+        "bottom_right_x": 402,
+        "bottom_right_y": 973,
+        "content": "He is cleverer than us all.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9981629352737738,
+          "minimum_content_confidence_score": 0.9901304577729381,
+          "block_type_confidence_score": 0.9999998807907247
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "source": {
+    "id": "pdf-111-right",
+    "pdf_page": 111,
+    "side": "right",
+    "reading_order": 222
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:15.981528+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 13,
+    "markdown": "# 46 Relatives\n\n### 46.1 Elementary\n\n#### GENERAL REMARKS\n\nThe apparently haphazard English system of relatives is best approached by teaching them from the beginning in their two main groups of DEFINING and NON-DEFINING relatives. Although the following exercises are meant for practice in spoken English, the points they deal with are equally applicable to the written language.\n\nBy far the greater number of relatives in general use are of the DEFINING type; this kind should therefore be taught first, though some grammar books deal with the forms of the non-defining relative as the standard, and include the defining relative rather as an after-thought.\n\nFor the sake of clarity, the following forms should be taught and practised in writing and speaking. The forms in square brackets [ ] are acceptable alternatives, but are NOT recommended for active teaching; teach contact-clauses by omitting *that* whenever possible. A *that* in round brackets ( ) can be omitted; in spoken English it usually is.\n\n#### DEFINING RELATIVE\n\n|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  SUBJECT | *who [that]* | *that [which]*  |\n|  OBJECT | *(that)* | *(that)*  |\n|  PREPOSITION | *(that)*... preposition | *(that)*... preposition  |\n|  POSSESSIVE | *whose* | *of which [whose]*  |\n|  NON-DEFINING RELATIVE  |   |   |\n|  SUBJECT | —, *who* —, | —, *which* —,  |\n|  OBJECT | —, *whom* —, | —, *which* —,  |\n|  PREPOSITION | —, preposition + *whom* —, [—, *who(m)* — preposition,] | —, preposition + *which* —, [—, *which* — preposition,]  |\n|  POSSESSIVE | —, *whose* —, | —, *of which* —, [—, *whose* —,]  |\n\n#### DEFINING RELATIVE\n\nHere the relative clause is an essential part of the idea being expressed, in that it defines or limits its antecedent to one particular selected type.\n\nThe man is coming to tea. (Well, what man?)\n\nThe man who [that] wrote this poem is coming to tea.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": null,
+    "footer": null,
+    "dimensions": {
+      "dpi": 36,
+      "height": 1001,
+      "width": 695
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9783423020500139,
+      "minimum_page_confidence_score": 0.23282342461794892
+    },
+    "blocks": [
+      {
+        "top_left_x": 120,
+        "top_left_y": 56,
+        "bottom_right_x": 280,
+        "bottom_right_y": 84,
+        "content": "# 46 Relatives",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8538927161696935,
+          "minimum_content_confidence_score": 0.5621745590888318,
+          "block_type_confidence_score": 0.7055360077749859
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 36,
+        "top_left_y": 138,
+        "bottom_right_x": 134,
+        "bottom_right_y": 180,
+        "content": "### 46.1 Elementary",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.8081214474993589,
+          "minimum_content_confidence_score": 0.5203604532918149,
+          "block_type_confidence_score": 0.9494007661127561
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 142,
+        "bottom_right_x": 326,
+        "bottom_right_y": 159,
+        "content": "#### GENERAL REMARKS",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9205266551952264,
+          "minimum_content_confidence_score": 0.7670133515566327,
+          "block_type_confidence_score": 0.9962536310835151
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 159,
+        "bottom_right_x": 661,
+        "bottom_right_y": 283,
+        "content": "The apparently haphazard English system of relatives is best approached by teaching them from the beginning in their two main groups of DEFINING and NON-DEFINING relatives. Although the following exercises are meant for practice in spoken English, the points they deal with are equally applicable to the written language.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999806556977645,
+          "minimum_content_confidence_score": 0.9935455408479987,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 282,
+        "bottom_right_x": 661,
+        "bottom_right_y": 385,
+        "content": "By far the greater number of relatives in general use are of the DEFINING type; this kind should therefore be taught first, though some grammar books deal with the forms of the non-defining relative as the standard, and include the defining relative rather as an after-thought.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999280737045096,
+          "minimum_content_confidence_score": 0.999217050817154,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 384,
+        "bottom_right_x": 661,
+        "bottom_right_y": 507,
+        "content": "For the sake of clarity, the following forms should be taught and practised in writing and speaking. The forms in square brackets [ ] are acceptable alternatives, but are NOT recommended for active teaching; teach contact-clauses by omitting *that* whenever possible. A *that* in round brackets ( ) can be omitted; in spoken English it usually is.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9985174431061432,
+          "minimum_content_confidence_score": 0.9775778206457546,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 170,
+        "top_left_y": 517,
+        "bottom_right_x": 329,
+        "bottom_right_y": 534,
+        "content": "#### DEFINING RELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9842664241810094,
+          "minimum_content_confidence_score": 0.9529317839079501,
+          "block_type_confidence_score": 0.9998891476534775
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 168,
+        "top_left_y": 541,
+        "bottom_right_x": 659,
+        "bottom_right_y": 835,
+        "content": "|   | PEOPLE | THINGS  |\n| --- | --- | --- |\n|  SUBJECT | *who [that]* | *that [which]*  |\n|  OBJECT | *(that)* | *(that)*  |\n|  PREPOSITION | *(that)*... preposition | *(that)*... preposition  |\n|  POSSESSIVE | *whose* | *of which [whose]*  |\n|  NON-DEFINING RELATIVE  |   |   |\n|  SUBJECT | —, *who* —, | —, *which* —,  |\n|  OBJECT | —, *whom* —, | —, *which* —,  |\n|  PREPOSITION | —, preposition + *whom* —, [—, *who(m)* — preposition,] | —, preposition + *which* —, [—, *which* — preposition,]  |\n|  POSSESSIVE | —, *whose* —, | —, *of which* —, [—, *whose* —,]  |",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.993933556913709,
+          "minimum_content_confidence_score": 0.950890793602791,
+          "block_type_confidence_score": 0.9999073829640566
+        },
+        "type": "table",
+        "table_id": null
+      },
+      {
+        "top_left_x": 168,
+        "top_left_y": 840,
+        "bottom_right_x": 328,
+        "bottom_right_y": 857,
+        "content": "#### DEFINING RELATIVE",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.999505716862635,
+          "minimum_content_confidence_score": 0.998640124072558,
+          "block_type_confidence_score": 0.9999897481064004
+        },
+        "type": "title"
+      },
+      {
+        "top_left_x": 168,
+        "top_left_y": 857,
+        "bottom_right_x": 658,
+        "bottom_right_y": 919,
+        "content": "Here the relative clause is an essential part of the idea being expressed, in that it defines or limits its antecedent to one particular selected type.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9999661819969501,
+          "minimum_content_confidence_score": 0.9997644979147686,
+          "block_type_confidence_score": 1.0
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 922,
+        "bottom_right_x": 600,
+        "bottom_right_y": 945,
+        "content": "The man is coming to tea. (Well, what man?)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9997108237894943,
+          "minimum_content_confidence_score": 0.9981453833730117,
+          "block_type_confidence_score": 0.9999532721416701
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 207,
+        "top_left_y": 943,
+        "bottom_right_x": 657,
+        "bottom_right_y": 965,
+        "content": "The man who [that] wrote this poem is coming to tea.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9988221385850707,
+          "minimum_content_confidence_score": 0.9873534234243263,
+          "block_type_confidence_score": 0.9999995231630692
+        },
+        "type": "text"
+      }
+    ]
+  }
+}

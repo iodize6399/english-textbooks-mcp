@@ -1,0 +1,96 @@
+{
+  "source": {
+    "id": "pdf-132-left",
+    "pdf_page": 132,
+    "side": "left",
+    "reading_order": 263
+  },
+  "provenance": {
+    "source_sha256": "e515683b8845b12bedc75968a8691c37b619954d47c5bca0401f81fa3255469c",
+    "source_pdf_pages": 175,
+    "layout": "two-page"
+  },
+  "settings": {
+    "model": "mistral-ocr-latest",
+    "include_blocks": true,
+    "confidence_scores_granularity": "block",
+    "include_image_base64": true,
+    "extract_header": true,
+    "extract_footer": true
+  },
+  "created_at": "2026-10-15T05:50:31.553947+00:00",
+  "model": "mistral-ocr-latest",
+  "page": {
+    "index": 6,
+    "markdown": "(51.6)\n\n- Report the following, putting the introducing verb in the PAST tense:\n1 I would do the same myself if I were in your place.\n2 I tried to ride a bicycle but I fell off three times.\n3 I shall expect to see you next Wednesday.\n4 These apples won't keep, they are too soft.\n5 I haven't had enough time to finish what I intended to do. I can do some more later on.\n6 I expect to hear some news tomorrow; I will tell you if I do, so that you needn't worry.\n7 You must leave the country at once.\n8 People mustn't fish in this river.\n9 You must decide what you want to do.\n10 You must do it all again before next week, though I must confess it's the first bad repair you've done. You'll get a new job to do when you've finished it.\n11 The football match will take place tomorrow afternoon. All spectators are requested to obtain their tickets before five o'clock today.\n12 Last night I went to the cinema and saw Peter O'Toole's latest film. I enjoyed myself very much, and am going to take my other girl-friend tonight. (Cyril said that . . .)\n13 I am eighteen years old. I was previously employed in a large shop in this city, and my employers considered me to be very capable.\n14 When I get back I'll give you the five pounds I borrowed from you yesterday. I hope I shan't meet with an accident.\n15 I can't do it now, but I expect I can do it next week.\n16 By the time we reach the hill, the enemy will have cut us off from the rest of our men. We shall have to fight our way back along the coast, where the enemy has fewer troops.\n17 If you can't type any better than this, you had better not type at all. I can't pay people for incompetence, so you will have to leave tomorrow. (He told Maisie that . . .)\n18 You must not forget what I told you last lesson.",
+    "images": [],
+    "tables": [],
+    "hyperlinks": [],
+    "header": "252\n51 Reported Speech",
+    "footer": null,
+    "dimensions": {
+      "dpi": 35,
+      "height": 1017,
+      "width": 676
+    },
+    "confidence_scores": {
+      "word_confidence_scores": [],
+      "average_page_confidence_score": 0.9843675185876669,
+      "minimum_page_confidence_score": 0.19805564290541208
+    },
+    "blocks": [
+      {
+        "top_left_x": 34,
+        "top_left_y": 23,
+        "bottom_right_x": 67,
+        "bottom_right_y": 43,
+        "content": "252",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994981424646395,
+          "minimum_content_confidence_score": 0.9994981424646395,
+          "block_type_confidence_score": 0.9999154460827234
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 23,
+        "bottom_right_x": 294,
+        "bottom_right_y": 45,
+        "content": "51 Reported Speech",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9998797028927776,
+          "minimum_content_confidence_score": 0.9997411444595865,
+          "block_type_confidence_score": 0.977632733580096
+        },
+        "type": "header"
+      },
+      {
+        "top_left_x": 33,
+        "top_left_y": 77,
+        "bottom_right_x": 83,
+        "bottom_right_y": 102,
+        "content": "(51.6)",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9994828199942966,
+          "minimum_content_confidence_score": 0.9994828199942966,
+          "block_type_confidence_score": 0.9888374843401044
+        },
+        "type": "text"
+      },
+      {
+        "top_left_x": 123,
+        "top_left_y": 76,
+        "bottom_right_x": 620,
+        "bottom_right_y": 968,
+        "content": "- Report the following, putting the introducing verb in the PAST tense:\n1 I would do the same myself if I were in your place.\n2 I tried to ride a bicycle but I fell off three times.\n3 I shall expect to see you next Wednesday.\n4 These apples won't keep, they are too soft.\n5 I haven't had enough time to finish what I intended to do. I can do some more later on.\n6 I expect to hear some news tomorrow; I will tell you if I do, so that you needn't worry.\n7 You must leave the country at once.\n8 People mustn't fish in this river.\n9 You must decide what you want to do.\n10 You must do it all again before next week, though I must confess it's the first bad repair you've done. You'll get a new job to do when you've finished it.\n11 The football match will take place tomorrow afternoon. All spectators are requested to obtain their tickets before five o'clock today.\n12 Last night I went to the cinema and saw Peter O'Toole's latest film. I enjoyed myself very much, and am going to take my other girl-friend tonight. (Cyril said that . . .)\n13 I am eighteen years old. I was previously employed in a large shop in this city, and my employers considered me to be very capable.\n14 When I get back I'll give you the five pounds I borrowed from you yesterday. I hope I shan't meet with an accident.\n15 I can't do it now, but I expect I can do it next week.\n16 By the time we reach the hill, the enemy will have cut us off from the rest of our men. We shall have to fight our way back along the coast, where the enemy has fewer troops.\n17 If you can't type any better than this, you had better not type at all. I can't pay people for incompetence, so you will have to leave tomorrow. (He told Maisie that . . .)\n18 You must not forget what I told you last lesson.",
+        "confidence_scores": {
+          "average_content_confidence_score": 0.9978722075527587,
+          "minimum_content_confidence_score": 0.649129215814637,
+          "block_type_confidence_score": 0.9971855444707715
+        },
+        "type": "list"
+      }
+    ]
+  }
+}
