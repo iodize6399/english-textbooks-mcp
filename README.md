@@ -12,8 +12,19 @@ The MCP is read-only and model-independent. It needs **no API key, database, emb
 or student account at runtime**. Your chosen AI model gives explanations and creates
 quizzes using the returned textbook material. Student progress stays in the conversation.
 
-**Status:** implemented and tested locally; Cloudflare deployment is prepared but has
-not been published. There is no public URL yet.
+**Live MCP URL:**
+
+```text
+https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp
+```
+
+Add it as a remote **Streamable HTTP** MCP server with authentication **None**.
+No installation is needed to use the hosted server. See the
+[setup page](https://english-textbooks-mcp.hardik-nagar.workers.dev/).
+
+The source is published at [iodize6399/english-textbooks-mcp](https://github.com/iodize6399/english-textbooks-mcp).
+Public MCP tools, resources, prompts, and protocol compatibility have been tested.
+See [deployment details](docs/deployment.md) for updates and GitHub integration.
 
 ## Use locally
 
@@ -81,8 +92,11 @@ npm run smoke -- https://YOUR-WORKER.YOUR-ACCOUNT.workers.dev/mcp
 
 The deployed root page contains connection instructions, `/llms.txt` gives agents
 setup guidance, `/health` reports corpus coverage, and
-`/.well-known/mcp/server-card.json` describes the endpoint. Publishing and client
-configuration changes are intentionally left for review.
+`/.well-known/mcp/server-card.json` describes the endpoint. Client configurations
+are managed by the user. The initial deployment was published directly with Wrangler.
+
+For automatic deployments on GitHub pushes, complete the one-time Cloudflare
+Builds connection described in [deployment details](docs/deployment.md).
 
 ## What the MCP provides
 

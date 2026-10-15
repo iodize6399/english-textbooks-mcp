@@ -60,5 +60,12 @@ W. Stannard Allen's *Living English Structure*, with a catalog that supports mor
 - All 12 integrity/retrieval tests pass; type checking, corpus validation, real HTTP
   and stdio client checks, 2025 protocol compatibility, and deployment dry run pass.
 - Temporary credential removed; credential scan found no key in project files.
-- Public deployment and the first GitHub push are authorized and in progress.
-  No client-configuration changes performed.
+- Source committed and pushed to `iodize6399/english-textbooks-mcp` on `main`;
+  GitHub CI passes. The PDF and credentials are excluded.
+- Published through Wrangler to the verified Hardik Nagar Cloudflare account at
+  `https://english-textbooks-mcp.hardik-nagar.workers.dev/mcp`.
+- All seven tools, resources, prompts, and HTTP/protocol checks pass against the
+  public deployment. No client configurations changed.
+- Automatic GitHub deployment needs the Cloudflare Builds dashboard connection;
+  the CLI's OAuth credential receives HTTP 403 from the Builds API. The required
+  one-time dashboard setup is documented in `docs/deployment.md`.
